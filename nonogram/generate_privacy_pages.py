@@ -33,7 +33,7 @@ PAGES = {
             ("5. 아동, 보안 및 변경", "서비스는 아동을 대상으로 하지 않으며 필요한 보호자 동의 없이 아동 정보를 고의로 수집하지 않습니다. 접근 통제와 암호화 통신 등 합리적인 보호조치를 적용합니다. 변경 시 시행일을 갱신하고 중요한 변경을 알립니다."),
         ],
         "contact": "개인정보 문의", "company": "넥스트 스튜디오",
-        "address": "인천광역시 서구 승학로495번길 7", "terms": "이용약관",
+        "terms": "이용약관",
     },
     "en": {
         "title": "Nonogram Pulse Privacy Policy",
@@ -54,7 +54,7 @@ PAGES = {
             ("5. Children, security, and changes", "The service is not directed to children, and we do not knowingly collect children's information without required parental consent. We use reasonable safeguards, including access controls and encrypted communications. We update the effective date and provide appropriate notice of material changes."),
         ],
         "contact": "Privacy contact", "company": "Next Studio",
-        "address": "7, Seunghak-ro 495beon-gil, Seo-gu, Incheon, Republic of Korea", "terms": "Terms of Service",
+        "terms": "Terms of Service",
     },
     "ja": {
         "title": "Nonogram Pulse プライバシーポリシー",
@@ -75,7 +75,7 @@ PAGES = {
             ("5. 子ども、セキュリティ、変更", "本サービスは子どもを対象としておらず、必要な保護者の同意なしに子どもの情報を意図的に収集しません。アクセス制御や暗号化通信などの合理的な保護措置を講じます。変更時には施行日を更新し、重要な変更を通知します。"),
         ],
         "contact": "プライバシーに関するお問い合わせ", "company": "Next Studio",
-        "address": "大韓民国 仁川広域市 西区 勝鶴路495番キル7", "terms": "利用規約",
+        "terms": "利用規約",
     },
     "zh-Hans": {
         "title": "Nonogram Pulse 隐私政策",
@@ -96,7 +96,7 @@ PAGES = {
             ("5. 儿童、安全与变更", "本服务不面向儿童，未经必要的监护人同意，我们不会故意收集儿童信息。我们采取合理的保护措施，包括访问控制和加密通信。政策变更时，我们将更新生效日期并对重大变更发出适当通知。"),
         ],
         "contact": "隐私咨询", "company": "Next Studio",
-        "address": "韩国仁川广域市西区胜鹤路495番街7号", "terms": "服务条款",
+        "terms": "服务条款",
     },
     "es": {
         "title": "Política de privacidad de Nonogram Pulse",
@@ -117,7 +117,7 @@ PAGES = {
             ("5. Menores, seguridad y cambios", "El servicio no está dirigido a menores y no recopilamos intencionadamente sus datos sin el consentimiento parental necesario. Aplicamos medidas razonables, como controles de acceso y comunicaciones cifradas. Actualizaremos la fecha y avisaremos de los cambios importantes."),
         ],
         "contact": "Contacto de privacidad", "company": "Next Studio",
-        "address": "7, Seunghak-ro 495beon-gil, Seo-gu, Incheon, República de Corea", "terms": "Términos del servicio",
+        "terms": "Términos del servicio",
     },
     "fr": {
         "title": "Politique de confidentialité de Nonogram Pulse",
@@ -138,7 +138,7 @@ PAGES = {
             ("5. Enfants, sécurité et modifications", "Le service ne s'adresse pas aux enfants et nous ne recueillons pas sciemment leurs données sans le consentement parental requis. Nous appliquons des mesures raisonnables, notamment le contrôle d'accès et le chiffrement des communications. La date sera mise à jour et les changements importants seront signalés."),
         ],
         "contact": "Contact confidentialité", "company": "Next Studio",
-        "address": "7, Seunghak-ro 495beon-gil, Seo-gu, Incheon, République de Corée", "terms": "Conditions d'utilisation",
+        "terms": "Conditions d'utilisation",
     },
     "de": {
         "title": "Datenschutzerklärung für Nonogram Pulse",
@@ -159,7 +159,7 @@ PAGES = {
             ("5. Kinder, Sicherheit und Änderungen", "Der Dienst richtet sich nicht an Kinder. Ohne erforderliche Zustimmung der Eltern erheben wir nicht wissentlich Daten von Kindern. Wir treffen angemessene Schutzmaßnahmen wie Zugriffskontrollen und verschlüsselte Verbindungen. Bei Änderungen aktualisieren wir das Datum und informieren über wesentliche Änderungen."),
         ],
         "contact": "Datenschutzkontakt", "company": "Next Studio",
-        "address": "Seunghak-ro 495beon-gil 7, Seo-gu, Incheon, Republik Korea", "terms": "Nutzungsbedingungen",
+        "terms": "Nutzungsbedingungen",
     },
     "pt-BR": {
         "title": "Política de Privacidade do Nonogram Pulse",
@@ -180,7 +180,7 @@ PAGES = {
             ("5. Crianças, segurança e alterações", "O serviço não é direcionado a crianças e não coletamos intencionalmente seus dados sem o consentimento necessário dos responsáveis. Adotamos medidas razoáveis, incluindo controle de acesso e comunicação criptografada. Atualizaremos a data e avisaremos sobre mudanças importantes."),
         ],
         "contact": "Contato de privacidade", "company": "Next Studio",
-        "address": "7, Seunghak-ro 495beon-gil, Seo-gu, Incheon, República da Coreia", "terms": "Termos de Serviço",
+        "terms": "Termos de Serviço",
     },
 }
 
@@ -209,7 +209,7 @@ def render(code, data):
 <body><main><div class="top"><div class="brand">NONOGRAM PULSE</div><label><span class="sr-only">Language</span><select class="language" aria-label="Language" onchange="location.href=this.value">{options}</select></label></div>
 <article><h1>{escape(data['title'])}</h1><p class="effective">{escape(data['effective'])}</p><p class="intro">{escape(data['intro'])}</p>
 {''.join(sections)}
-<div class="contact"><b>{escape(data['contact'])}</b><br>{escape(data['company'])}<br>{escape(data['address'])}<br><a href="mailto:dhalska2@gmail.com">dhalska2@gmail.com</a></div>
+<div class="contact"><b>{escape(data['contact'])}</b><br>{escape(data['company'])}<br><a href="mailto:dhalska2@gmail.com">dhalska2@gmail.com</a></div>
 <div class="links"><a href="terms.html">{escape(data['terms'])}</a></div></article></main></body></html>'''
 
 for code, _, filename in LANGUAGES:
