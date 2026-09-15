@@ -1,0 +1,786 @@
+{
+  "en": {
+    "nav": [
+      "Home",
+      "Privacy Policy",
+      "Terms of Service",
+      "Help & Support",
+      "Data Deletion"
+    ],
+    "tag": "Connect islands. Find your calm.",
+    "intro": "Official Hashi support and policies · Next Studio",
+    "date": "Effective / updated September 15, 2026",
+    "contact": "Contact",
+    "skip": "Skip to content",
+    "privacy": [
+      [
+        "Operator and scope",
+        "Next Studio (South Korea) operates Hashi (com.osj.hashi). This policy covers the app and this support website. Privacy contact: dhalska2@gmail.com."
+      ],
+      [
+        "Game data on your device",
+        "Puzzle progress, time, bridges, completions, undo history, free hints, language, theme, haptic and error-display settings are saved on your device. Full game progress is not synchronized to our server. The web preview has no mobile ads, push or purchasing. We do not use separate Firebase Analytics or Crashlytics SDKs."
+      ],
+      [
+        "Advertising and privacy choices",
+        "The mobile app uses Google AdMob interstitials and optional rewarded ads. The advertising SDK may process IP addresses and inferred approximate location, device/ad identifiers, ad views and clicks, diagnostics and consent choices to serve and measure ads and prevent fraud. We do not request precise-location permission. Consent messages depend on your region and choices; where required, use the advertising privacy option in Settings to change them. Rejecting personalized ads does not stop all technical processing. Advertising disclosures may constitute sale or sharing under local law; we do not claim that no data is collected or shared. Exercise applicable opt-out rights through the consent controls or by email."
+      ],
+      [
+        "Optional notifications",
+        "Notifications are off by default. If enabled, Google Firebase Cloud Messaging and Apple APNs on iOS process installation identifiers, push tokens, language-topic subscriptions and delivery information. Turning notifications off in Settings asks FCM to unsubscribe and delete the token. You can also block notifications in OS settings. We do not maintain a separate database of per-device push tokens. Automatic notification sending is not currently enabled."
+      ],
+      [
+        "Accounts and purchases, when enabled",
+        "Sign-in and real purchases are disabled in the current pre-release build. In a version with purchase accounts enabled, Supabase processes email, account ID, authentication/access records, product and transaction IDs, purchase environment, entitlements, paid-hint balance, spend request ID, puzzle ID and time for authentication, verification, recovery and prevention of duplicate charges to hint balances. We do not collect payment-card details. The database region is Seoul, South Korea; Supabase and its subprocessors may provide authentication and operational support from other countries, including the US. Apple handles payment and transaction verification. Where required, processing relies on contract performance, legitimate interests in security and fraud prevention, legal obligations, or consent for optional features. This notice and these flows will be reviewed before purchasing is enabled."
+      ],
+      [
+        "Server retention and international processing",
+        "Account, entitlement and paid-hint records are kept while needed to provide and restore the service; unnecessary data is removed on a deletion request. Records needed for a transaction dispute or legal retention duty are kept only as necessary, with the reason and applicable period explained to the requester. Account deletion does not erase store transaction records. Google/Firebase, Apple, Supabase, GitHub and email providers may process data outside your country, including South Korea and the US, subject to their policies and applicable safeguards. Contact us for transfer details and to exercise your rights."
+      ],
+      [
+        "Support and website providers",
+        "If you email us, we receive your email address, message and any attachments you choose to send, solely to answer your request and resolve issues. Do not send passwords, codes or card details. We use Gmail for email and GitHub Pages for this website. These pages have no advertising, analytics scripts or submission forms. GitHub may process IP addresses and request logs for hosting/security. Apple, Google, GitHub and device backup services handle their own information under their policies. Providers may process information outside your country, including the United States. We do not upload local game saves to them ourselves; operating-system backups are controlled separately."
+      ],
+      [
+        "Retention and deletion",
+        "Local progress remains until app storage is cleared. Delete the app on iOS (offloading may retain data), clear app storage on Android, or clear site data for the web game. Manage device/cloud backups separately. We retain support messages only while needed to resolve the request, then delete them when no longer necessary. Information required by law or an ongoing dispute may be retained as necessary; we explain the reason and applicable period on request. Provider-controlled records follow their own retention policies."
+      ],
+      [
+        "Your rights and processing grounds",
+        "Depending on local law, you may request access, correction, deletion, a portable copy, restriction, objection, withdrawal of consent or appeal of a decision. Contact us without discrimination for exercising your rights; you may also complain to your local data-protection authority. We may request proportionate identity verification. Where a legal basis is required, support processing relies on responding to your service request, legitimate interests in resolving issues, legal obligations, or consent where required. Withdrawing consent does not affect prior lawful processing."
+      ],
+      [
+        "Children, safeguards and changes",
+        "The app does not require personal details to play. We do not knowingly solicit children’s personal information; a parent or guardian may contact us about information a child sent to support. We limit access to support information and use reasonable safeguards without promising absolute security. Material changes will be reflected here with a new date and any legally required notice or consent."
+      ]
+    ],
+    "terms": [
+      [
+        "Service and saves",
+        "Hashi connects numbered islands with bridges. Of 2,200 puzzles, 200 are free; Today rotates through the free collection. Progress and settings are stored locally, without cross-device game synchronization. Privacy choices are covered by the separate Privacy Policy; accepting these Terms does not substitute for advertising consent."
+      ],
+      [
+        "Ads, products and consumer rights",
+        "Free play may include interstitials and optional rewarded ads. When sales begin, interstitial removal and Premium are non-consumables, while hint bundles are consumables. Premium provides 2,000 additional puzzles, interstitial removal and three free hints per day. Rewarded ads remain optional after ad removal. Purchasing is currently disabled and there is no subscription. Review the actual localized store price and description before buying. Paid hints do not expire; restoring purchases requires the relevant store and app accounts. Restoration does not restore puzzle progress or imply transfer between Apple and Google. Refunds and withdrawal follow store procedures and applicable law; mandatory consumer rights remain unaffected. Apple’s standard EULA applies to the iOS license where applicable."
+      ],
+      [
+        "Use, changes and responsibility",
+        "Use the app for lawful personal purposes. Do not infringe rights, disrupt the service or bypass security except where law permits. App code, artwork and content belong to Next Studio or their lawful owners; these Terms do not claim ownership of the general puzzle rules. We may update features for maintenance, security or legal reasons and provide appropriate notice of material changes. We do not guarantee error-free operation. Nothing excludes liability or remedies that cannot lawfully be excluded. Your mandatory local consumer protections and access to competent authorities remain intact. Contact: dhalska2@gmail.com."
+      ]
+    ],
+    "support": [
+      [
+        "How to play",
+        "An island’s number is its required total of bridges. Tap the two nearest islands in the same row or column, or swipe between them, to cycle through 0, 1, 2 and 0 bridges. Diagonal bridges, crossings and passing through another island are not allowed. Meet every number and connect all islands into one network. Swipe through the illustrated guide in Settings. Use Move mode for zoom/pan and Fit to reset the view."
+      ],
+      [
+        "Saves, hints, language and notifications",
+        "Progress saves automatically on your device. Settings offers eight languages and themes. Hints are spent after confirmation, with free hints used first. A rewarded ad grants one hint when its reward is earned. Purchases are currently coming soon; once enabled, restore them from the Shop. Notifications are optional and need OS permission. Restart resets only the current puzzle; clearing app storage removes local progress."
+      ],
+      [
+        "Report an issue",
+        "Email dhalska2@gmail.com with Hashi in the subject, app version, device/OS, reproduction steps and an optional redacted screenshot. Send only information needed to investigate. Never send passwords, verification codes or payment-card details. For store billing or refund requests, use the store’s support process."
+      ]
+    ],
+    "delete-account": [
+      [
+        "Scope of Hashi deletion",
+        "The current standard build does not enable sign-in or real purchases. If Hashi account data exists from testing or a future account-enabled version, you can request deletion by email below. An in-app account-deletion button is not yet implemented; an in-app route is planned before public account launch. This web request route does not require installing the app."
+      ],
+      [
+        "Delete device data",
+        "On iOS, delete the app, rather than only offloading it. On Android, clear this app’s storage in system settings. For the web game, clear its site data in your browser. Device/cloud backups are managed separately. A puzzle restart only clears that puzzle. Deleted local records cannot be recovered by us."
+      ],
+      [
+        "Request account, purchase or support-data deletion",
+        "Email dhalska2@gmail.com with subject “Hashi Data Deletion”, your account email and the scope: Hashi account association, entitlements/hint records or support messages. Do not send passwords, verification codes, identity documents or card details. After proportionate identity checks, we respond within the applicable legal period. Deletion may prevent recovery of paid hints and purchases; we explain the impact before processing. Any legally required retention and its period will be explained. This request alone does not delete other games’ data on the shared server or your Apple/Google account. Provider logs and store records follow provider policies; deletion is separate from a refund request."
+      ]
+    ]
+  },
+  "ko": {
+    "nav": [
+      "홈",
+      "개인정보처리방침",
+      "이용약관",
+      "도움말 및 지원",
+      "데이터 삭제"
+    ],
+    "tag": "섬을 잇고, 여유를 찾으세요.",
+    "intro": "하시 공식 지원 및 정책 · 넥스트 스튜디오",
+    "date": "시행일 / 최종 수정: 2026년 9월 15일",
+    "contact": "문의",
+    "skip": "본문으로",
+    "privacy": [
+      [
+        "운영자와 적용 범위",
+        "대한민국의 넥스트 스튜디오(Next Studio)가 하시(com.osj.hashi)를 운영합니다. 이 방침은 앱과 이 지원 웹사이트에 적용됩니다. 개인정보 문의: dhalska2@gmail.com."
+      ],
+      [
+        "기기 내 게임 데이터",
+        "퍼즐 진행, 시간, 다리 배치, 완료 기록, 되돌리기, 무료 힌트, 언어·테마·진동·오류 표시 설정은 기기에 저장됩니다. 전체 게임 진행을 서버에 동기화하지 않습니다. 웹 미리보기에는 모바일 광고·푸시·구매 기능이 없습니다. 별도의 Firebase Analytics나 Crashlytics는 사용하지 않습니다."
+      ],
+      [
+        "광고와 개인정보 선택",
+        "모바일 앱은 Google AdMob 전면 광고와 선택형 보상 광고를 사용합니다. 광고 SDK는 IP 주소와 그로부터 추정한 대략적 위치, 기기·광고 식별자, 광고 조회·클릭 등의 상호작용, 진단 정보 및 동의 상태를 광고 제공·측정·부정 이용 방지에 처리할 수 있습니다. 정확한 위치 권한은 요청하지 않습니다. 지역과 선택에 따라 동의 메시지를 표시하며, 필요한 경우 설정의 광고 개인정보 옵션에서 선택을 변경할 수 있습니다. 맞춤 광고 거부가 모든 기술 데이터 처리를 중단하는 것은 아닙니다. 광고 목적 공유가 현지 법률상 판매·공유에 해당할 수 있으므로 데이터 수집·공유가 없다고 주장하지 않습니다. 해당 거부권은 동의 화면이나 이메일로 행사할 수 있습니다."
+      ],
+      [
+        "선택형 알림",
+        "알림은 기본적으로 꺼져 있습니다. 허용하면 Google Firebase Cloud Messaging과 iOS의 Apple APNs가 설치 식별자, 푸시 토큰, 선택 언어에 따른 주제 구독 및 전달 정보를 처리합니다. 설정에서 끄면 앱은 구독 해제와 FCM 토큰 삭제를 요청합니다. OS에서도 알림을 차단할 수 있습니다. 개발자가 기기별 푸시 토큰을 별도 DB에 저장하지는 않습니다. 현재 자동 알림 발송은 활성화되지 않았습니다."
+      ],
+      [
+        "계정과 구매: 활성화되는 경우",
+        "현재 배포 준비 빌드의 로그인·실제 구매는 비활성화되어 있습니다. 활성화된 버전에서 구매 계정을 사용하면 이메일, 계정 ID, 인증·접속 기록, 상품·거래 ID, 구매 환경, 구매 권한, 유료 힌트 잔액과 사용 요청 ID·퍼즐 ID·시각을 Supabase에 처리하여 인증, 구매 검증·복구와 중복 차감을 방지합니다. 결제 카드 정보는 수집하지 않습니다. DB 지역은 한국 서울이며, Supabase 및 하위 처리업체의 인증·운영 지원은 미국 등 국외에서 이루어질 수 있습니다. Apple은 결제와 거래 검증을 처리합니다. 해당 기능 제공은 계약 이행, 보안·부정 이용 방지는 정당한 이익, 필수 기록은 법적 의무, 선택 기능은 필요한 경우 동의를 근거로 합니다. 구매 기능은 이 데이터 처리 안내를 갱신·검증한 뒤 활성화합니다."
+      ],
+      [
+        "서버 데이터 보유와 국외 처리",
+        "계정·구매 권한·유료 힌트 기록은 서비스를 제공하고 복구하는 동안 보유하며, 삭제 요청 시 불필요한 정보를 삭제합니다. 거래 분쟁·법적 보존 의무가 있는 항목은 필요한 범위에서만 보유하고 요청자에게 사유와 적용 기간을 안내합니다. 계정 삭제가 스토어 거래 기록까지 삭제하지는 않습니다. Google/Firebase, Apple, Supabase, GitHub 및 이메일 제공업체는 한국·미국 등 이용자 국가 밖에서 정보를 처리할 수 있으며 각 제공업체 정책과 적용되는 보호 조치에 따릅니다. 구체적인 이전 정보와 권리 행사는 아래 이메일로 문의할 수 있습니다."
+      ],
+      [
+        "문의와 웹사이트 제공업체",
+        "문의 이메일을 보내면 이메일 주소, 문의 내용과 선택적으로 보낸 첨부파일을 답변·문제 해결에 사용합니다. 비밀번호·인증 코드·카드 정보는 보내지 마세요. 문의에는 Gmail, 웹페이지 호스팅에는 GitHub Pages를 사용합니다. 이 페이지에는 광고·분석 스크립트·입력 폼이 없습니다. GitHub는 호스팅·보안을 위해 IP 주소와 접속 기록을 처리할 수 있습니다. Apple·Google·GitHub·기기 백업 서비스가 직접 처리하는 정보에는 각 정책이 적용됩니다. 제공업체는 미국 등 이용자 국가 외에서도 처리할 수 있습니다. 운영자가 로컬 게임 기록을 이들 서버로 전송하지는 않으며 운영체제 백업은 별도 설정을 따릅니다."
+      ],
+      [
+        "보유 및 삭제",
+        "로컬 정보는 앱 저장 공간이 삭제될 때까지 남습니다. iOS에서는 앱 삭제(앱 정리하기는 데이터를 남길 수 있음), Android에서는 앱 저장 공간 삭제, 웹 게임에서는 브라우저의 해당 사이트 데이터 삭제를 이용하세요. 기기·클라우드 백업은 별도로 관리하세요. 문의 정보는 요청 처리에 필요한 동안 보유하고 불필요해지면 삭제합니다. 법령·진행 중인 분쟁으로 필요한 경우 필요한 범위에서 보유하며 요청 시 사유와 적용 기간을 안내합니다. 제공업체가 직접 관리하는 정보는 각 보유 정책을 따릅니다."
+      ],
+      [
+        "이용자 권리와 처리 근거",
+        "적용 법령에 따라 열람, 정정, 삭제, 이동 가능한 사본, 처리 제한, 이의 제기, 동의 철회 또는 결정에 대한 재검토를 요청할 수 있습니다. 권리 행사에 따른 차별 없이 문의할 수 있으며 관할 개인정보 감독기관에 민원을 제기할 수 있습니다. 필요한 범위에서 본인 확인을 요청할 수 있습니다. 처리 근거가 필요한 지역에서는 서비스 요청에 대한 응답, 문제 해결의 정당한 이익, 법적 의무 또는 필요한 동의를 근거로 문의 정보를 처리합니다. 동의 철회는 철회 전 적법한 처리에 영향을 주지 않습니다."
+      ],
+      [
+        "아동·보호 조치·변경",
+        "게임에 개인정보 입력이 필요하지 않습니다. 아동의 개인정보를 고의로 요청하지 않으며, 아동이 문의 과정에서 보낸 정보는 보호자가 연락하여 확인·삭제를 요청할 수 있습니다. 문의 정보의 접근을 제한하는 등 합리적 보호 조치를 취하지만 완전한 보안을 보장하지는 않습니다. 중요한 변경 시 날짜와 내용을 갱신하고 법령상 필요한 안내·동의 절차를 제공합니다."
+      ]
+    ],
+    "terms": [
+      [
+        "서비스와 저장",
+        "하시는 숫자가 표시된 섬들을 다리로 연결하는 퍼즐입니다. 2,200문제 중 200문제가 무료이며, 오늘의 퍼즐은 무료 목록을 순환합니다. 진행과 설정은 기기에 저장되며 기기 간 게임 진행 동기화를 제공하지 않습니다. 개인정보 선택은 별도 개인정보처리방침에 따르며 이 약관에 동의한 것으로 광고 동의를 대신하지 않습니다."
+      ],
+      [
+        "광고·상품·소비자 권리",
+        "무료 이용에는 전면 광고와 선택형 보상 광고가 포함될 수 있습니다. 판매가 시작되면 전면 광고 제거 및 프리미엄은 비소모성, 힌트 묶음은 소모성 상품입니다. 프리미엄은 추가 2,000문제·전면 광고 제거·하루 무료 힌트 3개를 제공합니다. 광고 제거 후에도 보상 광고는 사용자가 선택할 수 있습니다. 현재 구매는 비활성화되어 있으며 구독은 없습니다. 구매 전 스토어의 실제 현지 가격과 설명을 확인하세요. 구매 힌트에는 만료 기간이 없으며, 구매 복구에는 해당 스토어 및 앱 계정이 필요합니다. 구매 복구는 게임 진행 복구나 Apple·Google 간 이전을 뜻하지 않습니다. 환불·철회는 스토어 절차와 적용 법률을 따르며 강행적 소비자 권리는 제한되지 않습니다. iOS 라이선스에는 해당하는 경우 Apple 표준 EULA가 적용됩니다."
+      ],
+      [
+        "이용·변경·책임",
+        "합법적인 개인 용도로 이용하세요. 법령상 허용되는 경우를 제외하고 타인의 권리 침해, 서비스 방해, 보안 우회를 해서는 안 됩니다. 앱 코드·디자인·콘텐츠는 넥스트 스튜디오 또는 정당한 권리자에게 귀속되며 일반적인 퍼즐 규칙 자체에 독점권을 주장하지 않습니다. 유지보수·보안·법령 사유로 기능을 변경할 수 있고 중요한 변경은 적절히 안내합니다. 무오류 동작을 보장하지 않습니다. 법률상 제한할 수 없는 책임·구제수단은 제외되지 않으며 거주지의 강행적 소비자 보호와 관할 기관에 대한 권리가 유지됩니다. 문의: dhalska2@gmail.com."
+      ]
+    ],
+    "support": [
+      [
+        "게임 방법",
+        "섬의 숫자는 연결해야 할 다리의 총 개수입니다. 같은 가로·세로의 가장 가까운 섬 두 개를 누르거나 그 사이를 스와이프하면 다리가 0→1→2→0개로 바뀝니다. 대각선, 교차, 다른 섬 통과는 허용되지 않습니다. 모든 숫자를 맞추고 모든 섬을 하나로 연결하세요. 설정의 그림 설명은 스와이프로 넘길 수 있습니다. 이동 모드에서 확대·이동하고 맞춤으로 화면을 되돌릴 수 있습니다."
+      ],
+      [
+        "저장·힌트·언어·알림",
+        "진행은 기기에 자동 저장됩니다. 설정에서 8개 언어와 테마를 바꿀 수 있습니다. 힌트는 확인 후 차감되며 무료 힌트가 먼저 사용됩니다. 보상 광고는 완료 보상을 받은 경우 힌트 1개를 제공합니다. 구매는 현재 준비 중이며 활성화 후 구매 복원은 상점에서 진행합니다. 알림은 선택 사항이고 OS 권한이 필요합니다. 재시작은 현재 퍼즐만 초기화하고 앱 저장 공간 삭제는 로컬 진행을 지웁니다."
+      ],
+      [
+        "문제 문의",
+        "이메일 제목에 Hashi 또는 하시를 적고 앱 버전, 기기·운영체제, 재현 순서와 필요시 개인정보를 가린 스크린샷을 dhalska2@gmail.com으로 보내세요. 조사에 필요한 정보만 보내고 비밀번호·인증 코드·카드 정보는 보내지 마세요. 스토어 청구·환불은 해당 스토어 지원 절차를 이용하세요."
+      ]
+    ],
+    "delete-account": [
+      [
+        "하시 데이터 삭제 범위",
+        "현재 일반 빌드에는 로그인·실제 구매가 활성화되어 있지 않습니다. 테스트 또는 향후 계정 기능을 통해 하시 계정 데이터가 생긴 경우에도 아래 이메일로 삭제를 요청할 수 있습니다. 현재 앱 내 계정 삭제 버튼은 구현되지 않았습니다. 계정 기능을 정식 공개하기 전에 앱 내 삭제 경로를 추가할 예정입니다. 이 페이지의 요청 경로는 앱 설치 없이 사용할 수 있습니다."
+      ],
+      [
+        "기기 데이터 삭제",
+        "iOS에서는 앱 정리하기가 아닌 앱 삭제를 이용하세요. Android에서는 시스템 설정에서 이 앱의 저장 공간을 삭제하세요. 웹 게임은 브라우저에서 해당 사이트 데이터를 삭제하세요. 기기·클라우드 백업은 별도로 관리해야 합니다. 퍼즐 처음부터는 해당 퍼즐만 지웁니다. 삭제한 로컬 기록은 운영자가 복구할 수 없습니다."
+      ],
+      [
+        "계정·구매·문의 데이터 삭제 요청",
+        "dhalska2@gmail.com으로 제목을 “Hashi Data Deletion”으로 하여 계정 이메일과 삭제할 범위(하시 계정 연결, 구매 권한·힌트 기록, 문의 내역)를 알려주세요. 비밀번호·인증 코드·신분증·카드 정보는 보내지 마세요. 필요한 범위에서 본인 확인 후 적용 법정 기간 안에 처리 결과를 안내합니다. 삭제 시 유료 힌트와 구매 복구가 불가능해질 수 있으므로 처리 전에 영향을 안내합니다. 법적으로 필요한 보유 항목과 기간은 별도 설명합니다. 공유 서버의 다른 게임 데이터나 Apple·Google 계정은 이 요청만으로 삭제하지 않습니다. 제공업체 로그·스토어 기록은 해당 업체 정책을 따르며 삭제 요청은 환불 요청과 별개입니다."
+      ]
+    ]
+  },
+  "ja": {
+    "nav": [
+      "ホーム",
+      "プライバシーポリシー",
+      "利用規約",
+      "ヘルプとサポート",
+      "データ削除"
+    ],
+    "tag": "島をつないで、ひと息。",
+    "intro": "Hashi 公式サポート・ポリシー · Next Studio",
+    "date": "施行・更新日：2026年9月15日",
+    "contact": "お問い合わせ",
+    "skip": "本文へ",
+    "privacy": [
+      [
+        "運営者と範囲",
+        "韓国のNext StudioがHashi（com.osj.hashi）を運営します。本方針はアプリとこのサポートサイトに適用されます。連絡先：dhalska2@gmail.com。"
+      ],
+      [
+        "端末内のゲームデータ",
+        "進行状況、時間、橋の配置、クリア記録、取り消し履歴、無料ヒント、言語・テーマ・振動・エラー表示の設定は端末に保存されます。ゲーム進行全体をサーバーに同期しません。ウェブ版プレビューにはモバイル広告・プッシュ通知・購入機能はありません。独立した Firebase Analytics や Crashlytics SDK は使用しません。"
+      ],
+      [
+        "広告とプライバシーの選択",
+        "モバイル版は Google AdMob の全画面広告と任意のリワード広告を使用します。広告 SDK は広告配信・測定・不正防止のため、IP アドレスと推定されるおおよその位置、端末・広告識別子、広告の表示・クリック、診断情報、同意状態を処理する場合があります。正確な位置情報の権限は要求しません。地域と選択に応じて同意画面を表示し、必要な場合は設定の広告プライバシー項目で変更できます。パーソナライズ広告の拒否がすべての技術的処理を停止するわけではありません。広告目的の提供が現地法の「販売」「共有」に該当する場合があるため、データ収集・共有がないとは説明しません。該当する拒否権は同意画面またはメールで行使できます。"
+      ],
+      [
+        "任意の通知",
+        "通知は初期状態ではオフです。有効にすると Google Firebase Cloud Messaging と iOS の Apple APNs がインストール識別子、プッシュトークン、言語別トピックの購読、配信情報を処理します。設定でオフにすると購読解除と FCM トークン削除を要求します。OS 側でも通知を拒否できます。運営者は端末別トークンを別の DB に保存しません。自動通知の配信は現在有効になっていません。"
+      ],
+      [
+        "アカウントと購入：有効な場合",
+        "現在の公開準備版ではログインと実際の購入は無効です。購入アカウントが有効な版では、Supabase がメール、アカウント ID、認証・アクセス記録、商品・取引 ID、購入環境、購入権利、有料ヒント残高、使用リクエスト ID・パズル ID・時刻を処理し、認証・検証・復元と重複消費の防止に使用します。カード情報は収集しません。DB は韓国ソウルに置かれますが、Supabase と再委託先の認証・運用支援は米国など国外でも行われる場合があります。Apple が決済と取引検証を処理します。必要な法的根拠は契約履行、セキュリティ・不正防止の正当な利益、法的義務、任意機能に必要な同意です。購入有効化前に本案内と処理内容を再確認します。"
+      ],
+      [
+        "サーバーでの保有と国外処理",
+        "アカウント・購入権利・有料ヒント記録はサービス提供と復元に必要な間保有し、削除依頼時に不要な情報を削除します。紛争や法定保存義務に必要な記録のみ必要な範囲で残し、理由と適用期間を依頼者に説明します。アカウント削除でストア取引記録は消えません。Google/Firebase、Apple、Supabase、GitHub、メール提供者は韓国・米国など利用者の国外で、それぞれの方針と適用される保護措置に従って処理する場合があります。移転の詳細と権利行使はメールでお問い合わせください。"
+      ],
+      [
+        "問い合わせと提供者",
+        "メールで送信したアドレス、本文、任意の添付資料を回答・問題解決に使用します。パスワード、認証コード、カード情報は送らないでください。メールはGmail、サイトはGitHub Pagesを利用し、このページには広告・分析スクリプト・入力フォームはありません。GitHubは配信と安全性のためIPアドレスやアクセス記録を処理する場合があります。Apple、Google、GitHub、端末バックアップの情報処理には各社の方針が適用され、米国など国外で処理される場合があります。運営者はゲーム記録を送信しませんが、OSのバックアップは別に管理されます。"
+      ],
+      [
+        "保存と削除",
+        "端末情報はアプリの保存領域を消去するまで残ります。iOSはアプリ削除（取り除く操作では残る場合あり）、Androidはストレージ消去、ウェブ版はサイトデータ消去を使用してください。バックアップは別に管理してください。問い合わせ情報は対応に必要な間のみ保持し、不要になれば削除します。法令や係争のため保持が必要な場合、理由と期間を案内します。提供者自身の記録には各社の保存方針が適用されます。"
+      ],
+      [
+        "権利と処理の根拠",
+        "適用法に応じ、開示、訂正、削除、移行可能なコピー、処理制限、異議、同意撤回、決定への不服申立てを求められます。権利行使を理由に差別せず、現地の監督機関への申立ても可能です。必要最小限の本人確認を求める場合があります。法的根拠が必要な場合、依頼への対応、問題解決の正当な利益、法的義務、必要な同意に基づき処理します。撤回は過去の適法な処理に影響しません。"
+      ],
+      [
+        "子ども・保護・変更",
+        "プレイに個人情報の入力は不要です。子どもの情報を故意に求めません。子どもがサポートに送った情報は保護者から連絡できます。アクセス制限など合理的な措置を講じますが完全な安全は保証しません。重要な変更は更新日とともに掲載し、必要な通知・同意手続きを行います。"
+      ]
+    ],
+    "terms": [
+      [
+        "サービスと保存",
+        "Hashi は数字のある島を橋でつなぐパズルです。2,200問中200問は無料で、今日のパズルは無料問題を順番に使用します。進行と設定は端末内に保存し、端末間の進行同期は提供しません。プライバシーの選択は別の方針に従い、本規約への同意を広告への同意の代わりにはしません。"
+      ],
+      [
+        "広告・商品・消費者の権利",
+        "無料利用には全画面広告と任意のリワード広告が含まれる場合があります。販売開始後、全画面広告削除とプレミアムは非消耗型、ヒントパックは消耗型です。プレミアムは追加2,000問、全画面広告削除、毎日無料ヒント3個を提供します。広告削除後もリワード広告は任意で選べます。現在購入は無効で、定期購読はありません。購入前にストアの実際の現地価格と説明をご確認ください。有料ヒントに有効期限はなく、復元には該当ストアとアプリのアカウントが必要です。復元はゲーム進行や Apple・Google 間の移行を保証しません。返金・撤回はストア手続きと適用法に従い、強行的な消費者の権利を制限しません。iOS には該当する場合 Apple 標準 EULA が適用されます。"
+      ],
+      [
+        "利用・変更・責任",
+        "適法な個人利用に限ります。法が認める場合を除き、権利侵害、妨害、セキュリティ回避を禁止します。コード・画像・コンテンツはNext Studioまたは正当な権利者に帰属し、一般的なパズルのルールの独占権は主張しません。保守・安全・法令上の理由で変更する場合があり、重要な変更は案内します。無障害は保証しません。法律上排除できない責任・救済、居住地の強行的な消費者保護や管轄機関への権利は制限しません。連絡先：dhalska2@gmail.com。"
+      ]
+    ],
+    "support": [
+      [
+        "遊び方",
+        "島の数字は必要な橋の合計です。同じ行・列で最も近い島を2つタップするか、その間をスワイプすると橋が0→1→2→0本に変わります。斜め、交差、別の島を通過する橋は禁止です。すべての数字を満たし、全島をひとつにつなげましょう。設定の図解はスワイプで進められます。移動モードで拡大・移動し、画面に合わせる操作で表示を戻せます。"
+      ],
+      [
+        "保存・ヒント・言語・通知",
+        "進行は端末に自動保存されます。設定で8言語とテーマを選べます。ヒントは確認後に消費し、無料分を先に使います。リワード広告の報酬獲得時にヒント1個を付与します。購入は準備中で、有効化後はショップから復元できます。通知は任意で OS の許可が必要です。再スタートは現在の問題のみ、アプリのデータ削除は端末内の進行を消去します。"
+      ],
+      [
+        "問題の報告",
+        "件名にHashi、本文にアプリ版、端末・OS、再現手順、必要なら個人情報を隠した画像を記載し、dhalska2@gmail.comへ送ってください。必要な情報のみ送り、パスワード・コード・カード情報は送らないでください。請求・返金はストア窓口を利用してください。"
+      ]
+    ],
+    "delete-account": [
+      [
+        "Hashi の削除対象",
+        "現在の通常版ではログインと実際の購入は無効です。テストや今後のアカウント対応版で Hashi データが作成された場合も、以下のメールで削除を依頼できます。アプリ内のアカウント削除ボタンは未実装で、アカウント機能の正式公開前に追加予定です。このウェブ上の依頼窓口はアプリなしでも利用できます。"
+      ],
+      [
+        "端末情報の消去",
+        "iOSではアプリを削除し、取り除くだけにしないでください。Androidはシステム設定でアプリのストレージを消去、ウェブ版はブラウザーのサイトデータを消去します。バックアップは別管理です。問題の再開始はその問題だけを消去します。消したローカル記録を運営者は復旧できません。"
+      ],
+      [
+        "アカウント・購入・問い合わせデータの削除依頼",
+        "件名を「Hashi Data Deletion」とし、アカウントのメールと削除対象（Hashi のアカウント関連付け、購入権利・ヒント記録、問い合わせ）を dhalska2@gmail.com に送ってください。パスワード・認証コード・身分証・カード情報は送らないでください。必要相当な本人確認後、適用法の期間内に回答します。削除で有料ヒントや購入の復元ができなくなる場合は処理前に説明します。法定保存の対象と期間も説明します。この依頼だけで共有サーバー上の他ゲームや Apple・Google のアカウントは削除しません。提供者のログ・ストア記録は各方針に従い、削除は返金依頼とは別です。"
+      ]
+    ]
+  },
+  "zh-hans": {
+    "nav": [
+      "首页",
+      "隐私政策",
+      "服务条款",
+      "帮助与支持",
+      "删除数据"
+    ],
+    "tag": "连接岛屿，享受片刻宁静。",
+    "intro": "Hashi 官方支持与政策 · Next Studio",
+    "date": "生效／更新日期：2026年9月15日",
+    "contact": "联系我们",
+    "skip": "跳至正文",
+    "privacy": [
+      [
+        "运营者与范围",
+        "韩国 Next Studio 运营 Hashi（com.osj.hashi）。本政策适用于应用和此支持网站。隐私联系邮箱：dhalska2@gmail.com。"
+      ],
+      [
+        "设备上的游戏数据",
+        "关卡进度、用时、桥梁、完成记录、撤销历史、免费提示，以及语言、主题、振动和错误显示设置保存在设备上。我们不会将完整游戏进度同步到服务器。网页预览版不提供移动广告、推送或购买功能。我们不使用独立的 Firebase Analytics 或 Crashlytics SDK。"
+      ],
+      [
+        "广告与隐私选择",
+        "移动应用使用 Google AdMob 插屏广告及可选的激励广告。广告 SDK 可能处理 IP 地址及据此推测的大致位置、设备和广告标识符、广告观看与点击、诊断信息及同意状态，用于广告展示、衡量和反欺诈。我们不申请精确位置权限。应用根据地区和选择显示同意提示；需要时可在设置的广告隐私选项中修改。拒绝个性化广告并不意味着停止所有技术数据处理。广告数据披露可能构成当地法律所称的“出售”或“共享”，因此我们不声称完全不收集或共享数据。可通过同意控件或邮件行使适用的退出权。"
+      ],
+      [
+        "可选通知",
+        "通知默认关闭。开启后，Google Firebase Cloud Messaging 与 iOS 的 Apple APNs 会处理安装标识符、推送令牌、语言主题订阅和投递信息。在设置中关闭时，应用请求取消订阅并删除 FCM 令牌。也可在系统设置中禁止通知。开发者不另建数据库存储每台设备的推送令牌。目前尚未启用自动通知发送。"
+      ],
+      [
+        "账号与购买：启用时适用",
+        "当前发布准备版本未启用登录及实际购买。启用购买账号的版本会通过 Supabase 处理邮箱、账号 ID、认证和访问记录、商品及交易 ID、购买环境、已购权益、付费提示余额、使用请求 ID、关卡 ID 和时间，用于认证、购买验证与恢复、防止提示重复扣除。我们不收集银行卡信息。数据库区域为韩国首尔；Supabase 及其分包处理者可能从美国等其他国家提供认证和运维支持。Apple 负责支付及交易验证。需要法律依据时，处理基于履行合同、安全和反欺诈的合法利益、法定义务或可选功能所需的同意。启用购买前会重新核对本说明和数据流程。"
+      ],
+      [
+        "服务器保留与跨境处理",
+        "账号、权益及付费提示记录在提供和恢复服务所需期间保留；收到删除请求后删除不再需要的信息。交易争议或法定保留所需记录仅在必要范围内保留，并向申请人说明理由和适用期限。删除账号不会删除商店交易记录。Google/Firebase、Apple、Supabase、GitHub 和邮件服务商可能依照各自政策及适用保障措施，在韩国、美国等用户所在国之外处理信息。跨境处理详情及权利请求可通过邮件咨询。"
+      ],
+      [
+        "支持与服务提供者",
+        "您发邮件时，我们收到邮箱地址、正文及自愿提供的附件，仅用于回复和解决问题。请勿发送密码、验证码或银行卡资料。邮件使用 Gmail，网站使用 GitHub Pages。本页面没有广告、分析脚本或提交表单。GitHub 可能为托管和安全处理 IP 地址与访问日志。Apple、Google、GitHub 和设备备份服务按照各自政策处理信息，可能在美国等境外地区处理。我们不自行上传本地游戏存档；操作系统备份单独管理。"
+      ],
+      [
+        "保存与删除",
+        "本地数据保留至应用存储被清除。iOS 请删除应用（仅卸载应用可能保留数据），Android 请清除应用存储，网页版请清除对应网站数据。设备及云备份需另行管理。支持信息仅在处理请求所需期间保留，之后不再需要时删除。法律或争议处理要求保留的，将按需说明理由和适用期限。服务提供者的记录遵循其自身保留政策。"
+      ],
+      [
+        "权利与处理依据",
+        "根据当地法律，您可要求访问、更正、删除、可迁移副本、限制处理、反对、撤回同意或对决定提出申诉。行使权利不会受到歧视，也可向当地数据保护机构投诉。我们可能进行适度的身份验证。需要法律依据时，基于回应服务请求、解决问题的正当利益、法律义务或必要同意处理支持信息。撤回不影响此前合法处理。"
+      ],
+      [
+        "儿童、安全与更新",
+        "游戏不要求提供个人信息。我们不会故意索取儿童信息；监护人可就儿童向支持邮箱发送的信息联系我们。我们限制信息访问并采取合理保护措施，但不保证绝对安全。重大变更会更新日期，并依法通知或征求同意。"
+      ]
+    ],
+    "terms": [
+      [
+        "服务与保存",
+        "Hashi 是用桥连接数字岛屿的益智游戏。2,200道题中200道免费，今日题目循环选自免费题库。进度和设置保存在本机，不提供跨设备进度同步。隐私选择由单独的隐私政策说明，接受本条款不等于同意广告数据处理。"
+      ],
+      [
+        "广告、商品与消费者权益",
+        "免费游玩可能包含插屏广告和可选的激励广告。销售开启后，移除插屏广告及高级版属于非消耗型商品，提示包属于消耗型商品。高级版提供额外2,000道题、移除插屏广告及每日3个免费提示。移除广告后仍可自行选择激励广告。目前购买尚未启用，也没有订阅。购买前请核对商店显示的当地价格及说明。付费提示不设到期日；恢复购买需要相应的商店账号和应用账号，不代表恢复关卡进度或支持 Apple 与 Google 之间转移。退款及撤回权依商店流程和适用法律办理，不限制强制性消费者权益。iOS 许可在适用时采用 Apple 标准 EULA。"
+      ],
+      [
+        "使用、变更与责任",
+        "仅供合法个人使用。除法律允许外，不得侵权、干扰服务或绕过安全措施。代码、美术和内容属于 Next Studio 或合法权利人，不主张对通用游戏规则的独占权。维护、安全或法律原因可能导致功能变化，重大变化将适当通知。不保证完全无错误；法律不允许排除的责任、救济、当地强制消费者保护及向主管机关求助的权利不受影响。联系：dhalska2@gmail.com。"
+      ]
+    ],
+    "support": [
+      [
+        "游戏方法",
+        "岛上的数字代表需要连接的桥梁总数。点击同一行或列中最近的两个岛，或在两者之间滑动，可让桥数按0→1→2→0循环。不能斜连、交叉或穿过其他岛。满足所有数字，并将所有岛连成一个整体。设置中的图解教程支持滑动翻页。移动模式可缩放和平移，适应画面可恢复视图。"
+      ],
+      [
+        "保存、提示、语言与通知",
+        "进度自动保存在设备上。设置支持8种语言和主题切换。提示在确认后扣除，优先使用免费提示；激励广告成功获得奖励时提供1个提示。购买目前准备中，启用后可在商店恢复。通知为可选功能，需要系统权限。重新开始只清空当前关卡；清除应用存储会删除本地进度。"
+      ],
+      [
+        "报告问题",
+        "邮件主题写 Hashi，提供版本、设备/系统、复现步骤和必要的已遮盖个人信息的截图，发送至 dhalska2@gmail.com。仅发送调查所需信息，不要发送密码、验证码或银行卡资料。账单和退款请通过商店支持流程处理。"
+      ]
+    ],
+    "delete-account": [
+      [
+        "Hashi 数据删除范围",
+        "当前普通版本未启用登录或实际购买。如果测试或未来支持账号的版本产生了 Hashi 账号数据，也可通过以下邮箱请求删除。应用内账号删除按钮尚未实现，计划在账号功能正式开放前加入。本网页请求渠道无需安装应用即可使用。"
+      ],
+      [
+        "删除设备数据",
+        "iOS 请删除应用，不要仅卸载保留数据。Android 请在系统设置清除应用存储；网页版清除浏览器中该网站的数据。备份需单独管理。重新开始只删除当前题目。运营者无法恢复已删除的本地记录。"
+      ],
+      [
+        "请求删除账号、购买或支持数据",
+        "请发邮件至 dhalska2@gmail.com，主题为“Hashi Data Deletion”，提供账号邮箱和删除范围：Hashi 账号关联、已购权益及提示记录，或支持邮件。请勿发送密码、验证码、身份证件或银行卡信息。完成适度身份核验后，我们将在适用法定期限内回复。删除可能导致付费提示和购买无法恢复，我们会在处理前说明影响，并解释依法保留的项目及期限。本请求不会自动删除共享服务器上其他游戏的数据或 Apple、Google 账号。服务商日志和商店记录遵循各自政策；删除请求不等于退款请求。"
+      ]
+    ]
+  },
+  "es": {
+    "nav": [
+      "Inicio",
+      "Privacidad",
+      "Condiciones",
+      "Ayuda",
+      "Eliminar datos"
+    ],
+    "tag": "Conecta islas. Encuentra la calma.",
+    "intro": "Asistencia y políticas oficiales de Hashi · Next Studio",
+    "date": "Vigencia / actualización: 15 de septiembre de 2026",
+    "contact": "Contacto",
+    "skip": "Ir al contenido",
+    "privacy": [
+      [
+        "Responsable y alcance",
+        "Next Studio, Corea del Sur, opera Hashi (com.osj.hashi). Esta política cubre la app y este sitio de soporte. Contacto: dhalska2@gmail.com."
+      ],
+      [
+        "Datos de juego en el dispositivo",
+        "El progreso, el tiempo, los puentes, las partidas completadas, el historial de deshacer, las pistas gratuitas y los ajustes de idioma, tema, vibración y errores se guardan en el dispositivo. No sincronizamos el progreso completo con el servidor. La vista previa web no incluye anuncios móviles, notificaciones push ni compras. No utilizamos SDK independientes de Firebase Analytics ni Crashlytics."
+      ],
+      [
+        "Publicidad y opciones de privacidad",
+        "La app móvil utiliza anuncios intersticiales de Google AdMob y anuncios con recompensa opcionales. El SDK publicitario puede tratar la IP y la ubicación aproximada deducida, identificadores del dispositivo y publicitarios, visualizaciones y clics, diagnósticos y preferencias de consentimiento para ofrecer y medir anuncios y prevenir el fraude. No pedimos acceso a la ubicación precisa. Los avisos de consentimiento dependen de la región y de tus elecciones; cuando corresponda, puedes modificarlas en las opciones de privacidad publicitaria de Ajustes. Rechazar anuncios personalizados no detiene todo tratamiento técnico. La comunicación de datos publicitarios puede constituir venta o intercambio según la ley local; no afirmamos que no se recopilen ni compartan datos. Puedes ejercer los derechos de exclusión aplicables mediante esos controles o por correo."
+      ],
+      [
+        "Notificaciones opcionales",
+        "Están desactivadas por defecto. Al activarlas, Google Firebase Cloud Messaging y Apple APNs en iOS tratan identificadores de instalación, tokens push, suscripciones a temas por idioma e información de entrega. Desactivarlas en Ajustes solicita la baja del tema y la eliminación del token FCM. También puedes bloquearlas en el sistema operativo. No mantenemos una base de datos aparte con tokens por dispositivo. El envío automático de notificaciones aún no está activo."
+      ],
+      [
+        "Cuentas y compras, cuando estén habilitadas",
+        "La versión actual de preparación para el lanzamiento tiene desactivados el acceso a cuentas y las compras reales. En una versión con cuentas de compra, Supabase tratará correo, ID de cuenta, registros de autenticación y acceso, IDs de producto y transacción, entorno de compra, derechos adquiridos, saldo de pistas pagadas, ID de solicitud de uso, ID de puzle y hora para autenticar, verificar, recuperar compras y evitar descuentos duplicados de pistas. No recopilamos datos de tarjetas. La base de datos está en Seúl, Corea del Sur; Supabase y sus subencargados pueden prestar apoyo de autenticación y operación desde otros países, incluido EE. UU. Apple procesa pagos y verifica transacciones. Cuando se exige una base jurídica, se aplica la ejecución del contrato, el interés legítimo en seguridad y prevención del fraude, obligaciones legales o el consentimiento para funciones opcionales. Revisaremos este aviso y los flujos antes de activar compras."
+      ],
+      [
+        "Conservación en servidor y transferencias",
+        "Los registros de cuenta, derechos y pistas pagadas se conservan mientras sean necesarios para prestar y recuperar el servicio; eliminamos los datos innecesarios tras una solicitud. Solo conservamos lo necesario para disputas o deberes legales, explicando al solicitante el motivo y el plazo aplicable. Eliminar la cuenta no borra las transacciones de la tienda. Google/Firebase, Apple, Supabase, GitHub y los proveedores de correo pueden tratar datos fuera de tu país, incluidos Corea del Sur y EE. UU., conforme a sus políticas y a las garantías aplicables. Escríbenos para conocer los detalles de las transferencias o ejercer tus derechos."
+      ],
+      [
+        "Soporte y proveedores",
+        "Usamos el correo, mensaje y adjuntos que envías solo para responder y resolver tu solicitud. No envíes contraseñas, códigos ni tarjetas. Usamos Gmail y GitHub Pages; estas páginas no contienen anuncios, analítica ni formularios. GitHub puede tratar IP y registros para alojamiento y seguridad. Apple, Google, GitHub y los servicios de copia de seguridad aplican sus propias políticas y pueden tratar datos fuera de tu país, incluido Estados Unidos. No subimos partidas a esos proveedores; las copias del sistema se gestionan por separado."
+      ],
+      [
+        "Conservación y eliminación",
+        "Los datos locales permanecen hasta borrar el almacenamiento: elimina la app en iOS (descargarla conservando datos no basta), borra datos en Android o datos del sitio del juego web. Gestiona las copias por separado. Conservamos consultas mientras sean necesarias y después las eliminamos. Si la ley o un litigio exige retención, explicaremos motivo y plazo aplicable. Los registros de los proveedores siguen sus propias políticas."
+      ],
+      [
+        "Derechos y bases jurídicas",
+        "Según la ley local, puedes solicitar acceso, rectificación, eliminación, copia portable, limitación, oposición, retirada del consentimiento o recurso. No discriminamos por ejercer derechos; puedes reclamar a la autoridad local. Podemos verificar tu identidad de forma proporcionada. Cuando se exige una base jurídica, usamos la atención de tu solicitud, el interés legítimo en resolver problemas, obligaciones legales o consentimiento cuando proceda. Retirarlo no afecta al tratamiento previo lícito."
+      ],
+      [
+        "Menores, seguridad y cambios",
+        "Jugar no requiere datos personales. No solicitamos deliberadamente datos de menores; sus tutores pueden contactarnos sobre información enviada al soporte. Limitamos el acceso y aplicamos medidas razonables, sin garantizar seguridad absoluta. Publicaremos cambios importantes con fecha nueva y los avisos o consentimientos exigidos."
+      ]
+    ],
+    "terms": [
+      [
+        "Servicio y partidas guardadas",
+        "Hashi consiste en conectar islas numeradas con puentes. Hay 2.200 puzles, de los cuales 200 son gratuitos; Hoy rota por la colección gratuita. El progreso y los ajustes son locales, sin sincronización entre dispositivos. Las opciones de privacidad se rigen por la Política de privacidad independiente; aceptar estas condiciones no sustituye el consentimiento publicitario."
+      ],
+      [
+        "Anuncios, productos y derechos del consumidor",
+        "El juego gratuito puede incluir intersticiales y anuncios con recompensa opcionales. Cuando empiecen las ventas, quitar intersticiales y Premium serán compras no consumibles; los paquetes de pistas serán consumibles. Premium ofrece 2.000 puzles adicionales, elimina intersticiales e incluye tres pistas gratuitas al día. Los anuncios con recompensa siguen siendo opcionales tras quitar anuncios. Las compras están desactivadas y no hay suscripción. Consulta el precio local real y la descripción de la tienda antes de comprar. Las pistas pagadas no caducan; para recuperar compras se necesitan las cuentas de la tienda y de la app correspondientes. Esto no recupera el progreso ni permite transferir entre Apple y Google. Los reembolsos y el desistimiento siguen los procedimientos de la tienda y la ley aplicable, sin limitar derechos irrenunciables. La licencia iOS se rige por el EULA estándar de Apple cuando corresponda."
+      ],
+      [
+        "Uso y responsabilidad",
+        "Solo para uso personal lícito. No vulneres derechos, interfieras o eludas la seguridad salvo permiso legal. El código, arte y contenido pertenecen a Next Studio o sus titulares; no reivindicamos las reglas generales. Podemos cambiar funciones por mantenimiento, seguridad o ley, avisando de cambios importantes. No garantizamos ausencia de errores ni excluimos responsabilidades o remedios irrenunciables. Conservas la protección obligatoria local y el acceso a las autoridades competentes. Contacto: dhalska2@gmail.com."
+      ]
+    ],
+    "support": [
+      [
+        "Cómo jugar",
+        "El número de cada isla indica el total de puentes que necesita. Toca las dos islas más cercanas de una fila o columna, o desliza entre ellas, para alternar entre 0, 1, 2 y 0 puentes. No se permiten diagonales, cruces ni atravesar otra isla. Cumple todos los números y conecta todas las islas en una sola red. La guía ilustrada de Ajustes permite deslizar páginas. Usa el modo Mover para ampliar y desplazar, y Ajustar para restablecer la vista."
+      ],
+      [
+        "Guardado, pistas, idioma y notificaciones",
+        "El progreso se guarda automáticamente en el dispositivo. Ajustes ofrece ocho idiomas y temas. Las pistas se descuentan tras confirmar y se usan primero las gratuitas. Un anuncio con recompensa concede una pista al obtener la recompensa. Las compras están en preparación; una vez activadas, se restauran desde la tienda de la app. Las notificaciones son opcionales y requieren permiso del sistema. Reiniciar solo borra el puzle actual; borrar el almacenamiento elimina el progreso local."
+      ],
+      [
+        "Informar de un problema",
+        "Escribe a dhalska2@gmail.com con Hashi en el asunto, versión, dispositivo/SO, pasos y, si hace falta, captura sin datos personales. Envía solo lo necesario, nunca contraseñas, códigos o tarjetas. Para facturación o reembolsos, usa el soporte de la tienda."
+      ]
+    ],
+    "delete-account": [
+      [
+        "Alcance de la eliminación de Hashi",
+        "La versión normal actual no habilita cuentas ni compras reales. Si existen datos de cuenta de Hashi procedentes de pruebas o de una futura versión con cuentas, puedes solicitar su eliminación por el correo indicado. Aún no se ha implementado un botón de eliminación dentro de la app; se prevé incorporarlo antes del lanzamiento público de cuentas. Esta vía web no requiere instalar la app."
+      ],
+      [
+        "Borrar datos locales",
+        "Elimina la app en iOS, borra su almacenamiento en Android o los datos del sitio del juego web en el navegador. Descargar una app iOS conservando sus datos no los borra. Gestiona copias aparte. Reiniciar solo borra ese puzle. No podemos recuperar partidas eliminadas."
+      ],
+      [
+        "Solicitar la eliminación de cuenta, compras o consultas",
+        "Escribe a dhalska2@gmail.com con el asunto “Hashi Data Deletion”, el correo de tu cuenta y el alcance: vinculación de cuenta de Hashi, derechos y registros de pistas o mensajes de soporte. No envíes contraseñas, códigos, documentos de identidad ni tarjetas. Tras una verificación proporcionada, responderemos dentro del plazo legal aplicable. El borrado puede impedir recuperar pistas pagadas y compras; explicaremos el impacto antes de proceder. Informaremos de cualquier conservación obligatoria y su plazo. Esta solicitud por sí sola no borra otros juegos del servidor compartido ni tu cuenta Apple o Google. Los registros de proveedores y tiendas siguen sus políticas; borrar datos no es solicitar un reembolso."
+      ]
+    ]
+  },
+  "fr": {
+    "nav": [
+      "Accueil",
+      "Confidentialité",
+      "Conditions",
+      "Assistance",
+      "Suppression"
+    ],
+    "tag": "Reliez les îles, prenez une pause.",
+    "intro": "Assistance et politiques officielles de Hashi · Next Studio",
+    "date": "Entrée en vigueur / mise à jour : 15 septembre 2026",
+    "contact": "Contact",
+    "skip": "Aller au contenu",
+    "privacy": [
+      [
+        "Responsable et portée",
+        "Next Studio, en Corée du Sud, exploite Hashi (com.osj.hashi). Cette politique concerne l’app et ce site d’assistance. Contact : dhalska2@gmail.com."
+      ],
+      [
+        "Données de jeu sur votre appareil",
+        "La progression, le temps, les ponts, les réussites, l’historique d’annulation, les indices gratuits et les réglages de langue, thème, vibrations et erreurs sont enregistrés sur l’appareil. La progression complète n’est pas synchronisée avec notre serveur. L’aperçu web ne propose ni publicités mobiles, ni notifications push, ni achats. Nous n’utilisons pas de SDK distincts Firebase Analytics ou Crashlytics."
+      ],
+      [
+        "Publicité et choix de confidentialité",
+        "L’app mobile utilise les publicités interstitielles de Google AdMob et des publicités avec récompense facultatives. Le SDK publicitaire peut traiter l’adresse IP et la position approximative déduite, les identifiants d’appareil et publicitaires, les vues et clics, les diagnostics et les choix de consentement pour diffuser et mesurer les publicités et prévenir la fraude. Nous ne demandons pas l’accès à la position précise. Les demandes de consentement dépendent de la région et de vos choix ; lorsque nécessaire, les options de confidentialité publicitaire des réglages permettent de les modifier. Refuser la personnalisation n’arrête pas tous les traitements techniques. La communication de données publicitaires peut constituer une vente ou un partage selon le droit local ; nous n’affirmons pas qu’aucune donnée n’est collectée ou partagée. Exercez les droits de refus applicables via ces contrôles ou par e-mail."
+      ],
+      [
+        "Notifications facultatives",
+        "Elles sont désactivées par défaut. Si vous les activez, Google Firebase Cloud Messaging et Apple APNs sur iOS traitent les identifiants d’installation, les jetons push, les abonnements à des sujets linguistiques et les informations de livraison. Les désactiver dans les réglages demande le désabonnement et la suppression du jeton FCM. Le système d’exploitation peut aussi les bloquer. Nous ne conservons pas de base séparée de jetons par appareil. L’envoi automatique n’est pas encore activé."
+      ],
+      [
+        "Comptes et achats, lorsqu’ils sont activés",
+        "La version actuelle de préparation au lancement désactive la connexion et les achats réels. Dans une version avec comptes d’achat, Supabase traite l’e-mail, l’identifiant du compte, les journaux d’authentification et d’accès, les identifiants de produit et de transaction, l’environnement d’achat, les droits acquis, le solde d’indices payants, l’identifiant de demande d’utilisation, le puzzle et l’heure pour authentifier, vérifier, restaurer et éviter les débits d’indices en double. Nous ne collectons pas les données de carte bancaire. La base est à Séoul, en Corée du Sud ; Supabase et ses sous-traitants peuvent fournir l’assistance d’authentification et d’exploitation depuis d’autres pays, dont les États-Unis. Apple traite les paiements et vérifie les transactions. Les bases juridiques requises sont l’exécution du contrat, l’intérêt légitime de sécurité et de lutte contre la fraude, les obligations légales ou le consentement aux fonctions facultatives. Cet avis et les flux seront vérifiés avant l’activation des achats."
+      ],
+      [
+        "Conservation sur serveur et transferts",
+        "Les données de compte, de droits et d’indices payants sont conservées pendant la durée nécessaire au service et à sa restauration ; les données inutiles sont supprimées sur demande. Seuls les éléments nécessaires à un litige ou à une obligation légale sont conservés, en expliquant le motif et la durée applicable. Supprimer le compte n’efface pas les transactions de la boutique. Google/Firebase, Apple, Supabase, GitHub et les fournisseurs de messagerie peuvent traiter des données hors de votre pays, notamment en Corée du Sud et aux États-Unis, selon leurs politiques et les garanties applicables. Contactez-nous pour les détails des transferts et l’exercice de vos droits."
+      ],
+      [
+        "Assistance et prestataires",
+        "Votre adresse e-mail, message et pièces jointes volontaires servent uniquement à répondre et résoudre votre demande. N’envoyez ni mots de passe, codes ni données de carte. Nous utilisons Gmail et GitHub Pages. Ces pages n’ont ni publicité, analyse ni formulaire. GitHub peut traiter les adresses IP et journaux pour l’hébergement et la sécurité. Apple, Google, GitHub et les sauvegardes appliquent leurs politiques ; le traitement peut se faire à l’étranger, notamment aux États-Unis. Nous ne téléversons pas les parties ; les sauvegardes du système sont gérées séparément."
+      ],
+      [
+        "Conservation et suppression",
+        "Les données locales restent jusqu’à effacement : supprimer l’app sur iOS (la décharger peut conserver les données), effacer son stockage sur Android ou les données du site du jeu web. Gérez les sauvegardes séparément. Les échanges d’assistance sont conservés le temps nécessaire puis supprimés. Une conservation légale ou liée à un litige sera expliquée avec sa durée applicable. Les prestataires gèrent leurs propres durées."
+      ],
+      [
+        "Droits et bases juridiques",
+        "Selon la loi locale, vous pouvez demander accès, rectification, suppression, copie portable, limitation, opposition, retrait du consentement ou recours. Aucune discrimination pour l’exercice de vos droits ; vous pouvez saisir votre autorité locale. Une vérification proportionnée peut être requise. Lorsqu’une base est nécessaire : réponse à votre demande, intérêt légitime à résoudre les problèmes, obligation légale ou consentement requis. Le retrait n’affecte pas les traitements antérieurs licites."
+      ],
+      [
+        "Enfants, sécurité et changements",
+        "Aucune donnée personnelle n’est nécessaire pour jouer. Nous ne sollicitons pas sciemment celles des enfants ; un responsable légal peut nous contacter au sujet d’un message envoyé. Nous limitons l’accès et prenons des précautions raisonnables sans garantie absolue. Les changements importants seront datés avec les notifications ou consentements requis."
+      ]
+    ],
+    "terms": [
+      [
+        "Service et sauvegardes",
+        "Hashi consiste à relier des îles numérotées par des ponts. Sur 2 200 puzzles, 200 sont gratuits ; Aujourd’hui parcourt la collection gratuite. Progression et réglages restent locaux, sans synchronisation du jeu entre appareils. Les choix de confidentialité relèvent d’une politique distincte ; accepter ces conditions ne vaut pas consentement publicitaire."
+      ],
+      [
+        "Publicités, produits et droits des consommateurs",
+        "Le jeu gratuit peut comporter des interstitiels et des publicités avec récompense facultatives. À l’ouverture des ventes, la suppression des interstitiels et Premium seront non consommables, les lots d’indices consommables. Premium offre 2 000 puzzles supplémentaires, supprime les interstitiels et fournit trois indices gratuits par jour. Les publicités avec récompense restent facultatives après suppression des annonces. Les achats sont désactivés et il n’y a pas d’abonnement. Consultez le prix local réel et la description de la boutique avant achat. Les indices payants n’expirent pas ; la restauration nécessite les comptes de boutique et d’app concernés. Elle ne restaure pas la progression et n’implique aucun transfert entre Apple et Google. Remboursements et rétractation suivent les procédures de la boutique et le droit applicable, sans limiter les droits impératifs. Le CLUF standard d’Apple s’applique à la licence iOS le cas échéant."
+      ],
+      [
+        "Utilisation et responsabilité",
+        "Usage personnel licite uniquement. N’enfreignez pas les droits, ne perturbez pas le service et ne contournez pas la sécurité sauf autorisation légale. Code, graphismes et contenu appartiennent à Next Studio ou à leurs titulaires ; les règles générales ne sont pas revendiquées. Des modifications de maintenance, sécurité ou légales sont possibles, avec avis approprié si importantes. Nous ne garantissons pas l’absence d’erreurs. Aucune responsabilité ni voie de recours non excluable n’est limitée. Vos protections locales obligatoires et l’accès aux autorités compétentes demeurent. Contact : dhalska2@gmail.com."
+      ]
+    ],
+    "support": [
+      [
+        "Comment jouer",
+        "Le nombre d’une île indique le total de ponts requis. Touchez les deux îles les plus proches d’une même ligne ou colonne, ou glissez entre elles, pour passer de 0 à 1, puis 2 et 0 pont. Les diagonales, croisements et passages à travers une autre île sont interdits. Respectez tous les nombres et reliez toutes les îles en un seul réseau. Le guide illustré des réglages se feuillette par balayage. Le mode Déplacer permet de zoomer et déplacer ; Ajuster rétablit la vue."
+      ],
+      [
+        "Sauvegardes, indices, langue et notifications",
+        "La progression est enregistrée automatiquement sur l’appareil. Les réglages proposent huit langues et des thèmes. Les indices sont déduits après confirmation, les gratuits en premier. Une publicité avec récompense accorde un indice lorsque la récompense est obtenue. Les achats sont en préparation ; après activation, restaurez-les depuis la boutique de l’app. Les notifications sont facultatives et nécessitent l’autorisation du système. Recommencer réinitialise le puzzle actuel ; effacer le stockage supprime la progression locale."
+      ],
+      [
+        "Signaler un problème",
+        "Envoyez à dhalska2@gmail.com un objet Hashi, la version, l’appareil/OS, les étapes et si nécessaire une capture expurgée. Uniquement les informations utiles, jamais de mot de passe, code ou carte. Pour facturation ou remboursement, contactez la boutique."
+      ]
+    ],
+    "delete-account": [
+      [
+        "Portée de la suppression Hashi",
+        "La version standard actuelle ne permet pas la connexion ni les achats réels. Si des données de compte Hashi existent à la suite de tests ou d’une future version avec comptes, vous pouvez demander leur suppression par e-mail. Le bouton de suppression dans l’app n’est pas encore implémenté ; un parcours est prévu avant l’ouverture publique des comptes. Cette demande web ne nécessite pas l’installation de l’app."
+      ],
+      [
+        "Effacer les données locales",
+        "Supprimez l’app sur iOS (la décharger ne suffit pas), effacez son stockage sur Android ou les données du site du jeu web. Gérez les sauvegardes séparément. Recommencer efface seulement cette grille. Nous ne pouvons récupérer les parties supprimées."
+      ],
+      [
+        "Demander la suppression des données de compte, d’achat ou d’assistance",
+        "Écrivez à dhalska2@gmail.com, objet « Hashi Data Deletion », en indiquant l’e-mail du compte et le périmètre : association au compte Hashi, droits et historique d’indices ou messages d’assistance. N’envoyez ni mot de passe, ni code, ni pièce d’identité, ni carte bancaire. Après une vérification proportionnée, nous répondons dans le délai légal applicable. La suppression peut empêcher la récupération d’indices payants et d’achats ; nous expliquons l’impact avant traitement ainsi que toute conservation obligatoire et sa durée. Cette demande seule ne supprime pas les données d’autres jeux sur le serveur partagé ni votre compte Apple ou Google. Les journaux et transactions des fournisseurs suivent leurs politiques ; une suppression n’est pas une demande de remboursement."
+      ]
+    ]
+  },
+  "de": {
+    "nav": [
+      "Start",
+      "Datenschutz",
+      "Nutzungsbedingungen",
+      "Hilfe",
+      "Daten löschen"
+    ],
+    "tag": "Inseln verbinden. Ruhe finden.",
+    "intro": "Offizielle Hilfe und Richtlinien für Hashi · Next Studio",
+    "date": "Gültig / aktualisiert: 15. September 2026",
+    "contact": "Kontakt",
+    "skip": "Zum Inhalt",
+    "privacy": [
+      [
+        "Verantwortlicher und Geltung",
+        "Next Studio in Südkorea betreibt Hashi (com.osj.hashi). Diese Erklärung gilt für die App und diese Hilfeseite. Kontakt: dhalska2@gmail.com."
+      ],
+      [
+        "Spieldaten auf deinem Gerät",
+        "Fortschritt, Zeit, Brücken, Abschlüsse, Rückgängig-Verlauf, kostenlose Hinweise sowie Sprache, Design, Vibration und Fehleranzeige werden auf dem Gerät gespeichert. Der vollständige Spielfortschritt wird nicht mit unserem Server synchronisiert. Die Webvorschau bietet keine mobilen Anzeigen, Push-Mitteilungen oder Käufe. Separate Firebase-Analytics- oder Crashlytics-SDKs verwenden wir nicht."
+      ],
+      [
+        "Werbung und Datenschutzoptionen",
+        "Die mobile App verwendet Google-AdMob-Vollbildanzeigen und freiwillige Anzeigen mit Belohnung. Das Werbe-SDK kann IP-Adresse und daraus abgeleiteten ungefähren Standort, Geräte- und Werbekennungen, Anzeigenaufrufe und Klicks, Diagnosedaten und Einwilligungsentscheidungen zur Auslieferung, Messung und Betrugsprävention verarbeiten. Wir fragen keinen präzisen Standortzugriff an. Einwilligungsdialoge richten sich nach Region und Auswahl; erforderlichenfalls kannst du die Auswahl in den Werbe-Datenschutzoptionen der Einstellungen ändern. Die Ablehnung personalisierter Werbung beendet nicht jede technische Verarbeitung. Werbebezogene Datenweitergaben können nach lokalem Recht als Verkauf oder Weitergabe gelten; wir behaupten nicht, dass keine Daten erhoben oder geteilt werden. Anwendbare Widerspruchsrechte kannst du über diese Optionen oder per E-Mail ausüben."
+      ],
+      [
+        "Freiwillige Mitteilungen",
+        "Mitteilungen sind standardmäßig ausgeschaltet. Bei Aktivierung verarbeiten Google Firebase Cloud Messaging und unter iOS Apple APNs Installationskennungen, Push-Token, Sprachthemen-Abonnements und Zustellinformationen. Das Ausschalten in den Einstellungen fordert die Abmeldung und Löschung des FCM-Tokens an. Du kannst Mitteilungen auch im Betriebssystem sperren. Wir führen keine separate Datenbank gerätebezogener Push-Token. Der automatische Versand ist derzeit nicht aktiviert."
+      ],
+      [
+        "Konten und Käufe bei Aktivierung",
+        "Anmeldung und echte Käufe sind im derzeitigen Vorab-Build deaktiviert. In einer Version mit Kaufkonten verarbeitet Supabase E-Mail, Konto-ID, Authentifizierungs- und Zugriffsprotokolle, Produkt- und Transaktions-IDs, Kaufumgebung, Berechtigungen, Guthaben gekaufter Hinweise sowie Anfrage-ID, Rätsel-ID und Zeitpunkt des Verbrauchs. Dies dient Anmeldung, Prüfung, Wiederherstellung und dem Schutz vor doppeltem Hinweisabzug. Wir erheben keine Kartendaten. Die Datenbank liegt in Seoul, Südkorea; Supabase und Unterauftragsverarbeiter können Authentifizierungs- und Betriebsleistungen auch aus anderen Ländern einschließlich der USA erbringen. Apple verarbeitet Zahlungen und prüft Transaktionen. Soweit erforderlich, sind die Rechtsgrundlagen Vertragserfüllung, berechtigte Interessen an Sicherheit und Betrugsabwehr, gesetzliche Pflichten oder Einwilligung für freiwillige Funktionen. Vor Aktivierung der Käufe prüfen wir diesen Hinweis und die Datenflüsse erneut."
+      ],
+      [
+        "Serverspeicherung und internationale Verarbeitung",
+        "Konto-, Berechtigungs- und Kaufhinweisdaten bleiben so lange gespeichert, wie sie für Dienst und Wiederherstellung benötigt werden; bei Löschanfragen entfernen wir nicht mehr benötigte Daten. Für Streitfälle oder gesetzliche Pflichten bewahren wir nur Erforderliches auf und erklären Grund und geltende Dauer. Eine Kontolöschung entfernt keine Store-Transaktionen. Google/Firebase, Apple, Supabase, GitHub und E-Mail-Anbieter können Daten außerhalb deines Landes, unter anderem in Südkorea und den USA, gemäß ihren Richtlinien und anwendbaren Schutzmaßnahmen verarbeiten. Einzelheiten zu Übermittlungen und deinen Rechten erhältst du per E-Mail."
+      ],
+      [
+        "Support und Anbieter",
+        "Ihre E-Mail-Adresse, Nachricht und freiwilligen Anhänge dienen nur der Bearbeitung Ihrer Anfrage. Senden Sie keine Passwörter, Codes oder Kartendaten. Wir nutzen Gmail und GitHub Pages. Diese Seiten haben keine Werbung, Analyseskripte oder Formulare. GitHub kann IP-Adressen und Zugriffsprotokolle für Hosting und Sicherheit verarbeiten. Apple, Google, GitHub und Backup-Dienste handeln nach eigenen Richtlinien; Verarbeitung kann im Ausland, einschließlich der USA, erfolgen. Wir laden lokale Spielstände nicht hoch; Betriebssystem-Backups werden separat verwaltet."
+      ],
+      [
+        "Aufbewahrung und Löschung",
+        "Lokale Daten bleiben bis zum Löschen des Speichers: App auf iOS löschen (Auslagern kann Daten behalten), App-Speicher auf Android oder Webspiel-Websitedaten im Browser löschen. Backups separat verwalten. Supportdaten werden nur so lange benötigt aufbewahrt und danach gelöscht. Gesetzlich oder für Streitfälle erforderliche Aufbewahrung erklären wir mit Grund und geltender Dauer auf Anfrage. Anbieter verwalten ihre Protokolle selbst."
+      ],
+      [
+        "Rechte und Rechtsgrundlagen",
+        "Je nach örtlichem Recht können Sie Auskunft, Berichtigung, Löschung, Datenübertragbarkeit, Einschränkung, Widerspruch, Widerruf oder Überprüfung einer Entscheidung verlangen. Daraus entstehen keine diskriminierenden Nachteile. Beschwerden bei der zuständigen Datenschutzbehörde sind möglich. Eine verhältnismäßige Identitätsprüfung kann erforderlich sein. Soweit nötig, stützen wir Supportverarbeitung auf Ihre Serviceanfrage, berechtigte Interessen an der Problemlösung, gesetzliche Pflichten oder erforderliche Einwilligung. Ein Widerruf berührt frühere rechtmäßige Verarbeitung nicht."
+      ],
+      [
+        "Kinder, Schutz und Änderungen",
+        "Zum Spielen sind keine persönlichen Angaben nötig. Wir fordern nicht wissentlich Kinderdaten an; Sorgeberechtigte können sich wegen an den Support gesendeter Informationen melden. Wir beschränken Zugriffe und treffen angemessene Schutzmaßnahmen, garantieren aber keine absolute Sicherheit. Wesentliche Änderungen werden mit Datum sowie erforderlicher Information oder Einwilligung veröffentlicht."
+      ]
+    ],
+    "terms": [
+      [
+        "Dienst und Spielstände",
+        "Hashi verbindet nummerierte Inseln mit Brücken. Von 2.200 Rätseln sind 200 kostenlos; Heute wechselt durch die kostenlose Sammlung. Spielstände und Einstellungen bleiben lokal, ohne geräteübergreifende Spielstandssynchronisierung. Datenschutzentscheidungen richten sich nach der separaten Datenschutzerklärung; die Zustimmung zu diesen Bedingungen ersetzt keine Werbeeinwilligung."
+      ],
+      [
+        "Werbung, Produkte und Verbraucherrechte",
+        "Kostenloses Spielen kann Vollbildanzeigen und freiwillige Belohnungsanzeigen enthalten. Nach Verkaufsstart sind Vollbild-Werbeentfernung und Premium nicht verbrauchbar, Hinweispakete dagegen verbrauchbar. Premium bietet 2.000 weitere Rätsel, entfernt Vollbildanzeigen und gewährt täglich drei kostenlose Hinweise. Belohnungsanzeigen bleiben nach Werbeentfernung freiwillig. Käufe sind derzeit deaktiviert; es gibt kein Abonnement. Prüfe vor dem Kauf den tatsächlichen lokalen Store-Preis und die Beschreibung. Gekaufte Hinweise verfallen nicht. Zur Wiederherstellung sind die passenden Store- und App-Konten nötig; sie stellt keinen Spielfortschritt wieder her und bedeutet keine Übertragung zwischen Apple und Google. Erstattungen und Widerruf richten sich nach Store-Verfahren und geltendem Recht; zwingende Verbraucherrechte bleiben unberührt. Für die iOS-Lizenz gilt gegebenenfalls Apples Standard-EULA."
+      ],
+      [
+        "Nutzung und Verantwortung",
+        "Nur rechtmäßige persönliche Nutzung. Rechteverletzungen, Störungen und Sicherheitsumgehung sind untersagt, soweit nicht gesetzlich erlaubt. Code, Gestaltung und Inhalte gehören Next Studio oder Berechtigten; allgemeine Rätselregeln beanspruchen wir nicht. Änderungen wegen Wartung, Sicherheit oder Recht sind möglich, wesentliche Änderungen werden angemessen angekündigt. Fehlerfreiheit wird nicht garantiert. Nicht abdingbare Haftung oder Rechtsbehelfe sowie zwingender lokaler Verbraucherschutz und Zugang zu zuständigen Stellen bleiben bestehen. Kontakt: dhalska2@gmail.com."
+      ]
+    ],
+    "support": [
+      [
+        "Spielanleitung",
+        "Die Zahl einer Insel gibt die benötigte Gesamtzahl an Brücken an. Tippe die zwei nächstgelegenen Inseln derselben Zeile oder Spalte an oder wische zwischen ihnen, um zwischen 0, 1, 2 und 0 Brücken zu wechseln. Diagonalen, Kreuzungen und Brücken durch andere Inseln sind unzulässig. Erfülle alle Zahlen und verbinde alle Inseln zu einem Netz. Durch die bebilderte Anleitung in den Einstellungen kannst du wischen. Im Verschiebemodus kannst du zoomen und verschieben; Einpassen setzt die Ansicht zurück."
+      ],
+      [
+        "Speicherung, Hinweise, Sprache und Mitteilungen",
+        "Der Fortschritt wird automatisch auf dem Gerät gespeichert. Die Einstellungen bieten acht Sprachen und Designs. Hinweise werden erst nach Bestätigung abgezogen, kostenlose zuerst. Eine Belohnungsanzeige gewährt bei Erhalt der Belohnung einen Hinweis. Käufe sind in Vorbereitung; nach Aktivierung erfolgt die Wiederherstellung im Shop. Mitteilungen sind freiwillig und benötigen die Betriebssystemfreigabe. Neustart setzt nur das aktuelle Rätsel zurück; das Löschen des App-Speichers entfernt lokale Spielstände."
+      ],
+      [
+        "Probleme melden",
+        "E-Mail an dhalska2@gmail.com mit Betreff Hashi, App-Version, Gerät/OS, Schritten und optional bereinigtem Screenshot. Nur nötige Daten, niemals Passwörter, Codes oder Kartendaten. Abrechnungs- und Erstattungsfragen über den Store klären."
+      ]
+    ],
+    "delete-account": [
+      [
+        "Umfang der Hashi-Löschung",
+        "Im aktuellen Standard-Build sind Anmeldung und echte Käufe deaktiviert. Falls durch Tests oder eine spätere Kontoversion Hashi-Kontodaten entstanden sind, kannst du deren Löschung per E-Mail beantragen. Eine Kontolöschfunktion innerhalb der App ist noch nicht implementiert und wird vor dem öffentlichen Kontostart eingeplant. Für diesen Anfrageweg im Web muss die App nicht installiert sein."
+      ],
+      [
+        "Gerätedaten löschen",
+        "App auf iOS löschen statt nur auslagern; auf Android den App-Speicher, beim Webspiel die zugehörigen Browserdaten löschen. Backups separat verwalten. Neustart löscht nur ein Rätsel. Gelöschte lokale Spielstände können wir nicht wiederherstellen."
+      ],
+      [
+        "Konto-, Kauf- oder Supportdaten löschen lassen",
+        "Schreibe an dhalska2@gmail.com mit Betreff „Hashi Data Deletion“, deiner Konto-E-Mail und dem Umfang: Hashi-Kontozuordnung, Berechtigungen und Hinweisverlauf oder Supportnachrichten. Sende keine Passwörter, Bestätigungscodes, Ausweise oder Kartendaten. Nach angemessener Identitätsprüfung antworten wir innerhalb der geltenden gesetzlichen Frist. Die Löschung kann die Wiederherstellung gekaufter Hinweise und Käufe verhindern; wir erklären die Folgen vorher sowie gesetzliche Aufbewahrung und Dauer. Diese Anfrage allein löscht weder Daten anderer Spiele auf dem gemeinsamen Server noch dein Apple-/Google-Konto. Anbieterprotokolle und Store-Daten folgen deren Richtlinien; eine Löschung ist keine Erstattungsanfrage."
+      ]
+    ]
+  },
+  "pt-br": {
+    "nav": [
+      "Início",
+      "Privacidade",
+      "Termos de uso",
+      "Ajuda",
+      "Excluir dados"
+    ],
+    "tag": "Conecte ilhas. Encontre sua calma.",
+    "intro": "Suporte e políticas oficiais do Hashi · Next Studio",
+    "date": "Vigência / atualização: 15 de setembro de 2026",
+    "contact": "Contato",
+    "skip": "Ir ao conteúdo",
+    "privacy": [
+      [
+        "Responsável e abrangência",
+        "A Next Studio, na Coreia do Sul, opera o Hashi (com.osj.hashi). Esta política cobre o app e este site de suporte. Contato: dhalska2@gmail.com."
+      ],
+      [
+        "Dados do jogo no dispositivo",
+        "O progresso, o tempo, as pontes, as conclusões, o histórico de desfazer, as dicas gratuitas e os ajustes de idioma, tema, vibração e erros ficam no dispositivo. Não sincronizamos o progresso completo com nosso servidor. A prévia web não oferece anúncios móveis, notificações push nem compras. Não usamos SDKs separados do Firebase Analytics ou Crashlytics."
+      ],
+      [
+        "Publicidade e escolhas de privacidade",
+        "O app móvel usa anúncios intersticiais do Google AdMob e anúncios com recompensa opcionais. O SDK de publicidade pode tratar IP e localização aproximada inferida, identificadores do dispositivo e de publicidade, visualizações e cliques, diagnósticos e escolhas de consentimento para exibir e medir anúncios e prevenir fraudes. Não pedimos acesso à localização precisa. Os avisos de consentimento dependem da região e das escolhas; quando necessário, você pode alterá-las nas opções de privacidade de anúncios em Configurações. Recusar personalização não interrompe todo tratamento técnico. A divulgação de dados publicitários pode ser considerada venda ou compartilhamento pela legislação local; não afirmamos que nenhum dado seja coletado ou compartilhado. Exerça os direitos de recusa aplicáveis nesses controles ou por e-mail."
+      ],
+      [
+        "Notificações opcionais",
+        "As notificações vêm desativadas. Ao ativá-las, o Google Firebase Cloud Messaging e o Apple APNs no iOS tratam identificadores de instalação, tokens push, inscrições em tópicos por idioma e informações de entrega. Desativar em Configurações solicita o cancelamento da inscrição e a exclusão do token FCM. Você também pode bloqueá-las no sistema operacional. Não mantemos um banco separado de tokens por dispositivo. O envio automático ainda não está ativado."
+      ],
+      [
+        "Contas e compras, quando ativadas",
+        "O acesso à conta e as compras reais estão desativados na versão atual de preparação para lançamento. Em uma versão com contas de compra, o Supabase trata e-mail, ID da conta, registros de autenticação e acesso, IDs de produto e transação, ambiente de compra, direitos adquiridos, saldo de dicas pagas, ID da solicitação de uso, ID do puzzle e horário para autenticar, verificar, recuperar compras e evitar descontos duplicados de dicas. Não coletamos dados de cartão. O banco fica em Seul, Coreia do Sul; o Supabase e seus suboperadores podem prestar suporte de autenticação e operação a partir de outros países, incluindo os EUA. A Apple processa pagamentos e verifica transações. Quando exigidas, as bases legais são execução de contrato, legítimo interesse em segurança e prevenção a fraudes, obrigações legais ou consentimento para funções opcionais. Revisaremos este aviso e os fluxos antes de ativar compras."
+      ],
+      [
+        "Retenção no servidor e transferências",
+        "Os registros de conta, direitos e dicas pagas permanecem enquanto necessários ao serviço e à recuperação; dados desnecessários são excluídos mediante solicitação. Registros necessários para disputas ou obrigações legais são mantidos apenas no necessário, com motivo e prazo aplicável informados ao solicitante. Excluir a conta não apaga transações da loja. Google/Firebase, Apple, Supabase, GitHub e provedores de e-mail podem tratar dados fora do seu país, incluindo Coreia do Sul e EUA, conforme suas políticas e salvaguardas aplicáveis. Entre em contato para saber mais sobre transferências e exercer seus direitos."
+      ],
+      [
+        "Suporte e fornecedores",
+        "Seu e-mail, mensagem e anexos voluntários são usados somente para responder e resolver a solicitação. Não envie senhas, códigos ou cartões. Usamos Gmail e GitHub Pages; estas páginas não têm anúncios, scripts analíticos ou formulários. O GitHub pode tratar IP e registros para hospedagem e segurança. Apple, Google, GitHub e serviços de backup seguem políticas próprias e podem tratar dados fora do seu país, inclusive nos EUA. Não enviamos partidas locais; backups do sistema são gerenciados separadamente."
+      ],
+      [
+        "Retenção e exclusão",
+        "Os dados locais ficam até apagar o armazenamento: exclua o app no iOS (desinstalar mantendo dados pode preservá-los), limpe o armazenamento no Android ou os dados do site do jogo web. Gerencie backups separadamente. Mensagens de suporte ficam apenas enquanto necessárias, sendo excluídas depois. Retenção legal ou por disputa será explicada com motivo e prazo aplicável, mediante solicitação. Registros dos fornecedores seguem suas próprias políticas."
+      ],
+      [
+        "Direitos e bases legais",
+        "Conforme a lei local, você pode pedir acesso, correção, exclusão, cópia portátil, restrição, oposição, retirada do consentimento ou revisão de decisão. Não discriminamos pelo exercício de direitos; você pode reclamar à autoridade local. Podemos verificar a identidade de forma proporcional. Quando exigido, tratamos solicitações com base no atendimento do serviço, interesse legítimo em resolver problemas, obrigação legal ou consentimento necessário. A retirada não afeta tratamentos anteriores lícitos."
+      ],
+      [
+        "Crianças, segurança e mudanças",
+        "Jogar não exige informações pessoais. Não solicitamos conscientemente dados de crianças; responsáveis podem contatar-nos sobre informações enviadas ao suporte. Limitamos o acesso e adotamos medidas razoáveis, sem garantir segurança absoluta. Mudanças importantes serão datadas, com os avisos ou consentimentos exigidos."
+      ]
+    ],
+    "terms": [
+      [
+        "Serviço e partidas salvas",
+        "Hashi conecta ilhas numeradas com pontes. Dos 2.200 puzzles, 200 são gratuitos; Hoje alterna entre os puzzles gratuitos. Progresso e configurações ficam no dispositivo, sem sincronização de partidas entre aparelhos. As escolhas de privacidade seguem uma política separada; aceitar estes termos não substitui o consentimento publicitário."
+      ],
+      [
+        "Anúncios, produtos e direitos do consumidor",
+        "O jogo gratuito pode incluir intersticiais e anúncios com recompensa opcionais. Quando as vendas começarem, a remoção de intersticiais e o Premium serão não consumíveis, enquanto pacotes de dicas serão consumíveis. O Premium oferece 2.000 puzzles extras, remove intersticiais e concede três dicas gratuitas por dia. Anúncios com recompensa continuam opcionais após remover anúncios. Compras estão desativadas e não há assinatura. Confira o preço local real e a descrição na loja antes de comprar. Dicas pagas não expiram; restaurar compras exige as contas correspondentes da loja e do app. Isso não restaura o progresso nem permite transferir entre Apple e Google. Reembolsos e arrependimento seguem os procedimentos da loja e a legislação aplicável, sem limitar direitos obrigatórios. O EULA padrão da Apple se aplica à licença iOS quando cabível."
+      ],
+      [
+        "Uso e responsabilidade",
+        "Somente uso pessoal lícito. Não viole direitos, prejudique o serviço ou contorne segurança, salvo permissão legal. Código, arte e conteúdo pertencem à Next Studio ou aos titulares; não reivindicamos as regras gerais do puzzle. Podemos alterar funções por manutenção, segurança ou lei, avisando sobre mudanças relevantes. Não garantimos ausência de erros nem excluímos responsabilidades ou recursos que a lei protege. Permanecem as proteções locais obrigatórias e o acesso às autoridades competentes. Contato: dhalska2@gmail.com."
+      ]
+    ],
+    "support": [
+      [
+        "Como jogar",
+        "O número de uma ilha indica o total de pontes necessário. Toque nas duas ilhas mais próximas da mesma linha ou coluna, ou deslize entre elas, para alternar entre 0, 1, 2 e 0 pontes. Diagonais, cruzamentos e pontes que passam por outra ilha não são permitidos. Atenda a todos os números e conecte todas as ilhas em uma única rede. Deslize as páginas do guia ilustrado em Configurações. Use o modo Mover para ampliar e deslocar; Ajustar restaura a visualização."
+      ],
+      [
+        "Progresso, dicas, idioma e notificações",
+        "O progresso é salvo automaticamente no dispositivo. Configurações oferece oito idiomas e temas. Dicas são descontadas após confirmação, usando as gratuitas primeiro. Um anúncio com recompensa concede uma dica quando a recompensa é obtida. As compras estão em preparação; após ativadas, restaure-as pela loja do app. Notificações são opcionais e exigem permissão do sistema. Reiniciar afeta apenas o puzzle atual; limpar o armazenamento apaga o progresso local."
+      ],
+      [
+        "Relatar problema",
+        "Escreva a dhalska2@gmail.com com Hashi no assunto, versão, aparelho/SO, passos e captura opcional sem dados pessoais. Envie apenas o necessário, nunca senhas, códigos ou cartões. Para cobrança e reembolso, use o suporte da loja."
+      ]
+    ],
+    "delete-account": [
+      [
+        "Escopo da exclusão do Hashi",
+        "A versão padrão atual não ativa contas nem compras reais. Se existirem dados de conta do Hashi criados em testes ou em uma versão futura com contas, você poderá solicitar a exclusão pelo e-mail abaixo. O botão de exclusão dentro do app ainda não foi implementado; está previsto um caminho no app antes da abertura pública de contas. Esta solicitação web não exige instalar o app."
+      ],
+      [
+        "Apagar dados locais",
+        "Exclua o app no iOS, sem apenas desinstalar mantendo dados; no Android limpe o armazenamento; no jogo web apague os dados do site. Backups são separados. Reiniciar só apaga aquele puzzle. Não conseguimos recuperar registros locais excluídos."
+      ],
+      [
+        "Solicitar exclusão de conta, compras ou suporte",
+        "Envie um e-mail para dhalska2@gmail.com com o assunto “Hashi Data Deletion”, o e-mail da conta e o escopo: vínculo da conta Hashi, direitos e registros de dicas ou mensagens de suporte. Não envie senhas, códigos, documentos de identidade nem dados de cartão. Após verificação proporcional, responderemos dentro do prazo legal aplicável. A exclusão pode impedir a recuperação de dicas pagas e compras; explicaremos o impacto antes de processar, além de qualquer retenção obrigatória e seu prazo. Esta solicitação, por si só, não exclui dados de outros jogos no servidor compartilhado nem sua conta Apple ou Google. Registros de provedores e lojas seguem suas políticas; excluir dados não é solicitar reembolso."
+      ]
+    ]
+  }
+}
