@@ -1,0 +1,658 @@
+{
+  "en": {
+    "nav": [
+      "Home",
+      "Privacy Policy",
+      "Terms of Service",
+      "Help & Support",
+      "Data Deletion"
+    ],
+    "tag": "A little loop, a little calm.",
+    "intro": "Official Slitherlink support and policies · Next Studio",
+    "date": "Effective / updated September 15, 2026",
+    "contact": "Contact",
+    "skip": "Skip to content",
+    "privacy": [
+      [
+        "Operator and scope",
+        "Next Studio (South Korea) operates Slitherlink (com.osj.slitherlink). This policy covers the app and this support website. Privacy contact: dhalska2@gmail.com."
+      ],
+      [
+        "App data and purchases",
+        "Puzzle boards, elapsed time, moves, hint use, completion records, undo/redo history, theme and haptic/error-display settings stay in app storage on your device for saved games and preferences. We do not upload this progress to a server. The current app has no account, advertising, AdMob, analytics tracking or push notifications. It does not sell personal data or share it for targeted advertising. Premium purchases are not yet enabled. Store availability and product information may be requested through Apple or Google. We do not collect card details. Before enabling purchase verification or changing data handling, we will update this policy."
+      ],
+      [
+        "Support and website providers",
+        "If you email us, we receive your email address, message and any attachments you choose to send, solely to answer your request and resolve issues. Do not send passwords, codes or card details. We use Gmail for email and GitHub Pages for this website. These pages have no advertising, analytics scripts or submission forms. GitHub may process IP addresses and request logs for hosting/security. Apple, Google, GitHub and device backup services handle their own information under their policies. Providers may process information outside your country, including the United States. We do not upload local game saves to them ourselves; operating-system backups are controlled separately."
+      ],
+      [
+        "Retention and deletion",
+        "Local progress remains until app storage is cleared. Delete the app on iOS (offloading may retain data), clear app storage on Android, or clear site data for the web game. Manage device/cloud backups separately. We retain support messages only while needed to resolve the request, then delete them when no longer necessary. Information required by law or an ongoing dispute may be retained as necessary; we explain the reason and applicable period on request. Provider-controlled records follow their own retention policies."
+      ],
+      [
+        "Your rights and processing grounds",
+        "Depending on local law, you may request access, correction, deletion, a portable copy, restriction, objection, withdrawal of consent or appeal of a decision. Contact us without discrimination for exercising your rights; you may also complain to your local data-protection authority. We may request proportionate identity verification. Where a legal basis is required, support processing relies on responding to your service request, legitimate interests in resolving issues, legal obligations, or consent where required. Withdrawing consent does not affect prior lawful processing."
+      ],
+      [
+        "Children, safeguards and changes",
+        "The app does not require personal details to play. We do not knowingly solicit children’s personal information; a parent or guardian may contact us about information a child sent to support. We limit access to support information and use reasonable safeguards without promising absolute security. Material changes will be reflected here with a new date and any legally required notice or consent."
+      ]
+    ],
+    "terms": [
+      [
+        "Service and saved games",
+        "These Terms apply to Slitherlink provided by Next Studio. Play forms a single closed loop around number clues. Saves and settings are local; cross-device synchronization and recovery after deletion are not promised. Today’s puzzle rotates through the free collection. Features depend on the version. Privacy choices are governed by the separate Privacy Policy, not consent implied by these Terms."
+      ],
+      [
+        "Premium content and consumer rights",
+        "The planned model is 30 free puzzles and 60 additional puzzles through a one-time, non-consumable purchase. There are no ads or subscriptions. Purchases are currently unavailable. When offered, review the store’s actual price, description and availability before buying. Restoration uses the same store account and does not imply transfer between Apple and Google. Billing, refunds and any applicable withdrawal rights follow store procedures and applicable law. Mandatory consumer rights remain unaffected. Apple’s standard EULA applies where applicable to the iOS license."
+      ],
+      [
+        "Use, changes and responsibility",
+        "Use the app for lawful personal purposes. Do not infringe rights, disrupt the service or bypass security except where law permits. App code, artwork and content belong to Next Studio or their lawful owners; these Terms do not claim ownership of the general puzzle rules. We may update features for maintenance, security or legal reasons and provide appropriate notice of material changes. We do not guarantee error-free operation. Nothing excludes liability or remedies that cannot lawfully be excluded. Your mandatory local consumer protections and access to competent authorities remain intact. Contact: dhalska2@gmail.com."
+      ]
+    ],
+    "support": [
+      [
+        "How to play",
+        "Each number specifies the number of lines around its cell; blank cells have no number constraint. All lines must form one closed loop with no branches or crossings. Tap between dots to place a line or X; tap the same mark to remove it. Long-press places X. Move mode supports zoom/pan; Fit resets the view. Undo, redo and hints are available."
+      ],
+      [
+        "Saved progress and purchases",
+        "Progress saves automatically on this device. Backgrounding pauses play; tap Continue to resume. There is no sign-in, cloud sync, advertising or push setting. Restart resets only the current puzzle; deleting app storage removes local progress. Premium sales are not yet enabled; “Coming soon” is expected. Once sales begin, use Restore Purchases in the Premium tab with the same store account. A purchase will not restore puzzle progress."
+      ],
+      [
+        "Report an issue",
+        "Email dhalska2@gmail.com with Slitherlink in the subject, app version, device/OS, reproduction steps and an optional redacted screenshot. Send only information needed to investigate. Never send passwords, verification codes or payment-card details. For store billing or refund requests, use the store’s support process."
+      ]
+    ],
+    "delete-account": [
+      [
+        "No app account",
+        "Slitherlink currently has no account or server-saved game profile. There is no account to close or in-app account-deletion button. You can delete local progress or request deletion of support correspondence without installing the app."
+      ],
+      [
+        "Delete device data",
+        "On iOS, delete the app, rather than only offloading it. On Android, clear this app’s storage in system settings. For the web game, clear its site data in your browser. Device/cloud backups are managed separately. A puzzle restart only clears that puzzle. Deleted local records cannot be recovered by us."
+      ],
+      [
+        "Request support-data deletion",
+        "Email dhalska2@gmail.com with subject “Slitherlink Data Deletion” and identify the support correspondence to delete. Do not send passwords, identity documents or card details. We may clarify scope or verify identity and will reply within the applicable legal period. We delete unneeded data; any legally necessary retention or refusal will be explained. This does not delete other games’ data, your Apple/Google account, provider logs or store records, and is not a refund request."
+      ]
+    ]
+  },
+  "ko": {
+    "nav": [
+      "홈",
+      "개인정보처리방침",
+      "이용약관",
+      "도움말 및 지원",
+      "데이터 삭제"
+    ],
+    "tag": "점을 잇고, 생각을 쉬어가요.",
+    "intro": "슬리더링크 공식 지원·정책 안내 · 넥스트 스튜디오",
+    "date": "시행일 / 최종 수정: 2026년 9월 15일",
+    "contact": "문의",
+    "skip": "본문으로",
+    "privacy": [
+      [
+        "운영자와 적용 범위",
+        "대한민국의 넥스트 스튜디오(Next Studio)가 슬리더링크(com.osj.slitherlink)를 운영합니다. 이 방침은 앱과 이 지원 웹사이트에 적용됩니다. 개인정보 문의: dhalska2@gmail.com."
+      ],
+      [
+        "앱 정보와 구매",
+        "퍼즐 보드, 경과 시간, 입력·힌트 사용 횟수, 완료 기록, 실행 취소/재실행 기록, 테마·햅틱·오류 표시 설정은 게임 재개와 설정 유지를 위해 기기에 저장됩니다. 운영자 서버로 전송하지 않습니다. 현재 앱에는 계정, 광고, AdMob, 분석 추적, 푸시 알림이 없습니다. 개인정보를 판매하거나 맞춤 광고 목적으로 공유하지 않습니다. 프리미엄 결제는 아직 활성화되지 않았습니다. Apple 또는 Google을 통해 스토어 이용 가능 여부와 상품 정보를 조회할 수 있습니다. 카드 정보를 수집하지 않습니다. 구매 검증이나 정보 처리를 변경하기 전에 이 방침을 갱신합니다."
+      ],
+      [
+        "문의와 웹사이트 제공업체",
+        "문의 이메일을 보내면 이메일 주소, 문의 내용과 선택적으로 보낸 첨부파일을 답변·문제 해결에 사용합니다. 비밀번호·인증 코드·카드 정보는 보내지 마세요. 문의에는 Gmail, 웹페이지 호스팅에는 GitHub Pages를 사용합니다. 이 페이지에는 광고·분석 스크립트·입력 폼이 없습니다. GitHub는 호스팅·보안을 위해 IP 주소와 접속 기록을 처리할 수 있습니다. Apple·Google·GitHub·기기 백업 서비스가 직접 처리하는 정보에는 각 정책이 적용됩니다. 제공업체는 미국 등 이용자 국가 외에서도 처리할 수 있습니다. 운영자가 로컬 게임 기록을 이들 서버로 전송하지는 않으며 운영체제 백업은 별도 설정을 따릅니다."
+      ],
+      [
+        "보유 및 삭제",
+        "로컬 정보는 앱 저장 공간이 삭제될 때까지 남습니다. iOS에서는 앱 삭제(앱 정리하기는 데이터를 남길 수 있음), Android에서는 앱 저장 공간 삭제, 웹 게임에서는 브라우저의 해당 사이트 데이터 삭제를 이용하세요. 기기·클라우드 백업은 별도로 관리하세요. 문의 정보는 요청 처리에 필요한 동안 보유하고 불필요해지면 삭제합니다. 법령·진행 중인 분쟁으로 필요한 경우 필요한 범위에서 보유하며 요청 시 사유와 적용 기간을 안내합니다. 제공업체가 직접 관리하는 정보는 각 보유 정책을 따릅니다."
+      ],
+      [
+        "이용자 권리와 처리 근거",
+        "적용 법령에 따라 열람, 정정, 삭제, 이동 가능한 사본, 처리 제한, 이의 제기, 동의 철회 또는 결정에 대한 재검토를 요청할 수 있습니다. 권리 행사에 따른 차별 없이 문의할 수 있으며 관할 개인정보 감독기관에 민원을 제기할 수 있습니다. 필요한 범위에서 본인 확인을 요청할 수 있습니다. 처리 근거가 필요한 지역에서는 서비스 요청에 대한 응답, 문제 해결의 정당한 이익, 법적 의무 또는 필요한 동의를 근거로 문의 정보를 처리합니다. 동의 철회는 철회 전 적법한 처리에 영향을 주지 않습니다."
+      ],
+      [
+        "아동·보호 조치·변경",
+        "게임에 개인정보 입력이 필요하지 않습니다. 아동의 개인정보를 고의로 요청하지 않으며, 아동이 문의 과정에서 보낸 정보는 보호자가 연락하여 확인·삭제를 요청할 수 있습니다. 문의 정보의 접근을 제한하는 등 합리적 보호 조치를 취하지만 완전한 보안을 보장하지는 않습니다. 중요한 변경 시 날짜와 내용을 갱신하고 법령상 필요한 안내·동의 절차를 제공합니다."
+      ]
+    ],
+    "terms": [
+      [
+        "서비스와 저장",
+        "이 약관은 넥스트 스튜디오의 슬리더링크에 적용됩니다. 숫자에 맞게 하나의 고리를 만드는 퍼즐을 제공합니다. 진행과 설정은 기기에 저장되며 기기 간 동기화나 삭제 후 복구를 보장하지 않습니다. 오늘의 퍼즐은 무료 컬렉션을 순환합니다. 제공 기능은 버전에 따라 달라집니다. 약관 동의는 별도 개인정보 동의를 대신하지 않습니다."
+      ],
+      [
+        "프리미엄과 소비자 권리",
+        "무료 30문제와 일회성 비소모성 구매로 추가 60문제를 제공하는 모델을 계획하고 있습니다. 광고와 구독은 없으며 현재 결제는 이용할 수 없습니다. 판매 시 스토어의 실제 가격·설명·이용 가능 여부를 확인하세요. 구매 복원은 같은 스토어 계정을 사용하며 Apple과 Google 간 이전을 뜻하지 않습니다. 청구·환불·해당되는 청약철회는 스토어 절차와 적용 법령을 따릅니다. 법정 소비자 권리는 제한되지 않습니다. iOS 라이선스에는 해당하는 경우 Apple 표준 EULA가 적용됩니다."
+      ],
+      [
+        "이용·변경·책임",
+        "합법적인 개인 용도로 이용하세요. 법령상 허용되는 경우를 제외하고 타인의 권리 침해, 서비스 방해, 보안 우회를 해서는 안 됩니다. 앱 코드·디자인·콘텐츠는 넥스트 스튜디오 또는 정당한 권리자에게 귀속되며 일반적인 퍼즐 규칙 자체에 독점권을 주장하지 않습니다. 유지보수·보안·법령 사유로 기능을 변경할 수 있고 중요한 변경은 적절히 안내합니다. 무오류 동작을 보장하지 않습니다. 법률상 제한할 수 없는 책임·구제수단은 제외되지 않으며 거주지의 강행적 소비자 보호와 관할 기관에 대한 권리가 유지됩니다. 문의: dhalska2@gmail.com."
+      ]
+    ],
+    "support": [
+      [
+        "게임 방법",
+        "숫자는 칸 주변에 필요한 선의 수이며 빈칸은 개수 제한이 없습니다. 모든 선은 갈라짐·교차 없이 하나의 닫힌 고리를 이루어야 합니다. 점 사이를 탭하여 선이나 X를 놓고 같은 표시를 다시 탭하면 지웁니다. 길게 누르면 X, 이동 모드에서는 확대·이동, 화면 맞춤으로 원래 보기를 복원할 수 있습니다. 되돌리기·다시 실행·힌트를 사용할 수 있습니다."
+      ],
+      [
+        "기록과 구매",
+        "진행은 이 기기에 자동 저장됩니다. 백그라운드로 이동하면 일시 정지되며 계속하기로 재개합니다. 로그인·클라우드 동기화·광고·푸시 설정은 없습니다. 처음부터는 현재 퍼즐만 초기화하며 앱 저장 공간 삭제는 로컬 기록을 지웁니다. 프리미엄 판매는 준비 중이므로 출시 준비 중 표시가 정상입니다. 판매 시작 후에는 같은 스토어 계정으로 프리미엄 탭의 구매 복원을 이용하세요. 구매 복원은 게임 진행을 복원하지 않습니다."
+      ],
+      [
+        "문제 문의",
+        "이메일 제목에 Slitherlink 또는 슬리더링크를 적고 앱 버전, 기기·운영체제, 재현 순서와 필요시 개인정보를 가린 스크린샷을 dhalska2@gmail.com으로 보내세요. 조사에 필요한 정보만 보내고 비밀번호·인증 코드·카드 정보는 보내지 마세요. 스토어 청구·환불은 해당 스토어 지원 절차를 이용하세요."
+      ]
+    ],
+    "delete-account": [
+      [
+        "앱 계정 없음",
+        "슬리더링크에는 현재 계정이나 서버에 저장된 게임 프로필이 없습니다. 탈퇴할 계정이나 앱 내 계정 삭제 버튼도 없습니다. 앱 설치 없이 로컬 기록을 지우거나 기존 문의 내역의 삭제를 요청할 수 있습니다."
+      ],
+      [
+        "기기 데이터 삭제",
+        "iOS에서는 앱 정리하기가 아닌 앱 삭제를 이용하세요. Android에서는 시스템 설정에서 이 앱의 저장 공간을 삭제하세요. 웹 게임은 브라우저에서 해당 사이트 데이터를 삭제하세요. 기기·클라우드 백업은 별도로 관리해야 합니다. 퍼즐 처음부터는 해당 퍼즐만 지웁니다. 삭제한 로컬 기록은 운영자가 복구할 수 없습니다."
+      ],
+      [
+        "문의 내역 삭제 요청",
+        "제목에 Slitherlink Data Deletion을 적고 삭제할 문의 내역을 식별할 수 있는 정보를 dhalska2@gmail.com으로 보내세요. 비밀번호·신분증·카드 정보는 보내지 마세요. 범위나 본인 확인이 필요할 수 있으며 적용 법령의 기간 내에 결과를 회신합니다. 불필요한 정보를 삭제하고 법적 보유나 거절 사유가 있으면 안내합니다. 다른 게임 정보, Apple·Google 계정, 제공업체 로그나 스토어 기록을 삭제하는 요청은 아니며 환불 요청도 아닙니다."
+      ]
+    ]
+  },
+  "ja": {
+    "nav": [
+      "ホーム",
+      "プライバシーポリシー",
+      "利用規約",
+      "ヘルプとサポート",
+      "データ削除"
+    ],
+    "tag": "点をつないで、ひと休み。",
+    "intro": "Slitherlink 公式サポート・ポリシー · Next Studio",
+    "date": "施行・更新日：2026年9月15日",
+    "contact": "お問い合わせ",
+    "skip": "本文へ",
+    "privacy": [
+      [
+        "運営者と範囲",
+        "韓国のNext StudioがSlitherlink（com.osj.slitherlink）を運営します。本方針はアプリとこのサポートサイトに適用されます。連絡先：dhalska2@gmail.com。"
+      ],
+      [
+        "アプリの情報と購入",
+        "盤面、経過時間、操作・ヒント回数、クリア記録、取り消し履歴、テーマ・振動・エラー表示設定は、再開と設定維持のため端末内に保存され、運営者のサーバーへ送信されません。現在、アカウント、広告、AdMob、分析追跡、プッシュ通知はありません。個人情報を販売せず、ターゲティング広告のために共有しません。購入はまだ無効です。AppleまたはGoogleにストアの利用可否や商品情報を照会する場合があります。カード情報は収集しません。購入検証やデータ処理の変更前に本方針を更新します。"
+      ],
+      [
+        "問い合わせと提供者",
+        "メールで送信したアドレス、本文、任意の添付資料を回答・問題解決に使用します。パスワード、認証コード、カード情報は送らないでください。メールはGmail、サイトはGitHub Pagesを利用し、このページには広告・分析スクリプト・入力フォームはありません。GitHubは配信と安全性のためIPアドレスやアクセス記録を処理する場合があります。Apple、Google、GitHub、端末バックアップの情報処理には各社の方針が適用され、米国など国外で処理される場合があります。運営者はゲーム記録を送信しませんが、OSのバックアップは別に管理されます。"
+      ],
+      [
+        "保存と削除",
+        "端末情報はアプリの保存領域を消去するまで残ります。iOSはアプリ削除（取り除く操作では残る場合あり）、Androidはストレージ消去、ウェブ版はサイトデータ消去を使用してください。バックアップは別に管理してください。問い合わせ情報は対応に必要な間のみ保持し、不要になれば削除します。法令や係争のため保持が必要な場合、理由と期間を案内します。提供者自身の記録には各社の保存方針が適用されます。"
+      ],
+      [
+        "権利と処理の根拠",
+        "適用法に応じ、開示、訂正、削除、移行可能なコピー、処理制限、異議、同意撤回、決定への不服申立てを求められます。権利行使を理由に差別せず、現地の監督機関への申立ても可能です。必要最小限の本人確認を求める場合があります。法的根拠が必要な場合、依頼への対応、問題解決の正当な利益、法的義務、必要な同意に基づき処理します。撤回は過去の適法な処理に影響しません。"
+      ],
+      [
+        "子ども・保護・変更",
+        "プレイに個人情報の入力は不要です。子どもの情報を故意に求めません。子どもがサポートに送った情報は保護者から連絡できます。アクセス制限など合理的な措置を講じますが完全な安全は保証しません。重要な変更は更新日とともに掲載し、必要な通知・同意手続きを行います。"
+      ]
+    ],
+    "terms": [
+      [
+        "サービスと記録",
+        "Next StudioのSlitherlinkに適用されます。数字に合わせて一つの輪を作るパズルです。記録は端末内に保存され、端末間同期や削除後の復旧は保証しません。今日の問題は無料コレクションから順に選ばれます。機能はバージョンにより異なります。本規約への同意は別途の個人情報同意に代わりません。"
+      ],
+      [
+        "有料コンテンツと消費者の権利",
+        "無料30問と一度の非消耗型購入で追加60問を提供する予定です。広告・定期購読はなく、現在購入できません。販売時はストアの実際の価格・説明・提供状況を確認してください。復元には同じストアアカウントを使用し、AppleとGoogle間の移行を意味しません。請求・返金・適用される撤回権はストア手続きと法令に従います。法定の消費者権利は制限しません。iOSライセンスには該当する場合Apple標準EULAが適用されます。"
+      ],
+      [
+        "利用・変更・責任",
+        "適法な個人利用に限ります。法が認める場合を除き、権利侵害、妨害、セキュリティ回避を禁止します。コード・画像・コンテンツはNext Studioまたは正当な権利者に帰属し、一般的なパズルのルールの独占権は主張しません。保守・安全・法令上の理由で変更する場合があり、重要な変更は案内します。無障害は保証しません。法律上排除できない責任・救済、居住地の強行的な消費者保護や管轄機関への権利は制限しません。連絡先：dhalska2@gmail.com。"
+      ]
+    ],
+    "support": [
+      [
+        "遊び方",
+        "数字は周囲の線の本数です。空欄には本数の制限がありません。すべての線を分岐・交差のない一つの閉じた輪につなぎます。点の間をタップして線やXを置き、同じ印を再タップすると消えます。長押しでX、移動モードで拡大・移動、画面調整で元に戻せます。取り消し、やり直し、ヒントも使えます。"
+      ],
+      [
+        "保存と購入",
+        "端末に自動保存され、バックグラウンドでは一時停止します。続行で再開します。ログイン・クラウド同期・広告・プッシュ設定はありません。最初からは現在の問題のみ、保存領域の消去は全ローカル記録を消します。販売準備中の表示は正常です。販売開始後は同じストアアカウントでプレミアム画面の購入復元を使用します。購入復元はゲーム記録を復元しません。"
+      ],
+      [
+        "問題の報告",
+        "件名にSlitherlink、本文にアプリ版、端末・OS、再現手順、必要なら個人情報を隠した画像を記載し、dhalska2@gmail.comへ送ってください。必要な情報のみ送り、パスワード・コード・カード情報は送らないでください。請求・返金はストア窓口を利用してください。"
+      ]
+    ],
+    "delete-account": [
+      [
+        "アカウントはありません",
+        "現在アカウントやサーバー上のゲームプロフィールはなく、退会やアカウント削除ボタンもありません。アプリをインストールせず問い合わせ情報の削除を依頼できます。"
+      ],
+      [
+        "端末情報の消去",
+        "iOSではアプリを削除し、取り除くだけにしないでください。Androidはシステム設定でアプリのストレージを消去、ウェブ版はブラウザーのサイトデータを消去します。バックアップは別管理です。問題の再開始はその問題だけを消去します。消したローカル記録を運営者は復旧できません。"
+      ],
+      [
+        "問い合わせの削除",
+        "件名をSlitherlink Data Deletionにし、削除対象の問い合わせを特定してdhalska2@gmail.comへ送ってください。パスワード・身分証・カード情報は不要です。対象確認や本人確認を行う場合があり、法定期間内に回答します。不要な情報を削除し、法的保持や拒否が必要なら理由を説明します。他のゲーム、Apple/Googleアカウント、提供者のログ、ストア記録の削除や返金にはなりません。"
+      ]
+    ]
+  },
+  "zh-hans": {
+    "nav": [
+      "首页",
+      "隐私政策",
+      "服务条款",
+      "帮助与支持",
+      "删除数据"
+    ],
+    "tag": "连接圆点，放松思绪。",
+    "intro": "Slitherlink 官方支持与政策 · Next Studio",
+    "date": "生效／更新日期：2026年9月15日",
+    "contact": "联系我们",
+    "skip": "跳至正文",
+    "privacy": [
+      [
+        "运营者与范围",
+        "韩国 Next Studio 运营 Slitherlink（com.osj.slitherlink）。本政策适用于应用和此支持网站。隐私联系邮箱：dhalska2@gmail.com。"
+      ],
+      [
+        "应用数据与购买",
+        "棋盘、用时、操作和提示次数、完成记录、撤销/重做历史、主题、振动和错误显示设置保存在设备中，用于继续游戏和保留设置，不会上传到运营者服务器。目前没有账号、广告、AdMob、分析跟踪或推送通知。我们不出售个人信息，也不为定向广告共享信息。高级购买尚未启用，应用可能向 Apple 或 Google 查询商店可用性及商品信息。我们不收集银行卡资料。启用购买验证或改变数据处理前，将更新本政策。"
+      ],
+      [
+        "支持与服务提供者",
+        "您发邮件时，我们收到邮箱地址、正文及自愿提供的附件，仅用于回复和解决问题。请勿发送密码、验证码或银行卡资料。邮件使用 Gmail，网站使用 GitHub Pages。本页面没有广告、分析脚本或提交表单。GitHub 可能为托管和安全处理 IP 地址与访问日志。Apple、Google、GitHub 和设备备份服务按照各自政策处理信息，可能在美国等境外地区处理。我们不自行上传本地游戏存档；操作系统备份单独管理。"
+      ],
+      [
+        "保存与删除",
+        "本地数据保留至应用存储被清除。iOS 请删除应用（仅卸载应用可能保留数据），Android 请清除应用存储，网页版请清除对应网站数据。设备及云备份需另行管理。支持信息仅在处理请求所需期间保留，之后不再需要时删除。法律或争议处理要求保留的，将按需说明理由和适用期限。服务提供者的记录遵循其自身保留政策。"
+      ],
+      [
+        "权利与处理依据",
+        "根据当地法律，您可要求访问、更正、删除、可迁移副本、限制处理、反对、撤回同意或对决定提出申诉。行使权利不会受到歧视，也可向当地数据保护机构投诉。我们可能进行适度的身份验证。需要法律依据时，基于回应服务请求、解决问题的正当利益、法律义务或必要同意处理支持信息。撤回不影响此前合法处理。"
+      ],
+      [
+        "儿童、安全与更新",
+        "游戏不要求提供个人信息。我们不会故意索取儿童信息；监护人可就儿童向支持邮箱发送的信息联系我们。我们限制信息访问并采取合理保护措施，但不保证绝对安全。重大变更会更新日期，并依法通知或征求同意。"
+      ]
+    ],
+    "terms": [
+      [
+        "服务与存档",
+        "本条款适用于 Next Studio 的 Slitherlink。游戏要求按数字形成一条闭合回路。存档及设置在本地保存，不承诺跨设备同步或删除后恢复。今日题目轮换使用免费题库，功能可能随版本变化。本条款的同意不能代替单独的隐私同意。"
+      ],
+      [
+        "高级内容与消费者权利",
+        "计划提供30道免费题目和一次性非消耗型购买的60道额外题目。没有广告或订阅，目前不能购买。销售开始后，请以商店实际价格、说明和供应情况为准。恢复购买使用同一商店账号，不代表可在 Apple 与 Google 间转移。账单、退款和适用的撤回权遵循商店流程及法律，不限制法定消费者权利。iOS 许可在适用时受 Apple 标准 EULA 约束。"
+      ],
+      [
+        "使用、变更与责任",
+        "仅供合法个人使用。除法律允许外，不得侵权、干扰服务或绕过安全措施。代码、美术和内容属于 Next Studio 或合法权利人，不主张对通用游戏规则的独占权。维护、安全或法律原因可能导致功能变化，重大变化将适当通知。不保证完全无错误；法律不允许排除的责任、救济、当地强制消费者保护及向主管机关求助的权利不受影响。联系：dhalska2@gmail.com。"
+      ]
+    ],
+    "support": [
+      [
+        "玩法",
+        "数字表示格子四周需要的线数，空白格无数量限制。所有线须组成没有分支或交叉的一条闭合回路。点击点之间放线或X，再点同一标记可删除；长按放X。移动模式支持缩放和平移，画面适配恢复视图。可使用撤销、重做和提示。"
+      ],
+      [
+        "进度与购买",
+        "进度自动保存在本设备，进入后台会暂停，点击继续恢复。没有登录、云同步、广告或推送设置。重新开始仅清除当前题目，清除应用存储会删除本地记录。高级购买正在准备中，此提示为正常状态。销售开始后，可使用同一商店账号在高级页面恢复购买；购买恢复不会恢复游戏进度。"
+      ],
+      [
+        "报告问题",
+        "邮件主题写 Slitherlink，提供版本、设备/系统、复现步骤和必要的已遮盖个人信息的截图，发送至 dhalska2@gmail.com。仅发送调查所需信息，不要发送密码、验证码或银行卡资料。账单和退款请通过商店支持流程处理。"
+      ]
+    ],
+    "delete-account": [
+      [
+        "没有应用账号",
+        "目前没有账号或服务器游戏档案，因此没有注销账号或账号删除按钮。无需安装应用即可要求删除支持邮件信息。"
+      ],
+      [
+        "删除设备数据",
+        "iOS 请删除应用，不要仅卸载保留数据。Android 请在系统设置清除应用存储；网页版清除浏览器中该网站的数据。备份需单独管理。重新开始只删除当前题目。运营者无法恢复已删除的本地记录。"
+      ],
+      [
+        "删除支持信息",
+        "向 dhalska2@gmail.com 发送主题为 Slitherlink Data Deletion 的邮件，说明要删除的往来邮件。不要发送密码、身份证件或银行卡信息。我们可能确认范围或身份，并在适用法定期限内回复，删除不再需要的数据；依法保留或拒绝时会解释原因。这不会删除其他游戏数据、Apple/Google账号、提供者日志或商店记录，也不是退款请求。"
+      ]
+    ]
+  },
+  "es": {
+    "nav": [
+      "Inicio",
+      "Privacidad",
+      "Condiciones",
+      "Ayuda",
+      "Eliminar datos"
+    ],
+    "tag": "Une los puntos y descansa.",
+    "intro": "Soporte y políticas de Slitherlink · Next Studio",
+    "date": "Vigencia / actualización: 15 de septiembre de 2026",
+    "contact": "Contacto",
+    "skip": "Ir al contenido",
+    "privacy": [
+      [
+        "Responsable y alcance",
+        "Next Studio, Corea del Sur, opera Slitherlink (com.osj.slitherlink). Esta política cubre la app y este sitio de soporte. Contacto: dhalska2@gmail.com."
+      ],
+      [
+        "Datos de la app y compras",
+        "Tableros, tiempo, movimientos, pistas, resultados, historial de deshacer/rehacer, tema, vibración y avisos de errores se guardan en el dispositivo para continuar y conservar preferencias; no los subimos a un servidor. Actualmente no hay cuentas, anuncios, AdMob, seguimiento analítico ni notificaciones push. No vendemos datos ni los compartimos para publicidad dirigida. Las compras aún no están activas. La app puede consultar disponibilidad y productos a Apple o Google. No recogemos datos de tarjetas. Actualizaremos esta política antes de activar la verificación de compras o cambiar el tratamiento."
+      ],
+      [
+        "Soporte y proveedores",
+        "Usamos el correo, mensaje y adjuntos que envías solo para responder y resolver tu solicitud. No envíes contraseñas, códigos ni tarjetas. Usamos Gmail y GitHub Pages; estas páginas no contienen anuncios, analítica ni formularios. GitHub puede tratar IP y registros para alojamiento y seguridad. Apple, Google, GitHub y los servicios de copia de seguridad aplican sus propias políticas y pueden tratar datos fuera de tu país, incluido Estados Unidos. No subimos partidas a esos proveedores; las copias del sistema se gestionan por separado."
+      ],
+      [
+        "Conservación y eliminación",
+        "Los datos locales permanecen hasta borrar el almacenamiento: elimina la app en iOS (descargarla conservando datos no basta), borra datos en Android o datos del sitio del juego web. Gestiona las copias por separado. Conservamos consultas mientras sean necesarias y después las eliminamos. Si la ley o un litigio exige retención, explicaremos motivo y plazo aplicable. Los registros de los proveedores siguen sus propias políticas."
+      ],
+      [
+        "Derechos y bases jurídicas",
+        "Según la ley local, puedes solicitar acceso, rectificación, eliminación, copia portable, limitación, oposición, retirada del consentimiento o recurso. No discriminamos por ejercer derechos; puedes reclamar a la autoridad local. Podemos verificar tu identidad de forma proporcionada. Cuando se exige una base jurídica, usamos la atención de tu solicitud, el interés legítimo en resolver problemas, obligaciones legales o consentimiento cuando proceda. Retirarlo no afecta al tratamiento previo lícito."
+      ],
+      [
+        "Menores, seguridad y cambios",
+        "Jugar no requiere datos personales. No solicitamos deliberadamente datos de menores; sus tutores pueden contactarnos sobre información enviada al soporte. Limitamos el acceso y aplicamos medidas razonables, sin garantizar seguridad absoluta. Publicaremos cambios importantes con fecha nueva y los avisos o consentimientos exigidos."
+      ]
+    ],
+    "terms": [
+      [
+        "Servicio y partidas",
+        "Estas condiciones regulan Slitherlink de Next Studio, un juego de formar un único bucle según las pistas. Las partidas son locales; no garantizamos sincronización o recuperación tras borrarlas. El reto diario rota por el catálogo gratuito. Las funciones dependen de la versión. Aceptar estas condiciones no sustituye el consentimiento de privacidad."
+      ],
+      [
+        "Contenido premium",
+        "El modelo previsto incluye 30 puzles gratuitos y 60 adicionales mediante compra única no consumible, sin anuncios ni suscripciones. Actualmente no se puede comprar. Cuando esté disponible, consulta precio, descripción y disponibilidad reales en la tienda. La restauración requiere la misma cuenta de tienda, sin transferencia entre Apple y Google. Facturación, reembolsos y derechos de desistimiento aplicables siguen la tienda y la ley. Se respetan los derechos obligatorios del consumidor. La EULA estándar de Apple se aplica a la licencia iOS cuando corresponda."
+      ],
+      [
+        "Uso y responsabilidad",
+        "Solo para uso personal lícito. No vulneres derechos, interfieras o eludas la seguridad salvo permiso legal. El código, arte y contenido pertenecen a Next Studio o sus titulares; no reivindicamos las reglas generales. Podemos cambiar funciones por mantenimiento, seguridad o ley, avisando de cambios importantes. No garantizamos ausencia de errores ni excluimos responsabilidades o remedios irrenunciables. Conservas la protección obligatoria local y el acceso a las autoridades competentes. Contacto: dhalska2@gmail.com."
+      ]
+    ],
+    "support": [
+      [
+        "Cómo jugar",
+        "Cada número indica cuántas líneas rodean la celda; las vacías no tienen límite numérico. Forma un único bucle cerrado sin cruces ni ramas. Toca entre puntos para línea/X, repite para borrar o mantén pulsado para X. El modo Mover permite zoom y desplazamiento; Ajustar restaura la vista. Hay deshacer, rehacer y pistas."
+      ],
+      [
+        "Progreso y compras",
+        "Se guarda en este dispositivo; al pasar a segundo plano se pausa. Pulsa Continuar. No hay inicio de sesión, nube, anuncios ni push. Reiniciar borra solo el puzle actual; borrar almacenamiento elimina partidas locales. Las ventas premium están en preparación. Cuando empiecen, usa Restaurar compras en Premium con la misma cuenta. Restaurar una compra no recupera partidas."
+      ],
+      [
+        "Informar de un problema",
+        "Escribe a dhalska2@gmail.com con Slitherlink en el asunto, versión, dispositivo/SO, pasos y, si hace falta, captura sin datos personales. Envía solo lo necesario, nunca contraseñas, códigos o tarjetas. Para facturación o reembolsos, usa el soporte de la tienda."
+      ]
+    ],
+    "delete-account": [
+      [
+        "No existe cuenta",
+        "La app no tiene cuenta ni perfil de juego en servidor; no hay cuenta que cerrar ni botón de baja. Puedes solicitar eliminar consultas sin instalarla."
+      ],
+      [
+        "Borrar datos locales",
+        "Elimina la app en iOS, borra su almacenamiento en Android o los datos del sitio del juego web en el navegador. Descargar una app iOS conservando sus datos no los borra. Gestiona copias aparte. Reiniciar solo borra ese puzle. No podemos recuperar partidas eliminadas."
+      ],
+      [
+        "Eliminar consultas",
+        "Escribe a dhalska2@gmail.com con asunto Slitherlink Data Deletion e identifica la conversación. No envíes contraseñas, documentos de identidad ni tarjetas. Podemos aclarar el alcance o verificar identidad; responderemos en el plazo legal. Borramos datos innecesarios y explicamos retenciones legales o denegaciones. No borra datos de otros juegos, cuentas Apple/Google, registros de proveedores o de tienda, ni solicita un reembolso."
+      ]
+    ]
+  },
+  "fr": {
+    "nav": [
+      "Accueil",
+      "Confidentialité",
+      "Conditions",
+      "Assistance",
+      "Suppression"
+    ],
+    "tag": "Reliez les points, faites une pause.",
+    "intro": "Assistance et politiques Slitherlink · Next Studio",
+    "date": "Entrée en vigueur / mise à jour : 15 septembre 2026",
+    "contact": "Contact",
+    "skip": "Aller au contenu",
+    "privacy": [
+      [
+        "Responsable et portée",
+        "Next Studio, en Corée du Sud, exploite Slitherlink (com.osj.slitherlink). Cette politique concerne l’app et ce site d’assistance. Contact : dhalska2@gmail.com."
+      ],
+      [
+        "Données du jeu et achats",
+        "Grilles, temps, coups, indices, résultats, historique annuler/rétablir, thème, vibrations et affichage des erreurs restent sur votre appareil pour reprendre et conserver vos préférences. Nous ne les envoyons pas à un serveur. Actuellement : aucun compte, publicité, AdMob, suivi analytique ou notification push. Nous ne vendons pas de données et ne les partageons pas pour la publicité ciblée. Les achats ne sont pas encore actifs. L’app peut demander à Apple ou Google la disponibilité de la boutique et des produits. Nous ne collectons pas de données de carte. La politique sera mise à jour avant l’activation de la vérification des achats ou tout changement de traitement."
+      ],
+      [
+        "Assistance et prestataires",
+        "Votre adresse e-mail, message et pièces jointes volontaires servent uniquement à répondre et résoudre votre demande. N’envoyez ni mots de passe, codes ni données de carte. Nous utilisons Gmail et GitHub Pages. Ces pages n’ont ni publicité, analyse ni formulaire. GitHub peut traiter les adresses IP et journaux pour l’hébergement et la sécurité. Apple, Google, GitHub et les sauvegardes appliquent leurs politiques ; le traitement peut se faire à l’étranger, notamment aux États-Unis. Nous ne téléversons pas les parties ; les sauvegardes du système sont gérées séparément."
+      ],
+      [
+        "Conservation et suppression",
+        "Les données locales restent jusqu’à effacement : supprimer l’app sur iOS (la décharger peut conserver les données), effacer son stockage sur Android ou les données du site du jeu web. Gérez les sauvegardes séparément. Les échanges d’assistance sont conservés le temps nécessaire puis supprimés. Une conservation légale ou liée à un litige sera expliquée avec sa durée applicable. Les prestataires gèrent leurs propres durées."
+      ],
+      [
+        "Droits et bases juridiques",
+        "Selon la loi locale, vous pouvez demander accès, rectification, suppression, copie portable, limitation, opposition, retrait du consentement ou recours. Aucune discrimination pour l’exercice de vos droits ; vous pouvez saisir votre autorité locale. Une vérification proportionnée peut être requise. Lorsqu’une base est nécessaire : réponse à votre demande, intérêt légitime à résoudre les problèmes, obligation légale ou consentement requis. Le retrait n’affecte pas les traitements antérieurs licites."
+      ],
+      [
+        "Enfants, sécurité et changements",
+        "Aucune donnée personnelle n’est nécessaire pour jouer. Nous ne sollicitons pas sciemment celles des enfants ; un responsable légal peut nous contacter au sujet d’un message envoyé. Nous limitons l’accès et prenons des précautions raisonnables sans garantie absolue. Les changements importants seront datés avec les notifications ou consentements requis."
+      ]
+    ],
+    "terms": [
+      [
+        "Service et sauvegardes",
+        "Ces conditions concernent Slitherlink de Next Studio, un jeu consistant à former une seule boucle selon les chiffres. Les sauvegardes sont locales, sans garantie de synchronisation ou récupération après suppression. Le défi quotidien utilise à tour de rôle la collection gratuite. Les fonctions varient selon la version. Ces conditions ne remplacent pas un consentement distinct relatif aux données."
+      ],
+      [
+        "Contenu premium",
+        "Le modèle prévu est de 30 grilles gratuites et 60 supplémentaires par achat unique non consommable, sans publicité ni abonnement. Les achats sont actuellement indisponibles. À leur ouverture, consultez le prix, la description et la disponibilité réels de la boutique. La restauration exige le même compte et n’implique pas de transfert Apple/Google. Facturation, remboursements et éventuel droit de rétractation suivent la boutique et la loi. Les droits impératifs des consommateurs restent préservés. L’EULA standard Apple régit la licence iOS lorsqu’elle s’applique."
+      ],
+      [
+        "Utilisation et responsabilité",
+        "Usage personnel licite uniquement. N’enfreignez pas les droits, ne perturbez pas le service et ne contournez pas la sécurité sauf autorisation légale. Code, graphismes et contenu appartiennent à Next Studio ou à leurs titulaires ; les règles générales ne sont pas revendiquées. Des modifications de maintenance, sécurité ou légales sont possibles, avec avis approprié si importantes. Nous ne garantissons pas l’absence d’erreurs. Aucune responsabilité ni voie de recours non excluable n’est limitée. Vos protections locales obligatoires et l’accès aux autorités compétentes demeurent. Contact : dhalska2@gmail.com."
+      ]
+    ],
+    "support": [
+      [
+        "Comment jouer",
+        "Chaque chiffre indique le nombre de lignes autour de la case ; une case vide n’a pas de contrainte numérique. Tracez une boucle fermée sans branche ni croisement. Touchez entre les points pour ligne/X, à nouveau pour effacer ; appui long pour X. Déplacer permet zoom et déplacement, Ajuster rétablit la vue. Annuler, rétablir et indices sont disponibles."
+      ],
+      [
+        "Progression et achats",
+        "Sauvegarde automatique sur cet appareil, pause en arrière-plan ; touchez Continuer. Pas de connexion, cloud, publicité ou réglage push. Recommencer réinitialise uniquement la grille ; effacer le stockage supprime les parties locales. Les ventes sont en préparation. Après leur ouverture, utilisez Restaurer les achats dans Premium avec le même compte. Cela ne restaure pas les parties."
+      ],
+      [
+        "Signaler un problème",
+        "Envoyez à dhalska2@gmail.com un objet Slitherlink, la version, l’appareil/OS, les étapes et si nécessaire une capture expurgée. Uniquement les informations utiles, jamais de mot de passe, code ou carte. Pour facturation ou remboursement, contactez la boutique."
+      ]
+    ],
+    "delete-account": [
+      [
+        "Aucun compte",
+        "Il n’existe actuellement ni compte ni profil de jeu sur serveur, donc aucun compte à fermer ou bouton de suppression. Une demande de suppression des échanges peut être envoyée sans installer l’app."
+      ],
+      [
+        "Effacer les données locales",
+        "Supprimez l’app sur iOS (la décharger ne suffit pas), effacez son stockage sur Android ou les données du site du jeu web. Gérez les sauvegardes séparément. Recommencer efface seulement cette grille. Nous ne pouvons récupérer les parties supprimées."
+      ],
+      [
+        "Supprimer les échanges",
+        "Écrivez à dhalska2@gmail.com avec l’objet Slitherlink Data Deletion et identifiez la conversation, sans mot de passe, pièce d’identité ou carte. Nous pouvons clarifier la portée ou vérifier votre identité, puis répondre dans le délai légal. Les données inutiles sont supprimées ; conservation légale ou refus sont expliqués. Cela ne supprime ni autres jeux, ni compte Apple/Google, ni journaux des prestataires ou transactions, et ne constitue pas une demande de remboursement."
+      ]
+    ]
+  },
+  "de": {
+    "nav": [
+      "Start",
+      "Datenschutz",
+      "Nutzungsbedingungen",
+      "Hilfe",
+      "Daten löschen"
+    ],
+    "tag": "Punkte verbinden, zur Ruhe kommen.",
+    "intro": "Slitherlink: Hilfe und Richtlinien · Next Studio",
+    "date": "Gültig / aktualisiert: 15. September 2026",
+    "contact": "Kontakt",
+    "skip": "Zum Inhalt",
+    "privacy": [
+      [
+        "Verantwortlicher und Geltung",
+        "Next Studio in Südkorea betreibt Slitherlink (com.osj.slitherlink). Diese Erklärung gilt für die App und diese Hilfeseite. Kontakt: dhalska2@gmail.com."
+      ],
+      [
+        "Spieldaten und Käufe",
+        "Spielfeld, Zeit, Züge, Hinweise, Abschlüsse, Rückgängig-/Wiederholen-Verlauf, Design, Haptik und Fehleranzeige werden zur Fortsetzung und für Einstellungen auf dem Gerät gespeichert, nicht auf unsere Server hochgeladen. Derzeit gibt es keine Konten, Werbung, AdMob, Analyse-Tracking oder Push-Mitteilungen. Wir verkaufen keine personenbezogenen Daten und teilen sie nicht für zielgerichtete Werbung. Käufe sind noch deaktiviert. Die App kann Store-Verfügbarkeit und Produkte bei Apple oder Google abfragen. Kartendaten erheben wir nicht. Vor Kaufprüfung oder Änderungen der Verarbeitung aktualisieren wir diese Erklärung."
+      ],
+      [
+        "Support und Anbieter",
+        "Ihre E-Mail-Adresse, Nachricht und freiwilligen Anhänge dienen nur der Bearbeitung Ihrer Anfrage. Senden Sie keine Passwörter, Codes oder Kartendaten. Wir nutzen Gmail und GitHub Pages. Diese Seiten haben keine Werbung, Analyseskripte oder Formulare. GitHub kann IP-Adressen und Zugriffsprotokolle für Hosting und Sicherheit verarbeiten. Apple, Google, GitHub und Backup-Dienste handeln nach eigenen Richtlinien; Verarbeitung kann im Ausland, einschließlich der USA, erfolgen. Wir laden lokale Spielstände nicht hoch; Betriebssystem-Backups werden separat verwaltet."
+      ],
+      [
+        "Aufbewahrung und Löschung",
+        "Lokale Daten bleiben bis zum Löschen des Speichers: App auf iOS löschen (Auslagern kann Daten behalten), App-Speicher auf Android oder Webspiel-Websitedaten im Browser löschen. Backups separat verwalten. Supportdaten werden nur so lange benötigt aufbewahrt und danach gelöscht. Gesetzlich oder für Streitfälle erforderliche Aufbewahrung erklären wir mit Grund und geltender Dauer auf Anfrage. Anbieter verwalten ihre Protokolle selbst."
+      ],
+      [
+        "Rechte und Rechtsgrundlagen",
+        "Je nach örtlichem Recht können Sie Auskunft, Berichtigung, Löschung, Datenübertragbarkeit, Einschränkung, Widerspruch, Widerruf oder Überprüfung einer Entscheidung verlangen. Daraus entstehen keine diskriminierenden Nachteile. Beschwerden bei der zuständigen Datenschutzbehörde sind möglich. Eine verhältnismäßige Identitätsprüfung kann erforderlich sein. Soweit nötig, stützen wir Supportverarbeitung auf Ihre Serviceanfrage, berechtigte Interessen an der Problemlösung, gesetzliche Pflichten oder erforderliche Einwilligung. Ein Widerruf berührt frühere rechtmäßige Verarbeitung nicht."
+      ],
+      [
+        "Kinder, Schutz und Änderungen",
+        "Zum Spielen sind keine persönlichen Angaben nötig. Wir fordern nicht wissentlich Kinderdaten an; Sorgeberechtigte können sich wegen an den Support gesendeter Informationen melden. Wir beschränken Zugriffe und treffen angemessene Schutzmaßnahmen, garantieren aber keine absolute Sicherheit. Wesentliche Änderungen werden mit Datum sowie erforderlicher Information oder Einwilligung veröffentlicht."
+      ]
+    ],
+    "terms": [
+      [
+        "Dienst und Spielstände",
+        "Diese Bedingungen gelten für Slitherlink von Next Studio: einen geschlossenen Rundweg passend zu den Zahlen bilden. Spielstände sind lokal; Synchronisierung und Wiederherstellung nach Löschung werden nicht zugesagt. Das Tagesrätsel rotiert durch die Gratis-Sammlung. Funktionen sind versionsabhängig. Diese Bedingungen ersetzen keine gesonderte Datenschutzeinwilligung."
+      ],
+      [
+        "Premium und Verbraucherrechte",
+        "Geplant sind 30 kostenlose Rätsel und 60 weitere durch einen einmaligen, nicht verbrauchbaren Kauf, ohne Werbung oder Abonnement. Käufe sind derzeit nicht verfügbar. Prüfen Sie später tatsächlichen Store-Preis, Beschreibung und Verfügbarkeit. Wiederherstellung erfolgt mit demselben Store-Konto, nicht als Übertragung zwischen Apple und Google. Abrechnung, Erstattung und etwaige Widerrufsrechte richten sich nach Store-Verfahren und Gesetz. Zwingende Verbraucherrechte bleiben unberührt. Soweit einschlägig gilt Apples Standard-EULA für die iOS-Lizenz."
+      ],
+      [
+        "Nutzung und Verantwortung",
+        "Nur rechtmäßige persönliche Nutzung. Rechteverletzungen, Störungen und Sicherheitsumgehung sind untersagt, soweit nicht gesetzlich erlaubt. Code, Gestaltung und Inhalte gehören Next Studio oder Berechtigten; allgemeine Rätselregeln beanspruchen wir nicht. Änderungen wegen Wartung, Sicherheit oder Recht sind möglich, wesentliche Änderungen werden angemessen angekündigt. Fehlerfreiheit wird nicht garantiert. Nicht abdingbare Haftung oder Rechtsbehelfe sowie zwingender lokaler Verbraucherschutz und Zugang zu zuständigen Stellen bleiben bestehen. Kontakt: dhalska2@gmail.com."
+      ]
+    ],
+    "support": [
+      [
+        "Spielregeln",
+        "Jede Zahl nennt die Anzahl der Linien um das Feld; leere Felder haben keine Zahlenvorgabe. Alle Linien bilden einen geschlossenen Weg ohne Kreuzungen oder Abzweigungen. Zwischen Punkte tippen für Linie/X, erneut zum Entfernen; lang drücken für X. Bewegen erlaubt Zoom und Verschieben, Anpassen setzt die Ansicht zurück. Rückgängig, Wiederholen und Hinweise sind verfügbar."
+      ],
+      [
+        "Speichern und Kaufen",
+        "Automatische lokale Speicherung; im Hintergrund pausiert das Spiel. Mit Fortsetzen geht es weiter. Kein Login, Cloud-Abgleich, Werbung oder Push-Einstellung. Neustart setzt nur das Rätsel zurück; Speicherlöschung entfernt lokale Spielstände. Premium wird vorbereitet. Nach Verkaufsstart Käufe in Premium mit demselben Store-Konto wiederherstellen; Spielstände werden dadurch nicht wiederhergestellt."
+      ],
+      [
+        "Probleme melden",
+        "E-Mail an dhalska2@gmail.com mit Betreff Slitherlink, App-Version, Gerät/OS, Schritten und optional bereinigtem Screenshot. Nur nötige Daten, niemals Passwörter, Codes oder Kartendaten. Abrechnungs- und Erstattungsfragen über den Store klären."
+      ]
+    ],
+    "delete-account": [
+      [
+        "Kein App-Konto",
+        "Es gibt derzeit kein Konto und kein serverseitiges Spielprofil, daher keinen Kontolöschknopf. Supportdaten können Sie auch ohne installierte App zur Löschung anfordern."
+      ],
+      [
+        "Gerätedaten löschen",
+        "App auf iOS löschen statt nur auslagern; auf Android den App-Speicher, beim Webspiel die zugehörigen Browserdaten löschen. Backups separat verwalten. Neustart löscht nur ein Rätsel. Gelöschte lokale Spielstände können wir nicht wiederherstellen."
+      ],
+      [
+        "Supportdaten löschen",
+        "E-Mail an dhalska2@gmail.com, Betreff Slitherlink Data Deletion, mit Angabe der betreffenden Korrespondenz. Keine Passwörter, Ausweisdokumente oder Karten senden. Wir können Umfang oder Identität klären und antworten innerhalb gesetzlicher Fristen. Unnötige Daten werden gelöscht; gesetzliche Aufbewahrung oder Ablehnung wird begründet. Andere Spiele, Apple-/Google-Konten, Anbieterprotokolle und Store-Belege sind nicht umfasst; es ist kein Erstattungsantrag."
+      ]
+    ]
+  },
+  "pt-br": {
+    "nav": [
+      "Início",
+      "Privacidade",
+      "Termos de uso",
+      "Ajuda",
+      "Excluir dados"
+    ],
+    "tag": "Conecte os pontos e respire.",
+    "intro": "Suporte e políticas do Slitherlink · Next Studio",
+    "date": "Vigência / atualização: 15 de setembro de 2026",
+    "contact": "Contato",
+    "skip": "Ir ao conteúdo",
+    "privacy": [
+      [
+        "Responsável e abrangência",
+        "A Next Studio, na Coreia do Sul, opera o Slitherlink (com.osj.slitherlink). Esta política cobre o app e este site de suporte. Contato: dhalska2@gmail.com."
+      ],
+      [
+        "Dados do app e compras",
+        "Tabuleiros, tempo, movimentos, dicas, conclusões, histórico de desfazer/refazer, tema, vibração e indicação de erros ficam no dispositivo para continuar partidas e manter preferências. Não enviamos esses dados a um servidor. Atualmente não há contas, anúncios, AdMob, rastreamento analítico ou notificações push. Não vendemos dados nem os compartilhamos para publicidade direcionada. Compras ainda estão desativadas. O app pode consultar disponibilidade e produtos com Apple ou Google. Não coletamos dados de cartão. Atualizaremos a política antes de ativar a verificação de compras ou mudar o tratamento."
+      ],
+      [
+        "Suporte e fornecedores",
+        "Seu e-mail, mensagem e anexos voluntários são usados somente para responder e resolver a solicitação. Não envie senhas, códigos ou cartões. Usamos Gmail e GitHub Pages; estas páginas não têm anúncios, scripts analíticos ou formulários. O GitHub pode tratar IP e registros para hospedagem e segurança. Apple, Google, GitHub e serviços de backup seguem políticas próprias e podem tratar dados fora do seu país, inclusive nos EUA. Não enviamos partidas locais; backups do sistema são gerenciados separadamente."
+      ],
+      [
+        "Retenção e exclusão",
+        "Os dados locais ficam até apagar o armazenamento: exclua o app no iOS (desinstalar mantendo dados pode preservá-los), limpe o armazenamento no Android ou os dados do site do jogo web. Gerencie backups separadamente. Mensagens de suporte ficam apenas enquanto necessárias, sendo excluídas depois. Retenção legal ou por disputa será explicada com motivo e prazo aplicável, mediante solicitação. Registros dos fornecedores seguem suas próprias políticas."
+      ],
+      [
+        "Direitos e bases legais",
+        "Conforme a lei local, você pode pedir acesso, correção, exclusão, cópia portátil, restrição, oposição, retirada do consentimento ou revisão de decisão. Não discriminamos pelo exercício de direitos; você pode reclamar à autoridade local. Podemos verificar a identidade de forma proporcional. Quando exigido, tratamos solicitações com base no atendimento do serviço, interesse legítimo em resolver problemas, obrigação legal ou consentimento necessário. A retirada não afeta tratamentos anteriores lícitos."
+      ],
+      [
+        "Crianças, segurança e mudanças",
+        "Jogar não exige informações pessoais. Não solicitamos conscientemente dados de crianças; responsáveis podem contatar-nos sobre informações enviadas ao suporte. Limitamos o acesso e adotamos medidas razoáveis, sem garantir segurança absoluta. Mudanças importantes serão datadas, com os avisos ou consentimentos exigidos."
+      ]
+    ],
+    "terms": [
+      [
+        "Serviço e progresso",
+        "Estes termos regem o Slitherlink da Next Studio, um jogo de formar um único circuito conforme os números. Os registros são locais; não garantimos sincronização entre dispositivos ou recuperação após exclusão. O desafio diário alterna a coleção gratuita. Funções dependem da versão. Aceitar os termos não substitui consentimento de privacidade separado."
+      ],
+      [
+        "Premium e consumidor",
+        "O modelo previsto oferece 30 puzzles grátis e 60 adicionais por compra única não consumível, sem anúncios ou assinatura. Compras ainda não estão disponíveis. Quando oferecidas, consulte preço, descrição e disponibilidade reais da loja. Restaurar usa a mesma conta de loja, sem transferência entre Apple e Google. Cobrança, reembolso e eventual direito de arrependimento seguem a loja e a legislação. Direitos obrigatórios do consumidor são preservados. A EULA padrão da Apple aplica-se à licença iOS quando cabível."
+      ],
+      [
+        "Uso e responsabilidade",
+        "Somente uso pessoal lícito. Não viole direitos, prejudique o serviço ou contorne segurança, salvo permissão legal. Código, arte e conteúdo pertencem à Next Studio ou aos titulares; não reivindicamos as regras gerais do puzzle. Podemos alterar funções por manutenção, segurança ou lei, avisando sobre mudanças relevantes. Não garantimos ausência de erros nem excluímos responsabilidades ou recursos que a lei protege. Permanecem as proteções locais obrigatórias e o acesso às autoridades competentes. Contato: dhalska2@gmail.com."
+      ]
+    ],
+    "support": [
+      [
+        "Como jogar",
+        "O número indica quantas linhas cercam a célula; células vazias não têm limite numérico. Forme um circuito fechado sem cruzamentos ou ramificações. Toque entre pontos para linha/X, repita para apagar; pressione por mais tempo para X. Mover permite zoom e deslocamento; Ajustar restaura a visão. Desfazer, refazer e dicas estão disponíveis."
+      ],
+      [
+        "Progresso e compras",
+        "Salvamento automático neste aparelho; o jogo pausa em segundo plano e retoma com Continuar. Sem login, nuvem, anúncios ou configuração push. Reiniciar apaga apenas o puzzle atual; limpar armazenamento remove partidas locais. Premium está em preparação. Após o início das vendas, use Restaurar compras na aba Premium com a mesma conta. Restaurar compra não recupera progresso."
+      ],
+      [
+        "Relatar problema",
+        "Escreva a dhalska2@gmail.com com Slitherlink no assunto, versão, aparelho/SO, passos e captura opcional sem dados pessoais. Envie apenas o necessário, nunca senhas, códigos ou cartões. Para cobrança e reembolso, use o suporte da loja."
+      ]
+    ],
+    "delete-account": [
+      [
+        "Sem conta no app",
+        "Não há conta ou perfil de jogo em servidor, nem botão de encerramento de conta. Você pode pedir exclusão de mensagens de suporte sem instalar o app."
+      ],
+      [
+        "Apagar dados locais",
+        "Exclua o app no iOS, sem apenas desinstalar mantendo dados; no Android limpe o armazenamento; no jogo web apague os dados do site. Backups são separados. Reiniciar só apaga aquele puzzle. Não conseguimos recuperar registros locais excluídos."
+      ],
+      [
+        "Excluir correspondência",
+        "Envie a dhalska2@gmail.com uma mensagem com assunto Slitherlink Data Deletion identificando a conversa. Não envie senhas, documentos ou cartões. Podemos esclarecer o escopo ou confirmar identidade e responderemos no prazo legal. Excluímos dados desnecessários e explicamos retenção legal ou recusa. Isso não exclui outros jogos, contas Apple/Google, logs de fornecedores ou registros da loja, e não solicita reembolso."
+      ]
+    ]
+  }
+}
