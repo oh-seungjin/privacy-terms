@@ -9,7 +9,7 @@
     ],
     "tag": "A little loop, a little calm.",
     "intro": "Official Slitherlink support and policies · Next Studio",
-    "date": "Effective / updated September 15, 2026",
+    "date": "2026-09-16",
     "contact": "Contact",
     "skip": "Skip to content",
     "privacy": [
@@ -19,7 +19,7 @@
       ],
       [
         "App data and purchases",
-        "Puzzle boards, elapsed time, moves, hint use, completion records, undo/redo history, theme and haptic/error-display settings stay in app storage on your device for saved games and preferences. We do not upload this progress to a server. The current app has no account, advertising, AdMob, analytics tracking or push notifications. It does not sell personal data or share it for targeted advertising. Premium purchases are not yet enabled. Store availability and product information may be requested through Apple or Google. We do not collect card details. Before enabling purchase verification or changing data handling, we will update this policy."
+        "Puzzle progress and settings stay on your device. There are no app accounts, ads, analytics tracking or push notifications. For iOS premium purchases and restoration, Apple-signed transaction data is sent to Supabase for verification. The server stores product, transaction and original transaction IDs, Sandbox/Production environment, signing dates, refund/entitlement status and notification IDs/times. Card details, email and game progress are not sent to the purchase server; raw signed receipts are not stored in its database. Hosting providers may process IP addresses and request logs. Web and Android purchasing is not currently offered."
       ],
       [
         "Support and website providers",
@@ -36,6 +36,10 @@
       [
         "Children, safeguards and changes",
         "The app does not require personal details to play. We do not knowingly solicit children’s personal information; a parent or guardian may contact us about information a child sent to support. We limit access to support information and use reasonable safeguards without promising absolute security. Material changes will be reflected here with a new date and any legally required notice or consent."
+      ],
+      [
+        "Purchase retention and providers",
+        "Purchase verification, restoration and refund deduplication records are stored in Supabase’s Seoul, South Korea database while needed to manage entitlements. On deletion requests, unnecessary records are removed and any legal/dispute retention reason and period are explained. Apple, Supabase and subprocessors may process data in other countries including South Korea and the US. Applicable grounds include purchase-contract performance, legitimate interests in security/fraud prevention and legal obligations. Contact dhalska2@gmail.com about your rights or international transfers."
       ]
     ],
     "terms": [
@@ -45,7 +49,7 @@
       ],
       [
         "Premium content and consumer rights",
-        "The planned model is 600 free puzzles and 2400 additional puzzles through a one-time, non-consumable purchase. There are no ads or subscriptions. Purchases are currently unavailable. When offered, review the store’s actual price, description and availability before buying. Restoration uses the same store account and does not imply transfer between Apple and Google. Billing, refunds and any applicable withdrawal rights follow store procedures and applicable law. Mandatory consumer rights remain unaffected. Apple’s standard EULA applies where applicable to the iOS license."
+        "There are 600 free puzzles and 2,400 additional puzzles through a one-time non-consumable purchase, with no ads or subscriptions. iOS availability and localized prices depend on the store. Purchases and restoration require internet; premium remains available offline for up to 24 hours after server verification, then needs rechecking. Restore using the same Apple account; this does not restore puzzle progress or transfer purchases to Android. Refunds and revocations remove premium access. Refund and withdrawal procedures follow Apple and applicable law without limiting mandatory consumer rights. Apple’s standard EULA applies to the iOS license where applicable."
       ],
       [
         "Use, changes and responsibility",
@@ -59,7 +63,7 @@
       ],
       [
         "Saved progress and purchases",
-        "Progress saves automatically on this device. Backgrounding pauses play; tap Continue to resume. There is no sign-in, cloud sync, advertising or push setting. Restart resets only the current puzzle; deleting app storage removes local progress. Premium sales are not yet enabled; “Coming soon” is expected. Once sales begin, use Restore Purchases in the Premium tab with the same store account. A purchase will not restore puzzle progress."
+        "Progress saves automatically on this device. Restart resets only the current puzzle. On iOS, use Restore Purchases in the Premium tab with the same Apple account. Buying, restoring and rechecking access require internet, with up to 24 hours offline after verification. If verification is interrupted, reconnect and restore again. Android and web do not offer purchasing. If no price appears, check connectivity and store product availability."
       ],
       [
         "Report an issue",
@@ -69,7 +73,7 @@
     "delete-account": [
       [
         "No app account",
-        "Slitherlink currently has no account or server-saved game profile. There is no account to close or in-app account-deletion button. You can delete local progress or request deletion of support correspondence without installing the app."
+        "There is no app account, but the server retains transaction records for iOS purchase verification and refunds. You may request deletion of local progress, support correspondence or purchase data. For purchase data, email “Slitherlink Data Deletion” with only the minimum information needed to identify the transaction. We explain effects on restoration and any legally required retention before processing. Apple manages its transaction records separately."
       ],
       [
         "Delete device data",
@@ -91,7 +95,7 @@
     ],
     "tag": "점을 잇고, 생각을 쉬어가요.",
     "intro": "슬리더링크 공식 지원·정책 안내 · 넥스트 스튜디오",
-    "date": "시행일 / 최종 수정: 2026년 9월 15일",
+    "date": "2026-09-16",
     "contact": "문의",
     "skip": "본문으로",
     "privacy": [
@@ -101,7 +105,7 @@
       ],
       [
         "앱 정보와 구매",
-        "퍼즐 보드, 경과 시간, 입력·힌트 사용 횟수, 완료 기록, 실행 취소/재실행 기록, 테마·햅틱·오류 표시 설정은 게임 재개와 설정 유지를 위해 기기에 저장됩니다. 운영자 서버로 전송하지 않습니다. 현재 앱에는 계정, 광고, AdMob, 분석 추적, 푸시 알림이 없습니다. 개인정보를 판매하거나 맞춤 광고 목적으로 공유하지 않습니다. 프리미엄 결제는 아직 활성화되지 않았습니다. Apple 또는 Google을 통해 스토어 이용 가능 여부와 상품 정보를 조회할 수 있습니다. 카드 정보를 수집하지 않습니다. 구매 검증이나 정보 처리를 변경하기 전에 이 방침을 갱신합니다."
+        "퍼즐 진행과 설정은 기기에 저장됩니다. 계정 가입·광고·분석 추적·푸시는 없습니다. iOS 프리미엄 구매·복원 시 Apple의 서명된 거래 정보를 Supabase 서버로 보내 검증합니다. 서버에는 상품 ID, 거래·원거래 ID, Sandbox/운영 환경, 서명 시각, 환불·권한 상태 및 알림 ID·처리 시각을 보관합니다. 카드 정보·이메일·게임 진행은 구매 서버에 보내지 않으며 원본 서명 영수증을 DB에 보관하지 않습니다. 통신 과정에서 호스팅 제공업체가 IP·요청 기록을 처리할 수 있습니다. 웹·Android에서는 현재 구매를 제공하지 않습니다."
       ],
       [
         "문의와 웹사이트 제공업체",
@@ -118,6 +122,10 @@
       [
         "아동·보호 조치·변경",
         "게임에 개인정보 입력이 필요하지 않습니다. 아동의 개인정보를 고의로 요청하지 않으며, 아동이 문의 과정에서 보낸 정보는 보호자가 연락하여 확인·삭제를 요청할 수 있습니다. 문의 정보의 접근을 제한하는 등 합리적 보호 조치를 취하지만 완전한 보안을 보장하지는 않습니다. 중요한 변경 시 날짜와 내용을 갱신하고 법령상 필요한 안내·동의 절차를 제공합니다."
+      ],
+      [
+        "구매 기록의 보유와 제공업체",
+        "Supabase의 한국 서울 DB에 구매 검증·복원·환불 중복 방지에 필요한 기록을 보관합니다. 구매 권한 관리에 필요한 동안 보유하고, 삭제 요청 시 불필요한 정보는 삭제하며 법적 의무나 분쟁으로 필요한 보존 사유·기간은 안내합니다. Apple·Supabase 및 하위 처리업체는 한국·미국 등 국외에서 처리할 수 있습니다. 필요한 근거는 구매 계약 이행, 보안·부정 이용 방지의 정당한 이익, 법적 의무입니다. 권리 행사와 이전 정보 문의는 dhalska2@gmail.com으로 연락하세요."
       ]
     ],
     "terms": [
@@ -127,7 +135,7 @@
       ],
       [
         "프리미엄과 소비자 권리",
-        "무료 600문제와 일회성 비소모성 구매로 추가 2400문제를 제공하는 모델을 계획하고 있습니다. 광고와 구독은 없으며 현재 결제는 이용할 수 없습니다. 판매 시 스토어의 실제 가격·설명·이용 가능 여부를 확인하세요. 구매 복원은 같은 스토어 계정을 사용하며 Apple과 Google 간 이전을 뜻하지 않습니다. 청구·환불·해당되는 청약철회는 스토어 절차와 적용 법령을 따릅니다. 법정 소비자 권리는 제한되지 않습니다. iOS 라이선스에는 해당하는 경우 Apple 표준 EULA가 적용됩니다."
+        "무료 600문제와 일회성 비소모성 구매로 추가 2,400문제를 제공합니다. 광고·구독은 없습니다. iOS 판매 가능 여부와 실제 현지 가격은 스토어에 따릅니다. 구매·복원에는 인터넷이 필요하며, 서버 확인 후 최대 24시간 동안 프리미엄을 오프라인으로 이용할 수 있습니다. 이후 재확인이 필요합니다. 같은 Apple 계정으로 구매를 복원할 수 있으나 퍼즐 진행은 복원하지 않으며 Android로 구매 권한을 이전하지 않습니다. 환불·취소 시 프리미엄 권한을 회수합니다. 환불·철회 절차는 Apple과 적용 법률에 따르며 강행적 소비자 권리를 제한하지 않습니다. iOS 라이선스에는 해당하는 경우 Apple 표준 EULA가 적용됩니다."
       ],
       [
         "이용·변경·책임",
@@ -141,7 +149,7 @@
       ],
       [
         "기록과 구매",
-        "진행은 이 기기에 자동 저장됩니다. 백그라운드로 이동하면 일시 정지되며 계속하기로 재개합니다. 로그인·클라우드 동기화·광고·푸시 설정은 없습니다. 처음부터는 현재 퍼즐만 초기화하며 앱 저장 공간 삭제는 로컬 기록을 지웁니다. 프리미엄 판매는 준비 중이므로 출시 준비 중 표시가 정상입니다. 판매 시작 후에는 같은 스토어 계정으로 프리미엄 탭의 구매 복원을 이용하세요. 구매 복원은 게임 진행을 복원하지 않습니다."
+        "진행은 이 기기에 자동 저장됩니다. 재시작은 현재 퍼즐만 초기화합니다. iOS에서는 프리미엄 탭의 구매 복원으로 같은 Apple 계정의 구매를 확인합니다. 구매·복원·권한 재확인에는 인터넷이 필요하며, 확인 후 오프라인 사용은 최대 24시간입니다. 검증 연결이 끊겼다면 다시 연결한 뒤 구매 복원을 눌러주세요. Android·웹은 구매 미지원이며 가격이 표시되지 않으면 스토어 연결·상품 판매 상태를 확인하세요."
       ],
       [
         "문제 문의",
@@ -151,7 +159,7 @@
     "delete-account": [
       [
         "앱 계정 없음",
-        "슬리더링크에는 현재 계정이나 서버에 저장된 게임 프로필이 없습니다. 탈퇴할 계정이나 앱 내 계정 삭제 버튼도 없습니다. 앱 설치 없이 로컬 기록을 지우거나 기존 문의 내역의 삭제를 요청할 수 있습니다."
+        "계정 가입은 없지만 iOS 구매 검증·환불 처리를 위한 거래 기록은 서버에 저장됩니다. 로컬 진행, 문의 내역 또는 구매 데이터 삭제를 요청할 수 있습니다. 구매 데이터 삭제를 원하면 “Slitherlink Data Deletion” 제목으로 거래를 식별할 최소 정보만 문의 메일로 보내세요. 삭제가 구매 복구에 미치는 영향과 법적으로 보존해야 할 기록은 처리 전에 안내합니다. Apple의 거래 기록은 별도로 관리됩니다."
       ],
       [
         "기기 데이터 삭제",
@@ -173,7 +181,7 @@
     ],
     "tag": "点をつないで、ひと休み。",
     "intro": "Slitherlink 公式サポート・ポリシー · Next Studio",
-    "date": "施行・更新日：2026年9月15日",
+    "date": "2026-09-16",
     "contact": "お問い合わせ",
     "skip": "本文へ",
     "privacy": [
@@ -183,7 +191,7 @@
       ],
       [
         "アプリの情報と購入",
-        "盤面、経過時間、操作・ヒント回数、クリア記録、取り消し履歴、テーマ・振動・エラー表示設定は、再開と設定維持のため端末内に保存され、運営者のサーバーへ送信されません。現在、アカウント、広告、AdMob、分析追跡、プッシュ通知はありません。個人情報を販売せず、ターゲティング広告のために共有しません。購入はまだ無効です。AppleまたはGoogleにストアの利用可否や商品情報を照会する場合があります。カード情報は収集しません。購入検証やデータ処理の変更前に本方針を更新します。"
+        "進行状況と設定は端末内に保存されます。アプリのアカウント、広告、アクセス解析、プッシュ通知はありません。iOSの購入・復元時にはApple署名付き取引情報をSupabaseに送信して検証します。サーバーには商品・取引・元取引ID、Sandbox/本番環境、署名時刻、返金・権利状態、通知ID・処理時刻を保存します。カード情報、メール、ゲーム進行は購入サーバーに送らず、署名付き領収書の原文はDBに保存しません。ホスティング事業者はIPやアクセス記録を処理する場合があります。Android・ウェブでは購入できません。"
       ],
       [
         "問い合わせと提供者",
@@ -200,6 +208,10 @@
       [
         "子ども・保護・変更",
         "プレイに個人情報の入力は不要です。子どもの情報を故意に求めません。子どもがサポートに送った情報は保護者から連絡できます。アクセス制限など合理的な措置を講じますが完全な安全は保証しません。重要な変更は更新日とともに掲載し、必要な通知・同意手続きを行います。"
+      ],
+      [
+        "購入記録の保有と提供者",
+        "検証・復元・返金の重複防止記録は、権利管理に必要な間Supabaseの韓国ソウルDBに保存します。削除依頼時に不要な記録を削除し、法令・紛争に必要な保有理由と期間を説明します。Apple、Supabase、再委託先は韓国・米国など国外で処理する場合があります。必要な根拠は購入契約の履行、安全・不正防止の正当な利益、法的義務です。権利・移転の問い合わせはdhalska2@gmail.comへ。"
       ]
     ],
     "terms": [
@@ -209,7 +221,7 @@
       ],
       [
         "有料コンテンツと消費者の権利",
-        "無料600問と一度の非消耗型購入で追加2400問を提供する予定です。広告・定期購読はなく、現在購入できません。販売時はストアの実際の価格・説明・提供状況を確認してください。復元には同じストアアカウントを使用し、AppleとGoogle間の移行を意味しません。請求・返金・適用される撤回権はストア手続きと法令に従います。法定の消費者権利は制限しません。iOSライセンスには該当する場合Apple標準EULAが適用されます。"
+        "無料600問と、買い切りの非消耗型購入による追加2,400問を提供し、広告・定期購読はありません。iOSでの販売状況と現地価格はストアに従います。購入・復元には通信が必要です。サーバー確認後24時間までオフラインで利用でき、その後は再確認が必要です。同じAppleアカウントで復元できますが、ゲーム進行の復元やAndroidへの移行ではありません。返金・取消時はプレミアム権利を取り消します。返金・撤回はAppleの手続きと適用法に従い、強行的な消費者の権利を制限しません。該当する場合、Apple標準EULAが適用されます。"
       ],
       [
         "利用・変更・責任",
@@ -223,7 +235,7 @@
       ],
       [
         "保存と購入",
-        "端末に自動保存され、バックグラウンドでは一時停止します。続行で再開します。ログイン・クラウド同期・広告・プッシュ設定はありません。最初からは現在の問題のみ、保存領域の消去は全ローカル記録を消します。販売準備中の表示は正常です。販売開始後は同じストアアカウントでプレミアム画面の購入復元を使用します。購入復元はゲーム記録を復元しません。"
+        "進行はこの端末に自動保存され、再スタートは現在の問題のみ初期化します。iOSのプレミアム画面で同じAppleアカウントの購入を復元できます。購入・復元・権利再確認には通信が必要で、確認後24時間までオフライン利用が可能です。検証に失敗したら再接続して復元してください。Android・ウェブの購入には未対応です。価格が表示されない場合は接続と販売状況をご確認ください。"
       ],
       [
         "問題の報告",
@@ -233,7 +245,7 @@
     "delete-account": [
       [
         "アカウントはありません",
-        "現在アカウントやサーバー上のゲームプロフィールはなく、退会やアカウント削除ボタンもありません。アプリをインストールせず問い合わせ情報の削除を依頼できます。"
+        "アプリのアカウントはありませんが、iOS購入検証・返金用の取引記録はサーバーに残ります。端末記録、問い合わせ、購入データの削除を依頼できます。購入データは件名「Slitherlink Data Deletion」で、取引の特定に必要な最小限の情報のみメールしてください。復元への影響と法定保存について事前に説明します。Appleの取引記録は別管理です。"
       ],
       [
         "端末情報の消去",
@@ -255,7 +267,7 @@
     ],
     "tag": "连接圆点，放松思绪。",
     "intro": "Slitherlink 官方支持与政策 · Next Studio",
-    "date": "生效／更新日期：2026年9月15日",
+    "date": "2026-09-16",
     "contact": "联系我们",
     "skip": "跳至正文",
     "privacy": [
@@ -265,7 +277,7 @@
       ],
       [
         "应用数据与购买",
-        "棋盘、用时、操作和提示次数、完成记录、撤销/重做历史、主题、振动和错误显示设置保存在设备中，用于继续游戏和保留设置，不会上传到运营者服务器。目前没有账号、广告、AdMob、分析跟踪或推送通知。我们不出售个人信息，也不为定向广告共享信息。高级购买尚未启用，应用可能向 Apple 或 Google 查询商店可用性及商品信息。我们不收集银行卡资料。启用购买验证或改变数据处理前，将更新本政策。"
+        "进度与设置保存在设备上。没有应用账号、广告、分析追踪或推送。iOS高级购买及恢复时，将Apple签名的交易信息发送至Supabase验证。服务器保存商品、交易及原交易ID、Sandbox/生产环境、签名时间、退款及权益状态、通知ID和处理时间。不向购买服务器发送银行卡、邮箱或游戏进度，数据库不保存签名收据原文。托管服务商可能处理IP及请求日志。Android和网页暂不提供购买。"
       ],
       [
         "支持与服务提供者",
@@ -282,6 +294,10 @@
       [
         "儿童、安全与更新",
         "游戏不要求提供个人信息。我们不会故意索取儿童信息；监护人可就儿童向支持邮箱发送的信息联系我们。我们限制信息访问并采取合理保护措施，但不保证绝对安全。重大变更会更新日期，并依法通知或征求同意。"
+      ],
+      [
+        "购买记录保留与服务商",
+        "验证、恢复及退款去重记录在权益管理所需期间保存在Supabase韩国首尔数据库。收到删除请求后删除不再需要的记录，并说明法律或争议所需保留的理由及期限。Apple、Supabase及分包处理者可能在韩国、美国等境外处理数据。适用依据包括履行购买合同、安全与反欺诈的合法利益及法定义务。权利及跨境处理咨询：dhalska2@gmail.com。"
       ]
     ],
     "terms": [
@@ -291,7 +307,7 @@
       ],
       [
         "高级内容与消费者权利",
-        "计划提供600道免费题目和一次性非消耗型购买的2400道额外题目。没有广告或订阅，目前不能购买。销售开始后，请以商店实际价格、说明和供应情况为准。恢复购买使用同一商店账号，不代表可在 Apple 与 Google 间转移。账单、退款和适用的撤回权遵循商店流程及法律，不限制法定消费者权利。iOS 许可在适用时受 Apple 标准 EULA 约束。"
+        "提供600道免费题及一次性非消耗型购买解锁的额外2,400道题，无广告或订阅。iOS销售状态和当地价格以商店为准。购买及恢复需要联网；服务器验证后最多可离线使用24小时，之后需重新验证。可用同一Apple账户恢复购买，但不恢复游戏进度或转移到Android。退款或撤销将移除高级权益。退款及撤回依Apple流程与适用法律执行，不限制强制性消费者权益。适用时，iOS许可采用Apple标准EULA。"
       ],
       [
         "使用、变更与责任",
@@ -305,7 +321,7 @@
       ],
       [
         "进度与购买",
-        "进度自动保存在本设备，进入后台会暂停，点击继续恢复。没有登录、云同步、广告或推送设置。重新开始仅清除当前题目，清除应用存储会删除本地记录。高级购买正在准备中，此提示为正常状态。销售开始后，可使用同一商店账号在高级页面恢复购买；购买恢复不会恢复游戏进度。"
+        "进度自动保存在本机，重新开始仅重置当前题目。iOS可在高级页面使用同一Apple账户恢复购买。购买、恢复及权益复核需要联网，验证后可离线使用最多24小时。验证中断时请重新联网并恢复购买。Android和网页不支持购买。未显示价格时请检查连接及商店商品销售状态。"
       ],
       [
         "报告问题",
@@ -315,7 +331,7 @@
     "delete-account": [
       [
         "没有应用账号",
-        "目前没有账号或服务器游戏档案，因此没有注销账号或账号删除按钮。无需安装应用即可要求删除支持邮件信息。"
+        "没有应用账号，但服务器会保留iOS购买验证及退款交易记录。可以请求删除本地进度、支持邮件或购买数据。购买数据删除请求请使用邮件主题“Slitherlink Data Deletion”，仅提供识别交易所需的最少信息。处理前会说明对恢复购买的影响及依法保留事项。Apple交易记录由Apple单独管理。"
       ],
       [
         "删除设备数据",
@@ -337,7 +353,7 @@
     ],
     "tag": "Une los puntos y descansa.",
     "intro": "Soporte y políticas de Slitherlink · Next Studio",
-    "date": "Vigencia / actualización: 15 de septiembre de 2026",
+    "date": "2026-09-16",
     "contact": "Contacto",
     "skip": "Ir al contenido",
     "privacy": [
@@ -347,7 +363,7 @@
       ],
       [
         "Datos de la app y compras",
-        "Tableros, tiempo, movimientos, pistas, resultados, historial de deshacer/rehacer, tema, vibración y avisos de errores se guardan en el dispositivo para continuar y conservar preferencias; no los subimos a un servidor. Actualmente no hay cuentas, anuncios, AdMob, seguimiento analítico ni notificaciones push. No vendemos datos ni los compartimos para publicidad dirigida. Las compras aún no están activas. La app puede consultar disponibilidad y productos a Apple o Google. No recogemos datos de tarjetas. Actualizaremos esta política antes de activar la verificación de compras o cambiar el tratamiento."
+        "El progreso y los ajustes quedan en el dispositivo. No hay cuentas, anuncios, seguimiento analítico ni notificaciones push. Para comprar o restaurar en iOS, enviamos transacciones firmadas por Apple a Supabase para verificarlas. El servidor guarda IDs de producto, transacción y transacción original, entorno Sandbox/Production, fechas de firma, estado de reembolso y derechos e IDs/fechas de notificación. No enviamos tarjetas, correo ni progreso al servidor de compras, ni almacenamos allí el recibo firmado completo. El alojamiento puede tratar IP y registros de solicitudes. Android y web no ofrecen compras."
       ],
       [
         "Soporte y proveedores",
@@ -364,6 +380,10 @@
       [
         "Menores, seguridad y cambios",
         "Jugar no requiere datos personales. No solicitamos deliberadamente datos de menores; sus tutores pueden contactarnos sobre información enviada al soporte. Limitamos el acceso y aplicamos medidas razonables, sin garantizar seguridad absoluta. Publicaremos cambios importantes con fecha nueva y los avisos o consentimientos exigidos."
+      ],
+      [
+        "Conservación de compras y proveedores",
+        "Los registros de verificación, restauración y deduplicación de reembolsos se guardan en Supabase, Seúl, Corea del Sur, mientras sean necesarios para gestionar derechos. Tras una solicitud eliminamos lo innecesario y explicamos el motivo y plazo de conservación legal o por disputas. Apple, Supabase y subencargados pueden tratar datos en otros países, incluidos Corea del Sur y EE. UU. Las bases aplicables son contrato, interés legítimo en seguridad y antifraude y obligaciones legales. Derechos y transferencias: dhalska2@gmail.com."
       ]
     ],
     "terms": [
@@ -373,7 +393,7 @@
       ],
       [
         "Contenido premium",
-        "El modelo previsto incluye 600 puzles gratuitos y 2400 adicionales mediante compra única no consumible, sin anuncios ni suscripciones. Actualmente no se puede comprar. Cuando esté disponible, consulta precio, descripción y disponibilidad reales en la tienda. La restauración requiere la misma cuenta de tienda, sin transferencia entre Apple y Google. Facturación, reembolsos y derechos de desistimiento aplicables siguen la tienda y la ley. Se respetan los derechos obligatorios del consumidor. La EULA estándar de Apple se aplica a la licencia iOS cuando corresponda."
+        "Hay 600 puzles gratuitos y 2.400 adicionales mediante una compra única no consumible, sin anuncios ni suscripciones. La disponibilidad y el precio local en iOS dependen de la tienda. Comprar y restaurar requiere internet; tras verificar, prémium funciona sin conexión hasta 24 horas y después debe comprobarse de nuevo. Restaura con la misma cuenta Apple; no recupera el progreso ni transfiere compras a Android. Reembolsos y revocaciones retiran el acceso. Se aplican los procedimientos de Apple y la ley, sin limitar derechos obligatorios. El EULA estándar de Apple se aplica cuando corresponda."
       ],
       [
         "Uso y responsabilidad",
@@ -387,7 +407,7 @@
       ],
       [
         "Progreso y compras",
-        "Se guarda en este dispositivo; al pasar a segundo plano se pausa. Pulsa Continuar. No hay inicio de sesión, nube, anuncios ni push. Reiniciar borra solo el puzle actual; borrar almacenamiento elimina partidas locales. Las ventas premium están en preparación. Cuando empiecen, usa Restaurar compras en Premium con la misma cuenta. Restaurar una compra no recupera partidas."
+        "El progreso se guarda en el dispositivo. Reiniciar afecta solo al puzle actual. En iOS, restaura desde Prémium con la misma cuenta Apple. Comprar, restaurar y verificar derechos necesita internet; el acceso sin conexión dura hasta 24 horas desde la verificación. Si falla, vuelve a conectarte y restaura. Android y web no permiten compras. Si falta el precio, revisa la conexión y disponibilidad del producto."
       ],
       [
         "Informar de un problema",
@@ -397,7 +417,7 @@
     "delete-account": [
       [
         "No existe cuenta",
-        "La app no tiene cuenta ni perfil de juego en servidor; no hay cuenta que cerrar ni botón de baja. Puedes solicitar eliminar consultas sin instalarla."
+        "No hay cuenta de la app, pero se conservan transacciones para verificar compras iOS y reembolsos. Puedes solicitar eliminar progreso local, consultas o datos de compra. Escribe con asunto “Slitherlink Data Deletion” y solo lo mínimo para identificar la transacción. Explicaremos el efecto sobre la restauración y la conservación legal antes de proceder. Apple gestiona sus propios registros."
       ],
       [
         "Borrar datos locales",
@@ -419,7 +439,7 @@
     ],
     "tag": "Reliez les points, faites une pause.",
     "intro": "Assistance et politiques Slitherlink · Next Studio",
-    "date": "Entrée en vigueur / mise à jour : 15 septembre 2026",
+    "date": "2026-09-16",
     "contact": "Contact",
     "skip": "Aller au contenu",
     "privacy": [
@@ -429,7 +449,7 @@
       ],
       [
         "Données du jeu et achats",
-        "Grilles, temps, coups, indices, résultats, historique annuler/rétablir, thème, vibrations et affichage des erreurs restent sur votre appareil pour reprendre et conserver vos préférences. Nous ne les envoyons pas à un serveur. Actuellement : aucun compte, publicité, AdMob, suivi analytique ou notification push. Nous ne vendons pas de données et ne les partageons pas pour la publicité ciblée. Les achats ne sont pas encore actifs. L’app peut demander à Apple ou Google la disponibilité de la boutique et des produits. Nous ne collectons pas de données de carte. La politique sera mise à jour avant l’activation de la vérification des achats ou tout changement de traitement."
+        "La progression et les réglages restent sur l’appareil. Il n’y a ni compte, ni publicité, ni suivi analytique, ni notifications push. Pour les achats et restaurations iOS, les transactions signées par Apple sont envoyées à Supabase pour vérification. Le serveur conserve les identifiants de produit, transaction et transaction d’origine, l’environnement Sandbox/Production, les dates de signature, l’état des remboursements et droits et les identifiants/dates des notifications. Ni carte, ni e-mail, ni progression ne sont envoyés au serveur d’achat ; le reçu signé complet n’est pas conservé en base. L’hébergeur peut traiter IP et journaux de requêtes. Android et le web ne proposent pas d’achats."
       ],
       [
         "Assistance et prestataires",
@@ -446,6 +466,10 @@
       [
         "Enfants, sécurité et changements",
         "Aucune donnée personnelle n’est nécessaire pour jouer. Nous ne sollicitons pas sciemment celles des enfants ; un responsable légal peut nous contacter au sujet d’un message envoyé. Nous limitons l’accès et prenons des précautions raisonnables sans garantie absolue. Les changements importants seront datés avec les notifications ou consentements requis."
+      ],
+      [
+        "Conservation des achats et prestataires",
+        "Les données de vérification, restauration et déduplication des remboursements sont conservées chez Supabase à Séoul, Corée du Sud, pendant la durée nécessaire aux droits d’accès. Sur demande, nous supprimons l’inutile et expliquons le motif et la durée des obligations légales ou liées à un litige. Apple, Supabase et leurs sous-traitants peuvent traiter hors de votre pays, notamment en Corée du Sud et aux États-Unis. Les bases applicables sont le contrat, l’intérêt légitime de sécurité et de prévention de la fraude et les obligations légales. Droits et transferts : dhalska2@gmail.com."
       ]
     ],
     "terms": [
@@ -455,7 +479,7 @@
       ],
       [
         "Contenu premium",
-        "Le modèle prévu est de 600 grilles gratuites et 2400 supplémentaires par achat unique non consommable, sans publicité ni abonnement. Les achats sont actuellement indisponibles. À leur ouverture, consultez le prix, la description et la disponibilité réels de la boutique. La restauration exige le même compte et n’implique pas de transfert Apple/Google. Facturation, remboursements et éventuel droit de rétractation suivent la boutique et la loi. Les droits impératifs des consommateurs restent préservés. L’EULA standard Apple régit la licence iOS lorsqu’elle s’applique."
+        "600 puzzles sont gratuits et 2 400 autres accessibles par achat unique non consommable, sans publicité ni abonnement. La disponibilité et le prix local iOS dépendent de la boutique. Achat et restauration nécessitent Internet ; Premium fonctionne hors ligne jusqu’à 24 heures après vérification, puis doit être revérifié. Utilisez le même compte Apple pour restaurer ; cela ne restaure pas la progression et ne transfère pas les achats vers Android. Remboursement ou révocation retire l’accès. Les procédures Apple et le droit applicable s’appliquent, sans limiter les droits impératifs. Le CLUF standard Apple s’applique le cas échéant."
       ],
       [
         "Utilisation et responsabilité",
@@ -469,7 +493,7 @@
       ],
       [
         "Progression et achats",
-        "Sauvegarde automatique sur cet appareil, pause en arrière-plan ; touchez Continuer. Pas de connexion, cloud, publicité ou réglage push. Recommencer réinitialise uniquement la grille ; effacer le stockage supprime les parties locales. Les ventes sont en préparation. Après leur ouverture, utilisez Restaurer les achats dans Premium avec le même compte. Cela ne restaure pas les parties."
+        "La progression se sauvegarde sur l’appareil. Recommencer ne réinitialise que le puzzle actuel. Sur iOS, restaurez dans Premium avec le même compte Apple. Achats, restauration et vérification nécessitent Internet ; l’accès hors ligne dure jusqu’à 24 heures après vérification. En cas d’échec, reconnectez-vous puis restaurez. Android et le web ne permettent pas l’achat. Sans prix affiché, vérifiez la connexion et la disponibilité du produit."
       ],
       [
         "Signaler un problème",
@@ -479,7 +503,7 @@
     "delete-account": [
       [
         "Aucun compte",
-        "Il n’existe actuellement ni compte ni profil de jeu sur serveur, donc aucun compte à fermer ou bouton de suppression. Une demande de suppression des échanges peut être envoyée sans installer l’app."
+        "Il n’y a pas de compte d’app, mais des transactions sont conservées pour vérifier les achats iOS et les remboursements. Vous pouvez demander l’effacement du progrès local, des échanges d’assistance ou des données d’achat. Écrivez avec l’objet « Slitherlink Data Deletion » et le minimum permettant d’identifier la transaction. Nous expliquons au préalable les effets sur la restauration et les obligations de conservation. Apple gère séparément ses propres transactions."
       ],
       [
         "Effacer les données locales",
@@ -501,7 +525,7 @@
     ],
     "tag": "Punkte verbinden, zur Ruhe kommen.",
     "intro": "Slitherlink: Hilfe und Richtlinien · Next Studio",
-    "date": "Gültig / aktualisiert: 15. September 2026",
+    "date": "2026-09-16",
     "contact": "Kontakt",
     "skip": "Zum Inhalt",
     "privacy": [
@@ -511,7 +535,7 @@
       ],
       [
         "Spieldaten und Käufe",
-        "Spielfeld, Zeit, Züge, Hinweise, Abschlüsse, Rückgängig-/Wiederholen-Verlauf, Design, Haptik und Fehleranzeige werden zur Fortsetzung und für Einstellungen auf dem Gerät gespeichert, nicht auf unsere Server hochgeladen. Derzeit gibt es keine Konten, Werbung, AdMob, Analyse-Tracking oder Push-Mitteilungen. Wir verkaufen keine personenbezogenen Daten und teilen sie nicht für zielgerichtete Werbung. Käufe sind noch deaktiviert. Die App kann Store-Verfügbarkeit und Produkte bei Apple oder Google abfragen. Kartendaten erheben wir nicht. Vor Kaufprüfung oder Änderungen der Verarbeitung aktualisieren wir diese Erklärung."
+        "Fortschritt und Einstellungen bleiben auf dem Gerät. Es gibt keine App-Konten, Werbung, Analyse-Tracker oder Push-Mitteilungen. Für iOS-Kauf und Wiederherstellung werden Apple-signierte Transaktionen zur Prüfung an Supabase gesendet. Der Server speichert Produkt-, Transaktions- und ursprüngliche Transaktions-IDs, Sandbox/Production-Umgebung, Signaturzeiten, Erstattungs- und Berechtigungsstatus sowie Mitteilungs-IDs und Zeitpunkte. Karten, E-Mail und Spielstand gehen nicht an den Kaufserver; vollständige signierte Belege werden nicht in der Datenbank gespeichert. Hostinganbieter können IP-Adressen und Anfrageprotokolle verarbeiten. Android und Web bieten keine Käufe."
       ],
       [
         "Support und Anbieter",
@@ -528,6 +552,10 @@
       [
         "Kinder, Schutz und Änderungen",
         "Zum Spielen sind keine persönlichen Angaben nötig. Wir fordern nicht wissentlich Kinderdaten an; Sorgeberechtigte können sich wegen an den Support gesendeter Informationen melden. Wir beschränken Zugriffe und treffen angemessene Schutzmaßnahmen, garantieren aber keine absolute Sicherheit. Wesentliche Änderungen werden mit Datum sowie erforderlicher Information oder Einwilligung veröffentlicht."
+      ],
+      [
+        "Aufbewahrung von Kaufdaten und Anbieter",
+        "Prüf-, Wiederherstellungs- und Erstattungs-Deduplizierungsdaten werden bei Supabase in Seoul, Südkorea, gespeichert, solange sie für Berechtigungen nötig sind. Auf Anfrage löschen wir Unnötiges und erklären Grund und Dauer gesetzlicher oder streitbedingter Aufbewahrung. Apple, Supabase und Unterauftragsverarbeiter können in anderen Ländern einschließlich Südkorea und USA verarbeiten. Rechtsgrundlagen sind Vertragserfüllung, berechtigtes Sicherheits-/Betrugsabwehrinteresse und gesetzliche Pflichten. Rechte und Übermittlungen: dhalska2@gmail.com."
       ]
     ],
     "terms": [
@@ -537,7 +565,7 @@
       ],
       [
         "Premium und Verbraucherrechte",
-        "Geplant sind 600 kostenlose Rätsel und 2400 weitere durch einen einmaligen, nicht verbrauchbaren Kauf, ohne Werbung oder Abonnement. Käufe sind derzeit nicht verfügbar. Prüfen Sie später tatsächlichen Store-Preis, Beschreibung und Verfügbarkeit. Wiederherstellung erfolgt mit demselben Store-Konto, nicht als Übertragung zwischen Apple und Google. Abrechnung, Erstattung und etwaige Widerrufsrechte richten sich nach Store-Verfahren und Gesetz. Zwingende Verbraucherrechte bleiben unberührt. Soweit einschlägig gilt Apples Standard-EULA für die iOS-Lizenz."
+        "600 Rätsel sind kostenlos, weitere 2.400 durch einen einmaligen nicht verbrauchbaren Kauf verfügbar. Es gibt keine Werbung oder Abos. Verfügbarkeit und lokaler iOS-Preis richten sich nach dem Store. Kauf und Wiederherstellung benötigen Internet; Premium bleibt nach Prüfung bis zu 24 Stunden offline verfügbar und muss danach erneut geprüft werden. Wiederherstellung nutzt dasselbe Apple-Konto, stellt keine Spielstände wieder her und überträgt nichts zu Android. Erstattung oder Widerruf entzieht Premium. Es gelten Apples Verfahren und geltendes Recht; zwingende Verbraucherrechte bleiben bestehen. Gegebenenfalls gilt Apples Standard-EULA."
       ],
       [
         "Nutzung und Verantwortung",
@@ -551,7 +579,7 @@
       ],
       [
         "Speichern und Kaufen",
-        "Automatische lokale Speicherung; im Hintergrund pausiert das Spiel. Mit Fortsetzen geht es weiter. Kein Login, Cloud-Abgleich, Werbung oder Push-Einstellung. Neustart setzt nur das Rätsel zurück; Speicherlöschung entfernt lokale Spielstände. Premium wird vorbereitet. Nach Verkaufsstart Käufe in Premium mit demselben Store-Konto wiederherstellen; Spielstände werden dadurch nicht wiederhergestellt."
+        "Der Fortschritt wird auf dem Gerät gespeichert. Neustart betrifft nur das aktuelle Rätsel. Stelle unter iOS im Premium-Bereich mit demselben Apple-Konto wieder her. Kauf, Wiederherstellung und Berechtigungsprüfung benötigen Internet; Offlinezugriff gilt bis zu 24 Stunden nach Prüfung. Bei Fehlern erneut verbinden und wiederherstellen. Android und Web bieten keine Käufe. Ohne angezeigten Preis Verbindung und Produktverfügbarkeit prüfen."
       ],
       [
         "Probleme melden",
@@ -561,7 +589,7 @@
     "delete-account": [
       [
         "Kein App-Konto",
-        "Es gibt derzeit kein Konto und kein serverseitiges Spielprofil, daher keinen Kontolöschknopf. Supportdaten können Sie auch ohne installierte App zur Löschung anfordern."
+        "Es gibt kein App-Konto, aber Server-Transaktionsdaten zur iOS-Kaufprüfung und Erstattung. Du kannst lokale Spielstände, Supportnachrichten oder Kaufdaten löschen lassen. Schreibe mit Betreff „Slitherlink Data Deletion“ und nur den zur Zuordnung nötigen Angaben. Folgen für die Wiederherstellung und gesetzliche Aufbewahrung erklären wir vorab. Apple verwaltet seine Transaktionen getrennt."
       ],
       [
         "Gerätedaten löschen",
@@ -583,7 +611,7 @@
     ],
     "tag": "Conecte os pontos e respire.",
     "intro": "Suporte e políticas do Slitherlink · Next Studio",
-    "date": "Vigência / atualização: 15 de setembro de 2026",
+    "date": "2026-09-16",
     "contact": "Contato",
     "skip": "Ir ao conteúdo",
     "privacy": [
@@ -593,7 +621,7 @@
       ],
       [
         "Dados do app e compras",
-        "Tabuleiros, tempo, movimentos, dicas, conclusões, histórico de desfazer/refazer, tema, vibração e indicação de erros ficam no dispositivo para continuar partidas e manter preferências. Não enviamos esses dados a um servidor. Atualmente não há contas, anúncios, AdMob, rastreamento analítico ou notificações push. Não vendemos dados nem os compartilhamos para publicidade direcionada. Compras ainda estão desativadas. O app pode consultar disponibilidade e produtos com Apple ou Google. Não coletamos dados de cartão. Atualizaremos a política antes de ativar a verificação de compras ou mudar o tratamento."
+        "Progresso e ajustes ficam no dispositivo. Não há contas, anúncios, rastreamento analítico ou notificações push. Nas compras e restaurações iOS, transações assinadas pela Apple são enviadas ao Supabase para verificação. O servidor guarda IDs de produto, transação e transação original, ambiente Sandbox/Production, datas de assinatura, estado de reembolso e direitos e IDs/datas de notificações. Cartão, e-mail e progresso não são enviados ao servidor de compras; o recibo assinado completo não fica no banco. O provedor de hospedagem pode tratar IP e logs. Android e web não oferecem compras."
       ],
       [
         "Suporte e fornecedores",
@@ -610,6 +638,10 @@
       [
         "Crianças, segurança e mudanças",
         "Jogar não exige informações pessoais. Não solicitamos conscientemente dados de crianças; responsáveis podem contatar-nos sobre informações enviadas ao suporte. Limitamos o acesso e adotamos medidas razoáveis, sem garantir segurança absoluta. Mudanças importantes serão datadas, com os avisos ou consentimentos exigidos."
+      ],
+      [
+        "Retenção de compras e provedores",
+        "Registros de verificação, restauração e deduplicação de reembolsos ficam no Supabase em Seul, Coreia do Sul, enquanto necessários aos direitos de acesso. Mediante solicitação, excluímos o desnecessário e explicamos motivo e prazo de retenção legal ou por disputa. Apple, Supabase e suboperadores podem tratar dados em outros países, incluindo Coreia do Sul e EUA. Bases aplicáveis: contrato, legítimo interesse em segurança e antifraude e obrigações legais. Direitos e transferências: dhalska2@gmail.com."
       ]
     ],
     "terms": [
@@ -619,7 +651,7 @@
       ],
       [
         "Premium e consumidor",
-        "O modelo previsto oferece 600 puzzles grátis e 2400 adicionais por compra única não consumível, sem anúncios ou assinatura. Compras ainda não estão disponíveis. Quando oferecidas, consulte preço, descrição e disponibilidade reais da loja. Restaurar usa a mesma conta de loja, sem transferência entre Apple e Google. Cobrança, reembolso e eventual direito de arrependimento seguem a loja e a legislação. Direitos obrigatórios do consumidor são preservados. A EULA padrão da Apple aplica-se à licença iOS quando cabível."
+        "São 600 puzzles gratuitos e 2.400 extras por uma compra única não consumível, sem anúncios ou assinatura. Disponibilidade e preço local iOS dependem da loja. Comprar e restaurar exige internet; o Premium funciona offline por até 24 horas após verificação e depois precisa ser verificado novamente. Restaure com a mesma conta Apple; isso não recupera progresso nem transfere compras ao Android. Reembolso ou revogação remove o acesso. Aplicam-se os procedimentos da Apple e a lei, sem limitar direitos obrigatórios. O EULA padrão da Apple vale quando cabível."
       ],
       [
         "Uso e responsabilidade",
@@ -633,7 +665,7 @@
       ],
       [
         "Progresso e compras",
-        "Salvamento automático neste aparelho; o jogo pausa em segundo plano e retoma com Continuar. Sem login, nuvem, anúncios ou configuração push. Reiniciar apaga apenas o puzzle atual; limpar armazenamento remove partidas locais. Premium está em preparação. Após o início das vendas, use Restaurar compras na aba Premium com a mesma conta. Restaurar compra não recupera progresso."
+        "O progresso é salvo no dispositivo. Reiniciar afeta apenas o puzzle atual. No iOS, restaure em Premium com a mesma conta Apple. Comprar, restaurar e verificar direitos exige internet; o acesso offline dura até 24 horas após verificação. Se falhar, reconecte e restaure. Android e web não oferecem compras. Se não houver preço, confira a conexão e a disponibilidade do produto."
       ],
       [
         "Relatar problema",
@@ -643,7 +675,7 @@
     "delete-account": [
       [
         "Sem conta no app",
-        "Não há conta ou perfil de jogo em servidor, nem botão de encerramento de conta. Você pode pedir exclusão de mensagens de suporte sem instalar o app."
+        "Não há conta do app, mas registros de transações são mantidos para compras iOS e reembolsos. Você pode pedir exclusão de progresso local, mensagens ou dados de compra. Envie “Slitherlink Data Deletion” no assunto e somente o necessário para identificar a transação. Explicaremos antes os efeitos na restauração e a retenção legal. A Apple administra seus registros separadamente."
       ],
       [
         "Apagar dados locais",

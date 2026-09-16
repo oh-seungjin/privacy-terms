@@ -24,7 +24,7 @@ for lang,label in LANGS:
             body=f'<h1>{esc(title)}</h1><p class="date">{esc(d["date"])}</p>'
             body+='\n'.join(f'<section><h2>{i+1}. {esc(h)}</h2><p>{rich(p)}</p></section>' for i,(h,p) in enumerate(d[kind]))
         if kind=='privacy':
-            body+='<aside><p><a href="https://www.apple.com/legal/privacy/">Apple Privacy</a> · <a href="https://policies.google.com/privacy">Google Privacy</a> · <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement">GitHub Privacy</a></p></aside>'
+            body+='<aside><p><a href="https://www.apple.com/legal/privacy/">Apple Privacy</a> · <a href="https://policies.google.com/privacy">Google Privacy</a> · <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement">GitHub Privacy</a> · <a href="https://supabase.com/privacy">Supabase Privacy</a></p></aside>'
         if kind=='terms':body+='<p><a href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/">Apple Standard EULA</a></p>'
         subject='Slitherlink%20Data%20Deletion' if kind=='delete-account' else 'Slitherlink%20Support'
         body+=f'<aside><h2>{esc(d["contact"])}</h2><p>Next Studio · 넥스트 스튜디오<br><a href="mailto:dhalska2@gmail.com?subject={subject}">dhalska2@gmail.com</a></p></aside>'

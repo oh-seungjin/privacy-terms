@@ -3,7 +3,7 @@
 운영자: 넥스트 스튜디오 / Next Studio
 문의: dhalska2@gmail.com
 앱: `com.osj.slitherlink`
-작성 기준: 2026-09-15 앱 구현 (광고·계정·서버 게임 저장·분석 SDK·푸시 없음, 구매는 준비 중).
+작성 기준: 2026-09-16 앱 구현 (광고·계정·서버 게임 진행 저장·분석 SDK·푸시 없음, iOS 구매 검증·환불 서버 연결, 실기기 검증은 진행 전).
 
 ## 공개 주소
 
@@ -19,7 +19,7 @@
 
 ## 유지보수
 
-`translations.json`을 수정한 뒤 `python generate_pages.py`를 실행한다. 앱 결제를 활성화하거나 계정/서버/SDK를 추가하기 전에 실제 정보 항목, 보유 기간, 제공업체, 국외 이전 및 사용자 선택을 각 언어에 반영하고 App Store 개인정보 표시도 검토한다. 현재 없는 기능을 있는 것처럼 설명하지 않는다.
+`translations.json`을 수정한 뒤 `python generate_pages.py`를 실행한다. iOS 구매 거래·환불 기록은 Supabase에서 처리하고 서버 검증 후 최대 24시간 오프라인 권한을 제공한다. 원본 영수증은 서버 DB에 저장하지 않는다. Android·웹 결제는 미지원이다. App Store 개인정보 표시도 실제 거래 데이터 처리에 맞춰 갱신한다.
 
 문서 레이아웃·언어 선택·개별 언어 파일명은 기존 sudoku/nonogram 폴더를 기준으로 구성했다.
 검토 자료: Apple App Review Guidelines 5.1.1, App Store Connect의 Manage app privacy, GitHub General Privacy Statement. 번역 지원은 특정 국가의 모든 배포 요건을 충족했다는 인증을 뜻하지 않는다.
