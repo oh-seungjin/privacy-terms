@@ -9,7 +9,7 @@
     ],
     "tag": "Connect islands. Find your calm.",
     "intro": "Official Hashi support and policies · Next Studio",
-    "date": "Effective / updated September 15, 2026",
+    "date": "Effective / updated September 16, 2026",
     "contact": "Contact",
     "skip": "Skip to content",
     "privacy": [
@@ -23,7 +23,7 @@
       ],
       [
         "Advertising and privacy choices",
-        "The mobile app uses Google AdMob interstitials and optional rewarded ads. The advertising SDK may process IP addresses and inferred approximate location, device/ad identifiers, ad views and clicks, diagnostics and consent choices to serve and measure ads and prevent fraud. We do not request precise-location permission. Consent messages depend on your region and choices; where required, use the advertising privacy option in Settings to change them. Rejecting personalized ads does not stop all technical processing. Advertising disclosures may constitute sale or sharing under local law; we do not claim that no data is collected or shared. Exercise applicable opt-out rights through the consent controls or by email."
+        "The mobile app uses Google AdMob interstitials and optional rewarded ads. The advertising SDK may process IP addresses and inferred approximate location, device/ad identifiers, ad views and clicks, diagnostics and consent choices to serve and measure ads and prevent fraud. We do not request precise-location permission. Consent messages depend on your region and choices; where required, use the advertising privacy option in Settings to change them. Rejecting personalized ads does not stop all technical processing. Advertising disclosures may constitute sale or sharing under local law; we do not claim that no data is collected or shared. Exercise applicable opt-out rights through the consent controls or by email. Rewarded hints are issued after our server verifies Google's signed callback. We store a pseudonymous request token, ad transaction ID and time to prevent duplicate rewards."
       ],
       [
         "Optional notifications",
@@ -75,7 +75,7 @@
       ],
       [
         "Saves, hints, language and notifications",
-        "Progress saves automatically on your device. Settings offers eight languages and themes. Hints are spent after confirmation, with free hints used first. A rewarded ad grants one hint when its reward is earned. Purchases are currently coming soon; once enabled, restore them from the Shop. Notifications are optional and need OS permission. Restart resets only the current puzzle; clearing app storage removes local progress."
+        "Progress saves automatically on your device. Settings offers eight languages and themes. Hints are spent after confirmation, with free hints used first. Watching an ad alone does not issue a hint; the server confirms the reward first. Purchases are currently coming soon; once enabled, restore them from the Shop. Notifications are optional and need OS permission. Restart resets only the current puzzle; clearing app storage removes local progress."
       ],
       [
         "Report an issue",
@@ -85,7 +85,7 @@
     "delete-account": [
       [
         "Scope of Hashi deletion",
-        "The current standard build does not enable sign-in or real purchases. If Hashi account data exists from testing or a future account-enabled version, you can request deletion by email below. An in-app account-deletion button is not yet implemented; an in-app route is planned before public account launch. This web request route does not require installing the app."
+        "Sign-in and real purchases are disabled in the current standard build. In an account-enabled version, Settings > Leave Hashi deletes Hashi progress, hints, purchase access and the game-specific account link. The shared sign-in and other games' data remain. You can request deletion of test data or data without the app by email below."
       ],
       [
         "Delete device data",
@@ -107,7 +107,7 @@
     ],
     "tag": "섬을 잇고, 여유를 찾으세요.",
     "intro": "하시 공식 지원 및 정책 · 넥스트 스튜디오",
-    "date": "시행일 / 최종 수정: 2026년 9월 15일",
+    "date": "시행 / 수정: 2026년 9월 16일",
     "contact": "문의",
     "skip": "본문으로",
     "privacy": [
@@ -121,7 +121,7 @@
       ],
       [
         "광고와 개인정보 선택",
-        "모바일 앱은 Google AdMob 전면 광고와 선택형 보상 광고를 사용합니다. 광고 SDK는 IP 주소와 그로부터 추정한 대략적 위치, 기기·광고 식별자, 광고 조회·클릭 등의 상호작용, 진단 정보 및 동의 상태를 광고 제공·측정·부정 이용 방지에 처리할 수 있습니다. 정확한 위치 권한은 요청하지 않습니다. 지역과 선택에 따라 동의 메시지를 표시하며, 필요한 경우 설정의 광고 개인정보 옵션에서 선택을 변경할 수 있습니다. 맞춤 광고 거부가 모든 기술 데이터 처리를 중단하는 것은 아닙니다. 광고 목적 공유가 현지 법률상 판매·공유에 해당할 수 있으므로 데이터 수집·공유가 없다고 주장하지 않습니다. 해당 거부권은 동의 화면이나 이메일로 행사할 수 있습니다."
+        "모바일 앱은 Google AdMob 전면 광고와 선택형 보상 광고를 사용합니다. 광고 SDK는 IP 주소와 그로부터 추정한 대략적 위치, 기기·광고 식별자, 광고 조회·클릭 등의 상호작용, 진단 정보 및 동의 상태를 광고 제공·측정·부정 이용 방지에 처리할 수 있습니다. 정확한 위치 권한은 요청하지 않습니다. 지역과 선택에 따라 동의 메시지를 표시하며, 필요한 경우 설정의 광고 개인정보 옵션에서 선택을 변경할 수 있습니다. 맞춤 광고 거부가 모든 기술 데이터 처리를 중단하는 것은 아닙니다. 광고 목적 공유가 현지 법률상 판매·공유에 해당할 수 있으므로 데이터 수집·공유가 없다고 주장하지 않습니다. 해당 거부권은 동의 화면이나 이메일로 행사할 수 있습니다. 보상형 광고 힌트는 Google의 서명된 서버 알림을 확인한 뒤 지급합니다. 중복 지급을 막기 위해 익명 요청 토큰, 광고 거래 ID와 시간을 서버에 보관합니다."
       ],
       [
         "선택형 알림",
@@ -173,7 +173,7 @@
       ],
       [
         "저장·힌트·언어·알림",
-        "진행은 기기에 자동 저장됩니다. 설정에서 8개 언어와 테마를 바꿀 수 있습니다. 힌트는 확인 후 차감되며 무료 힌트가 먼저 사용됩니다. 보상 광고는 완료 보상을 받은 경우 힌트 1개를 제공합니다. 구매는 현재 준비 중이며 활성화 후 구매 복원은 상점에서 진행합니다. 알림은 선택 사항이고 OS 권한이 필요합니다. 재시작은 현재 퍼즐만 초기화하고 앱 저장 공간 삭제는 로컬 진행을 지웁니다."
+        "진행은 기기에 자동 저장됩니다. 설정에서 8개 언어와 테마를 바꿀 수 있습니다. 힌트는 확인 후 차감되며 무료 힌트가 먼저 사용됩니다. 광고 시청 완료만으로 힌트가 지급되지는 않으며, 서버 확인이 끝난 뒤 지급됩니다. 구매는 현재 준비 중이며 활성화 후 구매 복원은 상점에서 진행합니다. 알림은 선택 사항이고 OS 권한이 필요합니다. 재시작은 현재 퍼즐만 초기화하고 앱 저장 공간 삭제는 로컬 진행을 지웁니다."
       ],
       [
         "문제 문의",
@@ -183,7 +183,7 @@
     "delete-account": [
       [
         "하시 데이터 삭제 범위",
-        "현재 일반 빌드에는 로그인·실제 구매가 활성화되어 있지 않습니다. 테스트 또는 향후 계정 기능을 통해 하시 계정 데이터가 생긴 경우에도 아래 이메일로 삭제를 요청할 수 있습니다. 현재 앱 내 계정 삭제 버튼은 구현되지 않았습니다. 계정 기능을 정식 공개하기 전에 앱 내 삭제 경로를 추가할 예정입니다. 이 페이지의 요청 경로는 앱 설치 없이 사용할 수 있습니다."
+        "현재 일반 빌드에는 로그인·실제 구매가 활성화되어 있지 않습니다. 계정 기능이 활성화된 버전에서는 설정의 ‘하시 탈퇴’에서 하시의 진행 상황, 힌트, 구매 권한과 게임별 계정 연결을 삭제할 수 있습니다. 공용 로그인과 다른 게임의 데이터는 유지됩니다. 테스트 데이터의 삭제나 앱을 설치하지 않은 상태의 삭제는 아래 이메일로 요청할 수 있습니다."
       ],
       [
         "기기 데이터 삭제",
@@ -205,7 +205,7 @@
     ],
     "tag": "島をつないで、ひと息。",
     "intro": "Hashi 公式サポート・ポリシー · Next Studio",
-    "date": "施行・更新日：2026年9月15日",
+    "date": "施行・更新日：2026年9月16日",
     "contact": "お問い合わせ",
     "skip": "本文へ",
     "privacy": [
@@ -219,7 +219,7 @@
       ],
       [
         "広告とプライバシーの選択",
-        "モバイル版は Google AdMob の全画面広告と任意のリワード広告を使用します。広告 SDK は広告配信・測定・不正防止のため、IP アドレスと推定されるおおよその位置、端末・広告識別子、広告の表示・クリック、診断情報、同意状態を処理する場合があります。正確な位置情報の権限は要求しません。地域と選択に応じて同意画面を表示し、必要な場合は設定の広告プライバシー項目で変更できます。パーソナライズ広告の拒否がすべての技術的処理を停止するわけではありません。広告目的の提供が現地法の「販売」「共有」に該当する場合があるため、データ収集・共有がないとは説明しません。該当する拒否権は同意画面またはメールで行使できます。"
+        "モバイル版は Google AdMob の全画面広告と任意のリワード広告を使用します。広告 SDK は広告配信・測定・不正防止のため、IP アドレスと推定されるおおよその位置、端末・広告識別子、広告の表示・クリック、診断情報、同意状態を処理する場合があります。正確な位置情報の権限は要求しません。地域と選択に応じて同意画面を表示し、必要な場合は設定の広告プライバシー項目で変更できます。パーソナライズ広告の拒否がすべての技術的処理を停止するわけではありません。広告目的の提供が現地法の「販売」「共有」に該当する場合があるため、データ収集・共有がないとは説明しません。該当する拒否権は同意画面またはメールで行使できます。 報酬型広告のヒントは、Googleの署名付きサーバー通知を確認してから付与します。重複付与を防ぐため、匿名のリクエストトークン、広告取引ID、時刻をサーバーに保存します。"
       ],
       [
         "任意の通知",
@@ -271,7 +271,7 @@
       ],
       [
         "保存・ヒント・言語・通知",
-        "進行は端末に自動保存されます。設定で8言語とテーマを選べます。ヒントは確認後に消費し、無料分を先に使います。リワード広告の報酬獲得時にヒント1個を付与します。購入は準備中で、有効化後はショップから復元できます。通知は任意で OS の許可が必要です。再スタートは現在の問題のみ、アプリのデータ削除は端末内の進行を消去します。"
+        "進行は端末に自動保存されます。設定で8言語とテーマを選べます。ヒントは確認後に消費し、無料分を先に使います。広告の視聴だけではヒントは付与されず、サーバーで確認した後に反映されます。購入は準備中で、有効化後はショップから復元できます。通知は任意で OS の許可が必要です。再スタートは現在の問題のみ、アプリのデータ削除は端末内の進行を消去します。"
       ],
       [
         "問題の報告",
@@ -281,7 +281,7 @@
     "delete-account": [
       [
         "Hashi の削除対象",
-        "現在の通常版ではログインと実際の購入は無効です。テストや今後のアカウント対応版で Hashi データが作成された場合も、以下のメールで削除を依頼できます。アプリ内のアカウント削除ボタンは未実装で、アカウント機能の正式公開前に追加予定です。このウェブ上の依頼窓口はアプリなしでも利用できます。"
+        "現在の通常版ではログインと実際の購入は無効です。アカウント機能を有効にした版では、設定の「ハシを退会」からハシの進行状況、ヒント、購入権限、ゲーム別のアカウント連携を削除できます。共通ログインと他のゲームのデータは残ります。テストデータやアプリを利用できない場合の削除は、以下のメールで依頼できます。"
       ],
       [
         "端末情報の消去",
@@ -303,7 +303,7 @@
     ],
     "tag": "连接岛屿，享受片刻宁静。",
     "intro": "Hashi 官方支持与政策 · Next Studio",
-    "date": "生效／更新日期：2026年9月15日",
+    "date": "生效／更新日期：2026年9月16日",
     "contact": "联系我们",
     "skip": "跳至正文",
     "privacy": [
@@ -317,7 +317,7 @@
       ],
       [
         "广告与隐私选择",
-        "移动应用使用 Google AdMob 插屏广告及可选的激励广告。广告 SDK 可能处理 IP 地址及据此推测的大致位置、设备和广告标识符、广告观看与点击、诊断信息及同意状态，用于广告展示、衡量和反欺诈。我们不申请精确位置权限。应用根据地区和选择显示同意提示；需要时可在设置的广告隐私选项中修改。拒绝个性化广告并不意味着停止所有技术数据处理。广告数据披露可能构成当地法律所称的“出售”或“共享”，因此我们不声称完全不收集或共享数据。可通过同意控件或邮件行使适用的退出权。"
+        "移动应用使用 Google AdMob 插屏广告及可选的激励广告。广告 SDK 可能处理 IP 地址及据此推测的大致位置、设备和广告标识符、广告观看与点击、诊断信息及同意状态，用于广告展示、衡量和反欺诈。我们不申请精确位置权限。应用根据地区和选择显示同意提示；需要时可在设置的广告隐私选项中修改。拒绝个性化广告并不意味着停止所有技术数据处理。广告数据披露可能构成当地法律所称的“出售”或“共享”，因此我们不声称完全不收集或共享数据。可通过同意控件或邮件行使适用的退出权。 奖励广告提示仅在服务器验证 Google 的签名回调后发放。为防止重复发放，我们会保存匿名请求令牌、广告交易 ID 和时间。"
       ],
       [
         "可选通知",
@@ -369,7 +369,7 @@
       ],
       [
         "保存、提示、语言与通知",
-        "进度自动保存在设备上。设置支持8种语言和主题切换。提示在确认后扣除，优先使用免费提示；激励广告成功获得奖励时提供1个提示。购买目前准备中，启用后可在商店恢复。通知为可选功能，需要系统权限。重新开始只清空当前关卡；清除应用存储会删除本地进度。"
+        "进度自动保存在设备上。设置支持8种语言和主题切换。提示在确认后扣除，优先使用免费提示；仅观看广告不会立即获得提示；服务器确认奖励后才会发放。购买目前准备中，启用后可在商店恢复。通知为可选功能，需要系统权限。重新开始只清空当前关卡；清除应用存储会删除本地进度。"
       ],
       [
         "报告问题",
@@ -379,7 +379,7 @@
     "delete-account": [
       [
         "Hashi 数据删除范围",
-        "当前普通版本未启用登录或实际购买。如果测试或未来支持账号的版本产生了 Hashi 账号数据，也可通过以下邮箱请求删除。应用内账号删除按钮尚未实现，计划在账号功能正式开放前加入。本网页请求渠道无需安装应用即可使用。"
+        "当前普通版本未启用登录或实际购买。启用账号功能后，可在设置中选择“注销数桥”，删除数桥进度、提示、购买权益及该游戏的账号关联。共用登录和其他游戏的数据会保留。测试数据或无法使用应用时，可通过以下邮箱请求删除。"
       ],
       [
         "删除设备数据",
@@ -401,7 +401,7 @@
     ],
     "tag": "Conecta islas. Encuentra la calma.",
     "intro": "Asistencia y políticas oficiales de Hashi · Next Studio",
-    "date": "Vigencia / actualización: 15 de septiembre de 2026",
+    "date": "Vigente / actualizado: 16 de septiembre de 2026",
     "contact": "Contacto",
     "skip": "Ir al contenido",
     "privacy": [
@@ -415,7 +415,7 @@
       ],
       [
         "Publicidad y opciones de privacidad",
-        "La app móvil utiliza anuncios intersticiales de Google AdMob y anuncios con recompensa opcionales. El SDK publicitario puede tratar la IP y la ubicación aproximada deducida, identificadores del dispositivo y publicitarios, visualizaciones y clics, diagnósticos y preferencias de consentimiento para ofrecer y medir anuncios y prevenir el fraude. No pedimos acceso a la ubicación precisa. Los avisos de consentimiento dependen de la región y de tus elecciones; cuando corresponda, puedes modificarlas en las opciones de privacidad publicitaria de Ajustes. Rechazar anuncios personalizados no detiene todo tratamiento técnico. La comunicación de datos publicitarios puede constituir venta o intercambio según la ley local; no afirmamos que no se recopilen ni compartan datos. Puedes ejercer los derechos de exclusión aplicables mediante esos controles o por correo."
+        "La app móvil utiliza anuncios intersticiales de Google AdMob y anuncios con recompensa opcionales. El SDK publicitario puede tratar la IP y la ubicación aproximada deducida, identificadores del dispositivo y publicitarios, visualizaciones y clics, diagnósticos y preferencias de consentimiento para ofrecer y medir anuncios y prevenir el fraude. No pedimos acceso a la ubicación precisa. Los avisos de consentimiento dependen de la región y de tus elecciones; cuando corresponda, puedes modificarlas en las opciones de privacidad publicitaria de Ajustes. Rechazar anuncios personalizados no detiene todo tratamiento técnico. La comunicación de datos publicitarios puede constituir venta o intercambio según la ley local; no afirmamos que no se recopilen ni compartan datos. Puedes ejercer los derechos de exclusión aplicables mediante esos controles o por correo. Las pistas por anuncios se entregan tras verificar en nuestro servidor la respuesta firmada de Google. Guardamos un identificador de solicitud seudónimo, el ID de transacción del anuncio y la hora para evitar duplicados."
       ],
       [
         "Notificaciones opcionales",
@@ -467,7 +467,7 @@
       ],
       [
         "Guardado, pistas, idioma y notificaciones",
-        "El progreso se guarda automáticamente en el dispositivo. Ajustes ofrece ocho idiomas y temas. Las pistas se descuentan tras confirmar y se usan primero las gratuitas. Un anuncio con recompensa concede una pista al obtener la recompensa. Las compras están en preparación; una vez activadas, se restauran desde la tienda de la app. Las notificaciones son opcionales y requieren permiso del sistema. Reiniciar solo borra el puzle actual; borrar el almacenamiento elimina el progreso local."
+        "El progreso se guarda automáticamente en el dispositivo. Ajustes ofrece ocho idiomas y temas. Las pistas se descuentan tras confirmar y se usan primero las gratuitas. Ver el anuncio no basta para recibir la pista; primero debe confirmarla el servidor. Las compras están en preparación; una vez activadas, se restauran desde la tienda de la app. Las notificaciones son opcionales y requieren permiso del sistema. Reiniciar solo borra el puzle actual; borrar el almacenamiento elimina el progreso local."
       ],
       [
         "Informar de un problema",
@@ -477,7 +477,7 @@
     "delete-account": [
       [
         "Alcance de la eliminación de Hashi",
-        "La versión normal actual no habilita cuentas ni compras reales. Si existen datos de cuenta de Hashi procedentes de pruebas o de una futura versión con cuentas, puedes solicitar su eliminación por el correo indicado. Aún no se ha implementado un botón de eliminación dentro de la app; se prevé incorporarlo antes del lanzamiento público de cuentas. Esta vía web no requiere instalar la app."
+        "La versión normal actual no habilita cuentas ni compras reales. Cuando se active la cuenta, Ajustes > Eliminar cuenta de Hashi borrará el progreso, las pistas, el acceso a compras y el vínculo de Hashi. El inicio de sesión compartido y los datos de otros juegos seguirán intactos. Puedes solicitar por correo la eliminación de datos de prueba o sin usar la app."
       ],
       [
         "Borrar datos locales",
@@ -499,7 +499,7 @@
     ],
     "tag": "Reliez les îles, prenez une pause.",
     "intro": "Assistance et politiques officielles de Hashi · Next Studio",
-    "date": "Entrée en vigueur / mise à jour : 15 septembre 2026",
+    "date": "Entrée en vigueur / mise à jour : 16 septembre 2026",
     "contact": "Contact",
     "skip": "Aller au contenu",
     "privacy": [
@@ -513,7 +513,7 @@
       ],
       [
         "Publicité et choix de confidentialité",
-        "L’app mobile utilise les publicités interstitielles de Google AdMob et des publicités avec récompense facultatives. Le SDK publicitaire peut traiter l’adresse IP et la position approximative déduite, les identifiants d’appareil et publicitaires, les vues et clics, les diagnostics et les choix de consentement pour diffuser et mesurer les publicités et prévenir la fraude. Nous ne demandons pas l’accès à la position précise. Les demandes de consentement dépendent de la région et de vos choix ; lorsque nécessaire, les options de confidentialité publicitaire des réglages permettent de les modifier. Refuser la personnalisation n’arrête pas tous les traitements techniques. La communication de données publicitaires peut constituer une vente ou un partage selon le droit local ; nous n’affirmons pas qu’aucune donnée n’est collectée ou partagée. Exercez les droits de refus applicables via ces contrôles ou par e-mail."
+        "L’app mobile utilise les publicités interstitielles de Google AdMob et des publicités avec récompense facultatives. Le SDK publicitaire peut traiter l’adresse IP et la position approximative déduite, les identifiants d’appareil et publicitaires, les vues et clics, les diagnostics et les choix de consentement pour diffuser et mesurer les publicités et prévenir la fraude. Nous ne demandons pas l’accès à la position précise. Les demandes de consentement dépendent de la région et de vos choix ; lorsque nécessaire, les options de confidentialité publicitaire des réglages permettent de les modifier. Refuser la personnalisation n’arrête pas tous les traitements techniques. La communication de données publicitaires peut constituer une vente ou un partage selon le droit local ; nous n’affirmons pas qu’aucune donnée n’est collectée ou partagée. Exercez les droits de refus applicables via ces contrôles ou par e-mail. Les indices issus des publicités sont accordés après vérification du rappel signé de Google par notre serveur. Nous conservons un jeton de demande pseudonyme, l’identifiant de transaction publicitaire et l’heure pour éviter les doublons."
       ],
       [
         "Notifications facultatives",
@@ -565,7 +565,7 @@
       ],
       [
         "Sauvegardes, indices, langue et notifications",
-        "La progression est enregistrée automatiquement sur l’appareil. Les réglages proposent huit langues et des thèmes. Les indices sont déduits après confirmation, les gratuits en premier. Une publicité avec récompense accorde un indice lorsque la récompense est obtenue. Les achats sont en préparation ; après activation, restaurez-les depuis la boutique de l’app. Les notifications sont facultatives et nécessitent l’autorisation du système. Recommencer réinitialise le puzzle actuel ; effacer le stockage supprime la progression locale."
+        "La progression est enregistrée automatiquement sur l’appareil. Les réglages proposent huit langues et des thèmes. Les indices sont déduits après confirmation, les gratuits en premier. Le visionnage seul ne donne pas l’indice : le serveur confirme d’abord la récompense. Les achats sont en préparation ; après activation, restaurez-les depuis la boutique de l’app. Les notifications sont facultatives et nécessitent l’autorisation du système. Recommencer réinitialise le puzzle actuel ; effacer le stockage supprime la progression locale."
       ],
       [
         "Signaler un problème",
@@ -575,7 +575,7 @@
     "delete-account": [
       [
         "Portée de la suppression Hashi",
-        "La version standard actuelle ne permet pas la connexion ni les achats réels. Si des données de compte Hashi existent à la suite de tests ou d’une future version avec comptes, vous pouvez demander leur suppression par e-mail. Le bouton de suppression dans l’app n’est pas encore implémenté ; un parcours est prévu avant l’ouverture publique des comptes. Cette demande web ne nécessite pas l’installation de l’app."
+        "La version standard actuelle ne permet pas la connexion ni les achats réels. Une fois les comptes activés, Réglages > Supprimer le compte Hashi effacera la progression, les indices, l’accès aux achats et le lien propre à Hashi. La connexion commune et les données des autres jeux resteront intactes. Vous pouvez demander par e-mail la suppression des données de test ou sans utiliser l’app."
       ],
       [
         "Effacer les données locales",
@@ -597,7 +597,7 @@
     ],
     "tag": "Inseln verbinden. Ruhe finden.",
     "intro": "Offizielle Hilfe und Richtlinien für Hashi · Next Studio",
-    "date": "Gültig / aktualisiert: 15. September 2026",
+    "date": "Gültig / aktualisiert am 16. September 2026",
     "contact": "Kontakt",
     "skip": "Zum Inhalt",
     "privacy": [
@@ -611,7 +611,7 @@
       ],
       [
         "Werbung und Datenschutzoptionen",
-        "Die mobile App verwendet Google-AdMob-Vollbildanzeigen und freiwillige Anzeigen mit Belohnung. Das Werbe-SDK kann IP-Adresse und daraus abgeleiteten ungefähren Standort, Geräte- und Werbekennungen, Anzeigenaufrufe und Klicks, Diagnosedaten und Einwilligungsentscheidungen zur Auslieferung, Messung und Betrugsprävention verarbeiten. Wir fragen keinen präzisen Standortzugriff an. Einwilligungsdialoge richten sich nach Region und Auswahl; erforderlichenfalls kannst du die Auswahl in den Werbe-Datenschutzoptionen der Einstellungen ändern. Die Ablehnung personalisierter Werbung beendet nicht jede technische Verarbeitung. Werbebezogene Datenweitergaben können nach lokalem Recht als Verkauf oder Weitergabe gelten; wir behaupten nicht, dass keine Daten erhoben oder geteilt werden. Anwendbare Widerspruchsrechte kannst du über diese Optionen oder per E-Mail ausüben."
+        "Die mobile App verwendet Google-AdMob-Vollbildanzeigen und freiwillige Anzeigen mit Belohnung. Das Werbe-SDK kann IP-Adresse und daraus abgeleiteten ungefähren Standort, Geräte- und Werbekennungen, Anzeigenaufrufe und Klicks, Diagnosedaten und Einwilligungsentscheidungen zur Auslieferung, Messung und Betrugsprävention verarbeiten. Wir fragen keinen präzisen Standortzugriff an. Einwilligungsdialoge richten sich nach Region und Auswahl; erforderlichenfalls kannst du die Auswahl in den Werbe-Datenschutzoptionen der Einstellungen ändern. Die Ablehnung personalisierter Werbung beendet nicht jede technische Verarbeitung. Werbebezogene Datenweitergaben können nach lokalem Recht als Verkauf oder Weitergabe gelten; wir behaupten nicht, dass keine Daten erhoben oder geteilt werden. Anwendbare Widerspruchsrechte kannst du über diese Optionen oder per E-Mail ausüben. Hinweise aus Belohnungsanzeigen werden erst nach Prüfung der signierten Google-Rückmeldung durch unseren Server vergeben. Zur Vermeidung doppelter Gutschriften speichern wir ein pseudonymes Anfragetoken, die Werbetransaktions-ID und den Zeitpunkt."
       ],
       [
         "Freiwillige Mitteilungen",
@@ -663,7 +663,7 @@
       ],
       [
         "Speicherung, Hinweise, Sprache und Mitteilungen",
-        "Der Fortschritt wird automatisch auf dem Gerät gespeichert. Die Einstellungen bieten acht Sprachen und Designs. Hinweise werden erst nach Bestätigung abgezogen, kostenlose zuerst. Eine Belohnungsanzeige gewährt bei Erhalt der Belohnung einen Hinweis. Käufe sind in Vorbereitung; nach Aktivierung erfolgt die Wiederherstellung im Shop. Mitteilungen sind freiwillig und benötigen die Betriebssystemfreigabe. Neustart setzt nur das aktuelle Rätsel zurück; das Löschen des App-Speichers entfernt lokale Spielstände."
+        "Der Fortschritt wird automatisch auf dem Gerät gespeichert. Die Einstellungen bieten acht Sprachen und Designs. Hinweise werden erst nach Bestätigung abgezogen, kostenlose zuerst. Das Ansehen der Anzeige allein vergibt noch keinen Hinweis; zuerst bestätigt der Server die Belohnung. Käufe sind in Vorbereitung; nach Aktivierung erfolgt die Wiederherstellung im Shop. Mitteilungen sind freiwillig und benötigen die Betriebssystemfreigabe. Neustart setzt nur das aktuelle Rätsel zurück; das Löschen des App-Speichers entfernt lokale Spielstände."
       ],
       [
         "Probleme melden",
@@ -673,7 +673,7 @@
     "delete-account": [
       [
         "Umfang der Hashi-Löschung",
-        "Im aktuellen Standard-Build sind Anmeldung und echte Käufe deaktiviert. Falls durch Tests oder eine spätere Kontoversion Hashi-Kontodaten entstanden sind, kannst du deren Löschung per E-Mail beantragen. Eine Kontolöschfunktion innerhalb der App ist noch nicht implementiert und wird vor dem öffentlichen Kontostart eingeplant. Für diesen Anfrageweg im Web muss die App nicht installiert sein."
+        "Im aktuellen Standard-Build sind Anmeldung und echte Käufe deaktiviert. Nach Aktivierung der Konten löscht Einstellungen > Hashi-Konto löschen den Hashi-Fortschritt, Hinweise, Kaufzugang und die spielbezogene Kontoverknüpfung. Die gemeinsame Anmeldung und Daten anderer Spiele bleiben erhalten. Testdaten oder Daten ohne App-Zugriff kannst du per E-Mail löschen lassen."
       ],
       [
         "Gerätedaten löschen",
@@ -695,7 +695,7 @@
     ],
     "tag": "Conecte ilhas. Encontre sua calma.",
     "intro": "Suporte e políticas oficiais do Hashi · Next Studio",
-    "date": "Vigência / atualização: 15 de setembro de 2026",
+    "date": "Vigente / atualizado em 16 de setembro de 2026",
     "contact": "Contato",
     "skip": "Ir ao conteúdo",
     "privacy": [
@@ -709,7 +709,7 @@
       ],
       [
         "Publicidade e escolhas de privacidade",
-        "O app móvel usa anúncios intersticiais do Google AdMob e anúncios com recompensa opcionais. O SDK de publicidade pode tratar IP e localização aproximada inferida, identificadores do dispositivo e de publicidade, visualizações e cliques, diagnósticos e escolhas de consentimento para exibir e medir anúncios e prevenir fraudes. Não pedimos acesso à localização precisa. Os avisos de consentimento dependem da região e das escolhas; quando necessário, você pode alterá-las nas opções de privacidade de anúncios em Configurações. Recusar personalização não interrompe todo tratamento técnico. A divulgação de dados publicitários pode ser considerada venda ou compartilhamento pela legislação local; não afirmamos que nenhum dado seja coletado ou compartilhado. Exerça os direitos de recusa aplicáveis nesses controles ou por e-mail."
+        "O app móvel usa anúncios intersticiais do Google AdMob e anúncios com recompensa opcionais. O SDK de publicidade pode tratar IP e localização aproximada inferida, identificadores do dispositivo e de publicidade, visualizações e cliques, diagnósticos e escolhas de consentimento para exibir e medir anúncios e prevenir fraudes. Não pedimos acesso à localização precisa. Os avisos de consentimento dependem da região e das escolhas; quando necessário, você pode alterá-las nas opções de privacidade de anúncios em Configurações. Recusar personalização não interrompe todo tratamento técnico. A divulgação de dados publicitários pode ser considerada venda ou compartilhamento pela legislação local; não afirmamos que nenhum dado seja coletado ou compartilhado. Exerça os direitos de recusa aplicáveis nesses controles ou por e-mail. As dicas por anúncios são concedidas após nosso servidor verificar o retorno assinado do Google. Guardamos um token de solicitação pseudônimo, o ID da transação do anúncio e o horário para evitar créditos duplicados."
       ],
       [
         "Notificações opcionais",
@@ -761,7 +761,7 @@
       ],
       [
         "Progresso, dicas, idioma e notificações",
-        "O progresso é salvo automaticamente no dispositivo. Configurações oferece oito idiomas e temas. Dicas são descontadas após confirmação, usando as gratuitas primeiro. Um anúncio com recompensa concede uma dica quando a recompensa é obtida. As compras estão em preparação; após ativadas, restaure-as pela loja do app. Notificações são opcionais e exigem permissão do sistema. Reiniciar afeta apenas o puzzle atual; limpar o armazenamento apaga o progresso local."
+        "O progresso é salvo automaticamente no dispositivo. Configurações oferece oito idiomas e temas. Dicas são descontadas após confirmação, usando as gratuitas primeiro. Assistir ao anúncio não libera a dica por si só; o servidor confirma a recompensa primeiro. As compras estão em preparação; após ativadas, restaure-as pela loja do app. Notificações são opcionais e exigem permissão do sistema. Reiniciar afeta apenas o puzzle atual; limpar o armazenamento apaga o progresso local."
       ],
       [
         "Relatar problema",
@@ -771,7 +771,7 @@
     "delete-account": [
       [
         "Escopo da exclusão do Hashi",
-        "A versão padrão atual não ativa contas nem compras reais. Se existirem dados de conta do Hashi criados em testes ou em uma versão futura com contas, você poderá solicitar a exclusão pelo e-mail abaixo. O botão de exclusão dentro do app ainda não foi implementado; está previsto um caminho no app antes da abertura pública de contas. Esta solicitação web não exige instalar o app."
+        "A versão padrão atual não ativa contas nem compras reais. Quando as contas forem ativadas, Configurações > Excluir conta do Hashi apagará o progresso, as dicas, o acesso a compras e o vínculo específico do jogo. O login compartilhado e os dados dos outros jogos serão mantidos. Você pode solicitar por e-mail a exclusão de dados de teste ou sem usar o app."
       ],
       [
         "Apagar dados locais",
