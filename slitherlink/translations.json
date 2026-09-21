@@ -49,7 +49,7 @@
       ],
       [
         "Premium content and consumer rights",
-        "There are 600 free puzzles and 2,400 additional puzzles through a one-time non-consumable purchase, with no ads or subscriptions. iOS availability and localized prices depend on the store. Purchases and restoration require internet; premium remains available offline for up to 24 hours after server verification, then needs rechecking. Restore using the same Apple account; this does not restore puzzle progress or transfer purchases to Android. Refunds and revocations remove premium access. Refund and withdrawal procedures follow Apple and applicable law without limiting mandatory consumer rights. Apple’s standard EULA applies to the iOS license where applicable."
+        "There are 600 free puzzles and 2,400 additional puzzles through a one-time non-consumable purchase. Hint packs are consumable in-app purchases. The app also shows interstitial and rewarded ads; rewarded ads can grant one hint after server verification. iOS availability and localized prices depend on the store. Purchases, restoration, and rewarded hints require internet. Premium unlocks puzzles only and does not provide unlimited hints. Refunds and revocations remove the relevant entitlement. Apple’s standard EULA applies to the iOS license where applicable."
       ],
       [
         "Use, changes and responsibility",
@@ -72,8 +72,8 @@
     ],
     "delete-account": [
       [
-        "No app account",
-        "There is no app account, but the server retains transaction records for iOS purchase verification and refunds. You may request deletion of local progress, support correspondence or purchase data. For purchase data, email “Slitherlink Data Deletion” with only the minimum information needed to identify the transaction. We explain effects on restoration and any legally required retention before processing. Apple manages its transaction records separately."
+        "Slitherlink account and deletion",
+        "You can create a Slitherlink account with Apple on iOS or Google on Android. In the account menu, choose Delete Account and confirm the prompt. We delete the game-specific account profile and associated server records where deletion is permitted; legally required transaction records may be retained. Account deletion does not cancel or refund Apple purchases, which Apple manages separately."
       ],
       [
         "Delete device data",
@@ -135,7 +135,7 @@
       ],
       [
         "프리미엄과 소비자 권리",
-        "무료 600문제와 일회성 비소모성 구매로 추가 2,400문제를 제공합니다. 광고·구독은 없습니다. iOS 판매 가능 여부와 실제 현지 가격은 스토어에 따릅니다. 구매·복원에는 인터넷이 필요하며, 서버 확인 후 최대 24시간 동안 프리미엄을 오프라인으로 이용할 수 있습니다. 이후 재확인이 필요합니다. 같은 Apple 계정으로 구매를 복원할 수 있으나 퍼즐 진행은 복원하지 않으며 Android로 구매 권한을 이전하지 않습니다. 환불·취소 시 프리미엄 권한을 회수합니다. 환불·철회 절차는 Apple과 적용 법률에 따르며 강행적 소비자 권리를 제한하지 않습니다. iOS 라이선스에는 해당하는 경우 Apple 표준 EULA가 적용됩니다."
+        "무료 600문제와 일회성 비소모성 구매로 추가 2,400문제를 제공합니다. 힌트 팩은 소모성 앱 내 구매입니다. 전면 광고와 보상형 광고를 제공하며, 보상형 광고는 서버 확인 후 힌트 1개를 제공할 수 있습니다. iOS 판매 가능 여부와 실제 현지 가격은 스토어에 따릅니다. 구매·복원·보상형 힌트에는 인터넷이 필요합니다. 프리미엄은 퍼즐만 해금하며 무제한 힌트를 제공하지 않습니다. 환불·취소 시 해당 권한을 회수합니다. iOS 라이선스에는 해당하는 경우 Apple 표준 EULA가 적용됩니다."
       ],
       [
         "이용·변경·책임",
@@ -158,8 +158,8 @@
     ],
     "delete-account": [
       [
-        "앱 계정 없음",
-        "계정 가입은 없지만 iOS 구매 검증·환불 처리를 위한 거래 기록은 서버에 저장됩니다. 로컬 진행, 문의 내역 또는 구매 데이터 삭제를 요청할 수 있습니다. 구매 데이터 삭제를 원하면 “Slitherlink Data Deletion” 제목으로 거래를 식별할 최소 정보만 문의 메일로 보내세요. 삭제가 구매 복구에 미치는 영향과 법적으로 보존해야 할 기록은 처리 전에 안내합니다. Apple의 거래 기록은 별도로 관리됩니다."
+        "Slitherlink 계정과 탈퇴",
+        "iOS에서는 Apple, Android에서는 Google 로그인으로 Slitherlink 계정을 만들 수 있습니다. 계정 메뉴에서 계정 삭제를 선택하고 안내를 확인하세요. 삭제가 허용되는 범위에서 게임별 계정 프로필과 연결된 서버 기록을 삭제하며, 법적으로 보존해야 하는 거래 기록은 보관할 수 있습니다. 계정 삭제는 Apple이 별도로 관리하는 구매를 취소하거나 환불하지 않습니다."
       ],
       [
         "기기 데이터 삭제",
@@ -221,7 +221,7 @@
       ],
       [
         "有料コンテンツと消費者の権利",
-        "無料600問と、買い切りの非消耗型購入による追加2,400問を提供し、広告・定期購読はありません。iOSでの販売状況と現地価格はストアに従います。購入・復元には通信が必要です。サーバー確認後24時間までオフラインで利用でき、その後は再確認が必要です。同じAppleアカウントで復元できますが、ゲーム進行の復元やAndroidへの移行ではありません。返金・取消時はプレミアム権利を取り消します。返金・撤回はAppleの手続きと適用法に従い、強行的な消費者の権利を制限しません。該当する場合、Apple標準EULAが適用されます。"
+        "無料600問と、買い切りの非消耗型購入による追加2,400問を提供します。ヒントパックは消耗型のアプリ内購入です。インタースティシャル広告とリワード広告を表示し、リワード広告ではサーバー確認後にヒント1個を付与することがあります。iOSでの販売状況と現地価格はストアに従います。購入、復元、リワードヒントには通信が必要です。プレミアムはパズルのみを解放し、無制限のヒントは提供しません。返金・取消時は該当する権利を取り消します。該当する場合、Apple標準EULAが適用されます。"
       ],
       [
         "利用・変更・責任",
@@ -244,8 +244,8 @@
     ],
     "delete-account": [
       [
-        "アカウントはありません",
-        "アプリのアカウントはありませんが、iOS購入検証・返金用の取引記録はサーバーに残ります。端末記録、問い合わせ、購入データの削除を依頼できます。購入データは件名「Slitherlink Data Deletion」で、取引の特定に必要な最小限の情報のみメールしてください。復元への影響と法定保存について事前に説明します。Appleの取引記録は別管理です。"
+        "Slitherlinkアカウントと削除",
+        "iOSではApple、AndroidではGoogleでSlitherlinkアカウントを作成できます。アカウントメニューで「アカウントを削除」を選び、案内を確認してください。削除できる範囲でゲーム固有のアカウントプロフィールと関連サーバー記録を削除しますが、法令上必要な取引記録は保持する場合があります。アカウント削除でAppleが別途管理する購入の取消しや返金は行われません。"
       ],
       [
         "端末情報の消去",
@@ -307,7 +307,7 @@
       ],
       [
         "高级内容与消费者权利",
-        "提供600道免费题及一次性非消耗型购买解锁的额外2,400道题，无广告或订阅。iOS销售状态和当地价格以商店为准。购买及恢复需要联网；服务器验证后最多可离线使用24小时，之后需重新验证。可用同一Apple账户恢复购买，但不恢复游戏进度或转移到Android。退款或撤销将移除高级权益。退款及撤回依Apple流程与适用法律执行，不限制强制性消费者权益。适用时，iOS许可采用Apple标准EULA。"
+        "提供600道免费题及一次性非消耗型购买解锁的额外2,400道题。提示包为消耗型应用内购买。应用展示插屏和激励广告；激励广告经服务器验证后可获得1个提示。iOS销售状态和当地价格以商店为准。购买、恢复和激励提示需要联网。高级版只解锁题目，不提供无限提示。退款或撤销将移除相应权益。适用时，iOS许可采用Apple标准EULA。"
       ],
       [
         "使用、变更与责任",
@@ -330,8 +330,8 @@
     ],
     "delete-account": [
       [
-        "没有应用账号",
-        "没有应用账号，但服务器会保留iOS购买验证及退款交易记录。可以请求删除本地进度、支持邮件或购买数据。购买数据删除请求请使用邮件主题“Slitherlink Data Deletion”，仅提供识别交易所需的最少信息。处理前会说明对恢复购买的影响及依法保留事项。Apple交易记录由Apple单独管理。"
+        "Slitherlink账户与删除",
+        "你可在iOS使用Apple、在Android使用Google创建Slitherlink账户。在账户菜单选择“删除账户”并确认提示。我们会在允许删除的范围内删除游戏专用账户资料及相关服务器记录；法律要求保留的交易记录可能继续保存。删除账户不会取消或退款由Apple单独管理的购买。"
       ],
       [
         "删除设备数据",
@@ -393,7 +393,7 @@
       ],
       [
         "Contenido premium",
-        "Hay 600 puzles gratuitos y 2.400 adicionales mediante una compra única no consumible, sin anuncios ni suscripciones. La disponibilidad y el precio local en iOS dependen de la tienda. Comprar y restaurar requiere internet; tras verificar, prémium funciona sin conexión hasta 24 horas y después debe comprobarse de nuevo. Restaura con la misma cuenta Apple; no recupera el progreso ni transfiere compras a Android. Reembolsos y revocaciones retiran el acceso. Se aplican los procedimientos de Apple y la ley, sin limitar derechos obligatorios. El EULA estándar de Apple se aplica cuando corresponda."
+        "Hay 600 puzles gratuitos y 2.400 adicionales mediante una compra única no consumible. Los paquetes de pistas son compras consumibles dentro de la app. La app muestra anuncios intersticiales y recompensados; un anuncio recompensado puede conceder una pista tras la verificación del servidor. La disponibilidad y el precio local en iOS dependen de la tienda. Las compras, la restauración y las pistas recompensadas requieren internet. Premium solo desbloquea puzles y no ofrece pistas ilimitadas. Reembolsos y revocaciones retiran el derecho correspondiente. El EULA estándar de Apple se aplica cuando corresponda."
       ],
       [
         "Uso y responsabilidad",
@@ -416,8 +416,8 @@
     ],
     "delete-account": [
       [
-        "No existe cuenta",
-        "No hay cuenta de la app, pero se conservan transacciones para verificar compras iOS y reembolsos. Puedes solicitar eliminar progreso local, consultas o datos de compra. Escribe con asunto “Slitherlink Data Deletion” y solo lo mínimo para identificar la transacción. Explicaremos el efecto sobre la restauración y la conservación legal antes de proceder. Apple gestiona sus propios registros."
+        "Cuenta y eliminación de Slitherlink",
+        "Puedes crear una cuenta de Slitherlink con Apple en iOS o Google en Android. En el menú de cuenta, elige Eliminar cuenta y confirma el aviso. Eliminamos el perfil de cuenta específico del juego y los registros de servidor asociados cuando sea posible; podemos conservar transacciones exigidas por ley. Eliminar la cuenta no cancela ni reembolsa compras de Apple, gestionadas por Apple."
       ],
       [
         "Borrar datos locales",
@@ -479,7 +479,7 @@
       ],
       [
         "Contenu premium",
-        "600 puzzles sont gratuits et 2 400 autres accessibles par achat unique non consommable, sans publicité ni abonnement. La disponibilité et le prix local iOS dépendent de la boutique. Achat et restauration nécessitent Internet ; Premium fonctionne hors ligne jusqu’à 24 heures après vérification, puis doit être revérifié. Utilisez le même compte Apple pour restaurer ; cela ne restaure pas la progression et ne transfère pas les achats vers Android. Remboursement ou révocation retire l’accès. Les procédures Apple et le droit applicable s’appliquent, sans limiter les droits impératifs. Le CLUF standard Apple s’applique le cas échéant."
+        "600 puzzles sont gratuits et 2 400 autres accessibles par achat unique non consommable. Les packs d’indices sont des achats consommables intégrés. L’app affiche des annonces interstitielles et récompensées ; une annonce récompensée peut accorder un indice après vérification du serveur. La disponibilité et le prix local iOS dépendent de la boutique. Les achats, la restauration et les indices récompensés nécessitent Internet. Premium déverrouille uniquement les puzzles et ne fournit pas d’indices illimités. Remboursement ou révocation retire le droit concerné. Le CLUF standard Apple s’applique le cas échéant."
       ],
       [
         "Utilisation et responsabilité",
@@ -502,8 +502,8 @@
     ],
     "delete-account": [
       [
-        "Aucun compte",
-        "Il n’y a pas de compte d’app, mais des transactions sont conservées pour vérifier les achats iOS et les remboursements. Vous pouvez demander l’effacement du progrès local, des échanges d’assistance ou des données d’achat. Écrivez avec l’objet « Slitherlink Data Deletion » et le minimum permettant d’identifier la transaction. Nous expliquons au préalable les effets sur la restauration et les obligations de conservation. Apple gère séparément ses propres transactions."
+        "Compte et suppression Slitherlink",
+        "Vous pouvez créer un compte Slitherlink avec Apple sur iOS ou Google sur Android. Dans le menu du compte, choisissez Supprimer le compte et confirmez. Nous supprimons le profil propre au jeu et les données serveur associées lorsque cela est permis ; les transactions légalement requises peuvent être conservées. La suppression du compte n’annule ni ne rembourse les achats Apple, gérés séparément par Apple."
       ],
       [
         "Effacer les données locales",
@@ -565,7 +565,7 @@
       ],
       [
         "Premium und Verbraucherrechte",
-        "600 Rätsel sind kostenlos, weitere 2.400 durch einen einmaligen nicht verbrauchbaren Kauf verfügbar. Es gibt keine Werbung oder Abos. Verfügbarkeit und lokaler iOS-Preis richten sich nach dem Store. Kauf und Wiederherstellung benötigen Internet; Premium bleibt nach Prüfung bis zu 24 Stunden offline verfügbar und muss danach erneut geprüft werden. Wiederherstellung nutzt dasselbe Apple-Konto, stellt keine Spielstände wieder her und überträgt nichts zu Android. Erstattung oder Widerruf entzieht Premium. Es gelten Apples Verfahren und geltendes Recht; zwingende Verbraucherrechte bleiben bestehen. Gegebenenfalls gilt Apples Standard-EULA."
+        "600 Rätsel sind kostenlos, weitere 2.400 durch einen einmaligen nicht verbrauchbaren Kauf verfügbar. Hinweis-Pakete sind verbrauchbare In-App-Käufe. Die App zeigt Interstitial- und Belohnungswerbung; eine Belohnungsanzeige kann nach Serverprüfung einen Hinweis gewähren. Verfügbarkeit und lokaler iOS-Preis richten sich nach dem Store. Käufe, Wiederherstellungen und Belohnungshinweise benötigen Internet. Premium schaltet nur Rätsel frei und bietet keine unbegrenzten Hinweise. Erstattung oder Widerruf entzieht die entsprechende Berechtigung. Gegebenenfalls gilt Apples Standard-EULA."
       ],
       [
         "Nutzung und Verantwortung",
@@ -588,8 +588,8 @@
     ],
     "delete-account": [
       [
-        "Kein App-Konto",
-        "Es gibt kein App-Konto, aber Server-Transaktionsdaten zur iOS-Kaufprüfung und Erstattung. Du kannst lokale Spielstände, Supportnachrichten oder Kaufdaten löschen lassen. Schreibe mit Betreff „Slitherlink Data Deletion“ und nur den zur Zuordnung nötigen Angaben. Folgen für die Wiederherstellung und gesetzliche Aufbewahrung erklären wir vorab. Apple verwaltet seine Transaktionen getrennt."
+        "Slitherlink-Konto und Löschung",
+        "Du kannst ein Slitherlink-Konto mit Apple auf iOS oder Google auf Android erstellen. Wähle im Kontomenü „Konto löschen“ und bestätige den Hinweis. Wir löschen das spielspezifische Kontoprofil und zugehörige Serverdaten, soweit dies zulässig ist; gesetzlich erforderliche Transaktionsdaten können erhalten bleiben. Die Kontolöschung storniert oder erstattet keine von Apple getrennt verwalteten Käufe."
       ],
       [
         "Gerätedaten löschen",
@@ -651,7 +651,7 @@
       ],
       [
         "Premium e consumidor",
-        "São 600 puzzles gratuitos e 2.400 extras por uma compra única não consumível, sem anúncios ou assinatura. Disponibilidade e preço local iOS dependem da loja. Comprar e restaurar exige internet; o Premium funciona offline por até 24 horas após verificação e depois precisa ser verificado novamente. Restaure com a mesma conta Apple; isso não recupera progresso nem transfere compras ao Android. Reembolso ou revogação remove o acesso. Aplicam-se os procedimentos da Apple e a lei, sem limitar direitos obrigatórios. O EULA padrão da Apple vale quando cabível."
+        "São 600 puzzles gratuitos e 2.400 extras por uma compra única não consumível. Pacotes de dicas são compras consumíveis no app. O app exibe anúncios intersticiais e recompensados; um anúncio recompensado pode conceder uma dica após verificação do servidor. Disponibilidade e preço local iOS dependem da loja. Compras, restauração e dicas recompensadas exigem internet. Premium desbloqueia apenas puzzles e não oferece dicas ilimitadas. Reembolso ou revogação remove o direito correspondente. O EULA padrão da Apple vale quando cabível."
       ],
       [
         "Uso e responsabilidade",
@@ -674,8 +674,8 @@
     ],
     "delete-account": [
       [
-        "Sem conta no app",
-        "Não há conta do app, mas registros de transações são mantidos para compras iOS e reembolsos. Você pode pedir exclusão de progresso local, mensagens ou dados de compra. Envie “Slitherlink Data Deletion” no assunto e somente o necessário para identificar a transação. Explicaremos antes os efeitos na restauração e a retenção legal. A Apple administra seus registros separadamente."
+        "Conta e exclusão do Slitherlink",
+        "Você pode criar uma conta Slitherlink com Apple no iOS ou Google no Android. No menu da conta, escolha Excluir conta e confirme o aviso. Excluímos o perfil específico do jogo e registros de servidor associados quando permitido; registros de transação exigidos por lei podem ser retidos. A exclusão da conta não cancela nem reembolsa compras da Apple, gerenciadas separadamente pela Apple."
       ],
       [
         "Apagar dados locais",
