@@ -30,8 +30,8 @@
         "Notifications are off by default. If enabled, Google Firebase Cloud Messaging and Apple APNs on iOS process installation identifiers, push tokens, language-topic subscriptions and delivery information. Turning notifications off in Settings asks FCM to unsubscribe and delete the token. You can also block notifications in OS settings. We do not maintain a separate database of per-device push tokens. Automatic notification sending is not currently enabled."
       ],
       [
-        "Accounts and purchases, when enabled",
-        "Sign-in and real purchases are disabled in the current pre-release build. In a version with purchase accounts enabled, Supabase processes email, account ID, authentication/access records, product and transaction IDs, purchase environment, entitlements, paid-hint balance, spend request ID, puzzle ID and time for authentication, verification, recovery and prevention of duplicate charges to hint balances. We do not collect payment-card details. The database region is Seoul, South Korea; Supabase and its subprocessors may provide authentication and operational support from other countries, including the US. Apple handles payment and transaction verification. Where required, processing relies on contract performance, legitimate interests in security and fraud prevention, legal obligations, or consent for optional features. This notice and these flows will be reviewed before purchasing is enabled."
+        "Accounts and purchases",
+        "Supabase processes email, account ID, authentication/access records, product and transaction IDs, purchase environment, entitlements, paid-hint balance, spend request ID, puzzle ID and time for authentication, verification, recovery and prevention of duplicate charges to hint balances. We do not collect payment-card details. The database region is Seoul, South Korea; Supabase and its subprocessors may provide authentication and operational support from other countries, including the US. Apple handles payment and transaction verification. Where required, processing relies on contract performance, legitimate interests in security and fraud prevention, legal obligations, or consent for optional features."
       ],
       [
         "Server retention and international processing",
@@ -61,7 +61,7 @@
       ],
       [
         "Ads, products and consumer rights",
-        "Free play may include interstitials and optional rewarded ads. When sales begin, interstitial removal and Premium are non-consumables, while hint bundles are consumables. Premium provides 2,000 additional puzzles, interstitial removal and three free hints per day. Rewarded ads remain optional after ad removal. Purchasing is currently disabled and there is no subscription. Review the actual localized store price and description before buying. Paid hints do not expire; restoring purchases requires the relevant store and app accounts. Restoration does not restore puzzle progress or imply transfer between Apple and Google. Refunds and withdrawal follow store procedures and applicable law; mandatory consumer rights remain unaffected. Apple’s standard EULA applies to the iOS license where applicable."
+        "Free play may include interstitials and optional rewarded ads. interstitial removal and Premium are non-consumables, while hint bundles are consumables. Premium provides 2,000 additional puzzles, interstitial removal and three free hints per day. Rewarded ads remain optional after ad removal. there is no subscription. Review the actual localized store price and description before buying. Paid hints do not expire; restoring purchases requires the relevant store and app accounts. Restoration does not restore puzzle progress or imply transfer between Apple and Google. Refunds and withdrawal follow store procedures and applicable law; mandatory consumer rights remain unaffected. Apple’s standard EULA applies to the iOS license where applicable."
       ],
       [
         "Use, changes and responsibility",
@@ -75,7 +75,7 @@
       ],
       [
         "Saves, hints, language and notifications",
-        "Progress saves automatically on your device. Settings offers eight languages and themes. Hints are spent after confirmation, with free hints used first. Watching an ad alone does not issue a hint; the server confirms the reward first. Purchases are currently coming soon; once enabled, restore them from the Shop. Notifications are optional and need OS permission. Restart resets only the current puzzle; clearing app storage removes local progress."
+        "Progress saves automatically on your device. Settings offers eight languages and themes. Hints are spent after confirmation, with free hints used first. Watching an ad alone does not issue a hint; the server confirms the reward first. Purchases and restoration are available from the Shop. Notifications are optional and need OS permission. Restart resets only the current puzzle; clearing app storage removes local progress."
       ],
       [
         "Report an issue",
@@ -85,7 +85,7 @@
     "delete-account": [
       [
         "Scope of Hashi deletion",
-        "Sign-in and real purchases are disabled in the current standard build. In an account-enabled version, Settings > Leave Hashi deletes Hashi progress, hints, purchase access and the game-specific account link. The shared sign-in and other games' data remain. You can request deletion of test data or data without the app by email below."
+        "In Settings, Leave Hashi deletes Hashi progress, hints, purchase access and the game-specific account link. The shared sign-in and other games' data remain. You can request deletion of test data or data without the app by email below."
       ],
       [
         "Delete device data",
@@ -128,8 +128,8 @@
         "알림은 기본적으로 꺼져 있습니다. 허용하면 Google Firebase Cloud Messaging과 iOS의 Apple APNs가 설치 식별자, 푸시 토큰, 선택 언어에 따른 주제 구독 및 전달 정보를 처리합니다. 설정에서 끄면 앱은 구독 해제와 FCM 토큰 삭제를 요청합니다. OS에서도 알림을 차단할 수 있습니다. 개발자가 기기별 푸시 토큰을 별도 DB에 저장하지는 않습니다. 현재 자동 알림 발송은 활성화되지 않았습니다."
       ],
       [
-        "계정과 구매: 활성화되는 경우",
-        "현재 배포 준비 빌드의 로그인·실제 구매는 비활성화되어 있습니다. 활성화된 버전에서 구매 계정을 사용하면 이메일, 계정 ID, 인증·접속 기록, 상품·거래 ID, 구매 환경, 구매 권한, 유료 힌트 잔액과 사용 요청 ID·퍼즐 ID·시각을 Supabase에 처리하여 인증, 구매 검증·복구와 중복 차감을 방지합니다. 결제 카드 정보는 수집하지 않습니다. DB 지역은 한국 서울이며, Supabase 및 하위 처리업체의 인증·운영 지원은 미국 등 국외에서 이루어질 수 있습니다. Apple은 결제와 거래 검증을 처리합니다. 해당 기능 제공은 계약 이행, 보안·부정 이용 방지는 정당한 이익, 필수 기록은 법적 의무, 선택 기능은 필요한 경우 동의를 근거로 합니다. 구매 기능은 이 데이터 처리 안내를 갱신·검증한 뒤 활성화합니다."
+        "계정과 구매",
+        "구매 계정을 사용하면 이메일, 계정 ID, 인증·접속 기록, 상품·거래 ID, 구매 환경, 구매 권한, 유료 힌트 잔액과 사용 요청 ID·퍼즐 ID·시각을 Supabase에 처리하여 인증, 구매 검증·복구와 중복 차감을 방지합니다. 결제 카드 정보는 수집하지 않습니다. DB 지역은 한국 서울이며, Supabase 및 하위 처리업체의 인증·운영 지원은 미국 등 국외에서 이루어질 수 있습니다. Apple은 결제와 거래 검증을 처리합니다. 해당 기능 제공은 계약 이행, 보안·부정 이용 방지는 정당한 이익, 필수 기록은 법적 의무, 선택 기능은 필요한 경우 동의를 근거로 합니다."
       ],
       [
         "서버 데이터 보유와 국외 처리",
@@ -159,7 +159,7 @@
       ],
       [
         "광고·상품·소비자 권리",
-        "무료 이용에는 전면 광고와 선택형 보상 광고가 포함될 수 있습니다. 판매가 시작되면 전면 광고 제거 및 프리미엄은 비소모성, 힌트 묶음은 소모성 상품입니다. 프리미엄은 추가 2,000문제·전면 광고 제거·하루 무료 힌트 3개를 제공합니다. 광고 제거 후에도 보상 광고는 사용자가 선택할 수 있습니다. 현재 구매는 비활성화되어 있으며 구독은 없습니다. 구매 전 스토어의 실제 현지 가격과 설명을 확인하세요. 구매 힌트에는 만료 기간이 없으며, 구매 복구에는 해당 스토어 및 앱 계정이 필요합니다. 구매 복구는 게임 진행 복구나 Apple·Google 간 이전을 뜻하지 않습니다. 환불·철회는 스토어 절차와 적용 법률을 따르며 강행적 소비자 권리는 제한되지 않습니다. iOS 라이선스에는 해당하는 경우 Apple 표준 EULA가 적용됩니다."
+        "무료 이용에는 전면 광고와 선택형 보상 광고가 포함될 수 있습니다. 전면 광고 제거 및 프리미엄은 비소모성, 힌트 묶음은 소모성 상품입니다. 프리미엄은 추가 2,000문제·전면 광고 제거·하루 무료 힌트 3개를 제공합니다. 광고 제거 후에도 보상 광고는 사용자가 선택할 수 있습니다. 구독은 없습니다. 구매 전 스토어의 실제 현지 가격과 설명을 확인하세요. 구매 힌트에는 만료 기간이 없으며, 구매 복구에는 해당 스토어 및 앱 계정이 필요합니다. 구매 복구는 게임 진행 복구나 Apple·Google 간 이전을 뜻하지 않습니다. 환불·철회는 스토어 절차와 적용 법률을 따르며 강행적 소비자 권리는 제한되지 않습니다. iOS 라이선스에는 해당하는 경우 Apple 표준 EULA가 적용됩니다."
       ],
       [
         "이용·변경·책임",
@@ -173,7 +173,7 @@
       ],
       [
         "저장·힌트·언어·알림",
-        "진행은 기기에 자동 저장됩니다. 설정에서 8개 언어와 테마를 바꿀 수 있습니다. 힌트는 확인 후 차감되며 무료 힌트가 먼저 사용됩니다. 광고 시청 완료만으로 힌트가 지급되지는 않으며, 서버 확인이 끝난 뒤 지급됩니다. 구매는 현재 준비 중이며 활성화 후 구매 복원은 상점에서 진행합니다. 알림은 선택 사항이고 OS 권한이 필요합니다. 재시작은 현재 퍼즐만 초기화하고 앱 저장 공간 삭제는 로컬 진행을 지웁니다."
+        "진행은 기기에 자동 저장됩니다. 설정에서 8개 언어와 테마를 바꿀 수 있습니다. 힌트는 확인 후 차감되며 무료 힌트가 먼저 사용됩니다. 광고 시청 완료만으로 힌트가 지급되지는 않으며, 서버 확인이 끝난 뒤 지급됩니다. 구매와 구매 복원은 상점에서 진행합니다. 알림은 선택 사항이고 OS 권한이 필요합니다. 재시작은 현재 퍼즐만 초기화하고 앱 저장 공간 삭제는 로컬 진행을 지웁니다."
       ],
       [
         "문제 문의",
@@ -183,7 +183,7 @@
     "delete-account": [
       [
         "하시 데이터 삭제 범위",
-        "현재 일반 빌드에는 로그인·실제 구매가 활성화되어 있지 않습니다. 계정 기능이 활성화된 버전에서는 설정의 ‘하시 탈퇴’에서 하시의 진행 상황, 힌트, 구매 권한과 게임별 계정 연결을 삭제할 수 있습니다. 공용 로그인과 다른 게임의 데이터는 유지됩니다. 테스트 데이터의 삭제나 앱을 설치하지 않은 상태의 삭제는 아래 이메일로 요청할 수 있습니다."
+        "설정의 ‘하시 탈퇴’에서 하시의 진행 상황, 힌트, 구매 권한과 게임별 계정 연결을 삭제할 수 있습니다. 공용 로그인과 다른 게임의 데이터는 유지됩니다. 테스트 데이터의 삭제나 앱을 설치하지 않은 상태의 삭제는 아래 이메일로 요청할 수 있습니다."
       ],
       [
         "기기 데이터 삭제",
@@ -226,8 +226,8 @@
         "通知は初期状態ではオフです。有効にすると Google Firebase Cloud Messaging と iOS の Apple APNs がインストール識別子、プッシュトークン、言語別トピックの購読、配信情報を処理します。設定でオフにすると購読解除と FCM トークン削除を要求します。OS 側でも通知を拒否できます。運営者は端末別トークンを別の DB に保存しません。自動通知の配信は現在有効になっていません。"
       ],
       [
-        "アカウントと購入：有効な場合",
-        "現在の公開準備版ではログインと実際の購入は無効です。購入アカウントが有効な版では、Supabase がメール、アカウント ID、認証・アクセス記録、商品・取引 ID、購入環境、購入権利、有料ヒント残高、使用リクエスト ID・パズル ID・時刻を処理し、認証・検証・復元と重複消費の防止に使用します。カード情報は収集しません。DB は韓国ソウルに置かれますが、Supabase と再委託先の認証・運用支援は米国など国外でも行われる場合があります。Apple が決済と取引検証を処理します。必要な法的根拠は契約履行、セキュリティ・不正防止の正当な利益、法的義務、任意機能に必要な同意です。購入有効化前に本案内と処理内容を再確認します。"
+        "アカウントと購入",
+        "Supabase がメール、アカウント ID、認証・アクセス記録、商品・取引 ID、購入環境、購入権利、有料ヒント残高、使用リクエスト ID・パズル ID・時刻を処理し、認証・検証・復元と重複消費の防止に使用します。カード情報は収集しません。DB は韓国ソウルに置かれますが、Supabase と再委託先の認証・運用支援は米国など国外でも行われる場合があります。Apple が決済と取引検証を処理します。必要な法的根拠は契約履行、セキュリティ・不正防止の正当な利益、法的義務、任意機能に必要な同意です。"
       ],
       [
         "サーバーでの保有と国外処理",
@@ -257,7 +257,7 @@
       ],
       [
         "広告・商品・消費者の権利",
-        "無料利用には全画面広告と任意のリワード広告が含まれる場合があります。販売開始後、全画面広告削除とプレミアムは非消耗型、ヒントパックは消耗型です。プレミアムは追加2,000問、全画面広告削除、毎日無料ヒント3個を提供します。広告削除後もリワード広告は任意で選べます。現在購入は無効で、定期購読はありません。購入前にストアの実際の現地価格と説明をご確認ください。有料ヒントに有効期限はなく、復元には該当ストアとアプリのアカウントが必要です。復元はゲーム進行や Apple・Google 間の移行を保証しません。返金・撤回はストア手続きと適用法に従い、強行的な消費者の権利を制限しません。iOS には該当する場合 Apple 標準 EULA が適用されます。"
+        "無料利用には全画面広告と任意のリワード広告が含まれる場合があります。全画面広告削除とプレミアムは非消耗型、ヒントパックは消耗型です。プレミアムは追加2,000問、全画面広告削除、毎日無料ヒント3個を提供します。広告削除後もリワード広告は任意で選べます。定期購読はありません。購入前にストアの実際の現地価格と説明をご確認ください。有料ヒントに有効期限はなく、復元には該当ストアとアプリのアカウントが必要です。復元はゲーム進行や Apple・Google 間の移行を保証しません。返金・撤回はストア手続きと適用法に従い、強行的な消費者の権利を制限しません。iOS には該当する場合 Apple 標準 EULA が適用されます。"
       ],
       [
         "利用・変更・責任",
@@ -271,7 +271,7 @@
       ],
       [
         "保存・ヒント・言語・通知",
-        "進行は端末に自動保存されます。設定で8言語とテーマを選べます。ヒントは確認後に消費し、無料分を先に使います。広告の視聴だけではヒントは付与されず、サーバーで確認した後に反映されます。購入は準備中で、有効化後はショップから復元できます。通知は任意で OS の許可が必要です。再スタートは現在の問題のみ、アプリのデータ削除は端末内の進行を消去します。"
+        "進行は端末に自動保存されます。設定で8言語とテーマを選べます。ヒントは確認後に消費し、無料分を先に使います。広告の視聴だけではヒントは付与されず、サーバーで確認した後に反映されます。購入と復元はショップから行えます。通知は任意で OS の許可が必要です。再スタートは現在の問題のみ、アプリのデータ削除は端末内の進行を消去します。"
       ],
       [
         "問題の報告",
@@ -281,7 +281,7 @@
     "delete-account": [
       [
         "Hashi の削除対象",
-        "現在の通常版ではログインと実際の購入は無効です。アカウント機能を有効にした版では、設定の「ハシを退会」からハシの進行状況、ヒント、購入権限、ゲーム別のアカウント連携を削除できます。共通ログインと他のゲームのデータは残ります。テストデータやアプリを利用できない場合の削除は、以下のメールで依頼できます。"
+        "設定の「ハシを退会」からハシの進行状況、ヒント、購入権限、ゲーム別のアカウント連携を削除できます。"
       ],
       [
         "端末情報の消去",
@@ -324,8 +324,8 @@
         "通知默认关闭。开启后，Google Firebase Cloud Messaging 与 iOS 的 Apple APNs 会处理安装标识符、推送令牌、语言主题订阅和投递信息。在设置中关闭时，应用请求取消订阅并删除 FCM 令牌。也可在系统设置中禁止通知。开发者不另建数据库存储每台设备的推送令牌。目前尚未启用自动通知发送。"
       ],
       [
-        "账号与购买：启用时适用",
-        "当前发布准备版本未启用登录及实际购买。启用购买账号的版本会通过 Supabase 处理邮箱、账号 ID、认证和访问记录、商品及交易 ID、购买环境、已购权益、付费提示余额、使用请求 ID、关卡 ID 和时间，用于认证、购买验证与恢复、防止提示重复扣除。我们不收集银行卡信息。数据库区域为韩国首尔；Supabase 及其分包处理者可能从美国等其他国家提供认证和运维支持。Apple 负责支付及交易验证。需要法律依据时，处理基于履行合同、安全和反欺诈的合法利益、法定义务或可选功能所需的同意。启用购买前会重新核对本说明和数据流程。"
+        "账号与购买",
+        "Supabase 会处理邮箱、账号 ID、认证和访问记录、商品及交易 ID、购买环境、已购权益、付费提示余额、使用请求 ID、关卡 ID 和时间，用于认证、购买验证与恢复、防止提示重复扣除。我们不收集银行卡信息。数据库区域为韩国首尔；Supabase 及其分包处理者可能从美国等其他国家提供认证和运维支持。Apple 负责支付及交易验证。需要法律依据时，处理基于履行合同、安全和反欺诈的合法利益、法定义务或可选功能所需的同意。"
       ],
       [
         "服务器保留与跨境处理",
@@ -355,7 +355,7 @@
       ],
       [
         "广告、商品与消费者权益",
-        "免费游玩可能包含插屏广告和可选的激励广告。销售开启后，移除插屏广告及高级版属于非消耗型商品，提示包属于消耗型商品。高级版提供额外2,000道题、移除插屏广告及每日3个免费提示。移除广告后仍可自行选择激励广告。目前购买尚未启用，也没有订阅。购买前请核对商店显示的当地价格及说明。付费提示不设到期日；恢复购买需要相应的商店账号和应用账号，不代表恢复关卡进度或支持 Apple 与 Google 之间转移。退款及撤回权依商店流程和适用法律办理，不限制强制性消费者权益。iOS 许可在适用时采用 Apple 标准 EULA。"
+        "免费游玩可能包含插屏广告和可选的激励广告。移除插屏广告及高级版属于非消耗型商品，提示包属于消耗型商品。高级版提供额外2,000道题、移除插屏广告及每日3个免费提示。移除广告后仍可自行选择激励广告。没有订阅。购买前请核对商店显示的当地价格及说明。付费提示不设到期日；恢复购买需要相应的商店账号和应用账号，不代表恢复关卡进度或支持 Apple 与 Google 之间转移。退款及撤回权依商店流程和适用法律办理，不限制强制性消费者权益。iOS 许可在适用时采用 Apple 标准 EULA。"
       ],
       [
         "使用、变更与责任",
@@ -369,7 +369,7 @@
       ],
       [
         "保存、提示、语言与通知",
-        "进度自动保存在设备上。设置支持8种语言和主题切换。提示在确认后扣除，优先使用免费提示；仅观看广告不会立即获得提示；服务器确认奖励后才会发放。购买目前准备中，启用后可在商店恢复。通知为可选功能，需要系统权限。重新开始只清空当前关卡；清除应用存储会删除本地进度。"
+        "进度自动保存在设备上。设置支持8种语言和主题切换。提示在确认后扣除，优先使用免费提示；仅观看广告不会立即获得提示；服务器确认奖励后才会发放。可在应用商店页面购买和恢复购买。通知为可选功能，需要系统权限。重新开始只清空当前关卡；清除应用存储会删除本地进度。"
       ],
       [
         "报告问题",
@@ -379,7 +379,7 @@
     "delete-account": [
       [
         "Hashi 数据删除范围",
-        "当前普通版本未启用登录或实际购买。启用账号功能后，可在设置中选择“注销数桥”，删除数桥进度、提示、购买权益及该游戏的账号关联。共用登录和其他游戏的数据会保留。测试数据或无法使用应用时，可通过以下邮箱请求删除。"
+        "可在设置中选择“注销数桥”，删除数桥进度、提示、购买权益及该游戏的账号关联。"
       ],
       [
         "删除设备数据",
@@ -422,8 +422,8 @@
         "Están desactivadas por defecto. Al activarlas, Google Firebase Cloud Messaging y Apple APNs en iOS tratan identificadores de instalación, tokens push, suscripciones a temas por idioma e información de entrega. Desactivarlas en Ajustes solicita la baja del tema y la eliminación del token FCM. También puedes bloquearlas en el sistema operativo. No mantenemos una base de datos aparte con tokens por dispositivo. El envío automático de notificaciones aún no está activo."
       ],
       [
-        "Cuentas y compras, cuando estén habilitadas",
-        "La versión actual de preparación para el lanzamiento tiene desactivados el acceso a cuentas y las compras reales. En una versión con cuentas de compra, Supabase tratará correo, ID de cuenta, registros de autenticación y acceso, IDs de producto y transacción, entorno de compra, derechos adquiridos, saldo de pistas pagadas, ID de solicitud de uso, ID de puzle y hora para autenticar, verificar, recuperar compras y evitar descuentos duplicados de pistas. No recopilamos datos de tarjetas. La base de datos está en Seúl, Corea del Sur; Supabase y sus subencargados pueden prestar apoyo de autenticación y operación desde otros países, incluido EE. UU. Apple procesa pagos y verifica transacciones. Cuando se exige una base jurídica, se aplica la ejecución del contrato, el interés legítimo en seguridad y prevención del fraude, obligaciones legales o el consentimiento para funciones opcionales. Revisaremos este aviso y los flujos antes de activar compras."
+        "Cuentas y compras",
+        "Supabase trata correo, ID de cuenta, registros de autenticación y acceso, IDs de producto y transacción, entorno de compra, derechos adquiridos, saldo de pistas pagadas, ID de solicitud de uso, ID de puzle y hora para autenticar, verificar, recuperar compras y evitar descuentos duplicados de pistas. No recopilamos datos de tarjetas. La base de datos está en Seúl, Corea del Sur; Supabase y sus subencargados pueden prestar apoyo de autenticación y operación desde otros países, incluido EE. UU. Apple procesa pagos y verifica transacciones. Cuando se exige una base jurídica, se aplica la ejecución del contrato, el interés legítimo en seguridad y prevención del fraude, obligaciones legales o el consentimiento para funciones opcionales."
       ],
       [
         "Conservación en servidor y transferencias",
@@ -453,7 +453,7 @@
       ],
       [
         "Anuncios, productos y derechos del consumidor",
-        "El juego gratuito puede incluir intersticiales y anuncios con recompensa opcionales. Cuando empiecen las ventas, quitar intersticiales y Premium serán compras no consumibles; los paquetes de pistas serán consumibles. Premium ofrece 2.000 puzles adicionales, elimina intersticiales e incluye tres pistas gratuitas al día. Los anuncios con recompensa siguen siendo opcionales tras quitar anuncios. Las compras están desactivadas y no hay suscripción. Consulta el precio local real y la descripción de la tienda antes de comprar. Las pistas pagadas no caducan; para recuperar compras se necesitan las cuentas de la tienda y de la app correspondientes. Esto no recupera el progreso ni permite transferir entre Apple y Google. Los reembolsos y el desistimiento siguen los procedimientos de la tienda y la ley aplicable, sin limitar derechos irrenunciables. La licencia iOS se rige por el EULA estándar de Apple cuando corresponda."
+        "El juego gratuito puede incluir intersticiales y anuncios con recompensa opcionales. quitar intersticiales y Premium serán compras no consumibles; los paquetes de pistas serán consumibles. Premium ofrece 2.000 puzles adicionales, elimina intersticiales e incluye tres pistas gratuitas al día. Los anuncios con recompensa siguen siendo opcionales tras quitar anuncios. no hay suscripción. Consulta el precio local real y la descripción de la tienda antes de comprar. Las pistas pagadas no caducan; para recuperar compras se necesitan las cuentas de la tienda y de la app correspondientes. Esto no recupera el progreso ni permite transferir entre Apple y Google. Los reembolsos y el desistimiento siguen los procedimientos de la tienda y la ley aplicable, sin limitar derechos irrenunciables. La licencia iOS se rige por el EULA estándar de Apple cuando corresponda."
       ],
       [
         "Uso y responsabilidad",
@@ -467,7 +467,7 @@
       ],
       [
         "Guardado, pistas, idioma y notificaciones",
-        "El progreso se guarda automáticamente en el dispositivo. Ajustes ofrece ocho idiomas y temas. Las pistas se descuentan tras confirmar y se usan primero las gratuitas. Ver el anuncio no basta para recibir la pista; primero debe confirmarla el servidor. Las compras están en preparación; una vez activadas, se restauran desde la tienda de la app. Las notificaciones son opcionales y requieren permiso del sistema. Reiniciar solo borra el puzle actual; borrar el almacenamiento elimina el progreso local."
+        "El progreso se guarda automáticamente en el dispositivo. Ajustes ofrece ocho idiomas y temas. Las pistas se descuentan tras confirmar y se usan primero las gratuitas. Ver el anuncio no basta para recibir la pista; primero debe confirmarla el servidor. Las compras y la restauración están disponibles desde la tienda de la app. Las notificaciones son opcionales y requieren permiso del sistema. Reiniciar solo borra el puzle actual; borrar el almacenamiento elimina el progreso local."
       ],
       [
         "Informar de un problema",
@@ -477,7 +477,7 @@
     "delete-account": [
       [
         "Alcance de la eliminación de Hashi",
-        "La versión normal actual no habilita cuentas ni compras reales. Cuando se active la cuenta, Ajustes > Eliminar cuenta de Hashi borrará el progreso, las pistas, el acceso a compras y el vínculo de Hashi. El inicio de sesión compartido y los datos de otros juegos seguirán intactos. Puedes solicitar por correo la eliminación de datos de prueba o sin usar la app."
+        "En Ajustes, Eliminar cuenta de Hashi borra el progreso, las pistas, el acceso a compras y el vínculo de Hashi. El inicio de sesión compartido y los datos de otros juegos seguirán intactos. Puedes solicitar por correo la eliminación de datos de prueba o sin usar la app."
       ],
       [
         "Borrar datos locales",
@@ -520,8 +520,8 @@
         "Elles sont désactivées par défaut. Si vous les activez, Google Firebase Cloud Messaging et Apple APNs sur iOS traitent les identifiants d’installation, les jetons push, les abonnements à des sujets linguistiques et les informations de livraison. Les désactiver dans les réglages demande le désabonnement et la suppression du jeton FCM. Le système d’exploitation peut aussi les bloquer. Nous ne conservons pas de base séparée de jetons par appareil. L’envoi automatique n’est pas encore activé."
       ],
       [
-        "Comptes et achats, lorsqu’ils sont activés",
-        "La version actuelle de préparation au lancement désactive la connexion et les achats réels. Dans une version avec comptes d’achat, Supabase traite l’e-mail, l’identifiant du compte, les journaux d’authentification et d’accès, les identifiants de produit et de transaction, l’environnement d’achat, les droits acquis, le solde d’indices payants, l’identifiant de demande d’utilisation, le puzzle et l’heure pour authentifier, vérifier, restaurer et éviter les débits d’indices en double. Nous ne collectons pas les données de carte bancaire. La base est à Séoul, en Corée du Sud ; Supabase et ses sous-traitants peuvent fournir l’assistance d’authentification et d’exploitation depuis d’autres pays, dont les États-Unis. Apple traite les paiements et vérifie les transactions. Les bases juridiques requises sont l’exécution du contrat, l’intérêt légitime de sécurité et de lutte contre la fraude, les obligations légales ou le consentement aux fonctions facultatives. Cet avis et les flux seront vérifiés avant l’activation des achats."
+        "Comptes et achats",
+        "Supabase traite l’e-mail, l’identifiant du compte, les journaux d’authentification et d’accès, les identifiants de produit et de transaction, l’environnement d’achat, les droits acquis, le solde d’indices payants, l’identifiant de demande d’utilisation, le puzzle et l’heure pour authentifier, vérifier, restaurer et éviter les débits d’indices en double. Nous ne collectons pas les données de carte bancaire. La base est à Séoul, en Corée du Sud ; Supabase et ses sous-traitants peuvent fournir l’assistance d’authentification et d’exploitation depuis d’autres pays, dont les États-Unis. Apple traite les paiements et vérifie les transactions. Les bases juridiques requises sont l’exécution du contrat, l’intérêt légitime de sécurité et de lutte contre la fraude, les obligations légales ou le consentement aux fonctions facultatives."
       ],
       [
         "Conservation sur serveur et transferts",
@@ -551,7 +551,7 @@
       ],
       [
         "Publicités, produits et droits des consommateurs",
-        "Le jeu gratuit peut comporter des interstitiels et des publicités avec récompense facultatives. À l’ouverture des ventes, la suppression des interstitiels et Premium seront non consommables, les lots d’indices consommables. Premium offre 2 000 puzzles supplémentaires, supprime les interstitiels et fournit trois indices gratuits par jour. Les publicités avec récompense restent facultatives après suppression des annonces. Les achats sont désactivés et il n’y a pas d’abonnement. Consultez le prix local réel et la description de la boutique avant achat. Les indices payants n’expirent pas ; la restauration nécessite les comptes de boutique et d’app concernés. Elle ne restaure pas la progression et n’implique aucun transfert entre Apple et Google. Remboursements et rétractation suivent les procédures de la boutique et le droit applicable, sans limiter les droits impératifs. Le CLUF standard d’Apple s’applique à la licence iOS le cas échéant."
+        "Le jeu gratuit peut comporter des interstitiels et des publicités avec récompense facultatives. la suppression des interstitiels et Premium seront non consommables, les lots d’indices consommables. Premium offre 2 000 puzzles supplémentaires, supprime les interstitiels et fournit trois indices gratuits par jour. Les publicités avec récompense restent facultatives après suppression des annonces. il n’y a pas d’abonnement. Consultez le prix local réel et la description de la boutique avant achat. Les indices payants n’expirent pas ; la restauration nécessite les comptes de boutique et d’app concernés. Elle ne restaure pas la progression et n’implique aucun transfert entre Apple et Google. Remboursements et rétractation suivent les procédures de la boutique et le droit applicable, sans limiter les droits impératifs. Le CLUF standard d’Apple s’applique à la licence iOS le cas échéant."
       ],
       [
         "Utilisation et responsabilité",
@@ -565,7 +565,7 @@
       ],
       [
         "Sauvegardes, indices, langue et notifications",
-        "La progression est enregistrée automatiquement sur l’appareil. Les réglages proposent huit langues et des thèmes. Les indices sont déduits après confirmation, les gratuits en premier. Le visionnage seul ne donne pas l’indice : le serveur confirme d’abord la récompense. Les achats sont en préparation ; après activation, restaurez-les depuis la boutique de l’app. Les notifications sont facultatives et nécessitent l’autorisation du système. Recommencer réinitialise le puzzle actuel ; effacer le stockage supprime la progression locale."
+        "La progression est enregistrée automatiquement sur l’appareil. Les réglages proposent huit langues et des thèmes. Les indices sont déduits après confirmation, les gratuits en premier. Le visionnage seul ne donne pas l’indice : le serveur confirme d’abord la récompense. Les achats et la restauration sont disponibles dans la boutique de l’app. Les notifications sont facultatives et nécessitent l’autorisation du système. Recommencer réinitialise le puzzle actuel ; effacer le stockage supprime la progression locale."
       ],
       [
         "Signaler un problème",
@@ -575,7 +575,7 @@
     "delete-account": [
       [
         "Portée de la suppression Hashi",
-        "La version standard actuelle ne permet pas la connexion ni les achats réels. Une fois les comptes activés, Réglages > Supprimer le compte Hashi effacera la progression, les indices, l’accès aux achats et le lien propre à Hashi. La connexion commune et les données des autres jeux resteront intactes. Vous pouvez demander par e-mail la suppression des données de test ou sans utiliser l’app."
+        "Dans Réglages, Supprimer le compte Hashi efface la progression, les indices, l’accès aux achats et le lien propre à Hashi. La connexion commune et les données des autres jeux resteront intactes. Vous pouvez demander par e-mail la suppression des données de test ou sans utiliser l’app."
       ],
       [
         "Effacer les données locales",
@@ -618,8 +618,8 @@
         "Mitteilungen sind standardmäßig ausgeschaltet. Bei Aktivierung verarbeiten Google Firebase Cloud Messaging und unter iOS Apple APNs Installationskennungen, Push-Token, Sprachthemen-Abonnements und Zustellinformationen. Das Ausschalten in den Einstellungen fordert die Abmeldung und Löschung des FCM-Tokens an. Du kannst Mitteilungen auch im Betriebssystem sperren. Wir führen keine separate Datenbank gerätebezogener Push-Token. Der automatische Versand ist derzeit nicht aktiviert."
       ],
       [
-        "Konten und Käufe bei Aktivierung",
-        "Anmeldung und echte Käufe sind im derzeitigen Vorab-Build deaktiviert. In einer Version mit Kaufkonten verarbeitet Supabase E-Mail, Konto-ID, Authentifizierungs- und Zugriffsprotokolle, Produkt- und Transaktions-IDs, Kaufumgebung, Berechtigungen, Guthaben gekaufter Hinweise sowie Anfrage-ID, Rätsel-ID und Zeitpunkt des Verbrauchs. Dies dient Anmeldung, Prüfung, Wiederherstellung und dem Schutz vor doppeltem Hinweisabzug. Wir erheben keine Kartendaten. Die Datenbank liegt in Seoul, Südkorea; Supabase und Unterauftragsverarbeiter können Authentifizierungs- und Betriebsleistungen auch aus anderen Ländern einschließlich der USA erbringen. Apple verarbeitet Zahlungen und prüft Transaktionen. Soweit erforderlich, sind die Rechtsgrundlagen Vertragserfüllung, berechtigte Interessen an Sicherheit und Betrugsabwehr, gesetzliche Pflichten oder Einwilligung für freiwillige Funktionen. Vor Aktivierung der Käufe prüfen wir diesen Hinweis und die Datenflüsse erneut."
+        "Konten und Käufe",
+        "Supabase verarbeitet E-Mail, Konto-ID, Authentifizierungs- und Zugriffsprotokolle, Produkt- und Transaktions-IDs, Kaufumgebung, Berechtigungen, Guthaben gekaufter Hinweise sowie Anfrage-ID, Rätsel-ID und Zeitpunkt des Verbrauchs. Dies dient Anmeldung, Prüfung, Wiederherstellung und dem Schutz vor doppeltem Hinweisabzug. Wir erheben keine Kartendaten. Die Datenbank liegt in Seoul, Südkorea; Supabase und Unterauftragsverarbeiter können Authentifizierungs- und Betriebsleistungen auch aus anderen Ländern einschließlich der USA erbringen. Apple verarbeitet Zahlungen und prüft Transaktionen. Soweit erforderlich, sind die Rechtsgrundlagen Vertragserfüllung, berechtigte Interessen an Sicherheit und Betrugsabwehr, gesetzliche Pflichten oder Einwilligung für freiwillige Funktionen."
       ],
       [
         "Serverspeicherung und internationale Verarbeitung",
@@ -649,7 +649,7 @@
       ],
       [
         "Werbung, Produkte und Verbraucherrechte",
-        "Kostenloses Spielen kann Vollbildanzeigen und freiwillige Belohnungsanzeigen enthalten. Nach Verkaufsstart sind Vollbild-Werbeentfernung und Premium nicht verbrauchbar, Hinweispakete dagegen verbrauchbar. Premium bietet 2.000 weitere Rätsel, entfernt Vollbildanzeigen und gewährt täglich drei kostenlose Hinweise. Belohnungsanzeigen bleiben nach Werbeentfernung freiwillig. Käufe sind derzeit deaktiviert; es gibt kein Abonnement. Prüfe vor dem Kauf den tatsächlichen lokalen Store-Preis und die Beschreibung. Gekaufte Hinweise verfallen nicht. Zur Wiederherstellung sind die passenden Store- und App-Konten nötig; sie stellt keinen Spielfortschritt wieder her und bedeutet keine Übertragung zwischen Apple und Google. Erstattungen und Widerruf richten sich nach Store-Verfahren und geltendem Recht; zwingende Verbraucherrechte bleiben unberührt. Für die iOS-Lizenz gilt gegebenenfalls Apples Standard-EULA."
+        "Kostenloses Spielen kann Vollbildanzeigen und freiwillige Belohnungsanzeigen enthalten. Vollbild-Werbeentfernung und Premium nicht verbrauchbar, Hinweispakete dagegen verbrauchbar. Premium bietet 2.000 weitere Rätsel, entfernt Vollbildanzeigen und gewährt täglich drei kostenlose Hinweise. Belohnungsanzeigen bleiben nach Werbeentfernung freiwillig. es gibt kein Abonnement. Prüfe vor dem Kauf den tatsächlichen lokalen Store-Preis und die Beschreibung. Gekaufte Hinweise verfallen nicht. Zur Wiederherstellung sind die passenden Store- und App-Konten nötig; sie stellt keinen Spielfortschritt wieder her und bedeutet keine Übertragung zwischen Apple und Google. Erstattungen und Widerruf richten sich nach Store-Verfahren und geltendem Recht; zwingende Verbraucherrechte bleiben unberührt. Für die iOS-Lizenz gilt gegebenenfalls Apples Standard-EULA."
       ],
       [
         "Nutzung und Verantwortung",
@@ -663,7 +663,7 @@
       ],
       [
         "Speicherung, Hinweise, Sprache und Mitteilungen",
-        "Der Fortschritt wird automatisch auf dem Gerät gespeichert. Die Einstellungen bieten acht Sprachen und Designs. Hinweise werden erst nach Bestätigung abgezogen, kostenlose zuerst. Das Ansehen der Anzeige allein vergibt noch keinen Hinweis; zuerst bestätigt der Server die Belohnung. Käufe sind in Vorbereitung; nach Aktivierung erfolgt die Wiederherstellung im Shop. Mitteilungen sind freiwillig und benötigen die Betriebssystemfreigabe. Neustart setzt nur das aktuelle Rätsel zurück; das Löschen des App-Speichers entfernt lokale Spielstände."
+        "Der Fortschritt wird automatisch auf dem Gerät gespeichert. Die Einstellungen bieten acht Sprachen und Designs. Hinweise werden erst nach Bestätigung abgezogen, kostenlose zuerst. Das Ansehen der Anzeige allein vergibt noch keinen Hinweis; zuerst bestätigt der Server die Belohnung. Käufe und Wiederherstellung sind im Shop verfügbar. Mitteilungen sind freiwillig und benötigen die Betriebssystemfreigabe. Neustart setzt nur das aktuelle Rätsel zurück; das Löschen des App-Speichers entfernt lokale Spielstände."
       ],
       [
         "Probleme melden",
@@ -673,7 +673,7 @@
     "delete-account": [
       [
         "Umfang der Hashi-Löschung",
-        "Im aktuellen Standard-Build sind Anmeldung und echte Käufe deaktiviert. Nach Aktivierung der Konten löscht Einstellungen > Hashi-Konto löschen den Hashi-Fortschritt, Hinweise, Kaufzugang und die spielbezogene Kontoverknüpfung. Die gemeinsame Anmeldung und Daten anderer Spiele bleiben erhalten. Testdaten oder Daten ohne App-Zugriff kannst du per E-Mail löschen lassen."
+        "Einstellungen > Hashi-Konto löschen löscht den Hashi-Fortschritt, Hinweise, Kaufzugang und die spielbezogene Kontoverknüpfung. Die gemeinsame Anmeldung und Daten anderer Spiele bleiben erhalten. Testdaten oder Daten ohne App-Zugriff kannst du per E-Mail löschen lassen."
       ],
       [
         "Gerätedaten löschen",
@@ -716,8 +716,8 @@
         "As notificações vêm desativadas. Ao ativá-las, o Google Firebase Cloud Messaging e o Apple APNs no iOS tratam identificadores de instalação, tokens push, inscrições em tópicos por idioma e informações de entrega. Desativar em Configurações solicita o cancelamento da inscrição e a exclusão do token FCM. Você também pode bloqueá-las no sistema operacional. Não mantemos um banco separado de tokens por dispositivo. O envio automático ainda não está ativado."
       ],
       [
-        "Contas e compras, quando ativadas",
-        "O acesso à conta e as compras reais estão desativados na versão atual de preparação para lançamento. Em uma versão com contas de compra, o Supabase trata e-mail, ID da conta, registros de autenticação e acesso, IDs de produto e transação, ambiente de compra, direitos adquiridos, saldo de dicas pagas, ID da solicitação de uso, ID do puzzle e horário para autenticar, verificar, recuperar compras e evitar descontos duplicados de dicas. Não coletamos dados de cartão. O banco fica em Seul, Coreia do Sul; o Supabase e seus suboperadores podem prestar suporte de autenticação e operação a partir de outros países, incluindo os EUA. A Apple processa pagamentos e verifica transações. Quando exigidas, as bases legais são execução de contrato, legítimo interesse em segurança e prevenção a fraudes, obrigações legais ou consentimento para funções opcionais. Revisaremos este aviso e os fluxos antes de ativar compras."
+        "Contas e compras",
+        "O Supabase trata e-mail, ID da conta, registros de autenticação e acesso, IDs de produto e transação, ambiente de compra, direitos adquiridos, saldo de dicas pagas, ID da solicitação de uso, ID do puzzle e horário para autenticar, verificar, recuperar compras e evitar descontos duplicados de dicas. Não coletamos dados de cartão. O banco fica em Seul, Coreia do Sul; o Supabase e seus suboperadores podem prestar suporte de autenticação e operação a partir de outros países, incluindo os EUA. A Apple processa pagamentos e verifica transações. Quando exigidas, as bases legais são execução de contrato, legítimo interesse em segurança e prevenção a fraudes, obrigações legais ou consentimento para funções opcionais."
       ],
       [
         "Retenção no servidor e transferências",
@@ -747,7 +747,7 @@
       ],
       [
         "Anúncios, produtos e direitos do consumidor",
-        "O jogo gratuito pode incluir intersticiais e anúncios com recompensa opcionais. Quando as vendas começarem, a remoção de intersticiais e o Premium serão não consumíveis, enquanto pacotes de dicas serão consumíveis. O Premium oferece 2.000 puzzles extras, remove intersticiais e concede três dicas gratuitas por dia. Anúncios com recompensa continuam opcionais após remover anúncios. Compras estão desativadas e não há assinatura. Confira o preço local real e a descrição na loja antes de comprar. Dicas pagas não expiram; restaurar compras exige as contas correspondentes da loja e do app. Isso não restaura o progresso nem permite transferir entre Apple e Google. Reembolsos e arrependimento seguem os procedimentos da loja e a legislação aplicável, sem limitar direitos obrigatórios. O EULA padrão da Apple se aplica à licença iOS quando cabível."
+        "O jogo gratuito pode incluir intersticiais e anúncios com recompensa opcionais. a remoção de intersticiais e o Premium serão não consumíveis, enquanto pacotes de dicas serão consumíveis. O Premium oferece 2.000 puzzles extras, remove intersticiais e concede três dicas gratuitas por dia. Anúncios com recompensa continuam opcionais após remover anúncios. não há assinatura. Confira o preço local real e a descrição na loja antes de comprar. Dicas pagas não expiram; restaurar compras exige as contas correspondentes da loja e do app. Isso não restaura o progresso nem permite transferir entre Apple e Google. Reembolsos e arrependimento seguem os procedimentos da loja e a legislação aplicável, sem limitar direitos obrigatórios. O EULA padrão da Apple se aplica à licença iOS quando cabível."
       ],
       [
         "Uso e responsabilidade",
@@ -761,7 +761,7 @@
       ],
       [
         "Progresso, dicas, idioma e notificações",
-        "O progresso é salvo automaticamente no dispositivo. Configurações oferece oito idiomas e temas. Dicas são descontadas após confirmação, usando as gratuitas primeiro. Assistir ao anúncio não libera a dica por si só; o servidor confirma a recompensa primeiro. As compras estão em preparação; após ativadas, restaure-as pela loja do app. Notificações são opcionais e exigem permissão do sistema. Reiniciar afeta apenas o puzzle atual; limpar o armazenamento apaga o progresso local."
+        "O progresso é salvo automaticamente no dispositivo. Configurações oferece oito idiomas e temas. Dicas são descontadas após confirmação, usando as gratuitas primeiro. Assistir ao anúncio não libera a dica por si só; o servidor confirma a recompensa primeiro. Compras e restauração estão disponíveis na loja do app. Notificações são opcionais e exigem permissão do sistema. Reiniciar afeta apenas o puzzle atual; limpar o armazenamento apaga o progresso local."
       ],
       [
         "Relatar problema",
@@ -771,7 +771,7 @@
     "delete-account": [
       [
         "Escopo da exclusão do Hashi",
-        "A versão padrão atual não ativa contas nem compras reais. Quando as contas forem ativadas, Configurações > Excluir conta do Hashi apagará o progresso, as dicas, o acesso a compras e o vínculo específico do jogo. O login compartilhado e os dados dos outros jogos serão mantidos. Você pode solicitar por e-mail a exclusão de dados de teste ou sem usar o app."
+        "Em Configurações, Excluir conta do Hashi apaga o progresso, as dicas, o acesso a compras e o vínculo específico do jogo. O login compartilhado e os dados dos outros jogos serão mantidos. Você pode solicitar por e-mail a exclusão de dados de teste ou sem usar o app."
       ],
       [
         "Apagar dados locais",
