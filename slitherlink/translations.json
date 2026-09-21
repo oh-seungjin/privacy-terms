@@ -19,7 +19,7 @@
       ],
       [
         "App data and purchases",
-        "Puzzle progress and settings stay on your device. There are no app accounts, ads, analytics tracking or push notifications. For iOS premium purchases and restoration, Apple-signed transaction data is sent to Supabase for verification. The server stores product, transaction and original transaction IDs, Sandbox/Production environment, signing dates, refund/entitlement status and notification IDs/times. Card details, email and game progress are not sent to the purchase server; raw signed receipts are not stored in its database. Hosting providers may process IP addresses and request logs. Web and Android purchasing is not currently offered."
+        "Puzzle progress and settings stay on your device. You may create a Slitherlink account with Apple on iOS or Google on Android. We store your account identifier and provider-supplied name or email in Supabase to manage purchases, hint balances, and game-specific deletion. We show AdMob and rewarded ads; Google may process device and ad data for ad requests and reward verification. Apple-signed transactions are verified by Supabase and purchase/refund records are retained. We do not store card details or raw receipts."
       ],
       [
         "Support and website providers",
@@ -105,7 +105,7 @@
       ],
       [
         "앱 정보와 구매",
-        "퍼즐 진행과 설정은 기기에 저장됩니다. 계정 가입·광고·분석 추적·푸시는 없습니다. iOS 프리미엄 구매·복원 시 Apple의 서명된 거래 정보를 Supabase 서버로 보내 검증합니다. 서버에는 상품 ID, 거래·원거래 ID, Sandbox/운영 환경, 서명 시각, 환불·권한 상태 및 알림 ID·처리 시각을 보관합니다. 카드 정보·이메일·게임 진행은 구매 서버에 보내지 않으며 원본 서명 영수증을 DB에 보관하지 않습니다. 통신 과정에서 호스팅 제공업체가 IP·요청 기록을 처리할 수 있습니다. 웹·Android에서는 현재 구매를 제공하지 않습니다."
+        "퍼즐 진행과 설정은 기기에 저장됩니다. Apple(iOS) 또는 Google(Android) 로그인으로 Slitherlink 계정을 만들 수 있으며, 계정 식별자와 제공자가 준 이름·이메일을 Supabase에 저장해 구매·힌트 잔액 및 게임별 탈퇴를 처리합니다. AdMob 광고와 보상형 광고를 제공하며 Google은 광고 요청·보상 확인을 위해 기기·광고 정보를 처리할 수 있습니다. Apple 서명 거래는 Supabase에서 검증하며 구매·환불 기록을 보관합니다. 카드 정보와 원본 영수증은 저장하지 않습니다."
       ],
       [
         "문의와 웹사이트 제공업체",
@@ -191,7 +191,7 @@
       ],
       [
         "アプリの情報と購入",
-        "進行状況と設定は端末内に保存されます。アプリのアカウント、広告、アクセス解析、プッシュ通知はありません。iOSの購入・復元時にはApple署名付き取引情報をSupabaseに送信して検証します。サーバーには商品・取引・元取引ID、Sandbox/本番環境、署名時刻、返金・権利状態、通知ID・処理時刻を保存します。カード情報、メール、ゲーム進行は購入サーバーに送らず、署名付き領収書の原文はDBに保存しません。ホスティング事業者はIPやアクセス記録を処理する場合があります。Android・ウェブでは購入できません。"
+        "進行状況と設定は端末に保存されます。iOSではApple、AndroidではGoogleでSlitherlinkアカウントを作成できます。購入、ヒント残高、ゲーム別削除のため、アカウント識別子と提供元の名前・メールをSupabaseに保存します。AdMobとリワード広告を表示し、Googleは広告リクエストと報酬確認のため端末・広告データを処理する場合があります。"
       ],
       [
         "問い合わせと提供者",
@@ -277,7 +277,7 @@
       ],
       [
         "应用数据与购买",
-        "进度与设置保存在设备上。没有应用账号、广告、分析追踪或推送。iOS高级购买及恢复时，将Apple签名的交易信息发送至Supabase验证。服务器保存商品、交易及原交易ID、Sandbox/生产环境、签名时间、退款及权益状态、通知ID和处理时间。不向购买服务器发送银行卡、邮箱或游戏进度，数据库不保存签名收据原文。托管服务商可能处理IP及请求日志。Android和网页暂不提供购买。"
+        "进度与设置保存在设备上。你可在iOS使用Apple、在Android使用Google创建Slitherlink账户。我们在Supabase保存账户标识及提供方给出的姓名或邮箱，用于购买、提示余额和游戏数据删除。我们展示AdMob和激励广告；Google可能为广告请求和奖励验证处理设备及广告数据。"
       ],
       [
         "支持与服务提供者",
@@ -363,7 +363,7 @@
       ],
       [
         "Datos de la app y compras",
-        "El progreso y los ajustes quedan en el dispositivo. No hay cuentas, anuncios, seguimiento analítico ni notificaciones push. Para comprar o restaurar en iOS, enviamos transacciones firmadas por Apple a Supabase para verificarlas. El servidor guarda IDs de producto, transacción y transacción original, entorno Sandbox/Production, fechas de firma, estado de reembolso y derechos e IDs/fechas de notificación. No enviamos tarjetas, correo ni progreso al servidor de compras, ni almacenamos allí el recibo firmado completo. El alojamiento puede tratar IP y registros de solicitudes. Android y web no ofrecen compras."
+        "El progreso y los ajustes quedan en el dispositivo. Puedes crear una cuenta de Slitherlink con Apple en iOS o Google en Android. Guardamos el identificador de cuenta y el nombre o correo proporcionado en Supabase para compras, saldo de pistas y eliminación del juego. Mostramos anuncios AdMob y recompensados; Google puede procesar datos del dispositivo y anuncios para solicitudes y verificación de recompensas."
       ],
       [
         "Soporte y proveedores",
@@ -449,7 +449,7 @@
       ],
       [
         "Données du jeu et achats",
-        "La progression et les réglages restent sur l’appareil. Il n’y a ni compte, ni publicité, ni suivi analytique, ni notifications push. Pour les achats et restaurations iOS, les transactions signées par Apple sont envoyées à Supabase pour vérification. Le serveur conserve les identifiants de produit, transaction et transaction d’origine, l’environnement Sandbox/Production, les dates de signature, l’état des remboursements et droits et les identifiants/dates des notifications. Ni carte, ni e-mail, ni progression ne sont envoyés au serveur d’achat ; le reçu signé complet n’est pas conservé en base. L’hébergeur peut traiter IP et journaux de requêtes. Android et le web ne proposent pas d’achats."
+        "La progression et les réglages restent sur l’appareil. Vous pouvez créer un compte Slitherlink avec Apple sur iOS ou Google sur Android. Nous conservons dans Supabase l’identifiant du compte et le nom ou e-mail fourni pour les achats, les indices et la suppression du jeu. Nous diffusons des annonces AdMob et récompensées ; Google peut traiter des données d’appareil et de publicité."
       ],
       [
         "Assistance et prestataires",
@@ -535,7 +535,7 @@
       ],
       [
         "Spieldaten und Käufe",
-        "Fortschritt und Einstellungen bleiben auf dem Gerät. Es gibt keine App-Konten, Werbung, Analyse-Tracker oder Push-Mitteilungen. Für iOS-Kauf und Wiederherstellung werden Apple-signierte Transaktionen zur Prüfung an Supabase gesendet. Der Server speichert Produkt-, Transaktions- und ursprüngliche Transaktions-IDs, Sandbox/Production-Umgebung, Signaturzeiten, Erstattungs- und Berechtigungsstatus sowie Mitteilungs-IDs und Zeitpunkte. Karten, E-Mail und Spielstand gehen nicht an den Kaufserver; vollständige signierte Belege werden nicht in der Datenbank gespeichert. Hostinganbieter können IP-Adressen und Anfrageprotokolle verarbeiten. Android und Web bieten keine Käufe."
+        "Fortschritt und Einstellungen bleiben auf dem Gerät. Du kannst ein Slitherlink-Konto mit Apple auf iOS oder Google auf Android erstellen. Wir speichern Konto-ID sowie bereitgestellten Namen oder E-Mail in Supabase für Käufe, Hinweise und die Löschung von Spieldaten. Wir zeigen AdMob- und Belohnungsanzeigen; Google kann Geräte- und Werbedaten verarbeiten."
       ],
       [
         "Support und Anbieter",
@@ -621,7 +621,7 @@
       ],
       [
         "Dados do app e compras",
-        "Progresso e ajustes ficam no dispositivo. Não há contas, anúncios, rastreamento analítico ou notificações push. Nas compras e restaurações iOS, transações assinadas pela Apple são enviadas ao Supabase para verificação. O servidor guarda IDs de produto, transação e transação original, ambiente Sandbox/Production, datas de assinatura, estado de reembolso e direitos e IDs/datas de notificações. Cartão, e-mail e progresso não são enviados ao servidor de compras; o recibo assinado completo não fica no banco. O provedor de hospedagem pode tratar IP e logs. Android e web não oferecem compras."
+        "O progresso e os ajustes ficam no dispositivo. Você pode criar uma conta Slitherlink com Apple no iOS ou Google no Android. Guardamos no Supabase o identificador da conta e nome ou e-mail fornecido para compras, saldo de dicas e exclusão do jogo. Exibimos anúncios AdMob e recompensados; o Google pode processar dados do dispositivo e anúncios."
       ],
       [
         "Suporte e fornecedores",
