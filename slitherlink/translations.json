@@ -19,7 +19,7 @@
       ],
       [
         "App data and purchases",
-        "Puzzle progress and settings stay on your device. You may create a Slitherlink account with Apple on iOS or Google on Android. We store your account identifier and provider-supplied name or email in Supabase to manage purchases, hint balances, and game-specific deletion. We show AdMob and rewarded ads; Google may process device and ad data for ad requests and reward verification. Apple-signed transactions are verified by Supabase and purchase/refund records are retained. We do not store card details or raw receipts."
+        "Puzzle progress and settings stay on your device. You may create a Slitherlink account with Apple on iOS or Google on Android. We store your account identifier and provider-supplied email in Supabase to manage purchases, hint balances, and game-specific deletion. We show AdMob and rewarded ads; Google may process device and ad data for ad requests and reward verification. Apple-signed transactions are verified by Supabase and purchase/refund records are retained. We do not store card details or raw receipts."
       ],
       [
         "Support and website providers",
@@ -105,7 +105,7 @@
       ],
       [
         "앱 정보와 구매",
-        "퍼즐 진행과 설정은 기기에 저장됩니다. Apple(iOS) 또는 Google(Android) 로그인으로 Slitherlink 계정을 만들 수 있으며, 계정 식별자와 제공자가 준 이름·이메일을 Supabase에 저장해 구매·힌트 잔액 및 게임별 탈퇴를 처리합니다. AdMob 광고와 보상형 광고를 제공하며 Google은 광고 요청·보상 확인을 위해 기기·광고 정보를 처리할 수 있습니다. Apple 서명 거래는 Supabase에서 검증하며 구매·환불 기록을 보관합니다. 카드 정보와 원본 영수증은 저장하지 않습니다."
+        "퍼즐 진행과 설정은 기기에 저장됩니다. Apple(iOS) 또는 Google(Android) 로그인으로 Slitherlink 계정을 만들 수 있으며, 계정 식별자와 제공자가 준 이메일을 Supabase에 저장해 구매·힌트 잔액 및 게임별 탈퇴를 처리합니다. AdMob 광고와 보상형 광고를 제공하며 Google은 광고 요청·보상 확인을 위해 기기·광고 정보를 처리할 수 있습니다. Apple 서명 거래는 Supabase에서 검증하며 구매·환불 기록을 보관합니다. 카드 정보와 원본 영수증은 저장하지 않습니다."
       ],
       [
         "문의와 웹사이트 제공업체",
@@ -191,7 +191,7 @@
       ],
       [
         "アプリの情報と購入",
-        "進行状況と設定は端末に保存されます。iOSではApple、AndroidではGoogleでSlitherlinkアカウントを作成できます。購入、ヒント残高、ゲーム別削除のため、アカウント識別子と提供元の名前・メールをSupabaseに保存します。AdMobとリワード広告を表示し、Googleは広告リクエストと報酬確認のため端末・広告データを処理する場合があります。"
+        "進行状況と設定は端末に保存されます。iOSではApple、AndroidではGoogleでSlitherlinkアカウントを作成できます。購入、ヒント残高、ゲーム別削除のため、アカウント識別子と提供元のメールをSupabaseに保存します。AdMobとリワード広告を表示し、Googleは広告リクエストと報酬確認のため端末・広告データを処理する場合があります。"
       ],
       [
         "問い合わせと提供者",
@@ -277,7 +277,7 @@
       ],
       [
         "应用数据与购买",
-        "进度与设置保存在设备上。你可在iOS使用Apple、在Android使用Google创建Slitherlink账户。我们在Supabase保存账户标识及提供方给出的姓名或邮箱，用于购买、提示余额和游戏数据删除。我们展示AdMob和激励广告；Google可能为广告请求和奖励验证处理设备及广告数据。"
+        "进度与设置保存在设备上。你可在iOS使用Apple、在Android使用Google创建Slitherlink账户。我们在Supabase保存账户标识及提供方给出的邮箱，用于购买、提示余额和游戏数据删除。我们展示AdMob和激励广告；Google可能为广告请求和奖励验证处理设备及广告数据。"
       ],
       [
         "支持与服务提供者",
@@ -363,7 +363,7 @@
       ],
       [
         "Datos de la app y compras",
-        "El progreso y los ajustes quedan en el dispositivo. Puedes crear una cuenta de Slitherlink con Apple en iOS o Google en Android. Guardamos el identificador de cuenta y el nombre o correo proporcionado en Supabase para compras, saldo de pistas y eliminación del juego. Mostramos anuncios AdMob y recompensados; Google puede procesar datos del dispositivo y anuncios para solicitudes y verificación de recompensas."
+        "El progreso y los ajustes quedan en el dispositivo. Puedes crear una cuenta de Slitherlink con Apple en iOS o Google en Android. Guardamos el identificador de cuenta y el correo proporcionado en Supabase para compras, saldo de pistas y eliminación del juego. Mostramos anuncios AdMob y recompensados; Google puede procesar datos del dispositivo y anuncios para solicitudes y verificación de recompensas."
       ],
       [
         "Soporte y proveedores",
@@ -449,7 +449,7 @@
       ],
       [
         "Données du jeu et achats",
-        "La progression et les réglages restent sur l’appareil. Vous pouvez créer un compte Slitherlink avec Apple sur iOS ou Google sur Android. Nous conservons dans Supabase l’identifiant du compte et le nom ou e-mail fourni pour les achats, les indices et la suppression du jeu. Nous diffusons des annonces AdMob et récompensées ; Google peut traiter des données d’appareil et de publicité."
+        "La progression et les réglages restent sur l’appareil. Vous pouvez créer un compte Slitherlink avec Apple sur iOS ou Google sur Android. Nous conservons dans Supabase l’identifiant du compte et le e-mail fourni pour les achats, les indices et la suppression du jeu. Nous diffusons des annonces AdMob et récompensées ; Google peut traiter des données d’appareil et de publicité."
       ],
       [
         "Assistance et prestataires",
@@ -535,7 +535,7 @@
       ],
       [
         "Spieldaten und Käufe",
-        "Fortschritt und Einstellungen bleiben auf dem Gerät. Du kannst ein Slitherlink-Konto mit Apple auf iOS oder Google auf Android erstellen. Wir speichern Konto-ID sowie bereitgestellten Namen oder E-Mail in Supabase für Käufe, Hinweise und die Löschung von Spieldaten. Wir zeigen AdMob- und Belohnungsanzeigen; Google kann Geräte- und Werbedaten verarbeiten."
+        "Fortschritt und Einstellungen bleiben auf dem Gerät. Du kannst ein Slitherlink-Konto mit Apple auf iOS oder Google auf Android erstellen. Wir speichern Konto-ID sowie bereitgestellte E-Mail in Supabase für Käufe, Hinweise und die Löschung von Spieldaten. Wir zeigen AdMob- und Belohnungsanzeigen; Google kann Geräte- und Werbedaten verarbeiten."
       ],
       [
         "Support und Anbieter",
@@ -621,7 +621,7 @@
       ],
       [
         "Dados do app e compras",
-        "O progresso e os ajustes ficam no dispositivo. Você pode criar uma conta Slitherlink com Apple no iOS ou Google no Android. Guardamos no Supabase o identificador da conta e nome ou e-mail fornecido para compras, saldo de dicas e exclusão do jogo. Exibimos anúncios AdMob e recompensados; o Google pode processar dados do dispositivo e anúncios."
+        "O progresso e os ajustes ficam no dispositivo. Você pode criar uma conta Slitherlink com Apple no iOS ou Google no Android. Guardamos no Supabase o identificador da conta e e-mail fornecido para compras, saldo de dicas e exclusão do jogo. Exibimos anúncios AdMob e recompensados; o Google pode processar dados do dispositivo e anúncios."
       ],
       [
         "Suporte e fornecedores",
