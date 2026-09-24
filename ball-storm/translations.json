@@ -1,0 +1,82 @@
+{
+  "ko": {
+    "nav": ["홈", "개인정보처리방침", "이용약관", "도움말 및 지원", "데이터 삭제"],
+    "tag": "블록을 부수고, 랭킹 위로.",
+    "intro": "볼스톰 공식 지원·정책 안내 · 넥스트 스튜디오",
+    "date": "2026-09-24",
+    "contact": "문의",
+    "skip": "본문으로",
+    "privacy": [
+      ["운영자와 적용 범위", "대한민국의 넥스트 스튜디오(Next Studio)가 볼스톰(Ball Storm, com.osj.ballstorm)을 운영합니다. 이 방침은 iOS·Android 앱과 이 지원 웹사이트에 적용됩니다. 개인정보 문의: dhalska2@gmail.com."],
+      ["기기에 저장되는 정보", "스테이지 진행 상황과 별점 기록, CORE·다이아몬드 잔액, 보유 코스메틱, 언어·사운드·진동 설정은 기기에 저장됩니다. 앱을 재개하고 진행 상황을 보여주는 데에만 사용합니다."],
+      ["계정과 재화", "메인 메뉴와 스테이지 모드는 로그인 없이 바로 즐길 수 있습니다. 엔드리스 모드를 처음 플레이하면 화면 표시 없이 조용히 익명 계정을 생성해 점수 제출에 필요한 식별자를 부여합니다. iOS에서 Apple로, Android에서 Google로 로그인하면 CORE, 다이아몬드, 스테이지 진행, 코스메틱 보유 현황이 Supabase 서버에 동기화되어 여러 기기 간 이어하기가 가능합니다. 익명 계정으로는 글로벌 랭킹에 점수를 제출할 수 없습니다."],
+      ["구매", "CORE·다이아몬드 패키지는 스토어에서 구매하는 소비성 상품이며, 광고 제거와 스타터 팩은 비소비성 상품입니다. Apple 또는 Google이 결제를 처리하며, 거래 식별자와 상품 정보를 서버에서 검증해 재화를 지급합니다. 카드 정보나 원본 영수증은 저장하지 않습니다."],
+      ["광고", "Google AdMob을 사용해 보상형 광고(샷 추가, CORE 2배 등)와 전면 광고를 제공합니다. 광고 제공, 보상 확인, 부정 이용 방지, 진단을 위해 기기·광고 상호작용 정보와 IP 주소를 처리할 수 있으며 IP로 대략적인 위치가 추정될 수 있습니다. 광고 제거를 구매하면 전면 광고가 표시되지 않습니다."],
+      ["글로벌 랭킹", "로그인한 이용자가 엔드리스 모드에서 제출한 점수, 도달 스테이지, 마스킹된 이메일 표기는 공개 랭킹에 표시됩니다. 랭킹에 표시되길 원하지 않으면 로그인하지 않고 플레이하면 됩니다."],
+      ["제공업체와 국외 처리", "Supabase(계정·재화·진행·랭킹), Google AdMob(광고), Google 및 Apple(로그인), Unity IAP(인앱 결제 처리), Gmail(문의), GitHub Pages(웹 호스팅)를 이용합니다. 이 제공업체들은 대한민국 외 국가에서도 정보를 처리할 수 있습니다."],
+      ["보유와 삭제", "로컬 정보는 앱 저장 공간을 지우거나 앱을 삭제할 때까지 기기에 남습니다. 서버의 계정·재화·진행·랭킹 기록은 이메일 요청으로 삭제할 수 있습니다. 법령상 보관이 필요한 거래 기록은 별도 기간 보관될 수 있습니다."],
+      ["이용자의 권리", "열람, 정정, 삭제, 처리 제한 또는 동의 철회를 이메일로 요청할 수 있습니다. 요청 처리에는 본인 확인이 필요할 수 있습니다."],
+      ["아동과 보안", "이 서비스는 만 14세 미만 아동을 대상으로 하지 않으며 해당 아동의 개인정보를 알면서 수집하지 않습니다. 접근 제한 등 합리적인 보호 조치를 취하지만 완전한 보안을 보장하지는 않습니다."]
+    ],
+    "terms": [
+      ["서비스", "이 약관은 넥스트 스튜디오의 볼스톰(Ball Storm)에 적용됩니다. 3,000개 스테이지의 스테이지 모드와 엔드리스 모드를 무료로 제공합니다. 진행은 기기에 저장되며, 로그인 여부에 따라 서버에도 동기화됩니다."],
+      ["재화와 코스메틱", "CORE는 스테이지 클리어 별점 보상이나 소비성 인앱 결제로 얻을 수 있으며, 공의 영구 강화(데미지, 크리티컬, 관통 등)에 사용합니다. 다이아몬드는 보상형 광고 시청이나 인앱 결제로 얻을 수 있으며, 공 스킨과 스테이지 컨티뉴에 사용합니다. 스킨은 순수 장식용입니다."],
+      ["스테이지 컨티뉴", "스테이지에서 샷을 모두 소진하면 보상형 광고 시청 또는 다이아몬드 소비로 1회에 한해 샷 2개를 추가로 받아 계속할 수 있습니다."],
+      ["글로벌 랭킹", "로그인 후 엔드리스 모드에서 제출한 점수는 공개 랭킹에 반영됩니다. 비정상적인 방법으로 얻은 기록은 통지 없이 삭제되거나 랭킹에서 제외될 수 있습니다."],
+      ["구매와 소비자 권리", "CORE·다이아몬드 패키지, 광고 제거, 스타터 팩은 스토어에서 판매하는 상품입니다. 실제 판매 여부와 가격은 스토어와 지역에 따라 다릅니다. 구매에는 인터넷 연결이 필요합니다. 환불은 해당 스토어의 환불 정책을 따릅니다. iOS 라이선스에는 해당하는 경우 Apple 표준 EULA가 적용됩니다."],
+      ["이용과 책임", "개인적인 용도로만 이용하세요. 자동화 도구, 치팅, 서버 공격이나 타인의 권리 침해를 금지합니다. 앱의 코드·디자인·콘텐츠는 넥스트 스튜디오 또는 라이선스 제공자의 자산입니다. 서비스는 사전 고지 없이 변경되거나 중단될 수 있으며, 법이 허용하는 범위에서 서비스는 있는 그대로 제공되고 간접 손해에 대한 책임을 지지 않습니다."],
+      ["계정과 종료", "계정 삭제를 원하면 dhalska2@gmail.com으로 요청해주세요. 계정 삭제는 남아있는 CORE·다이아몬드나 미사용 구매를 환불하지 않습니다. 약관을 중대하게 위반하면 계정 이용을 제한할 수 있습니다."]
+    ],
+    "support": [
+      ["게임 방법", "화면을 탭해 공을 발사하고 블록을 부수세요. 스테이지 모드는 정해진 샷 안에 블록을 모두 제거하면 별점을 받고, 엔드리스 모드는 끝없이 이어지는 블록을 상대로 최고 점수에 도전합니다."],
+      ["CORE·다이아몬드와 구매", "CORE는 스테이지 클리어 별점으로, 다이아몬드는 보상형 광고 시청으로 얻을 수 있고 상점에서 구매도 가능합니다. 구매가 반영되지 않으면 인터넷 연결을 확인한 뒤 다시 시도해주세요. 재화 소비 내역은 서버에서 검증되어 화면에 실시간으로 반영됩니다."],
+      ["로그인과 랭킹", "로그인 없이도 스테이지·엔드리스 모드를 모두 플레이할 수 있습니다. 진행을 여러 기기와 동기화하거나 엔드리스 글로벌 랭킹에 참여하려면 설정에서 Apple(iOS) 또는 Google(Android)로 로그인하세요."],
+      ["문제 문의", "이메일 제목에 Ball Storm 또는 볼스톰을 적고, 앱 버전, 기기·운영체제, 재현 순서를 dhalska2@gmail.com으로 보내주세요. 비밀번호·인증 코드·카드 정보는 보내지 마세요. 스토어 결제·환불 문의는 해당 스토어 고객센터를 이용해주세요."]
+    ],
+    "delete-account": [
+      ["이메일로 삭제 요청", "제목에 Ball Storm Data Deletion을 적어 dhalska2@gmail.com으로 요청하세요. CORE·다이아몬드·스테이지 진행·코스메틱·랭킹 기록 등 이 게임과 관련된 서버 데이터가 삭제됩니다. Apple·Google 로그인 자체나 다른 게임 계정은 삭제되지 않습니다."],
+      ["기기 데이터 삭제", "iOS에서는 앱 삭제(앱 정리하기 아님), Android에서는 시스템 설정에서 이 앱의 저장 공간 삭제를 이용하세요. 삭제한 로컬 기록은 복구할 수 없습니다."],
+      ["처리 기간과 예외", "본인 확인을 위한 최소한의 정보를 요청할 수 있으며, 적용 법령이 정한 기간 내에 처리합니다. 법적으로 보관해야 하는 거래 기록은 삭제 대상에서 제외될 수 있습니다."]
+    ]
+  },
+  "en": {
+    "nav": ["Home", "Privacy Policy", "Terms of Service", "Help & Support", "Data Deletion"],
+    "tag": "Break blocks. Climb the ranks.",
+    "intro": "Official Ball Storm support and policies · Next Studio",
+    "date": "2026-09-24",
+    "contact": "Contact",
+    "skip": "Skip to content",
+    "privacy": [
+      ["Operator and scope", "Next Studio, based in South Korea, operates Ball Storm (com.osj.ballstorm). This policy covers the iOS/Android app and this support website. Privacy contact: dhalska2@gmail.com."],
+      ["Information stored on your device", "Your stage progress and star records, Core and Diamond balances, owned cosmetics, and your language, sound and haptics settings are stored on your device to resume play and show your progress."],
+      ["Accounts and currencies", "The main menu and Stage mode work without signing in. The first time you play Endless mode, the app silently creates an anonymous account (no sign-in screen shown) so your score has an identifier to submit under. Signing in with Apple (iOS) or Google (Android) syncs your Core, Diamonds, stage progress and owned cosmetics to our Supabase server so you can continue across devices. Anonymous accounts cannot submit scores to the global leaderboard."],
+      ["Purchases", "Core and Diamond packs are a consumable product sold through the store; Remove Ads and the Starter Pack are non-consumable. Apple or Google processes payment; our server verifies the transaction identifier and product to credit the currency. We do not store card details or raw receipts."],
+      ["Advertising", "We use Google AdMob to show rewarded ads (extra shots, doubling Core, etc.) and interstitial ads. Google may process device and ad-interaction data and IP addresses (which can suggest an approximate location) to serve ads, verify rewards, prevent fraud and produce diagnostics. Purchasing Remove Ads stops interstitial ads from showing."],
+      ["Global leaderboard", "If you're signed in, the score, stage reached and a masked version of your email you submit from Endless mode appear on the public leaderboard. Don't sign in if you'd rather not appear there."],
+      ["Providers and international transfers", "We use Supabase (accounts, currencies, progress, leaderboard), Google AdMob (ads), Google and Apple (sign-in), Unity IAP (purchase processing), Gmail (support) and GitHub Pages (this website). These providers may process data outside South Korea."],
+      ["Retention and deletion", "Local data stays on your device until you clear app storage or delete the app. Server-side account, currency, progress and leaderboard records can be deleted by emailing us. Transaction records required by law may be kept separately for a limited period."],
+      ["Your rights", "Email us to request access, correction, deletion or withdrawal of consent. We may need to verify your identity to process a request."],
+      ["Children and security", "This service is not directed to children under 14 and we do not knowingly collect their personal information. We use reasonable safeguards, including limiting access, but cannot guarantee absolute security."]
+    ],
+    "terms": [
+      ["The service", "These terms apply to Next Studio's Ball Storm. We offer a 3,000-stage Stage mode and an Endless mode for free. Progress is stored on your device and, depending on sign-in, synced to our server."],
+      ["Currencies and cosmetics", "Core is earned from stage-clear star rewards or purchased as a consumable in-app product, and is spent on permanent ball upgrades (damage, critical hits, piercing, and more). Diamonds are earned by watching rewarded ads or purchased, and are spent on ball skins and stage continues. Skins are purely cosmetic."],
+      ["Stage continue", "If you run out of shots on a stage, you can continue once by watching a rewarded ad or spending Diamonds for 2 extra shots."],
+      ["Global leaderboard", "Scores submitted from Endless mode while signed in appear on the public leaderboard. Records obtained through abnormal means may be removed or excluded without notice."],
+      ["Purchases and consumer rights", "Core packs, Diamond packs, Remove Ads and the Starter Pack are products sold through the store; availability and pricing vary by store and region. Purchases require an internet connection. Refunds follow the relevant store's refund policy. Apple's Standard EULA applies to the iOS license where applicable."],
+      ["Use and liability", "Use the app for personal purposes only. Automation tools, cheating, attacking our servers, or infringing others' rights are prohibited. The app's code, design and content belong to Next Studio or its licensors. We may change or discontinue the service without notice; to the extent permitted by law, the service is provided as-is and we are not liable for indirect damages."],
+      ["Accounts and termination", "To delete your account, email dhalska2@gmail.com. Account deletion does not refund remaining Core, Diamonds or past purchases. We may restrict access for material violations of these terms."]
+    ],
+    "support": [
+      ["How to play", "Tap the screen to launch the ball and break blocks. Stage mode rewards stars for clearing all blocks within the shot limit; Endless mode is an infinite score attack against an ever-growing field of blocks."],
+      ["Core, Diamonds and purchases", "Earn Core from stage-clear stars and Diamonds from rewarded ads, or buy either from the shop. If a purchase doesn't show up, check your connection and try again — currency spends are verified server-side and reflected live."],
+      ["Sign-in and rankings", "Every mode works without signing in. To sync progress across devices or join the Endless global leaderboard, sign in with Apple (iOS) or Google (Android) from Settings."],
+      ["Contact us", "Put Ball Storm in the subject line and email your app version, device/OS and reproduction steps to dhalska2@gmail.com. Don't send passwords, verification codes or payment details. For store billing or refunds, contact the relevant store's support."]
+    ],
+    "delete-account": [
+      ["Request deletion by email", "Email dhalska2@gmail.com with the subject Ball Storm Data Deletion. We'll delete server-side data for this game — Core, Diamonds, stage progress, cosmetics and leaderboard records. Your Apple/Google sign-in itself and other games' accounts are not affected."],
+      ["Delete data from your device", "Delete the app on iOS (not Offload App) or clear this app's storage from system settings on Android. Deleted local records cannot be recovered."],
+      ["Processing time and exceptions", "We may ask for minimal information to verify your identity, and we'll act within the period required by applicable law. Transaction records we must keep by law may be excluded."]
+    ]
+  }
+}
