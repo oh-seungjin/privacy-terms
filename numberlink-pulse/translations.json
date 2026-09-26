@@ -1,0 +1,198 @@
+{
+  "ko": {
+    "nav": [
+      "홈",
+      "개인정보처리방침",
+      "이용약관",
+      "도움말 및 지원",
+      "데이터 삭제"
+    ],
+    "tag": "같은 숫자를 찾고, 합이 10인 쌍을 연결하세요.",
+    "intro": "NumberLink Pulse 공식 지원 및 정책 · 넥스트 스튜디오",
+    "date": "시행 / 수정: 2026년 9월 27일",
+    "contact": "문의",
+    "skip": "본문으로",
+    "privacy": [
+      [
+        "운영자와 적용 범위",
+        "대한민국의 넥스트 스튜디오(Next Studio)가 NumberLink Pulse를 운영합니다. iOS 식별자는 com.osj.numberlink이며, 현재 Android 빌드 식별자는 com.osj.numberlinkpulse입니다. 이 방침은 앱과 공식 지원 웹사이트에 적용됩니다. 개인정보 문의: dhalska2@gmail.com."
+      ],
+      [
+        "기기 내 게임 데이터",
+        "기기에 숫자 보드·제거/숫자 추가 이력·경과 시간·메모·힌트 사용 기록, 완료 단계·최고 기록, 일일 퍼즐·미션·달력 기록, 언어·효과음·진동·테마 설정을 계정별로 저장합니다. 서버 확인을 기다리는 저장·광고·힌트 요청도 복구를 위해 보관합니다. Firebase, 별도 분석/충돌 보고 SDK, 푸시 알림은 사용하지 않습니다."
+      ],
+      [
+        "로그인과 서버 저장(Supabase)",
+        "Supabase가 발급한 익명 사용자 ID로 진행·설정과 완료 활동을 서버에 저장합니다. Apple/Google 로그인 시 새 신원을 연결하거나, 이미 존재하는 계정에 이 게임의 익명 기록과 서버 검증된 잔액·권한을 병합합니다. 중복 초기 무료 지급과 미션 보상은 중복 이전하지 않습니다. 동시에 진행한 판이 충돌하면 복구본을 보관합니다. 다른 기기에서 복원하려면 같은 Apple/Google 계정으로 로그인해야 합니다. 익명 세션을 잃으면 해당 기록을 스스로 복원하지 못할 수 있습니다."
+      ],
+      [
+        "광고와 개인정보 선택",
+        "모바일 앱은 Google AdMob 전면 광고와 선택형 보상 광고(힌트 제공)를 사용합니다. 광고 SDK는 IP 주소와 그로부터 추정한 대략적 위치, 기기·광고 식별자, 광고 조회·클릭 등의 상호작용, 진단 정보 및 동의 상태를 광고 제공·측정·부정 이용 방지에 처리할 수 있습니다. 정확한 위치 권한은 요청하지 않습니다. 지역과 선택에 따라 동의 메시지를 표시하며, iOS에서는 앱 추적 투명성(ATT) 권한 요청에 동의해야 광고 식별자를 이용한 추적이 이루어집니다."
+      ],
+      [
+        "계정과 구매",
+        "Apple 또는 Google로 로그인하면 이메일, 계정 ID, 인증·접속 기록을 Supabase에 처리하여 인증과 기기 간 진행 연결에 사용합니다. 인앱 구매(광고 제거, 힌트 묶음, 테마 팩, 스타터 번들)를 이용하면 상품·거래 ID, 구매 환경, 구매 권한, 힌트 잔액을 Supabase에서 검증·지급 처리합니다. 결제 카드 정보는 수집하지 않으며 스토어가 직접 처리합니다. 인앱 구매는 현재 iOS에서만 지원됩니다. 랭크 참가권도 소모성 상품이며, 국가 선택·랭크 시도·점수·시간·마스킹된 계정 표시를 순위 제공에 처리합니다. 힌트 소비 요청과 계정 병합 증명은 중복 지급 및 부정 사용 방지에 사용합니다."
+      ],
+      [
+        "서버 데이터 보유와 국외 처리",
+        "계정·구매 권한·힌트 잔액 기록은 서비스를 제공하고 복구하는 동안 보유하며, 삭제 요청 시 불필요한 정보를 삭제합니다. 거래 분쟁이나 법적 보존 의무가 있는 항목은 필요한 범위에서만 보유합니다. 계정 삭제가 스토어 거래 기록까지 삭제하지는 않습니다. Apple, Google, Supabase, GitHub 등 하위 처리업체의 서버는 대한민국 밖에 위치할 수 있습니다."
+      ],
+      [
+        "문의와 웹사이트 제공업체",
+        "문의 이메일을 보내면 이메일 주소, 문의 내용과 선택적으로 보낸 첨부파일을 답변·문제 해결에 사용합니다. 비밀번호·인증 코드·카드 정보는 보내지 마세요. 문의에는 Gmail, 웹페이지 호스팅에는 GitHub Pages를 사용합니다. 이 페이지에는 광고·분석 스크립트·입력 폼이 없습니다. GitHub는 호스팅·보안을 위해 IP 주소와 접속 기록을 처리할 수 있습니다."
+      ],
+      [
+        "보유 및 삭제",
+        "로컬 정보는 앱 저장 공간이 삭제될 때까지 남습니다. iOS에서는 앱 삭제(앱 정리하기는 데이터를 남길 수 있음), Android에서는 시스템 설정의 앱 저장 공간 삭제를 이용하세요. 기기·클라우드 백업은 별도로 관리하세요. 문의 정보는 요청 처리에 필요한 동안 보유하고 불필요해지면 삭제합니다."
+      ],
+      [
+        "이용자 권리와 처리 근거",
+        "적용 법령에 따라 열람, 정정, 삭제, 이동 가능한 사본, 처리 제한, 이의 제기, 동의 철회 또는 결정에 대한 재검토를 요청할 수 있습니다. 권리 행사에 따른 차별 없이 문의할 수 있으며 관할 개인정보 감독기관에 민원을 제기할 수 있습니다. 필요한 범위에서 본인 확인을 요청할 수 있습니다."
+      ],
+      [
+        "아동·보호 조치·변경",
+        "게임에 개인정보 입력이 필요하지 않습니다. 아동의 개인정보를 고의로 요청하지 않으며, 아동이 문의 과정에서 보낸 정보는 보호자가 연락하여 확인·삭제를 요청할 수 있습니다. 문의 정보의 접근을 제한하는 등 합리적 보호 조치를 취하지만 완전한 보안을 보장하지는 않습니다. 중요한 변경 시 날짜와 내용을 갱신하고 법령상 필요한 안내·동의 절차를 제공합니다."
+      ]
+    ],
+    "terms": [
+      [
+        "서비스와 저장",
+        "NumberLink Pulse는 값이 같거나 합이 10인 두 숫자를 연결해 보드를 비우는 퍼즐입니다. 직선 경로와 행 경계 연결 규칙이 적용되며, 비어 있는 칸은 통과할 수 있지만 다른 숫자는 통과할 수 없습니다. 자동 생성 스테이지, 일일 퍼즐·미션, 타임 트라이얼과 랭크 모드를 제공합니다. 진행은 기기에 저장되고 인터넷 연결 시 서버와 동기화됩니다. 계정·광고 보상·힌트 소비·구매 확인에는 인터넷 연결이 필요합니다."
+      ],
+      [
+        "광고·상품·소비자 권리",
+        "무료 이용에는 전면 광고와 선택형 보상 광고가 포함될 수 있습니다. 광고 제거는 일반 전면 광고를 제거하며 선택형 보상 광고를 자동 지급으로 바꾸지 않습니다. 광고 제거·테마 팩·스타터 번들은 비소모성, 힌트 묶음·랭크 참가권은 소모성 상품입니다. 구독은 없습니다. 구매 전 스토어에 표시된 실제 현지 가격과 구성을 확인하세요. 인앱 구매는 현재 iOS에서만 지원됩니다. 구매 복원·환불은 상품 유형과 스토어 정책에 따라 처리되며 적용되는 소비자 권리를 제한하지 않습니다."
+      ],
+      [
+        "이용·변경·책임",
+        "합법적인 개인 용도로 이용하세요. 법령상 허용되는 경우를 제외하고 타인의 권리 침해, 서비스 방해, 보안 우회를 해서는 안 됩니다. 앱 코드·디자인·콘텐츠는 넥스트 스튜디오 또는 정당한 권리자에게 귀속되며 일반적인 퍼즐 규칙 자체에 독점권을 주장하지 않습니다. 유지보수·보안·법령상 사유로 기능을 변경할 수 있고 중요한 변경은 이 페이지에 반영합니다. 법령상 허용되는 최대 범위에서 서비스는 있는 그대로 제공되며 책임은 제한됩니다."
+      ]
+    ],
+    "support": [
+      [
+        "게임 방법",
+        "같은 숫자 두 개 또는 합이 10인 두 숫자를 차례로 탭하세요. 가로·세로·대각선으로 숫자 사이가 비어 있으면 연결할 수 있고, 행 끝에서 다음 행 시작으로 이어지는 연결도 가능합니다. 제거 가능한 쌍이 없으면 숫자 추가, 되돌리기 또는 다시 시작을 이용하세요. 메모 모드에서는 숫자를 표시하며, 모드를 끈 뒤 쌍을 제거할 수 있습니다. 랭크에서는 힌트·되돌리기·메모가 제한됩니다."
+      ],
+      [
+        "저장·힌트·언어·데일리/타임 트라이얼",
+        "설정에서 한국어/영어, 소리·진동·테마를 바꿀 수 있습니다. 같은 Apple/Google 계정으로 로그인하면 진행을 복원합니다. 충돌로 남은 판은 설정의 ‘다른 저장된 판 복구’에서 선택합니다. 힌트 확인에 실패하면 연결 후 같은 판에서 다시 누르세요. 동일 요청은 한 번만 차감됩니다. 광고는 서버 검증 후 보상됩니다. 일일 퍼즐·미션은 날짜에 따라 자동 변경됩니다. 구매/복원 문제는 앱 버전과 스토어 거래 ID를 포함해 문의하세요."
+      ],
+      [
+        "문제 문의",
+        "이메일 제목에 NumberLink Pulse를 적고 앱 버전, 기기·운영체제, 재현 순서와 필요시 개인정보를 가린 스크린샷을 dhalska2@gmail.com으로 보내세요. 조사에 필요한 정보만 보내고 비밀번호·인증 코드·카드 정보는 보내지 마세요. 스토어 청구·환불은 해당 스토어 지원 절차를 이용하세요."
+      ]
+    ],
+    "delete-account": [
+      [
+        "NumberLink Pulse 데이터 삭제 범위",
+        "설정의 계정 데이터 삭제를 확인하면 NumberLink Pulse의 서버 진행, 활동·미션, 힌트 소비, 잔액·구매 권한과 이 기기의 해당 계정 게임 데이터를 삭제합니다. 이후 새 익명 세션으로 시작합니다. 공용 로그인과 다른 게임 데이터, 스토어 자체 거래 기록은 유지됩니다. 중복 병합 방지를 위한 최소 병합 연결 기록은 보관될 수 있습니다. 로그아웃은 삭제가 아니며, 동기화 전 기록은 기존 계정에 격리하여 보관합니다. 기기를 사용할 수 없다면 아래 이메일로 삭제를 요청하세요."
+      ],
+      [
+        "기기 데이터 삭제",
+        "iOS에서는 앱 정리하기가 아닌 앱 삭제를 이용하세요. Android에서는 시스템 설정에서 이 앱의 저장 공간을 삭제하세요. 기기·클라우드 백업은 별도로 관리해야 합니다. 삭제한 로컬 기록은 운영자가 복구할 수 없습니다."
+      ],
+      [
+        "계정·구매·문의 데이터 삭제 요청",
+        "dhalska2@gmail.com으로 제목을 “NumberLink Pulse Data Deletion”으로 하여 계정 이메일과 삭제할 범위(계정 연결, 구매 권한·힌트 기록, 문의 내역)를 알려주세요. 비밀번호·인증 코드·신분증·카드 정보는 보내지 마세요. 필요한 범위에서 본인 확인 후 적용 법정 기간 안에 처리 결과를 안내합니다."
+      ]
+    ]
+  },
+  "en": {
+    "nav": [
+      "Home",
+      "Privacy Policy",
+      "Terms of Use",
+      "Help & Support",
+      "Delete Data"
+    ],
+    "tag": "Match equal numbers. Make ten. Clear the board.",
+    "intro": "NumberLink Pulse official support and policies · Next Studio",
+    "date": "Effective / revised: September 27, 2026",
+    "contact": "Contact",
+    "skip": "Skip to content",
+    "privacy": [
+      [
+        "Operator and scope",
+        "Next Studio (South Korea) operates NumberLink Pulse. The iOS identifier is com.osj.numberlink; the current Android build identifier is com.osj.numberlinkpulse. This policy covers the app and this support website. Privacy contact: dhalska2@gmail.com."
+      ],
+      [
+        "On-device game data",
+        "The device stores number boards, removal/add-number moves, elapsed time, notes, hint-use records, completed stages, personal bests, daily puzzle/mission/calendar records, and language, sound, haptics and theme preferences by account. Pending save, ad and hint requests are retained for recovery. We do not use Firebase, a separate analytics/crash-reporting SDK, or push notifications."
+      ],
+      [
+        "Sign-in and server storage (Supabase)",
+        "Supabase issues an anonymous user ID and stores game progress, preferences and completed activity. Apple/Google sign-in links a new identity or merges this game’s anonymous records and server-verified balances/entitlements into an existing account. Initial free grants and duplicate mission rewards are not transferred twice. Conflicting in-progress boards are retained for recovery. Cross-device restoration requires the same linked Apple/Google account. If an anonymous session is lost, you may be unable to recover its records yourself."
+      ],
+      [
+        "Ads and your choices",
+        "The mobile app shows Google AdMob interstitial ads and optional rewarded ads (for hints). The ad SDK may process your IP address and the approximate location derived from it, device/advertising identifiers, ad interactions such as views and clicks, diagnostic data, and consent status, to serve, measure, and protect against fraud in ads. We do not request precise location access. A consent message is shown depending on your region and choices; on iOS, tracking via the advertising identifier only occurs if you agree to the App Tracking Transparency (ATT) permission request."
+      ],
+      [
+        "Account and purchases",
+        "Signing in with Apple or Google causes your email, account ID, and authentication/access records to be processed in Supabase for authentication and to link progress across devices. Using an in-app purchase (remove ads, hint packs, theme pack, starter bundle) causes the product/transaction ID, purchase environment, purchase entitlements, and hint balance to be verified and credited via Supabase. We do not collect payment card details; the store handles them directly. In-app purchases are currently supported on iOS only. Ranked entry tickets are also consumables. We process selected country, ranked attempts, scores, times and masked account labels for rankings. Hint-spend requests and account-merge proofs prevent duplicate grants and abuse."
+      ],
+      [
+        "Server data retention and cross-border processing",
+        "Account, purchase entitlement, and hint balance records are kept while we provide and can restore the service, and unnecessary information is deleted on request. Items subject to a transaction dispute or a legal retention obligation are kept only as required. Deleting your account does not delete the store's own transaction records. Servers operated by sub-processors such as Apple, Google, Supabase, and GitHub may be located outside South Korea."
+      ],
+      [
+        "Contact and website providers",
+        "If you email us, we use your email address, the content of your message, and any attachments you choose to send to respond and resolve the issue. Do not send passwords, authentication codes, or card details. We use Gmail for inquiries and GitHub Pages for website hosting. This page carries no ad or analytics scripts and no input forms. GitHub may process your IP address and access logs for hosting and security."
+      ],
+      [
+        "Retention and deletion",
+        "Local information remains until the app's storage is cleared. On iOS, use Delete App (Offload App can leave data behind); on Android, use Clear Storage for this app in system settings. Device and cloud backups are managed separately. We keep inquiry information only as long as needed to handle the request, then delete it."
+      ],
+      [
+        "Your rights and legal basis",
+        "Subject to applicable law, you may request access, correction, deletion, a portable copy, restriction of processing, objection, withdrawal of consent, or review of a decision. You can contact us without discrimination for exercising these rights, and you may file a complaint with your local data protection authority. We may ask for identity verification within a reasonable scope."
+      ],
+      [
+        "Children, safeguards, and changes",
+        "The game does not require entering personal information. We do not knowingly request personal information from children; if a child sends information through an inquiry, a guardian may contact us to review or delete it. We take reasonable safeguards such as limiting access to inquiry data, but we cannot guarantee absolute security. For material changes we update the date and content here and provide any notice/consent process required by law."
+      ]
+    ],
+    "terms": [
+      [
+        "Service and storage",
+        "NumberLink Pulse is a puzzle about clearing pairs with equal values or a sum of ten. Straight connections and row-boundary connections apply: empty cells may be crossed, other numbers may not. It offers generated stages, daily puzzles/missions, time trials and ranked play. Progress is saved locally and synchronized when online. Account operations, ad rewards, hint spending and purchase verification require an internet connection."
+      ],
+      [
+        "Ads, products, and consumer rights",
+        "Free play may include interstitial and optional rewarded ads. Remove Ads removes regular interstitials, not the viewing requirement for optional ad rewards. Remove Ads, theme pack and starter bundle are non-consumables; hint packs and ranked tickets are consumables. There are no subscriptions. Review the store’s actual localized price and contents before buying. Purchases are currently supported on iOS only. Restoration and refunds depend on product type and store rules; applicable consumer rights are not excluded."
+      ],
+      [
+        "Use, changes, and liability",
+        "Use the app for lawful personal purposes. Except as permitted by law, do not infringe others' rights, disrupt the service, or bypass security. The app's code, design, and content belong to Next Studio or its rightful owners; we do not claim exclusive rights over generic puzzle rules themselves. We may change features for maintenance, security, or legal reasons and will reflect material changes on this page. To the maximum extent permitted by law, the service is provided as-is and liability is limited."
+      ]
+    ],
+    "support": [
+      [
+        "How to play",
+        "Tap two equal numbers or two numbers totaling ten. Horizontal, vertical and diagonal paths work when intervening cells are empty; row-end to next-row-start connections are also available. When no pairs remain, add numbers, undo or restart. Memo mode marks numbers; switch it off to remove pairs. Ranked play restricts hints, undo and memos."
+      ],
+      [
+        "Saving, hints, language, and daily/time trial",
+        "Settings offers Korean/English, sound, haptics and themes. Sign into the same Apple/Google account to restore progress. Choose conflicting boards under Recover another saved board in Settings. If a hint cannot be confirmed, reconnect and retry on the same board; the same request is charged once. Ad rewards require server verification. Daily puzzles/missions change automatically with the date. For purchase/restore issues, include your app version and store transaction ID in a support request."
+      ],
+      [
+        "Reporting a problem",
+        "Email dhalska2@gmail.com with NumberLink Pulse in the subject line, your app version, device/OS, reproduction steps, and, if useful, a screenshot with personal information redacted. Send only what's needed to investigate; never send passwords, authentication codes, or card details. For store billing or refunds, use that store's own support process."
+      ]
+    ],
+    "delete-account": [
+      [
+        "What NumberLink Pulse deletion covers",
+        "Confirm Delete account data in Settings to remove NumberLink Pulse server progress, activity/missions, hint-spend records, balances/entitlements and this account’s game data on this device. A new anonymous session then starts. Shared sign-in, other games and store transaction records remain. Minimal merge-link records may be retained to prevent repeated transfers. Signing out is not deletion: unsynchronized records remain isolated under the original account. If you cannot access the device, request deletion by email below."
+      ],
+      [
+        "Deleting device data",
+        "On iOS, use Delete App rather than Offload App. On Android, use Clear Storage for this app in system settings. Device and cloud backups are managed separately. We cannot recover local records you've deleted."
+      ],
+      [
+        "Requesting deletion of account, purchase, or inquiry data",
+        "Email dhalska2@gmail.com with the subject \"NumberLink Pulse Data Deletion\" and tell us your account email and what to delete (this game's account link, purchase entitlements/hint history, inquiry history). Do not send passwords, authentication codes, ID, or card details. After verifying your identity within a reasonable scope, we'll report the result within the applicable legal timeframe."
+      ]
+    ]
+  }
+}
