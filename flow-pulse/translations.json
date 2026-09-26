@@ -1,0 +1,72 @@
+{
+  "ko": {
+    "nav": ["홈", "개인정보처리방침", "이용약관", "도움말 및 지원", "데이터 삭제"],
+    "tag": "점을 잇고, 마음을 정리하세요.",
+    "intro": "StreamLine Pulse 공식 지원 및 정책 · 넥스트 스튜디오",
+    "date": "시행 / 수정: 2026년 9월 26일",
+    "contact": "문의",
+    "skip": "본문으로",
+    "privacy": [
+      ["운영자와 적용 범위", "대한민국의 넥스트 스튜디오(Next Studio)가 StreamLine Pulse(com.osj.flowpulse)를 운영합니다. 이 방침은 앱과 이 지원 웹사이트에 적용됩니다. 개인정보 문의: dhalska2@gmail.com."],
+      ["기기 내 게임 데이터", "진행 중인 레벨의 색상별 연결 경로와 경과 시간, 완료한 레벨 번호·시간 목록, 데일리 퍼즐과 타임 트라이얼 개인 기록, 언어·진동·효과음·색약 모드·테마 설정은 기기에 저장됩니다. Firebase 등 별도 분석·충돌 보고 SDK는 사용하지 않으며, 푸시 알림 기능도 없습니다."],
+      ["로그인과 서버 저장(Supabase)", "앱은 익명 로그인으로 발급된 사용자 ID를 기본 저장 주체로 사용합니다. Apple 또는 Google로 정식 로그인하면 기존 익명 데이터가 해당 계정에 연결됩니다. 로그인한 사용자의 진행 중인 레벨 경로와 완료 기록은 Supabase의 공용 진행 저장소에 게임별로 저장되어 다른 기기에서 복원할 수 있습니다."],
+      ["광고와 개인정보 선택", "모바일 앱은 Google AdMob 전면 광고와 선택형 보상 광고(힌트 제공)를 사용합니다. 광고 SDK는 IP 주소와 그로부터 추정한 대략적 위치, 기기·광고 식별자, 광고 조회·클릭 등의 상호작용, 진단 정보 및 동의 상태를 광고 제공·측정·부정 이용 방지에 처리할 수 있습니다. 정확한 위치 권한은 요청하지 않습니다. 지역과 선택에 따라 동의 메시지를 표시하며, iOS에서는 앱 추적 투명성(ATT) 권한 요청에 동의해야 광고 식별자를 이용한 추적이 이루어집니다."],
+      ["계정과 구매", "Apple 또는 Google로 로그인하면 이메일, 계정 ID, 인증·접속 기록을 Supabase에 처리하여 인증과 기기 간 진행 연결에 사용합니다. 인앱 구매(광고 제거, 힌트 묶음, 테마 팩, 스타터 번들)를 이용하면 상품·거래 ID, 구매 환경, 구매 권한, 힌트 잔액을 Supabase에서 검증·지급 처리합니다. 결제 카드 정보는 수집하지 않으며 스토어가 직접 처리합니다. 인앱 구매는 현재 iOS에서만 지원됩니다."],
+      ["서버 데이터 보유와 국외 처리", "계정·구매 권한·힌트 잔액 기록은 서비스를 제공하고 복구하는 동안 보유하며, 삭제 요청 시 불필요한 정보를 삭제합니다. 거래 분쟁이나 법적 보존 의무가 있는 항목은 필요한 범위에서만 보유합니다. 계정 삭제가 스토어 거래 기록까지 삭제하지는 않습니다. Apple, Google, Supabase, GitHub 등 하위 처리업체의 서버는 대한민국 밖에 위치할 수 있습니다."],
+      ["문의와 웹사이트 제공업체", "문의 이메일을 보내면 이메일 주소, 문의 내용과 선택적으로 보낸 첨부파일을 답변·문제 해결에 사용합니다. 비밀번호·인증 코드·카드 정보는 보내지 마세요. 문의에는 Gmail, 웹페이지 호스팅에는 GitHub Pages를 사용합니다. 이 페이지에는 광고·분석 스크립트·입력 폼이 없습니다. GitHub는 호스팅·보안을 위해 IP 주소와 접속 기록을 처리할 수 있습니다."],
+      ["보유 및 삭제", "로컬 정보는 앱 저장 공간이 삭제될 때까지 남습니다. iOS에서는 앱 삭제(앱 정리하기는 데이터를 남길 수 있음), Android에서는 시스템 설정의 앱 저장 공간 삭제를 이용하세요. 기기·클라우드 백업은 별도로 관리하세요. 문의 정보는 요청 처리에 필요한 동안 보유하고 불필요해지면 삭제합니다."],
+      ["이용자 권리와 처리 근거", "적용 법령에 따라 열람, 정정, 삭제, 이동 가능한 사본, 처리 제한, 이의 제기, 동의 철회 또는 결정에 대한 재검토를 요청할 수 있습니다. 권리 행사에 따른 차별 없이 문의할 수 있으며 관할 개인정보 감독기관에 민원을 제기할 수 있습니다. 필요한 범위에서 본인 확인을 요청할 수 있습니다."],
+      ["아동·보호 조치·변경", "게임에 개인정보 입력이 필요하지 않습니다. 아동의 개인정보를 고의로 요청하지 않으며, 아동이 문의 과정에서 보낸 정보는 보호자가 연락하여 확인·삭제를 요청할 수 있습니다. 문의 정보의 접근을 제한하는 등 합리적 보호 조치를 취하지만 완전한 보안을 보장하지는 않습니다. 중요한 변경 시 날짜와 내용을 갱신하고 법령상 필요한 안내·동의 절차를 제공합니다."]
+    ],
+    "terms": [
+      ["서비스와 저장", "StreamLine Pulse는 같은 색 점 두 개를 선으로 연결해 보드의 모든 칸을 채우는 넘버링크 스타일 퍼즐입니다. 레벨은 절차적으로 생성되어 사실상 무제한이며, 데일리 퍼즐과 타임 트라이얼 모드를 함께 제공합니다. 진행은 기기에 저장되고, 로그인 시 Supabase를 통해 기기 간 동기화됩니다."],
+      ["광고·상품·소비자 권리", "무료 이용에는 전면 광고와 선택형 보상 광고가 포함될 수 있습니다. 광고 제거·테마 팩·스타터 번들은 비소모성, 힌트 묶음은 소모성 상품입니다. 구독 상품은 없습니다. 구매 전 스토어가 표시하는 실제 현지 가격과 상품 설명을 확인하세요. 인앱 구매는 현재 iOS에서만 지원됩니다."],
+      ["이용·변경·책임", "합법적인 개인 용도로 이용하세요. 법령상 허용되는 경우를 제외하고 타인의 권리 침해, 서비스 방해, 보안 우회를 해서는 안 됩니다. 앱 코드·디자인·콘텐츠는 넥스트 스튜디오 또는 정당한 권리자에게 귀속되며 일반적인 퍼즐 규칙 자체에 독점권을 주장하지 않습니다. 유지보수·보안·법령상 사유로 기능을 변경할 수 있고 중요한 변경은 이 페이지에 반영합니다. 법령상 허용되는 최대 범위에서 서비스는 있는 그대로 제공되며 책임은 제한됩니다."]
+    ],
+    "support": [
+      ["게임 방법", "같은 색 점 두 개 중 하나를 눌러 드래그하면 선이 이어집니다. 선은 가로·세로로만 이동하며 자기 자신이나 다른 색의 끝점을 가로질러 지나갈 수 없습니다. 이미 그린 선을 되짚어 드래그하면 선이 줄어들고, 다른 색의 선 위를 지나가면 그 선을 가져와 대신 채웁니다. 모든 색이 연결되고 모든 칸이 채워지면 레벨이 완료됩니다. 설정에서 색약 모드를 켜면 각 점에 알파벳이 함께 표시됩니다."],
+      ["저장·힌트·언어·데일리/타임 트라이얼", "진행은 기기에 자동 저장되고, 로그인하면 서버에도 저장됩니다. 힌트는 사용 확인 후 차감되며, 광고 시청 완료만으로 지급되지 않고 서버 확인이 끝난 뒤 지급됩니다. 설정에서 한국어/영어와 진동·효과음·색약 모드·테마를 바꿀 수 있습니다. 데일리 퍼즐은 매일 새 보드로 바뀌고, 타임 트라이얼은 크기별 개인 최고 기록을 저장합니다. 구매와 구매 복원은 상점에서 진행합니다."],
+      ["문제 문의", "이메일 제목에 StreamLine Pulse를 적고 앱 버전, 기기·운영체제, 재현 순서와 필요시 개인정보를 가린 스크린샷을 dhalska2@gmail.com으로 보내세요. 조사에 필요한 정보만 보내고 비밀번호·인증 코드·카드 정보는 보내지 마세요. 스토어 청구·환불은 해당 스토어 지원 절차를 이용하세요."]
+    ],
+    "delete-account": [
+      ["StreamLine Pulse 데이터 삭제 범위", "설정의 ‘계정 데이터 삭제’에서 StreamLine Pulse의 진행 상황, 힌트, 구매 권한과 게임별 계정 연결을 삭제할 수 있습니다. 공용 로그인과 다른 게임의 데이터는 유지됩니다. 앱을 설치하지 않은 상태의 삭제 요청은 아래 이메일로 보내주세요."],
+      ["기기 데이터 삭제", "iOS에서는 앱 정리하기가 아닌 앱 삭제를 이용하세요. Android에서는 시스템 설정에서 이 앱의 저장 공간을 삭제하세요. 기기·클라우드 백업은 별도로 관리해야 합니다. 삭제한 로컬 기록은 운영자가 복구할 수 없습니다."],
+      ["계정·구매·문의 데이터 삭제 요청", "dhalska2@gmail.com으로 제목을 “StreamLine Pulse Data Deletion”으로 하여 계정 이메일과 삭제할 범위(계정 연결, 구매 권한·힌트 기록, 문의 내역)를 알려주세요. 비밀번호·인증 코드·신분증·카드 정보는 보내지 마세요. 필요한 범위에서 본인 확인 후 적용 법정 기간 안에 처리 결과를 안내합니다."]
+    ]
+  },
+  "en": {
+    "nav": ["Home", "Privacy Policy", "Terms of Use", "Help & Support", "Delete Data"],
+    "tag": "Connect the dots. Clear your mind.",
+    "intro": "StreamLine Pulse official support and policies · Next Studio",
+    "date": "Effective / revised: September 26, 2026",
+    "contact": "Contact",
+    "skip": "Skip to content",
+    "privacy": [
+      ["Operator and scope", "Next Studio (South Korea) operates StreamLine Pulse (com.osj.flowpulse). This policy covers the app and this support website. Privacy contact: dhalska2@gmail.com."],
+      ["On-device game data", "The device stores the current level's per-color connection paths and elapsed time, the list of completed level numbers and times, daily puzzle and time trial personal records, and your language, haptics, sound, colorblind mode, and theme settings. We do not use Firebase or any separate analytics/crash-reporting SDK, and the app has no push notifications."],
+      ["Sign-in and server storage (Supabase)", "The app uses an anonymously issued user ID as the default storage subject. Signing in with Apple or Google links your existing anonymous data to that account. For signed-in users, the in-progress level's paths and completion history are stored per game in Supabase's shared progress store so they can be restored on another device."],
+      ["Ads and your choices", "The mobile app shows Google AdMob interstitial ads and optional rewarded ads (for hints). The ad SDK may process your IP address and the approximate location derived from it, device/advertising identifiers, ad interactions such as views and clicks, diagnostic data, and consent status, to serve, measure, and protect against fraud in ads. We do not request precise location access. A consent message is shown depending on your region and choices; on iOS, tracking via the advertising identifier only occurs if you agree to the App Tracking Transparency (ATT) permission request."],
+      ["Account and purchases", "Signing in with Apple or Google causes your email, account ID, and authentication/access records to be processed in Supabase for authentication and to link progress across devices. Using an in-app purchase (remove ads, hint packs, theme pack, starter bundle) causes the product/transaction ID, purchase environment, purchase entitlements, and hint balance to be verified and credited via Supabase. We do not collect payment card details; the store handles them directly. In-app purchases are currently supported on iOS only."],
+      ["Server data retention and cross-border processing", "Account, purchase entitlement, and hint balance records are kept while we provide and can restore the service, and unnecessary information is deleted on request. Items subject to a transaction dispute or a legal retention obligation are kept only as required. Deleting your account does not delete the store's own transaction records. Servers operated by sub-processors such as Apple, Google, Supabase, and GitHub may be located outside South Korea."],
+      ["Contact and website providers", "If you email us, we use your email address, the content of your message, and any attachments you choose to send to respond and resolve the issue. Do not send passwords, authentication codes, or card details. We use Gmail for inquiries and GitHub Pages for website hosting. This page carries no ad or analytics scripts and no input forms. GitHub may process your IP address and access logs for hosting and security."],
+      ["Retention and deletion", "Local information remains until the app's storage is cleared. On iOS, use Delete App (Offload App can leave data behind); on Android, use Clear Storage for this app in system settings. Device and cloud backups are managed separately. We keep inquiry information only as long as needed to handle the request, then delete it."],
+      ["Your rights and legal basis", "Subject to applicable law, you may request access, correction, deletion, a portable copy, restriction of processing, objection, withdrawal of consent, or review of a decision. You can contact us without discrimination for exercising these rights, and you may file a complaint with your local data protection authority. We may ask for identity verification within a reasonable scope."],
+      ["Children, safeguards, and changes", "The game does not require entering personal information. We do not knowingly request personal information from children; if a child sends information through an inquiry, a guardian may contact us to review or delete it. We take reasonable safeguards such as limiting access to inquiry data, but we cannot guarantee absolute security. For material changes we update the date and content here and provide any notice/consent process required by law."]
+    ],
+    "terms": [
+      ["Service and storage", "StreamLine Pulse is a Numberlink/Flow-style puzzle where you connect two dots of the same color with a line to fill every cell on the board. Levels are procedurally generated and effectively unlimited, alongside a daily puzzle and a time trial mode. Progress is stored on your device and synced across devices via Supabase when signed in."],
+      ["Ads, products, and consumer rights", "Free play may include interstitial ads and optional rewarded ads. Remove Ads, the Theme Pack, and the Starter Bundle are non-consumable; hint packs are consumable. There are no subscription products. Check the store's displayed local price and product description before purchasing. In-app purchases are currently supported on iOS only."],
+      ["Use, changes, and liability", "Use the app for lawful personal purposes. Except as permitted by law, do not infringe others' rights, disrupt the service, or bypass security. The app's code, design, and content belong to Next Studio or its rightful owners; we do not claim exclusive rights over generic puzzle rules themselves. We may change features for maintenance, security, or legal reasons and will reflect material changes on this page. To the maximum extent permitted by law, the service is provided as-is and liability is limited."]
+    ],
+    "support": [
+      ["How to play", "Press and drag from one of two same-colored dots to draw a line between them. Lines move only horizontally or vertically and cannot cross themselves or another color's endpoint. Dragging back over your own line shortens it, and dragging over another color's line steals that space, clearing the other line. A level is complete once every color is connected and every cell is filled. Turn on colorblind mode in Settings to show a letter on each dot alongside its color."],
+      ["Saving, hints, language, and daily/time trial", "Progress saves automatically on-device and also to the server once you're signed in. Hints are deducted after use is confirmed; watching an ad alone does not grant a hint, it's credited only after server verification. Change language (Korean/English), haptics, sound, colorblind mode, and theme in Settings. The daily puzzle changes to a new board every day, and time trial keeps a personal best time per board size. Purchases and restoring purchases happen in the Store."],
+      ["Reporting a problem", "Email dhalska2@gmail.com with StreamLine Pulse in the subject line, your app version, device/OS, reproduction steps, and, if useful, a screenshot with personal information redacted. Send only what's needed to investigate; never send passwords, authentication codes, or card details. For store billing or refunds, use that store's own support process."]
+    ],
+    "delete-account": [
+      ["What StreamLine Pulse deletion covers", "In Settings, \"Delete account data\" removes your StreamLine Pulse progress, hints, purchase entitlements, and this game's account link. Your shared sign-in and other games' data are kept. If you no longer have the app installed, request deletion by email below."],
+      ["Deleting device data", "On iOS, use Delete App rather than Offload App. On Android, use Clear Storage for this app in system settings. Device and cloud backups are managed separately. We cannot recover local records you've deleted."],
+      ["Requesting deletion of account, purchase, or inquiry data", "Email dhalska2@gmail.com with the subject \"StreamLine Pulse Data Deletion\" and tell us your account email and what to delete (this game's account link, purchase entitlements/hint history, inquiry history). Do not send passwords, authentication codes, ID, or card details. After verifying your identity within a reasonable scope, we'll report the result within the applicable legal timeframe."]
+    ]
+  }
+}
