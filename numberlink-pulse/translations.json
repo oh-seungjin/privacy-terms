@@ -27,7 +27,7 @@
       ],
       [
         "광고와 개인정보 선택",
-        "모바일 앱은 Google AdMob 전면 광고와 선택형 보상 광고(힌트 제공)를 사용합니다. 광고 SDK는 IP 주소와 그로부터 추정한 대략적 위치, 기기·광고 식별자, 광고 조회·클릭 등의 상호작용, 진단 정보 및 동의 상태를 광고 제공·측정·부정 이용 방지에 처리할 수 있습니다. 정확한 위치 권한은 요청하지 않습니다. 지역과 선택에 따라 동의 메시지를 표시하며, iOS에서는 앱 추적 투명성(ATT) 권한 요청에 동의해야 광고 식별자를 이용한 추적이 이루어집니다."
+        "모바일 앱은 Google AdMob 전면 광고와 선택형 보상 광고(힌트 또는 스테이지당 숫자 추가 1회 제공)를 사용합니다. 광고 SDK는 IP 주소와 그로부터 추정한 대략적 위치, 기기·광고 식별자, 광고 조회·클릭 등의 상호작용, 진단 정보 및 동의 상태를 광고 제공·측정·부정 이용 방지에 처리할 수 있습니다. 정확한 위치 권한은 요청하지 않습니다. 지역과 선택에 따라 동의 메시지를 표시하며, iOS에서는 앱 추적 투명성(ATT) 권한 요청에 동의해야 광고 식별자를 이용한 추적이 이루어집니다."
       ],
       [
         "계정과 구매",
@@ -75,7 +75,7 @@
       ],
       [
         "저장·힌트·언어·데일리/타임 트라이얼",
-        "설정에서 한국어/영어, 소리·진동·테마를 바꿀 수 있습니다. 같은 Apple/Google 계정으로 로그인하면 진행을 복원합니다. 충돌로 남은 판은 설정의 ‘다른 저장된 판 복구’에서 선택합니다. 힌트 확인에 실패하면 연결 후 같은 판에서 다시 누르세요. 동일 요청은 한 번만 차감됩니다. 광고는 서버 검증 후 보상됩니다. 일일 퍼즐·미션은 날짜에 따라 자동 변경됩니다. 구매/복원 문제는 앱 버전과 스토어 거래 ID를 포함해 문의하세요."
+        "설정에서 한국어/영어, 소리·진동·테마를 바꿀 수 있습니다. 같은 Apple/Google 계정으로 로그인하면 진행을 복원합니다. 충돌로 남은 판은 설정의 ‘다른 저장된 판 복구’에서 선택합니다. 힌트 확인에 실패하면 연결 후 같은 판에서 다시 누르세요. 동일 요청은 한 번만 차감됩니다. 기본 숫자 추가 5회를 모두 쓴 뒤에는 보상형 광고로 해당 스테이지에서 마지막 1회를 더 받을 수 있으며 랭크에는 적용되지 않습니다. 광고는 서버 검증 후 보상됩니다. 일일 퍼즐·미션은 날짜에 따라 자동 변경됩니다. 구매/복원 문제는 앱 버전과 스토어 거래 ID를 포함해 문의하세요."
       ],
       [
         "문제 문의",
@@ -125,7 +125,7 @@
       ],
       [
         "Ads and your choices",
-        "The mobile app shows Google AdMob interstitial ads and optional rewarded ads (for hints). The ad SDK may process your IP address and the approximate location derived from it, device/advertising identifiers, ad interactions such as views and clicks, diagnostic data, and consent status, to serve, measure, and protect against fraud in ads. We do not request precise location access. A consent message is shown depending on your region and choices; on iOS, tracking via the advertising identifier only occurs if you agree to the App Tracking Transparency (ATT) permission request."
+        "The mobile app shows Google AdMob interstitial ads and optional rewarded ads (for hints or one extra number addition per stage). The ad SDK may process your IP address and the approximate location derived from it, device/advertising identifiers, ad interactions such as views and clicks, diagnostic data, and consent status, to serve, measure, and protect against fraud in ads. We do not request precise location access. A consent message is shown depending on your region and choices; on iOS, tracking via the advertising identifier only occurs if you agree to the App Tracking Transparency (ATT) permission request."
       ],
       [
         "Account and purchases",
@@ -173,7 +173,7 @@
       ],
       [
         "Saving, hints, language, and daily/time trial",
-        "Settings offers Korean/English, sound, haptics and themes. Sign into the same Apple/Google account to restore progress. Choose conflicting boards under Recover another saved board in Settings. If a hint cannot be confirmed, reconnect and retry on the same board; the same request is charged once. Ad rewards require server verification. Daily puzzles/missions change automatically with the date. For purchase/restore issues, include your app version and store transaction ID in a support request."
+        "Settings offers Korean/English, sound, haptics and themes. Sign into the same Apple/Google account to restore progress. Choose conflicting boards under Recover another saved board in Settings. If a hint cannot be confirmed, reconnect and retry on the same board; the same request is charged once. After all five standard number additions are used, a rewarded ad can grant one final addition for that stage; Ranked Mode excludes it. Ad rewards require server verification. Daily puzzles/missions change automatically with the date. For purchase/restore issues, include your app version and store transaction ID in a support request."
       ],
       [
         "Reporting a problem",
