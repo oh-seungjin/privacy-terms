@@ -43,7 +43,7 @@
       ],
       [
         "보유 및 삭제",
-        "로컬 정보는 앱 저장 공간이 삭제될 때까지 남습니다. iOS에서는 앱 삭제(앱 정리하기는 데이터를 남길 수 있음), Android에서는 시스템 설정의 앱 저장 공간 삭제를 이용하세요. 기기·클라우드 백업은 별도로 관리하세요. 문의 정보는 요청 처리에 필요한 동안 보유하고 불필요해지면 삭제합니다."
+        "로컬 정보는 앱 저장 공간이 삭제될 때까지 남습니다. iOS에서는 앱 삭제(앱 정리하기는 데이터를 남길 수 있음), Android에서는 시스템 설정의 앱 저장 공간 삭제를 이용하세요. 기기·클라우드 백업은 별도로 관리하세요. 문의 정보는 요청 처리에 필요한 동안 보유하고 불필요해지면 삭제합니다. 안전 저장소의 로그인 세션은 앱 삭제 후에도 남을 수 있으므로 계정 데이터 삭제는 앱 내 기능을 사용하세요. 중복 보상·병합·삭제 후 재업로드 방지를 위한 최소 토큰/세션 표식은 보관할 수 있습니다."
       ],
       [
         "이용자 권리와 처리 근거",
@@ -141,7 +141,7 @@
       ],
       [
         "Retention and deletion",
-        "Local information remains until the app's storage is cleared. On iOS, use Delete App (Offload App can leave data behind); on Android, use Clear Storage for this app in system settings. Device and cloud backups are managed separately. We keep inquiry information only as long as needed to handle the request, then delete it."
+        "Local information remains until the app's storage is cleared. On iOS, use Delete App (Offload App can leave data behind); on Android, use Clear Storage for this app in system settings. Device and cloud backups are managed separately. We keep inquiry information only as long as needed to handle the request, then delete it. A secure-storage login session may survive app removal; use in-app data deletion for account data. Minimal token/session markers may be retained to prevent duplicate rewards, repeated merges and uploads from deleted sessions."
       ],
       [
         "Your rights and legal basis",
