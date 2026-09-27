@@ -9,20 +9,26 @@ PAGES = {
         "ko": ("개인정보처리방침", [
             ("운영자와 범위", "대한민국의 넥스트 스튜디오(Next Studio)가 Majak Pulse를 운영합니다. iOS와 Android 앱 식별자는 com.osj.majak입니다. 문의는 dhalska2@gmail.com으로 보내주세요."),
             ("게임 및 계정 데이터", "기기에 완료 횟수, 연속 기록, 무료 힌트, 선택한 테마와 효과음·진동 설정을 저장합니다. Supabase 익명 사용자 ID로 앱을 시작하며 Apple 로그인 시 진행을 계정에 연결할 수 있습니다."),
+            ("랭킹과 국가", "랭크 게임 참여 시 서버가 발급한 보드, 제거 순서, 완료 시간, 국가 코드와 계정 식별자를 처리합니다. 공개 랭킹에는 국가 국기와 마스킹된 이메일만 표시하며 전체 이메일과 Apple 로그인 정보는 공개하지 않습니다."),
+            ("App Store 구매", "Apple의 거래 ID, 상품 ID, 구매 환경, 구매·환불·환불 취소 상태와 검증 결과를 처리해 힌트, 랭크 도전권, 광고 제거와 테마 권한을 지급하거나 회수합니다. 결제 카드 정보는 앱이나 Next Studio가 직접 수집하지 않습니다. 거래 원장은 중복 지급 방지, 환불 처리와 법적 의무 이행에 필요한 기간 보관될 수 있습니다."),
             ("광고", "모바일 앱은 Google AdMob 전면 광고와 사용자가 선택하는 보상형 광고를 사용합니다. 광고 SDK는 광고 제공·측정·부정 이용 방지를 위해 IP 주소, 대략적 위치, 기기·광고 식별자, 광고 상호작용, 진단 및 동의 상태를 처리할 수 있습니다. 정확한 위치 권한은 요청하지 않습니다."),
+            ("앱 분석과 진단", "광고 노출·실패, 힌트 제안, 구매 결과 등 앱 내 이벤트와 오류·진단 정보를 서비스 운영, 장애 대응, 부정 이용 방지와 기능 개선 목적으로 처리할 수 있습니다."),
             ("보유와 삭제", "앱의 데이터 삭제 기능은 Majak Pulse의 서버 데이터와 권한을 삭제합니다. 공용 Apple 신원과 다른 게임 데이터는 삭제 대상이 아닙니다. 중복 보상과 삭제 후 재업로드 방지를 위한 최소 표식은 보관할 수 있습니다."),
             ("처리업체와 권리", "인증·저장에는 Supabase, 광고에는 Google, Apple 로그인에는 Apple, 웹 호스팅에는 GitHub를 사용합니다. 적용 법령에 따른 열람·정정·삭제·동의 철회 요청은 지원 이메일로 접수할 수 있습니다."),
         ]),
         "en": ("Privacy Policy", [
             ("Operator and scope", "Next Studio in the Republic of Korea operates Majak Pulse. The iOS and Android identifier is com.osj.majak. Contact dhalska2@gmail.com."),
             ("Game and account data", "The app stores completion count, streak, free hints, selected theme, sound and haptic settings on the device. It starts with a Supabase anonymous user ID and can link progress through Sign in with Apple."),
+            ("Rankings and country", "For ranked games, the server processes the server-issued board, removal sequence, completion time, country code and account identifier. The public leaderboard shows only a country flag and masked email. Full email addresses and Apple sign-in information are not public."),
+            ("App Store purchases", "The app processes Apple transaction ID, product ID, purchase environment, purchase, refund and refund-reversal status, and verification results to grant or revoke hints, ranked tickets, ad removal and themes. Neither the app nor Next Studio directly collects payment-card details. The transaction ledger may be retained as needed to prevent duplicate grants, process refunds and meet legal obligations."),
             ("Advertising", "The mobile app uses Google AdMob interstitial ads and optional rewarded ads. The advertising SDK may process IP address, approximate location, device or advertising identifiers, ad interactions, diagnostics and consent state for delivery, measurement and fraud prevention. The app does not request precise location permission."),
+            ("App analytics and diagnostics", "The service may process in-app events such as ad impressions and failures, hint offers and purchase results, together with errors and diagnostic information, to operate and improve the service, resolve failures and prevent abuse."),
             ("Retention and deletion", "The in-app deletion action removes Majak Pulse server data and entitlements. A shared Apple identity and data belonging to other games are outside its scope. Minimal markers may remain to prevent duplicate rewards and uploads from a deleted session."),
             ("Processors and rights", "The app uses Supabase for authentication and storage, Google for advertising, Apple for sign-in and GitHub for web hosting. Contact support to exercise access, correction, deletion or consent rights available under applicable law."),
         ]),
     },
     "terms": {
-        "ko": ("이용약관", [("서비스", "Majak Pulse는 같은 마작패을 제거하는 퍼즐 게임입니다. 서비스는 예고 후 변경되거나 중단될 수 있습니다."), ("이용 규칙", "광고 보상, 계정 또는 앱을 조작하거나 서비스 운영을 방해해서는 안 됩니다."), ("광고와 외부 서비스", "광고와 로그인에는 Google, Apple 및 Supabase의 별도 약관이 적용될 수 있습니다."), ("면책과 문의", "법이 허용하는 범위에서 서비스는 현 상태로 제공됩니다. 문의는 dhalska2@gmail.com으로 보내주세요.")]),
+        "ko": ("이용약관", [("서비스", "Majak Pulse는 같은 마작패를 제거하는 퍼즐 게임입니다. 서비스는 예고 후 변경되거나 중단될 수 있습니다."), ("이용 규칙", "광고 보상, 계정 또는 앱을 조작하거나 서비스 운영을 방해해서는 안 됩니다."), ("광고와 외부 서비스", "광고와 로그인에는 Google, Apple 및 Supabase의 별도 약관이 적용될 수 있습니다."), ("면책과 문의", "법이 허용하는 범위에서 서비스는 현 상태로 제공됩니다. 문의는 dhalska2@gmail.com으로 보내주세요.")]),
         "en": ("Terms of Service", [("Service", "Majak Pulse is a tile-matching solitaire puzzle. Features may change or be discontinued after notice where required."), ("Acceptable use", "Do not manipulate ad rewards, accounts or the app, or interfere with service operation."), ("Ads and third parties", "Google, Apple and Supabase terms may separately apply to advertising and sign-in."), ("Disclaimer and contact", "The service is provided as available to the extent permitted by law. Contact dhalska2@gmail.com.")]),
     },
     "support": {
