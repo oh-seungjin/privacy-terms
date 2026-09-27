@@ -15,7 +15,7 @@
     "privacy": [
       [
         "운영자와 적용 범위",
-        "대한민국의 넥스트 스튜디오(Next Studio)가 NumberLink Pulse를 운영합니다. iOS 식별자는 com.osj.numberlink이며, 현재 Android 빌드 식별자는 com.osj.numberlinkpulse입니다. 이 방침은 앱과 공식 지원 웹사이트에 적용됩니다. 개인정보 문의: dhalska2@gmail.com."
+        "대한민국의 넥스트 스튜디오(Next Studio)가 NumberLink Pulse를 운영합니다. iOS와 Android 앱 식별자는 com.osj.numberlink입니다. 이 방침은 앱과 공식 지원 웹사이트에 적용됩니다. 개인정보 문의: dhalska2@gmail.com."
       ],
       [
         "기기 내 게임 데이터",
@@ -113,7 +113,7 @@
     "privacy": [
       [
         "Operator and scope",
-        "Next Studio (South Korea) operates NumberLink Pulse. The iOS identifier is com.osj.numberlink; the current Android build identifier is com.osj.numberlinkpulse. This policy covers the app and this support website. Privacy contact: dhalska2@gmail.com."
+        "Next Studio (South Korea) operates NumberLink Pulse. The iOS and Android app identifier is com.osj.numberlink. This policy covers the app and this support website. Privacy contact: dhalska2@gmail.com."
       ],
       [
         "On-device game data",
