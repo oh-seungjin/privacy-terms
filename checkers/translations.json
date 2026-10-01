@@ -1,0 +1,1310 @@
+{
+ "ko": {
+  "nav": [
+   "홈",
+   "개인정보처리방침",
+   "이용약관",
+   "도움말·지원",
+   "데이터 삭제"
+  ],
+  "tag": "네 가지 규칙으로 즐기는 클래식 체커 — 두고, 풀고, 올라가세요.",
+  "intro": "체커 공식 지원·정책 · 넥스트 스튜디오",
+  "date": "시행·개정일: 2026년 10월 2일",
+  "contact": "문의",
+  "skip": "본문 바로가기",
+  "features": [
+   "네 가지 규칙: 미국식, 브라질식, 러시아식, 국제식(10×10)",
+   "컴퓨터 대전(20단계) 또는 한 기기로 둘이서",
+   "실시간·비동기 온라인 대전, 친구 코드, 랭킹",
+   "퍼즐 · 일일 미션 · 대국 분석",
+   "프리미엄 구독"
+  ],
+  "privacy": [
+   [
+    "운영자와 적용 범위",
+    "이 방침은 넥스트 스튜디오(대한민국 개인 개발자)가 배포하는 iOS 앱 \"체커\"(번들 ID com.osj.checkers)에 적용됩니다. 문의: dhalska2@gmail.com."
+   ],
+   [
+    "계정과 클라우드 진행 상황",
+    "가입 없이 쓸 수 있도록 앱이 익명 계정을 자동으로 만듭니다. 진행 상황(통계, 업적, 푼 퍼즐, 미션, 코인과 아이템, 설정, 끝나지 않은 대국)은 잃어버리지 않도록 이 계정 기준으로 서버에 저장됩니다. Apple 로그인은 선택 사항이며, Apple이 식별자와 허용한 경우 이메일 주소(비공개 릴레이 주소일 수 있음)를 공유합니다. 이는 여러 기기에서 계정을 알아보는 데만 씁니다."
+   ],
+   [
+    "온라인 대전과 랭킹",
+    "온라인으로 대국하면 닉네임, 국가, 아바타, 레이팅과 대국의 수·결과가 서버에 저장되고 상대와 랭킹에 표시됩니다. 앱에서 다른 플레이어를 신고하거나 차단할 수 있으며, 신고 내용(신고된 플레이어, 사유, 시각)은 규칙을 어긴 닉네임을 검토하기 위해 보관합니다."
+   ],
+   [
+    "구매와 구독",
+    "구매(광고 제거, 테마 팩, 힌트·되돌리기 묶음)와 프리미엄 구독은 Apple이 결제합니다. 결제 정보는 받지 않으며, 구매한 것을 지급·복원하기 위해 거래 ID, 상품, 구독 상태만 저장합니다."
+   ],
+   [
+    "알림",
+    "알림을 켠 경우에만 내 차례나 대국 종료를 알려 드리기 위해 푸시 토큰(Firebase Cloud Messaging)을 저장합니다. 앱이나 iOS 설정에서 끌 수 있습니다."
+   ],
+   [
+    "광고",
+    "Google AdMob이 비맞춤 광고를 보여 줍니다. 앱은 다른 회사의 앱·웹사이트에 걸쳐 사용자를 추적하지 않으며 광고 식별자 접근을 요청하지 않습니다. 다만 AdMob은 광고 전달, 노출 빈도 제한, 부정 방지를 위해 기기 정보와 대략적인 위치(IP 기반)를 처리할 수 있습니다. 광고는 인앱 구매로 제거할 수 있습니다."
+   ],
+   [
+    "오류 보고",
+    "Firebase Crashlytics가 문제를 고치기 위해 비정상 종료·오류 보고(기기 모델, OS·앱 버전, 기술 로그, 임의 설치 ID)를 수집합니다. 결제 정보는 포함되지 않습니다."
+   ],
+   [
+    "서비스 제공자와 저장 위치",
+    "Supabase(데이터베이스·로그인), Apple(Apple 로그인·결제), Google(AdMob 광고, Firebase 알림·오류 보고)은 각자의 개인정보처리방침에 따라 데이터를 처리하며, 서버가 국외에 있을 수 있습니다. 이 페이지는 GitHub Pages에서 제공되며 분석·광고 스크립트를 쓰지 않습니다."
+   ],
+   [
+    "보관과 삭제",
+    "서버 데이터는 계정이 있는 동안 보관합니다. 앱에서 계정을 삭제하거나 이메일로 요청하면 합리적인 기간 안에 삭제하거나 익명화합니다. 앱을 지우면 기기에 저장된 데이터만 지워집니다."
+   ],
+   [
+    "이용자 권리, 아동, 변경",
+    "dhalska2@gmail.com로 내 데이터의 열람·정정·삭제를 요청할 수 있습니다. 이 앱은 만 13세 미만 아동을 대상으로 하지 않으며 아동의 정보를 알면서 수집하지 않습니다. 방침이 바뀌면 이 페이지에 새 날짜와 함께 게시합니다."
+   ]
+  ],
+  "terms": [
+   [
+    "서비스",
+    "체커는 컴퓨터 대전, 한 기기 2인 대국, 실시간·비동기 온라인 대전, 친구 코드, 랭킹, 퍼즐, 일일 미션, 대국 분석을 제공합니다. 프리미엄 구독은 광고와 일일 제한을 없애고 모든 스킨과 무제한 힌트·되돌리기를 포함합니다."
+   ],
+   [
+    "구매와 구독",
+    "결제는 Apple을 통해 이뤄집니다. 구독은 현재 기간 종료 최소 24시간 전에 해지하지 않으면 자동으로 갱신되며, Apple ID 설정에서 관리·해지할 수 있습니다. 환불은 Apple 정책을 따릅니다. 코인과 아이템은 현금 가치가 없고 교환할 수 없습니다. Apple 표준 EULA도 적용됩니다."
+   ],
+   [
+    "공정한 플레이와 행동",
+    "온라인 대국에서 엔진 등 외부 도움을 쓰거나, 다른 사람을 모욕·괴롭히거나 사칭하거나, 불쾌한 닉네임을 쓰거나, 서버를 방해하지 마세요. 이를 어긴 플레이어의 닉네임을 숨기거나 대국을 종료하거나 온라인 이용을 제한할 수 있습니다."
+   ],
+   [
+    "변경과 책임",
+    "서비스는 있는 그대로 제공됩니다. 기능은 바뀌거나 종료될 수 있으며 약관은 이 페이지에서 갱신될 수 있습니다."
+   ]
+  ],
+  "support": [
+   [
+    "게임 방법",
+    "홈에서 난이도와 규칙을 정해 컴퓨터와 대결하거나, 게임 시작을 눌러 한 기기 2인, 실시간·비동기 온라인, 친구 코드 대국을 고르세요. 학습에 규칙과 게임 방법이 있고, 아래 탭에서 랭킹, 통계·업적, 상점으로 갑니다."
+   ],
+   [
+    "진행 상황, 구매, 동기화",
+    "진행 상황은 계정에 자동 저장됩니다. 상점의 구매 복원으로 구매한 것을 되찾고, 설정에서 Apple로 로그인하면 다른 기기에서 이어서 할 수 있습니다."
+   ],
+   [
+    "문의 방법",
+    "메일 제목에 \"체커\"를 넣고 앱 버전, 기기와 iOS 버전, 문제가 생긴 순서를 알려 주세요. 구매 문제는 Apple 영수증이 있으면 더 빨리 답해 드릴 수 있습니다."
+   ]
+  ],
+  "delete-account": [
+   [
+    "앱에서 삭제",
+    "Apple로 로그인한 경우: 설정 > 계정 > 계정 삭제. 진행 상황, 랭킹, 닉네임, 구매 권한, 남은 유료 힌트·되돌리기가 영구 삭제되고 진행 중인 온라인 대국은 종료됩니다. App Store 결제는 환불되지 않습니다."
+   ],
+   [
+    "이메일로 요청",
+    "Apple 로그인 없이 쓰는 경우 제목을 \"체커 데이터 삭제\"로 하여 dhalska2@gmail.com로 계정을 확인할 수 있는 정보(예: 닉네임)를 보내 주세요. 합리적인 기간 안에 서버 데이터를 삭제합니다."
+   ],
+   [
+    "기기의 데이터",
+    "기기에 저장된 데이터는 앱을 삭제(\"앱 정리하기\"가 아닌 \"앱 삭제\")하면 지워집니다."
+   ]
+  ]
+ },
+ "en": {
+  "nav": [
+   "Home",
+   "Privacy Policy",
+   "Terms of Service",
+   "Help & Support",
+   "Delete Data"
+  ],
+  "tag": "Classic checkers in four rule sets — play, solve and climb.",
+  "intro": "Checkers official support & policies · Next Studio",
+  "date": "Effective / Updated: October 2, 2026",
+  "contact": "Contact",
+  "skip": "Skip to content",
+  "features": [
+   "Four rule sets: American, Brazilian, Russian and International (10×10)",
+   "Play the computer (20 levels) or a friend on one device",
+   "Live and async online play, friend codes and rankings",
+   "Puzzles · daily missions · game analysis",
+   "Premium subscription"
+  ],
+  "privacy": [
+   [
+    "Operator and scope",
+    "This policy applies to the iOS app \"Checkers\" (bundle ID com.osj.checkers), published by Next Studio, an individual developer based in South Korea. Contact: dhalska2@gmail.com."
+   ],
+   [
+    "Account and cloud progress",
+    "No sign-up is needed: the app automatically creates an anonymous account. Your progress (stats, achievements, solved puzzles, missions, coins and items, settings and an unfinished game) is saved on our server against that account so it is not lost. Signing in with Apple is optional; Apple shares an identifier and, if you allow it, an email address (which may be a private relay address), used only to recognise your account on your devices."
+   ],
+   [
+    "Online play and rankings",
+    "When you play online, your nickname, country, avatar and rating, and the moves and results of your games, are stored on our server and shown to your opponents and on the rankings. You can report or block another player in the app; reports (the reported player, the reason and the time) are kept to review nicknames that break the rules."
+   ],
+   [
+    "Purchases and subscriptions",
+    "Purchases (remove ads, theme pack, hint and undo packs) and the Premium subscription are billed by Apple. We never receive your payment details; we store the transaction ID, product and subscription status to grant and restore what you bought."
+   ],
+   [
+    "Notifications",
+    "Only if you turn on notifications is a push token (Firebase Cloud Messaging) stored, to tell you when it is your turn or a game has ended. You can turn this off in the app or in iOS Settings."
+   ],
+   [
+    "Ads",
+    "Google AdMob shows non-personalized ads. The app does not track you across other companies' apps or websites and does not ask for access to the advertising identifier. AdMob may still process device information and an approximate (IP-based) location to deliver ads, limit how often they appear and prevent fraud. Ads can be removed with an in-app purchase."
+   ],
+   [
+    "Crash reports",
+    "Firebase Crashlytics collects crash and error reports (device model, OS and app version, technical logs and a random installation ID) so we can fix problems. These reports contain no payment details."
+   ],
+   [
+    "Service providers and storage",
+    "Supabase (database and sign-in), Apple (Sign in with Apple and payments) and Google (AdMob ads, Firebase notifications and crash reports) process data under their own privacy policies; their servers may be located outside your country. These pages are hosted on GitHub Pages and use no analytics or advertising scripts."
+   ],
+   [
+    "Retention and deletion",
+    "Server data is kept while your account exists. When you delete your account in the app or ask us by email, it is deleted or anonymized within a reasonable time. Deleting the app removes only the data stored on the device."
+   ],
+   [
+    "Your rights, children and changes",
+    "You can ask to access, correct or delete your data at dhalska2@gmail.com. The app is not directed at children under 13, and we do not knowingly collect their data. Changes to this policy are posted on this page with a new date."
+   ]
+  ],
+  "terms": [
+   [
+    "Service",
+    "Checkers offers games against the computer, two players on one device, live and async online play, friend codes, rankings, puzzles, daily missions and game analysis. The Premium subscription removes ads and daily limits and includes all skins and unlimited hints and undos."
+   ],
+   [
+    "Purchases and subscriptions",
+    "Payments are made through Apple. Subscriptions renew automatically unless cancelled at least 24 hours before the end of the current period; manage or cancel them in your Apple ID settings. Refunds follow Apple's policies. Coins and items have no cash value and cannot be exchanged. The Apple Standard EULA also applies."
+   ],
+   [
+    "Fair play and conduct",
+    "Do not use engines or other outside help in online games, insult, harass or impersonate others, choose offensive nicknames, or disrupt the servers. We may hide nicknames, end games or restrict online play for players who break these rules."
+   ],
+   [
+    "Changes and liability",
+    "The service is provided as is. Features may change or end, and these terms may be updated on this page."
+   ]
+  ],
+  "support": [
+   [
+    "How to play",
+    "On the home screen, set the level and rule set and play the computer, or tap Start game for two players on one device, live or async online play, or a game with a friend code. Learn has the rules and How to play; the bottom bar leads to Ranking, Stats & Achievements and the Shop."
+   ],
+   [
+    "Progress, purchases and sync",
+    "Progress is saved to your account automatically. Use Restore Purchases in the Shop to get your purchases back, and sign in with Apple in Settings to continue on another device."
+   ],
+   [
+    "Contacting us",
+    "Put \"Checkers\" in the email subject and tell us the app version, your device and iOS version, and the steps that led to the problem. For purchase issues, the Apple receipt helps us answer faster."
+   ]
+  ],
+  "delete-account": [
+   [
+    "Delete in the app",
+    "Signed in with Apple: Settings > Account > Delete account. This permanently deletes your progress, rankings, nickname, purchase entitlements and remaining paid hints and undos, and ends your ongoing online games. App Store payments are not refunded."
+   ],
+   [
+    "Request by email",
+    "Without Apple sign-in, email dhalska2@gmail.com with the subject \"Checkers Data Deletion\" and details that identify your account (for example your nickname). We delete the server data within a reasonable time."
+   ],
+   [
+    "Data on the device",
+    "Delete the app (not \"Offload App\") to remove the data stored on the device."
+   ]
+  ]
+ },
+ "ja": {
+  "nav": [
+   "ホーム",
+   "プライバシーポリシー",
+   "利用規約",
+   "ヘルプ・サポート",
+   "データ削除"
+  ],
+  "tag": "4つのルールで遊ぶクラシックなチェッカー — 指して、解いて、上を目指そう。",
+  "intro": "チェッカー公式サポート・ポリシー · Next Studio",
+  "date": "施行・改定日：2026年10月2日",
+  "contact": "お問い合わせ",
+  "skip": "本文へ移動",
+  "features": [
+   "4つのルール：アメリカ式、ブラジル式、ロシア式、国際式（10×10）",
+   "コンピューター対戦（20段階）や1台で2人対戦",
+   "リアルタイム・非同期オンライン対戦、フレンドコード、ランキング",
+   "パズル · デイリーミッション · 対局解析",
+   "プレミアムサブスクリプション"
+  ],
+  "privacy": [
+   [
+    "運営者と適用範囲",
+    "本ポリシーは、Next Studio（韓国の個人開発者）が配信するiOSアプリ「チェッカー」（バンドルID com.osj.checkers）に適用されます。お問い合わせ：dhalska2@gmail.com。"
+   ],
+   [
+    "アカウントとクラウドの進行状況",
+    "登録なしで使えるよう、アプリが匿名アカウントを自動で作成します。進行状況（統計、実績、解いたパズル、ミッション、コインとアイテム、設定、未完の対局）は失われないよう、このアカウントに紐づけてサーバーに保存されます。Appleでサインインは任意で、Appleは識別子と、許可した場合はメールアドレス（非公開リレーアドレスの場合あり）を共有します。これは端末間でアカウントを識別するためにのみ使います。"
+   ],
+   [
+    "オンライン対戦とランキング",
+    "オンラインで対局すると、ニックネーム、国、アバター、レーティング、対局の手と結果がサーバーに保存され、対戦相手とランキングに表示されます。アプリ内で他のプレイヤーを通報・ブロックでき、通報内容（通報されたプレイヤー、理由、日時）はルール違反のニックネームを確認するために保管します。"
+   ],
+   [
+    "購入とサブスクリプション",
+    "購入（広告削除、テーマパック、ヒント・やり直しパック）とプレミアムサブスクリプションはAppleが決済します。支払い情報は受け取らず、購入したものを付与・復元するため取引ID、商品、サブスクリプションの状態のみ保存します。"
+   ],
+   [
+    "通知",
+    "通知をオンにした場合のみ、自分の手番や対局終了をお知らせするためプッシュトークン（Firebase Cloud Messaging）を保存します。アプリまたはiOSの設定でオフにできます。"
+   ],
+   [
+    "広告",
+    "Google AdMobがパーソナライズされていない広告を表示します。アプリは他社のアプリやウェブサイトをまたいでユーザーを追跡せず、広告識別子へのアクセスを求めません。ただしAdMobは広告配信、表示頻度の制限、不正防止のため端末情報とおおよその位置（IPベース）を処理する場合があります。広告はアプリ内購入で削除できます。"
+   ],
+   [
+    "クラッシュレポート",
+    "Firebase Crashlyticsが問題の修正のためにクラッシュ・エラーレポート（端末モデル、OS・アプリのバージョン、技術ログ、ランダムなインストールID）を収集します。支払い情報は含まれません。"
+   ],
+   [
+    "サービス提供者と保存場所",
+    "Supabase（データベース・サインイン）、Apple（Appleでサインイン・決済）、Google（AdMob広告、Firebase通知・クラッシュレポート）はそれぞれのプライバシーポリシーに従ってデータを処理し、サーバーは国外にある場合があります。このページはGitHub Pagesで提供され、解析・広告スクリプトは使用していません。"
+   ],
+   [
+    "保存と削除",
+    "サーバーのデータはアカウントが存在する間保存します。アプリでアカウントを削除するかメールで依頼すると、合理的な期間内に削除または匿名化します。アプリを削除すると端末に保存されたデータのみ消去されます。"
+   ],
+   [
+    "利用者の権利、子ども、変更",
+    "dhalska2@gmail.comにて自分のデータの開示・訂正・削除を依頼できます。本アプリは13歳未満の子どもを対象としておらず、子どもの情報を故意に収集しません。ポリシーの変更はこのページに新しい日付とともに掲載します。"
+   ]
+  ],
+  "terms": [
+   [
+    "サービス",
+    "チェッカーは、コンピューター対戦、1台での2人対戦、リアルタイム・非同期オンライン対戦、フレンドコード、ランキング、パズル、デイリーミッション、対局解析を提供します。プレミアムサブスクリプションは広告と1日の制限をなくし、すべてのスキンと無制限のヒント・やり直しを含みます。"
+   ],
+   [
+    "購入とサブスクリプション",
+    "支払いはAppleを通じて行われます。サブスクリプションは現在の期間終了の24時間前までに解約しない限り自動更新され、Apple IDの設定で管理・解約できます。返金はAppleのポリシーに従います。コインとアイテムに現金価値はなく、交換できません。Apple標準EULAも適用されます。"
+   ],
+   [
+    "公正なプレイと行動",
+    "オンライン対局でエンジンなどの外部の助けを使う、他人を侮辱・嫌がらせ・なりすましする、不快なニックネームを使う、サーバーを妨害する行為をしないでください。違反したプレイヤーのニックネームを非表示にしたり、対局を終了したり、オンライン利用を制限したりすることがあります。"
+   ],
+   [
+    "変更と責任",
+    "サービスは現状のまま提供されます。機能は変更・終了することがあり、本規約はこのページで更新されることがあります。"
+   ]
+  ],
+  "support": [
+   [
+    "遊び方",
+    "ホームでレベルとルールを決めてコンピューターと対戦するか、「ゲーム開始」から1台で2人、リアルタイム・非同期オンライン、フレンドコード対局を選びます。「学習」にルールと遊び方があり、下のバーからランキング、統計・実績、ショップへ移動できます。"
+   ],
+   [
+    "進行状況、購入、同期",
+    "進行状況はアカウントに自動保存されます。ショップの「購入を復元」で購入したものを戻し、設定でAppleでサインインすると別の端末で続きができます。"
+   ],
+   [
+    "お問い合わせ方法",
+    "メールの件名に「チェッカー」と入れ、アプリのバージョン、端末とiOSのバージョン、問題が起きた手順をお知らせください。購入の問題はAppleの領収書があると早く回答できます。"
+   ]
+  ],
+  "delete-account": [
+   [
+    "アプリで削除",
+    "Appleでサインインしている場合：設定 > アカウント > アカウントを削除。進行状況、ランキング、ニックネーム、購入の権利、残りの有料ヒント・やり直しが完全に削除され、進行中のオンライン対局は終了します。App Storeの支払いは返金されません。"
+   ],
+   [
+    "メールで依頼",
+    "Appleでサインインせずに使っている場合は、件名を「チェッカー データ削除」としてdhalska2@gmail.comへアカウントを確認できる情報（例：ニックネーム）をお送りください。合理的な期間内にサーバーのデータを削除します。"
+   ],
+   [
+    "端末のデータ",
+    "端末に保存されたデータは、アプリを削除（「Appを取り除く」ではなく「Appを削除」）すると消去されます。"
+   ]
+  ]
+ },
+ "zh": {
+  "nav": [
+   "首页",
+   "隐私政策",
+   "服务条款",
+   "帮助与支持",
+   "删除数据"
+  ],
+  "tag": "四种规则的经典跳棋——下棋、解题、不断进阶。",
+  "intro": "跳棋官方支持与政策 · Next Studio",
+  "date": "生效/更新日期：2026年10月2日",
+  "contact": "联系我们",
+  "skip": "跳到正文",
+  "features": [
+   "四种规则：美式、巴西式、俄式和国际式（10×10）",
+   "与电脑对战（20个等级）或在一台设备上双人对战",
+   "实时和异步在线对战、好友代码与排行榜",
+   "谜题 · 每日任务 · 对局复盘",
+   "高级版订阅"
+  ],
+  "privacy": [
+   [
+    "运营者与适用范围",
+    "本政策适用于由 Next Studio（韩国个人开发者）发布的 iOS 应用“跳棋”（Bundle ID com.osj.checkers）。联系方式：dhalska2@gmail.com。"
+   ],
+   [
+    "账户与云端进度",
+    "无需注册：应用会自动创建匿名账户。你的进度（统计、成就、已解谜题、任务、金币和道具、设置以及未完成的对局）会以该账户保存在我们的服务器上，以免丢失。使用 Apple 登录是可选的；Apple 会共享一个标识符，以及在你允许时共享电子邮件地址（可能是隐藏的转发地址），仅用于在你的设备间识别账户。"
+   ],
+   [
+    "在线对战与排行榜",
+    "在线对局时，你的昵称、国家/地区、头像、等级分以及对局的着法和结果会保存在服务器上，并向对手和排行榜展示。你可以在应用内举报或屏蔽其他玩家；举报内容（被举报玩家、原因和时间）会被保留，用于审核违规昵称。"
+   ],
+   [
+    "购买与订阅",
+    "购买（去广告、主题包、提示和悔棋包）和高级版订阅由 Apple 收费。我们不会收到你的支付信息，只保存交易 ID、商品和订阅状态，用于发放和恢复你购买的内容。"
+   ],
+   [
+    "通知",
+    "仅在你开启通知时，我们才会保存推送令牌（Firebase Cloud Messaging），用于提醒轮到你下棋或对局结束。你可以在应用或 iOS 设置中关闭。"
+   ],
+   [
+    "广告",
+    "Google AdMob 展示非个性化广告。本应用不会跨其他公司的应用或网站追踪你，也不会请求访问广告标识符。但 AdMob 可能会处理设备信息和大致位置（基于 IP），用于投放广告、限制展示频率和防止欺诈。可通过应用内购买去除广告。"
+   ],
+   [
+    "崩溃报告",
+    "Firebase Crashlytics 会收集崩溃和错误报告（设备型号、系统和应用版本、技术日志及随机安装 ID），以便我们修复问题。报告中不含支付信息。"
+   ],
+   [
+    "服务提供商与存储",
+    "Supabase（数据库与登录）、Apple（Apple 登录与支付）和 Google（AdMob 广告、Firebase 通知与崩溃报告）按照各自的隐私政策处理数据，其服务器可能位于你所在国家/地区之外。本页面托管于 GitHub Pages，不使用分析或广告脚本。"
+   ],
+   [
+    "保留与删除",
+    "服务器数据在你的账户存在期间保留。你在应用内删除账户或通过邮件申请后，我们会在合理期限内删除或匿名化。删除应用只会清除设备上的数据。"
+   ],
+   [
+    "你的权利、儿童与变更",
+    "你可以通过 dhalska2@gmail.com 申请查阅、更正或删除你的数据。本应用不面向 13 岁以下儿童，我们不会在知情的情况下收集其数据。本政策的变更将在本页面发布并注明新日期。"
+   ]
+  ],
+  "terms": [
+   [
+    "服务",
+    "跳棋提供人机对战、一台设备双人对战、实时和异步在线对战、好友代码、排行榜、谜题、每日任务和对局复盘。高级版订阅可去除广告和每日限制，并包含全部皮肤及无限提示和悔棋。"
+   ],
+   [
+    "购买与订阅",
+    "付款通过 Apple 进行。订阅会自动续订，除非在当前周期结束前至少 24 小时取消；可在 Apple ID 设置中管理或取消。退款遵循 Apple 的政策。金币和道具没有现金价值，不可兑换。Apple 标准 EULA 同样适用。"
+   ],
+   [
+    "公平游戏与行为准则",
+    "请勿在在线对局中使用引擎或其他外部帮助，侮辱、骚扰或冒充他人，使用冒犯性昵称，或干扰服务器。对于违反规则的玩家，我们可能会隐藏其昵称、结束对局或限制其在线游戏。"
+   ],
+   [
+    "变更与责任",
+    "本服务按现状提供。功能可能变更或终止，本条款可能在本页面更新。"
+   ]
+  ],
+  "support": [
+   [
+    "玩法",
+    "在首页设置等级和规则与电脑对战，或点击“开始游戏”选择一台设备双人、实时或异步在线对战，或好友代码对局。“学习”中有规则和玩法说明；底部栏可进入排行榜、统计与成就和商店。"
+   ],
+   [
+    "进度、购买与同步",
+    "进度会自动保存到你的账户。在商店中使用“恢复购买”找回已购内容；在设置中使用 Apple 登录即可在其他设备上继续。"
+   ],
+   [
+    "联系我们",
+    "请在邮件主题中写上“跳棋”，并告诉我们应用版本、设备和 iOS 版本以及出现问题的步骤。购买问题如附上 Apple 收据，我们能更快答复。"
+   ]
+  ],
+  "delete-account": [
+   [
+    "在应用内删除",
+    "已使用 Apple 登录：设置 > 账户 > 删除账户。这将永久删除你的进度、排名、昵称、购买权益以及剩余的付费提示和悔棋，并结束进行中的在线对局。App Store 付款不予退款。"
+   ],
+   [
+    "通过邮件申请",
+    "未使用 Apple 登录时，请以“跳棋数据删除”为主题发送邮件至 dhalska2@gmail.com，并附上可识别账户的信息（例如昵称）。我们会在合理期限内删除服务器数据。"
+   ],
+   [
+    "设备上的数据",
+    "删除应用（不是“卸载应用”）即可清除设备上存储的数据。"
+   ]
+  ]
+ },
+ "de": {
+  "nav": [
+   "Start",
+   "Datenschutzerklärung",
+   "Nutzungsbedingungen",
+   "Hilfe & Support",
+   "Daten löschen"
+  ],
+  "tag": "Klassische Dame mit vier Regelwerken – spielen, lösen, aufsteigen.",
+  "intro": "Offizieller Support & Richtlinien für Dame · Next Studio",
+  "date": "Gültig / aktualisiert: 2. Oktober 2026",
+  "contact": "Kontakt",
+  "skip": "Zum Inhalt springen",
+  "features": [
+   "Vier Regelwerke: amerikanisch, brasilianisch, russisch und international (10×10)",
+   "Gegen den Computer (20 Stufen) oder zu zweit an einem Gerät",
+   "Live- und Fernpartien online, Freundescodes und Ranglisten",
+   "Aufgaben · tägliche Missionen · Partieanalyse",
+   "Premium-Abo"
+  ],
+  "privacy": [
+   [
+    "Anbieter und Geltungsbereich",
+    "Diese Erklärung gilt für die iOS-App „Dame“ (Bundle-ID com.osj.checkers) von Next Studio, einem Einzelentwickler aus Südkorea. Kontakt: dhalska2@gmail.com."
+   ],
+   [
+    "Konto und Cloud-Fortschritt",
+    "Eine Registrierung ist nicht nötig: Die App legt automatisch ein anonymes Konto an. Dein Fortschritt (Statistiken, Erfolge, gelöste Aufgaben, Missionen, Münzen und Gegenstände, Einstellungen und eine unvollendete Partie) wird mit diesem Konto auf unserem Server gespeichert, damit nichts verloren geht. Die Anmeldung mit Apple ist freiwillig; Apple teilt eine Kennung und, wenn du zustimmst, eine E-Mail-Adresse (ggf. eine private Weiterleitungsadresse), die nur dazu dient, dein Konto auf deinen Geräten zu erkennen."
+   ],
+   [
+    "Online-Spiel und Ranglisten",
+    "Wenn du online spielst, werden dein Spitzname, Land, Avatar und deine Wertung sowie Züge und Ergebnisse deiner Partien auf unserem Server gespeichert und deinen Gegnern und in den Ranglisten angezeigt. Du kannst andere Spieler in der App melden oder blockieren; Meldungen (gemeldeter Spieler, Grund und Zeitpunkt) werden aufbewahrt, um regelwidrige Spitznamen zu prüfen."
+   ],
+   [
+    "Käufe und Abos",
+    "Käufe (Werbung entfernen, Themenpaket, Tipp- und Rückgängig-Pakete) und das Premium-Abo rechnet Apple ab. Wir erhalten keine Zahlungsdaten; wir speichern Transaktions-ID, Produkt und Abostatus, um Käufe freizuschalten und wiederherzustellen."
+   ],
+   [
+    "Mitteilungen",
+    "Nur wenn du Mitteilungen aktivierst, wird ein Push-Token (Firebase Cloud Messaging) gespeichert, um dir mitzuteilen, dass du am Zug bist oder eine Partie beendet ist. Du kannst das in der App oder in den iOS-Einstellungen abschalten."
+   ],
+   [
+    "Werbung",
+    "Google AdMob zeigt nicht personalisierte Werbung. Die App verfolgt dich nicht über Apps oder Websites anderer Unternehmen hinweg und fragt nicht nach Zugriff auf die Werbe-ID. AdMob kann dennoch Geräteinformationen und einen ungefähren Standort (IP-basiert) verarbeiten, um Werbung auszuliefern, ihre Häufigkeit zu begrenzen und Betrug zu verhindern. Werbung lässt sich per In-App-Kauf entfernen."
+   ],
+   [
+    "Absturzberichte",
+    "Firebase Crashlytics erfasst Absturz- und Fehlerberichte (Gerätemodell, iOS- und App-Version, technische Protokolle und eine zufällige Installations-ID), damit wir Probleme beheben können. Sie enthalten keine Zahlungsdaten."
+   ],
+   [
+    "Dienstleister und Speicherort",
+    "Supabase (Datenbank und Anmeldung), Apple (Mit Apple anmelden und Zahlungen) und Google (AdMob-Werbung, Firebase-Mitteilungen und Absturzberichte) verarbeiten Daten nach ihren eigenen Richtlinien; ihre Server können sich außerhalb deines Landes befinden. Diese Seiten werden über GitHub Pages bereitgestellt und nutzen keine Analyse- oder Werbeskripte."
+   ],
+   [
+    "Speicherdauer und Löschung",
+    "Serverdaten werden gespeichert, solange dein Konto besteht. Löschst du dein Konto in der App oder bittest per E-Mail darum, werden sie in angemessener Frist gelöscht oder anonymisiert. Das Löschen der App entfernt nur die auf dem Gerät gespeicherten Daten."
+   ],
+   [
+    "Deine Rechte, Kinder und Änderungen",
+    "Auskunft, Berichtigung oder Löschung deiner Daten kannst du unter dhalska2@gmail.com verlangen. Die App richtet sich nicht an Kinder unter 13 Jahren, und wir erheben ihre Daten nicht wissentlich. Änderungen dieser Erklärung werden auf dieser Seite mit neuem Datum veröffentlicht."
+   ]
+  ],
+  "terms": [
+   [
+    "Leistung",
+    "Dame bietet Partien gegen den Computer, zu zweit an einem Gerät, Live- und Fernpartien online, Freundescodes, Ranglisten, Aufgaben, tägliche Missionen und Partieanalyse. Das Premium-Abo entfernt Werbung und Tageslimits und enthält alle Designs sowie unbegrenzte Tipps und Rückgängig-Züge."
+   ],
+   [
+    "Käufe und Abos",
+    "Zahlungen laufen über Apple. Abos verlängern sich automatisch, sofern sie nicht mindestens 24 Stunden vor Ende des aktuellen Zeitraums gekündigt werden; verwalten oder kündigen kannst du sie in deinen Apple-ID-Einstellungen. Erstattungen richten sich nach Apples Richtlinien. Münzen und Gegenstände haben keinen Geldwert und sind nicht umtauschbar. Es gilt zudem die Standard-EULA von Apple."
+   ],
+   [
+    "Fairplay und Verhalten",
+    "Nutze in Online-Partien keine Engines oder andere fremde Hilfe, beleidige, belästige oder imitiere niemanden, wähle keine anstößigen Spitznamen und störe die Server nicht. Bei Verstößen können wir Spitznamen ausblenden, Partien beenden oder das Online-Spiel einschränken."
+   ],
+   [
+    "Änderungen und Haftung",
+    "Der Dienst wird so bereitgestellt, wie er ist. Funktionen können sich ändern oder eingestellt werden, und diese Bedingungen können auf dieser Seite aktualisiert werden."
+   ]
+  ],
+  "support": [
+   [
+    "So wird gespielt",
+    "Wähle auf dem Startbildschirm Stufe und Regelwerk und spiele gegen den Computer, oder tippe auf Spiel starten für zwei Spieler an einem Gerät, Live- oder Fernpartien online oder eine Partie per Freundescode. Unter Lernen findest du Regeln und Anleitung; die untere Leiste führt zu Rangliste, Statistiken & Erfolgen und Shop."
+   ],
+   [
+    "Fortschritt, Käufe und Synchronisierung",
+    "Der Fortschritt wird automatisch in deinem Konto gespeichert. Mit „Käufe wiederherstellen“ im Shop holst du Käufe zurück; melde dich in den Einstellungen mit Apple an, um auf einem anderen Gerät weiterzuspielen."
+   ],
+   [
+    "Kontakt",
+    "Schreibe „Dame“ in den Betreff und nenne App-Version, Gerät und iOS-Version sowie die Schritte bis zum Problem. Bei Kaufproblemen hilft uns die Apple-Quittung, schneller zu antworten."
+   ]
+  ],
+  "delete-account": [
+   [
+    "In der App löschen",
+    "Mit Apple angemeldet: Einstellungen > Konto > Konto löschen. Fortschritt, Ranglisten, Spitzname, Kaufrechte und verbleibende bezahlte Tipps und Rückgängig-Züge werden dauerhaft gelöscht, laufende Online-Partien werden beendet. App-Store-Zahlungen werden nicht erstattet."
+   ],
+   [
+    "Anfrage per E-Mail",
+    "Ohne Apple-Anmeldung schreibe an dhalska2@gmail.com mit dem Betreff „Dame Datenlöschung“ und Angaben, die dein Konto identifizieren (z. B. Spitzname). Wir löschen die Serverdaten in angemessener Frist."
+   ],
+   [
+    "Daten auf dem Gerät",
+    "Lösche die App (nicht „App auslagern“), um die auf dem Gerät gespeicherten Daten zu entfernen."
+   ]
+  ]
+ },
+ "es": {
+  "nav": [
+   "Inicio",
+   "Política de privacidad",
+   "Términos del servicio",
+   "Ayuda y soporte",
+   "Eliminar datos"
+  ],
+  "tag": "Damas clásicas con cuatro reglas: juega, resuelve y escala.",
+  "intro": "Soporte y políticas oficiales de Damas · Next Studio",
+  "date": "Vigente / Actualizada: 2 de octubre de 2026",
+  "contact": "Contacto",
+  "skip": "Ir al contenido",
+  "features": [
+   "Cuatro reglas: americana, brasileña, rusa e internacional (10×10)",
+   "Juega contra la computadora (20 niveles) o con alguien en un mismo dispositivo",
+   "Partidas online en vivo y por turnos, códigos de amigo y clasificaciones",
+   "Problemas · misiones diarias · análisis de partidas",
+   "Suscripción Premium"
+  ],
+  "privacy": [
+   [
+    "Responsable y alcance",
+    "Esta política se aplica a la app de iOS \"Damas\" (ID de paquete com.osj.checkers), publicada por Next Studio, desarrollador individual con sede en Corea del Sur. Contacto: dhalska2@gmail.com."
+   ],
+   [
+    "Cuenta y progreso en la nube",
+    "No hace falta registrarse: la app crea automáticamente una cuenta anónima. Tu progreso (estadísticas, logros, problemas resueltos, misiones, monedas y objetos, ajustes y una partida sin terminar) se guarda en nuestro servidor con esa cuenta para que no se pierda. Iniciar sesión con Apple es opcional; Apple comparte un identificador y, si lo permites, un correo (que puede ser una dirección de reenvío privada), usado solo para reconocer tu cuenta en tus dispositivos."
+   ],
+   [
+    "Juego online y clasificaciones",
+    "Al jugar online, tu apodo, país, avatar y puntuación, así como las jugadas y resultados de tus partidas, se guardan en nuestro servidor y se muestran a tus rivales y en las clasificaciones. Puedes denunciar o bloquear a otro jugador en la app; las denuncias (jugador denunciado, motivo y hora) se conservan para revisar apodos que incumplan las normas."
+   ],
+   [
+    "Compras y suscripciones",
+    "Las compras (quitar anuncios, paquete de temas, paquetes de pistas y deshacer) y la suscripción Premium las cobra Apple. Nunca recibimos tus datos de pago; guardamos el ID de transacción, el producto y el estado de la suscripción para entregar y restaurar lo que compraste."
+   ],
+   [
+    "Notificaciones",
+    "Solo si activas las notificaciones se guarda un token push (Firebase Cloud Messaging) para avisarte cuando sea tu turno o termine una partida. Puedes desactivarlo en la app o en los Ajustes de iOS."
+   ],
+   [
+    "Anuncios",
+    "Google AdMob muestra anuncios no personalizados. La app no te rastrea en apps o webs de otras empresas ni solicita acceso al identificador de publicidad. Aun así, AdMob puede procesar información del dispositivo y una ubicación aproximada (por IP) para mostrar anuncios, limitar su frecuencia y prevenir fraudes. Los anuncios se pueden quitar con una compra en la app."
+   ],
+   [
+    "Informes de fallos",
+    "Firebase Crashlytics recoge informes de fallos y errores (modelo de dispositivo, versión de iOS y de la app, registros técnicos y un ID de instalación aleatorio) para corregir problemas. No contienen datos de pago."
+   ],
+   [
+    "Proveedores y almacenamiento",
+    "Supabase (base de datos e inicio de sesión), Apple (Iniciar sesión con Apple y pagos) y Google (anuncios de AdMob, notificaciones e informes de fallos de Firebase) tratan los datos según sus propias políticas; sus servidores pueden estar fuera de tu país. Estas páginas se alojan en GitHub Pages y no usan scripts de analítica ni de publicidad."
+   ],
+   [
+    "Conservación y eliminación",
+    "Los datos del servidor se conservan mientras exista tu cuenta. Si eliminas la cuenta en la app o lo pides por correo, se eliminan o anonimizan en un plazo razonable. Borrar la app solo elimina los datos guardados en el dispositivo."
+   ],
+   [
+    "Tus derechos, menores y cambios",
+    "Puedes solicitar el acceso, la corrección o la eliminación de tus datos en dhalska2@gmail.com. La app no está dirigida a menores de 13 años y no recopilamos sus datos a sabiendas. Los cambios en esta política se publicarán en esta página con una nueva fecha."
+   ]
+  ],
+  "terms": [
+   [
+    "Servicio",
+    "Damas ofrece partidas contra la computadora, dos jugadores en un dispositivo, juego online en vivo y por turnos, códigos de amigo, clasificaciones, problemas, misiones diarias y análisis de partidas. La suscripción Premium quita los anuncios y los límites diarios e incluye todas las apariencias y pistas y deshacer ilimitados."
+   ],
+   [
+    "Compras y suscripciones",
+    "Los pagos se realizan a través de Apple. Las suscripciones se renuevan automáticamente salvo que se cancelen al menos 24 horas antes del fin del periodo actual; puedes gestionarlas o cancelarlas en los ajustes de tu ID de Apple. Los reembolsos siguen las políticas de Apple. Las monedas y objetos no tienen valor monetario ni se pueden canjear. También se aplica el EULA estándar de Apple."
+   ],
+   [
+    "Juego limpio y conducta",
+    "No uses motores ni otra ayuda externa en partidas online, no insultes, acoses ni suplantes a otros, no elijas apodos ofensivos ni perturbes los servidores. Podemos ocultar apodos, terminar partidas o restringir el juego online a quienes incumplan estas normas."
+   ],
+   [
+    "Cambios y responsabilidad",
+    "El servicio se ofrece tal cual. Las funciones pueden cambiar o terminar, y estos términos pueden actualizarse en esta página."
+   ]
+  ],
+  "support": [
+   [
+    "Cómo jugar",
+    "En la pantalla de inicio, elige el nivel y la regla y juega contra la computadora, o toca Empezar partida para dos jugadores en un dispositivo, juego online en vivo o por turnos, o una partida con código de amigo. En Aprender están las reglas y cómo jugar; la barra inferior lleva a Clasificación, Estadísticas y logros y Tienda."
+   ],
+   [
+    "Progreso, compras y sincronización",
+    "El progreso se guarda automáticamente en tu cuenta. Usa Restaurar compras en la Tienda para recuperar tus compras e inicia sesión con Apple en Ajustes para seguir en otro dispositivo."
+   ],
+   [
+    "Contacto",
+    "Pon \"Damas\" en el asunto del correo e indica la versión de la app, tu dispositivo y versión de iOS, y los pasos que llevaron al problema. Para problemas de compra, el recibo de Apple nos ayuda a responder antes."
+   ]
+  ],
+  "delete-account": [
+   [
+    "Eliminar en la app",
+    "Con sesión iniciada con Apple: Ajustes > Cuenta > Eliminar cuenta. Se eliminan de forma permanente tu progreso, clasificaciones, apodo, derechos de compra y las pistas y deshacer de pago restantes, y terminan tus partidas online en curso. Los pagos del App Store no se reembolsan."
+   ],
+   [
+    "Solicitud por correo",
+    "Sin iniciar sesión con Apple, escribe a dhalska2@gmail.com con el asunto \"Eliminación de datos de Damas\" y datos que identifiquen tu cuenta (por ejemplo, tu apodo). Eliminaremos los datos del servidor en un plazo razonable."
+   ],
+   [
+    "Datos del dispositivo",
+    "Elimina la app (no \"Descargar app\") para borrar los datos guardados en el dispositivo."
+   ]
+  ]
+ },
+ "fr": {
+  "nav": [
+   "Accueil",
+   "Politique de confidentialité",
+   "Conditions d'utilisation",
+   "Aide et assistance",
+   "Supprimer les données"
+  ],
+  "tag": "Les dames classiques en quatre règles : jouez, résolvez, progressez.",
+  "intro": "Assistance et politiques officielles de Dames · Next Studio",
+  "date": "En vigueur / mise à jour : 2 octobre 2026",
+  "contact": "Contact",
+  "skip": "Aller au contenu",
+  "features": [
+   "Quatre règles : américaine, brésilienne, russe et internationale (10×10)",
+   "Jouez contre l'ordinateur (20 niveaux) ou à deux sur un appareil",
+   "Parties en ligne en direct et différées, codes ami et classements",
+   "Problèmes · missions quotidiennes · analyse de parties",
+   "Abonnement Premium"
+  ],
+  "privacy": [
+   [
+    "Éditeur et champ d’application",
+    "Cette politique s’applique à l’app iOS « Dames » (identifiant com.osj.checkers), publiée par Next Studio, développeur individuel basé en Corée du Sud. Contact : dhalska2@gmail.com."
+   ],
+   [
+    "Compte et progression dans le cloud",
+    "Aucune inscription n’est nécessaire : l’app crée automatiquement un compte anonyme. Votre progression (statistiques, succès, problèmes résolus, missions, pièces et objets, réglages et une partie inachevée) est enregistrée sur notre serveur avec ce compte pour ne pas être perdue. La connexion avec Apple est facultative ; Apple partage un identifiant et, si vous l’autorisez, une adresse e-mail (éventuellement un relais privé), utilisée uniquement pour reconnaître votre compte sur vos appareils."
+   ],
+   [
+    "Jeu en ligne et classements",
+    "Lorsque vous jouez en ligne, votre pseudo, votre pays, votre avatar et votre classement, ainsi que les coups et résultats de vos parties, sont enregistrés sur notre serveur et montrés à vos adversaires et dans les classements. Vous pouvez signaler ou bloquer un joueur dans l’app ; les signalements (joueur signalé, motif et heure) sont conservés pour examiner les pseudos qui enfreignent les règles."
+   ],
+   [
+    "Achats et abonnements",
+    "Les achats (suppression des pubs, pack de thèmes, packs d’indices et d’annulations) et l’abonnement Premium sont facturés par Apple. Nous ne recevons jamais vos données de paiement ; nous conservons l’identifiant de transaction, le produit et l’état de l’abonnement pour attribuer et restaurer vos achats."
+   ],
+   [
+    "Notifications",
+    "Uniquement si vous activez les notifications, un jeton push (Firebase Cloud Messaging) est enregistré pour vous prévenir quand c’est votre tour ou qu’une partie est terminée. Vous pouvez le désactiver dans l’app ou dans les Réglages iOS."
+   ],
+   [
+    "Publicités",
+    "Google AdMob affiche des publicités non personnalisées. L’app ne vous suit pas à travers les apps ou sites d’autres entreprises et ne demande pas l’accès à l’identifiant publicitaire. AdMob peut toutefois traiter des informations sur l’appareil et une position approximative (via l’IP) pour diffuser les publicités, limiter leur fréquence et prévenir la fraude. Les publicités peuvent être supprimées par un achat intégré."
+   ],
+   [
+    "Rapports de plantage",
+    "Firebase Crashlytics collecte des rapports de plantage et d’erreur (modèle d’appareil, versions d’iOS et de l’app, journaux techniques et un identifiant d’installation aléatoire) afin de corriger les problèmes. Ils ne contiennent aucune donnée de paiement."
+   ],
+   [
+    "Prestataires et stockage",
+    "Supabase (base de données et connexion), Apple (Connexion avec Apple et paiements) et Google (publicités AdMob, notifications et rapports de plantage Firebase) traitent les données selon leurs propres politiques ; leurs serveurs peuvent se trouver hors de votre pays. Ces pages sont hébergées sur GitHub Pages et n’utilisent aucun script d’analyse ou de publicité."
+   ],
+   [
+    "Conservation et suppression",
+    "Les données du serveur sont conservées tant que votre compte existe. Si vous supprimez votre compte dans l’app ou en faites la demande par e-mail, elles sont supprimées ou anonymisées dans un délai raisonnable. Supprimer l’app n’efface que les données stockées sur l’appareil."
+   ],
+   [
+    "Vos droits, enfants et modifications",
+    "Vous pouvez demander l’accès, la rectification ou la suppression de vos données à dhalska2@gmail.com. L’app ne s’adresse pas aux enfants de moins de 13 ans et nous ne collectons pas sciemment leurs données. Toute modification de cette politique sera publiée sur cette page avec une nouvelle date."
+   ]
+  ],
+  "terms": [
+   [
+    "Service",
+    "Dames propose des parties contre l’ordinateur, à deux sur un appareil, en ligne en direct et différées, des codes ami, des classements, des problèmes, des missions quotidiennes et l’analyse de parties. L’abonnement Premium supprime les publicités et les limites quotidiennes et inclut tous les skins ainsi que des indices et annulations illimités."
+   ],
+   [
+    "Achats et abonnements",
+    "Les paiements passent par Apple. Les abonnements se renouvellent automatiquement sauf résiliation au moins 24 heures avant la fin de la période en cours ; gérez-les ou résiliez-les dans les réglages de votre identifiant Apple. Les remboursements suivent les règles d’Apple. Les pièces et objets n’ont aucune valeur monétaire et ne peuvent pas être échangés. Le CLUF standard d’Apple s’applique également."
+   ],
+   [
+    "Fair-play et conduite",
+    "N’utilisez pas de moteur ni d’aide extérieure en ligne, n’insultez, ne harcelez ni n’usurpez l’identité de personne, ne choisissez pas de pseudo offensant et ne perturbez pas les serveurs. Nous pouvons masquer des pseudos, mettre fin à des parties ou restreindre le jeu en ligne des joueurs qui enfreignent ces règles."
+   ],
+   [
+    "Modifications et responsabilité",
+    "Le service est fourni en l’état. Les fonctionnalités peuvent évoluer ou prendre fin, et ces conditions peuvent être mises à jour sur cette page."
+   ]
+  ],
+  "support": [
+   [
+    "Comment jouer",
+    "Sur l’écran d’accueil, choisissez le niveau et la règle et jouez contre l’ordinateur, ou touchez Commencer une partie pour jouer à deux sur un appareil, en ligne en direct ou en différé, ou avec un code ami. Apprendre contient les règles et le guide ; la barre du bas mène au Classement, aux Statistiques et succès et à la Boutique."
+   ],
+   [
+    "Progression, achats et synchronisation",
+    "La progression est enregistrée automatiquement sur votre compte. Utilisez Restaurer les achats dans la Boutique pour récupérer vos achats et connectez-vous avec Apple dans les Réglages pour continuer sur un autre appareil."
+   ],
+   [
+    "Nous contacter",
+    "Indiquez « Dames » dans l’objet de l’e-mail ainsi que la version de l’app, votre appareil et votre version d’iOS, et les étapes ayant mené au problème. Pour un problème d’achat, le reçu Apple nous aide à répondre plus vite."
+   ]
+  ],
+  "delete-account": [
+   [
+    "Supprimer dans l’app",
+    "Connecté avec Apple : Réglages > Compte > Supprimer le compte. Votre progression, vos classements, votre pseudo, vos droits d’achat et les indices et annulations payants restants sont supprimés définitivement, et vos parties en ligne en cours prennent fin. Les paiements App Store ne sont pas remboursés."
+   ],
+   [
+    "Demande par e-mail",
+    "Sans connexion Apple, écrivez à dhalska2@gmail.com avec l’objet « Suppression des données Dames » et des informations permettant d’identifier votre compte (par exemple votre pseudo). Nous supprimons les données du serveur dans un délai raisonnable."
+   ],
+   [
+    "Données sur l’appareil",
+    "Supprimez l’app (et non « Décharger l’app ») pour effacer les données stockées sur l’appareil."
+   ]
+  ]
+ },
+ "hi": {
+  "nav": [
+   "होम",
+   "गोपनीयता नीति",
+   "सेवा की शर्तें",
+   "सहायता",
+   "डेटा हटाएँ"
+  ],
+  "tag": "चार नियमों वाला क्लासिक चेकर्स — खेलें, हल करें, आगे बढ़ें।",
+  "intro": "चेकर्स की आधिकारिक सहायता और नीतियाँ · Next Studio",
+  "date": "लागू / अपडेट: 2 अक्टूबर 2026",
+  "contact": "संपर्क",
+  "skip": "मुख्य सामग्री पर जाएँ",
+  "features": [
+   "चार नियम: अमेरिकी, ब्राज़ीली, रूसी और अंतरराष्ट्रीय (10×10)",
+   "कंप्यूटर से खेलें (20 स्तर) या एक ही डिवाइस पर दो लोग",
+   "लाइव और असिंक्रोनस ऑनलाइन मैच, दोस्त कोड और रैंकिंग",
+   "पहेलियाँ · दैनिक मिशन · मैच विश्लेषण",
+   "प्रीमियम सदस्यता"
+  ],
+  "privacy": [
+   [
+    "संचालक और दायरा",
+    "यह नीति iOS ऐप \"चेकर्स\" (बंडल ID com.osj.checkers) पर लागू होती है, जिसे दक्षिण कोरिया स्थित एकल डेवलपर Next Studio प्रकाशित करता है। संपर्क: dhalska2@gmail.com।"
+   ],
+   [
+    "खाता और क्लाउड प्रगति",
+    "साइन अप की ज़रूरत नहीं: ऐप अपने आप एक गुमनाम खाता बनाता है। आपकी प्रगति (आँकड़े, उपलब्धियाँ, हल की गई पहेलियाँ, मिशन, सिक्के और आइटम, सेटिंग्स और अधूरा मैच) उसी खाते के साथ हमारे सर्वर पर सहेजी जाती है ताकि खो न जाए। Apple से साइन इन वैकल्पिक है; Apple एक पहचानकर्ता और, आपकी अनुमति हो तो, ईमेल पता (जो निजी रिले पता हो सकता है) साझा करता है, जिसका उपयोग केवल आपके डिवाइसों पर खाते को पहचानने के लिए होता है।"
+   ],
+   [
+    "ऑनलाइन खेल और रैंकिंग",
+    "ऑनलाइन खेलने पर आपका उपनाम, देश, अवतार और रेटिंग तथा मैचों की चालें और परिणाम हमारे सर्वर पर सहेजे जाते हैं और विरोधियों व रैंकिंग में दिखते हैं। आप ऐप में किसी खिलाड़ी की रिपोर्ट कर सकते हैं या उसे ब्लॉक कर सकते हैं; रिपोर्ट (रिपोर्ट किया गया खिलाड़ी, कारण और समय) नियम तोड़ने वाले उपनामों की समीक्षा के लिए रखी जाती हैं।"
+   ],
+   [
+    "खरीदारी और सदस्यता",
+    "खरीदारी (विज्ञापन हटाना, थीम पैक, संकेत और पूर्ववत पैक) और प्रीमियम सदस्यता का भुगतान Apple लेता है। हमें आपकी भुगतान जानकारी कभी नहीं मिलती; खरीदी गई चीज़ें देने और बहाल करने के लिए हम लेनदेन ID, उत्पाद और सदस्यता की स्थिति सहेजते हैं।"
+   ],
+   [
+    "सूचनाएँ",
+    "केवल सूचनाएँ चालू करने पर ही पुश टोकन (Firebase Cloud Messaging) सहेजा जाता है, ताकि आपकी बारी आने या मैच खत्म होने पर बताया जा सके। इसे ऐप या iOS सेटिंग्स में बंद किया जा सकता है।"
+   ],
+   [
+    "विज्ञापन",
+    "Google AdMob गैर-वैयक्तिकृत विज्ञापन दिखाता है। ऐप अन्य कंपनियों के ऐप या वेबसाइटों पर आपको ट्रैक नहीं करता और विज्ञापन पहचानकर्ता तक पहुँच नहीं माँगता। फिर भी AdMob विज्ञापन दिखाने, उनकी आवृत्ति सीमित करने और धोखाधड़ी रोकने के लिए डिवाइस जानकारी और अनुमानित स्थान (IP आधारित) संसाधित कर सकता है। विज्ञापन इन-ऐप खरीदारी से हटाए जा सकते हैं।"
+   ],
+   [
+    "क्रैश रिपोर्ट",
+    "समस्याएँ ठीक करने के लिए Firebase Crashlytics क्रैश और त्रुटि रिपोर्ट (डिवाइस मॉडल, iOS और ऐप संस्करण, तकनीकी लॉग और एक यादृच्छिक इंस्टॉलेशन ID) एकत्र करता है। इनमें भुगतान जानकारी नहीं होती।"
+   ],
+   [
+    "सेवा प्रदाता और भंडारण",
+    "Supabase (डेटाबेस और साइन इन), Apple (Apple से साइन इन और भुगतान) और Google (AdMob विज्ञापन, Firebase सूचनाएँ और क्रैश रिपोर्ट) अपनी-अपनी नीतियों के अनुसार डेटा संसाधित करते हैं; उनके सर्वर आपके देश से बाहर हो सकते हैं। ये पेज GitHub Pages पर होस्ट हैं और कोई एनालिटिक्स या विज्ञापन स्क्रिप्ट उपयोग नहीं करते।"
+   ],
+   [
+    "संग्रहण और हटाना",
+    "सर्वर डेटा तब तक रखा जाता है जब तक आपका खाता मौजूद है। ऐप में खाता हटाने या ईमेल से अनुरोध करने पर उचित समय में उसे हटा दिया या गुमनाम कर दिया जाता है। ऐप हटाने से केवल डिवाइस पर सहेजा डेटा हटता है।"
+   ],
+   [
+    "आपके अधिकार, बच्चे और बदलाव",
+    "आप dhalska2@gmail.com पर अपने डेटा तक पहुँच, सुधार या हटाने का अनुरोध कर सकते हैं। यह ऐप 13 वर्ष से कम उम्र के बच्चों के लिए नहीं है और हम जानबूझकर उनका डेटा एकत्र नहीं करते। इस नीति में बदलाव इसी पेज पर नई तारीख के साथ प्रकाशित होंगे।"
+   ]
+  ],
+  "terms": [
+   [
+    "सेवा",
+    "चेकर्स कंप्यूटर से खेल, एक डिवाइस पर दो खिलाड़ी, लाइव और असिंक्रोनस ऑनलाइन खेल, दोस्त कोड, रैंकिंग, पहेलियाँ, दैनिक मिशन और मैच विश्लेषण देता है। प्रीमियम सदस्यता विज्ञापन और दैनिक सीमाएँ हटाती है और सभी स्किन तथा असीमित संकेत और पूर्ववत शामिल करती है।"
+   ],
+   [
+    "खरीदारी और सदस्यता",
+    "भुगतान Apple के माध्यम से होता है। सदस्यता अपने आप नवीनीकृत होती है, जब तक मौजूदा अवधि खत्म होने से कम से कम 24 घंटे पहले रद्द न की जाए; इसे Apple ID सेटिंग्स में प्रबंधित या रद्द करें। रिफ़ंड Apple की नीतियों के अनुसार होते हैं। सिक्कों और आइटम का कोई नकद मूल्य नहीं है और इन्हें बदला नहीं जा सकता। Apple का मानक EULA भी लागू होता है।"
+   ],
+   [
+    "निष्पक्ष खेल और आचरण",
+    "ऑनलाइन मैचों में इंजन या कोई बाहरी मदद न लें, किसी का अपमान, उत्पीड़न या प्रतिरूपण न करें, आपत्तिजनक उपनाम न चुनें और सर्वर में बाधा न डालें। नियम तोड़ने वाले खिलाड़ियों के उपनाम छिपाए जा सकते हैं, मैच समाप्त किए जा सकते हैं या ऑनलाइन खेल सीमित किया जा सकता है।"
+   ],
+   [
+    "बदलाव और दायित्व",
+    "सेवा जैसी है वैसी प्रदान की जाती है। सुविधाएँ बदल या बंद हो सकती हैं, और ये शर्तें इस पेज पर अपडेट हो सकती हैं।"
+   ]
+  ],
+  "support": [
+   [
+    "कैसे खेलें",
+    "होम स्क्रीन पर स्तर और नियम चुनकर कंप्यूटर से खेलें, या गेम शुरू करें पर टैप करके एक डिवाइस पर दो खिलाड़ी, लाइव या असिंक्रोनस ऑनलाइन खेल या दोस्त कोड वाला मैच चुनें। सीखें में नियम और खेलने का तरीका है; नीचे की पट्टी रैंकिंग, आँकड़े और उपलब्धियाँ तथा दुकान तक ले जाती है।"
+   ],
+   [
+    "प्रगति, खरीदारी और सिंक",
+    "प्रगति आपके खाते में अपने आप सहेजी जाती है। दुकान में खरीदारी बहाल करें से अपनी खरीदारी वापस पाएँ और दूसरे डिवाइस पर जारी रखने के लिए सेटिंग्स में Apple से साइन इन करें।"
+   ],
+   [
+    "हमसे संपर्क",
+    "ईमेल के विषय में \"चेकर्स\" लिखें और ऐप संस्करण, डिवाइस और iOS संस्करण तथा समस्या तक पहुँचने के चरण बताएँ। खरीदारी की समस्या में Apple रसीद से हम जल्दी जवाब दे पाते हैं।"
+   ]
+  ],
+  "delete-account": [
+   [
+    "ऐप में हटाएँ",
+    "Apple से साइन इन होने पर: सेटिंग्स > खाता > खाता हटाएँ। आपकी प्रगति, रैंकिंग, उपनाम, खरीद अधिकार और बचे हुए सशुल्क संकेत और पूर्ववत स्थायी रूप से हट जाते हैं और चल रहे ऑनलाइन मैच समाप्त हो जाते हैं। App Store भुगतान वापस नहीं होते।"
+   ],
+   [
+    "ईमेल से अनुरोध",
+    "Apple साइन इन के बिना, विषय \"चेकर्स डेटा हटाना\" के साथ dhalska2@gmail.com पर अपने खाते की पहचान वाली जानकारी (जैसे उपनाम) भेजें। हम उचित समय में सर्वर डेटा हटा देंगे।"
+   ],
+   [
+    "डिवाइस का डेटा",
+    "डिवाइस पर सहेजा डेटा हटाने के लिए ऐप हटाएँ (\"ऐप ऑफ़लोड करें\" नहीं)।"
+   ]
+  ]
+ },
+ "id": {
+  "nav": [
+   "Beranda",
+   "Kebijakan Privasi",
+   "Ketentuan Layanan",
+   "Bantuan & Dukungan",
+   "Hapus Data"
+  ],
+  "tag": "Dam klasik dengan empat aturan — bermain, memecahkan, dan naik peringkat.",
+  "intro": "Dukungan & kebijakan resmi Dam · Next Studio",
+  "date": "Berlaku / diperbarui: 2 Oktober 2026",
+  "contact": "Kontak",
+  "skip": "Langsung ke konten",
+  "features": [
+   "Empat aturan: Amerika, Brasil, Rusia, dan Internasional (10×10)",
+   "Lawan komputer (20 level) atau berdua di satu perangkat",
+   "Permainan online langsung dan bergiliran, kode teman, dan peringkat",
+   "Teka-teki · misi harian · analisis permainan",
+   "Langganan Premium"
+  ],
+  "privacy": [
+   [
+    "Pengelola dan cakupan",
+    "Kebijakan ini berlaku untuk aplikasi iOS \"Dam\" (bundle ID com.osj.checkers) yang diterbitkan oleh Next Studio, pengembang perorangan di Korea Selatan. Kontak: dhalska2@gmail.com."
+   ],
+   [
+    "Akun dan progres cloud",
+    "Tidak perlu mendaftar: aplikasi otomatis membuat akun anonim. Progres kamu (statistik, pencapaian, teka-teki yang dipecahkan, misi, koin dan item, pengaturan, serta permainan yang belum selesai) disimpan di server kami dengan akun itu agar tidak hilang. Masuk dengan Apple bersifat opsional; Apple membagikan pengenal dan, jika kamu izinkan, alamat email (bisa berupa alamat relai pribadi), yang hanya dipakai untuk mengenali akunmu di perangkatmu."
+   ],
+   [
+    "Permainan online dan peringkat",
+    "Saat bermain online, nama panggilan, negara, avatar, dan rating kamu, serta langkah dan hasil permainan, disimpan di server kami dan ditampilkan kepada lawan dan di peringkat. Kamu bisa melaporkan atau memblokir pemain lain di aplikasi; laporan (pemain yang dilaporkan, alasan, dan waktu) disimpan untuk meninjau nama panggilan yang melanggar aturan."
+   ],
+   [
+    "Pembelian dan langganan",
+    "Pembelian (hapus iklan, paket tema, paket petunjuk dan urungkan) dan langganan Premium ditagih oleh Apple. Kami tidak pernah menerima data pembayaranmu; kami menyimpan ID transaksi, produk, dan status langganan untuk memberikan dan memulihkan pembelianmu."
+   ],
+   [
+    "Notifikasi",
+    "Hanya jika kamu menyalakan notifikasi, token push (Firebase Cloud Messaging) disimpan untuk memberi tahu saat giliranmu atau permainan selesai. Kamu bisa mematikannya di aplikasi atau Pengaturan iOS."
+   ],
+   [
+    "Iklan",
+    "Google AdMob menampilkan iklan yang tidak dipersonalisasi. Aplikasi tidak melacakmu di aplikasi atau situs perusahaan lain dan tidak meminta akses ke pengenal iklan. Namun AdMob dapat memproses informasi perangkat dan perkiraan lokasi (berbasis IP) untuk menayangkan iklan, membatasi frekuensinya, dan mencegah penipuan. Iklan dapat dihapus dengan pembelian dalam aplikasi."
+   ],
+   [
+    "Laporan kerusakan",
+    "Firebase Crashlytics mengumpulkan laporan kerusakan dan kesalahan (model perangkat, versi iOS dan aplikasi, log teknis, serta ID instalasi acak) agar kami bisa memperbaiki masalah. Laporan ini tidak berisi data pembayaran."
+   ],
+   [
+    "Penyedia layanan dan penyimpanan",
+    "Supabase (basis data dan masuk), Apple (Masuk dengan Apple dan pembayaran), dan Google (iklan AdMob, notifikasi dan laporan kerusakan Firebase) memproses data sesuai kebijakan masing-masing; servernya bisa berada di luar negaramu. Halaman ini di-host di GitHub Pages dan tidak memakai skrip analitik atau iklan."
+   ],
+   [
+    "Penyimpanan dan penghapusan",
+    "Data server disimpan selama akunmu ada. Jika kamu menghapus akun di aplikasi atau memintanya lewat email, data dihapus atau dianonimkan dalam waktu yang wajar. Menghapus aplikasi hanya menghapus data di perangkat."
+   ],
+   [
+    "Hakmu, anak-anak, dan perubahan",
+    "Kamu dapat meminta akses, koreksi, atau penghapusan datamu di dhalska2@gmail.com. Aplikasi ini tidak ditujukan untuk anak di bawah 13 tahun, dan kami tidak dengan sengaja mengumpulkan data mereka. Perubahan kebijakan ini akan diumumkan di halaman ini dengan tanggal baru."
+   ]
+  ],
+  "terms": [
+   [
+    "Layanan",
+    "Dam menyediakan permainan melawan komputer, dua pemain di satu perangkat, permainan online langsung dan bergiliran, kode teman, peringkat, teka-teki, misi harian, dan analisis permainan. Langganan Premium menghapus iklan dan batas harian serta mencakup semua skin dan petunjuk serta urungkan tanpa batas."
+   ],
+   [
+    "Pembelian dan langganan",
+    "Pembayaran dilakukan melalui Apple. Langganan diperpanjang otomatis kecuali dibatalkan setidaknya 24 jam sebelum akhir periode berjalan; kelola atau batalkan di pengaturan ID Apple. Pengembalian dana mengikuti kebijakan Apple. Koin dan item tidak memiliki nilai uang dan tidak dapat ditukar. EULA standar Apple juga berlaku."
+   ],
+   [
+    "Fair play dan perilaku",
+    "Jangan memakai mesin atau bantuan luar lain dalam permainan online, menghina, melecehkan, atau menyamar sebagai orang lain, memakai nama panggilan yang menyinggung, atau mengganggu server. Kami dapat menyembunyikan nama panggilan, mengakhiri permainan, atau membatasi permainan online bagi pemain yang melanggar."
+   ],
+   [
+    "Perubahan dan tanggung jawab",
+    "Layanan disediakan apa adanya. Fitur dapat berubah atau dihentikan, dan ketentuan ini dapat diperbarui di halaman ini."
+   ]
+  ],
+  "support": [
+   [
+    "Cara bermain",
+    "Di layar beranda, atur level dan aturan lalu lawan komputer, atau ketuk Mulai permainan untuk dua pemain di satu perangkat, permainan online langsung atau bergiliran, atau permainan dengan kode teman. Belajar berisi aturan dan cara bermain; bilah bawah menuju Peringkat, Statistik & Pencapaian, dan Toko."
+   ],
+   [
+    "Progres, pembelian, dan sinkronisasi",
+    "Progres disimpan otomatis ke akunmu. Gunakan Pulihkan Pembelian di Toko untuk mendapatkan kembali pembelianmu, dan masuk dengan Apple di Pengaturan untuk melanjutkan di perangkat lain."
+   ],
+   [
+    "Menghubungi kami",
+    "Tulis \"Dam\" di subjek email dan sebutkan versi aplikasi, perangkat dan versi iOS, serta langkah yang menyebabkan masalah. Untuk masalah pembelian, struk Apple membantu kami menjawab lebih cepat."
+   ]
+  ],
+  "delete-account": [
+   [
+    "Hapus di aplikasi",
+    "Jika masuk dengan Apple: Pengaturan > Akun > Hapus akun. Progres, peringkat, nama panggilan, hak pembelian, serta sisa petunjuk dan urungkan berbayar dihapus permanen, dan permainan online yang sedang berjalan diakhiri. Pembayaran App Store tidak dikembalikan."
+   ],
+   [
+    "Permintaan lewat email",
+    "Tanpa masuk dengan Apple, kirim email ke dhalska2@gmail.com dengan subjek \"Penghapusan Data Dam\" dan informasi yang mengidentifikasi akunmu (misalnya nama panggilan). Kami menghapus data server dalam waktu yang wajar."
+   ],
+   [
+    "Data di perangkat",
+    "Hapus aplikasi (bukan \"Pindahkan Aplikasi\") untuk menghapus data yang tersimpan di perangkat."
+   ]
+  ]
+ },
+ "pt": {
+  "nav": [
+   "Início",
+   "Política de Privacidade",
+   "Termos de Serviço",
+   "Ajuda e suporte",
+   "Excluir dados"
+  ],
+  "tag": "Damas clássicas em quatro regras: jogue, resolva e suba.",
+  "intro": "Suporte e políticas oficiais de Damas · Next Studio",
+  "date": "Em vigor / atualizada em: 2 de outubro de 2026",
+  "contact": "Contato",
+  "skip": "Ir para o conteúdo",
+  "features": [
+   "Quatro regras: americana, brasileira, russa e internacional (10×10)",
+   "Jogue contra o computador (20 níveis) ou a dois no mesmo aparelho",
+   "Partidas online ao vivo e por turnos, códigos de amigo e rankings",
+   "Problemas · missões diárias · análise de partidas",
+   "Assinatura Premium"
+  ],
+  "privacy": [
+   [
+    "Responsável e escopo",
+    "Esta política se aplica ao app para iOS \"Damas\" (ID do pacote com.osj.checkers), publicado pela Next Studio, desenvolvedor individual sediado na Coreia do Sul. Contato: dhalska2@gmail.com."
+   ],
+   [
+    "Conta e progresso na nuvem",
+    "Não é preciso cadastro: o app cria automaticamente uma conta anônima. Seu progresso (estatísticas, conquistas, problemas resolvidos, missões, moedas e itens, configurações e uma partida não terminada) é salvo no nosso servidor com essa conta para não se perder. Entrar com a Apple é opcional; a Apple compartilha um identificador e, se você permitir, um e-mail (que pode ser um endereço de retransmissão privado), usado só para reconhecer sua conta nos seus aparelhos."
+   ],
+   [
+    "Jogo online e rankings",
+    "Ao jogar online, seu apelido, país, avatar e pontuação, além dos lances e resultados das partidas, são salvos no nosso servidor e mostrados aos adversários e nos rankings. Você pode denunciar ou bloquear outro jogador no app; as denúncias (jogador denunciado, motivo e horário) são guardadas para revisar apelidos que violem as regras."
+   ],
+   [
+    "Compras e assinaturas",
+    "As compras (remover anúncios, pacote de temas, pacotes de dicas e desfazer) e a assinatura Premium são cobradas pela Apple. Nunca recebemos seus dados de pagamento; guardamos o ID da transação, o produto e o status da assinatura para liberar e restaurar o que você comprou."
+   ],
+   [
+    "Notificações",
+    "Somente se você ativar as notificações um token de push (Firebase Cloud Messaging) é salvo para avisar quando for sua vez ou uma partida terminar. Você pode desativar no app ou nos Ajustes do iOS."
+   ],
+   [
+    "Anúncios",
+    "O Google AdMob exibe anúncios não personalizados. O app não rastreia você em apps ou sites de outras empresas e não pede acesso ao identificador de publicidade. Mesmo assim, o AdMob pode processar informações do aparelho e uma localização aproximada (por IP) para exibir anúncios, limitar a frequência e evitar fraudes. Os anúncios podem ser removidos com uma compra no app."
+   ],
+   [
+    "Relatórios de falhas",
+    "O Firebase Crashlytics coleta relatórios de falhas e erros (modelo do aparelho, versões do iOS e do app, registros técnicos e um ID de instalação aleatório) para corrigirmos problemas. Eles não contêm dados de pagamento."
+   ],
+   [
+    "Fornecedores e armazenamento",
+    "Supabase (banco de dados e login), Apple (Entrar com a Apple e pagamentos) e Google (anúncios AdMob, notificações e relatórios de falhas do Firebase) tratam os dados conforme suas próprias políticas; os servidores podem ficar fora do seu país. Estas páginas são hospedadas no GitHub Pages e não usam scripts de análise ou publicidade."
+   ],
+   [
+    "Retenção e exclusão",
+    "Os dados do servidor são mantidos enquanto sua conta existir. Ao excluir a conta no app ou pedir por e-mail, eles são excluídos ou anonimizados em prazo razoável. Apagar o app remove apenas os dados guardados no aparelho."
+   ],
+   [
+    "Seus direitos, crianças e alterações",
+    "Você pode pedir acesso, correção ou exclusão dos seus dados em dhalska2@gmail.com. O app não é destinado a menores de 13 anos e não coletamos conscientemente dados deles. Alterações desta política serão publicadas nesta página com nova data."
+   ]
+  ],
+  "terms": [
+   [
+    "Serviço",
+    "Damas oferece partidas contra o computador, dois jogadores no mesmo aparelho, jogo online ao vivo e por turnos, códigos de amigo, rankings, problemas, missões diárias e análise de partidas. A assinatura Premium remove anúncios e limites diários e inclui todos os visuais e dicas e desfazer ilimitados."
+   ],
+   [
+    "Compras e assinaturas",
+    "Os pagamentos são feitos pela Apple. As assinaturas são renovadas automaticamente, a menos que sejam canceladas pelo menos 24 horas antes do fim do período atual; gerencie ou cancele nos ajustes do seu ID Apple. Reembolsos seguem as políticas da Apple. Moedas e itens não têm valor em dinheiro e não podem ser trocados. O EULA padrão da Apple também se aplica."
+   ],
+   [
+    "Jogo limpo e conduta",
+    "Não use motores nem outra ajuda externa em partidas online, não insulte, assedie ou se passe por outras pessoas, não escolha apelidos ofensivos nem perturbe os servidores. Podemos ocultar apelidos, encerrar partidas ou restringir o jogo online de quem violar estas regras."
+   ],
+   [
+    "Alterações e responsabilidade",
+    "O serviço é fornecido como está. Os recursos podem mudar ou ser encerrados, e estes termos podem ser atualizados nesta página."
+   ]
+  ],
+  "support": [
+   [
+    "Como jogar",
+    "Na tela inicial, escolha o nível e a regra e jogue contra o computador, ou toque em Iniciar jogo para dois jogadores no mesmo aparelho, jogo online ao vivo ou por turnos, ou uma partida por código de amigo. Em Aprender estão as regras e como jogar; a barra inferior leva a Ranking, Estatísticas e conquistas e Loja."
+   ],
+   [
+    "Progresso, compras e sincronização",
+    "O progresso é salvo automaticamente na sua conta. Use Restaurar compras na Loja para recuperar suas compras e entre com a Apple em Ajustes para continuar em outro aparelho."
+   ],
+   [
+    "Fale conosco",
+    "Coloque \"Damas\" no assunto do e-mail e informe a versão do app, seu aparelho e versão do iOS e os passos que levaram ao problema. Para problemas de compra, o recibo da Apple nos ajuda a responder mais rápido."
+   ]
+  ],
+  "delete-account": [
+   [
+    "Excluir no app",
+    "Com login na Apple: Ajustes > Conta > Excluir conta. Seu progresso, rankings, apelido, direitos de compra e as dicas e desfazer pagos restantes são excluídos permanentemente, e suas partidas online em andamento são encerradas. Pagamentos da App Store não são reembolsados."
+   ],
+   [
+    "Pedido por e-mail",
+    "Sem login na Apple, escreva para dhalska2@gmail.com com o assunto \"Exclusão de dados de Damas\" e informações que identifiquem sua conta (por exemplo, o apelido). Excluímos os dados do servidor em prazo razoável."
+   ],
+   [
+    "Dados no aparelho",
+    "Apague o app (não \"Descarregar App\") para remover os dados guardados no aparelho."
+   ]
+  ]
+ },
+ "ru": {
+  "nav": [
+   "Главная",
+   "Политика конфиденциальности",
+   "Условия использования",
+   "Помощь и поддержка",
+   "Удаление данных"
+  ],
+  "tag": "Классические шашки по четырём правилам — играйте, решайте, растите.",
+  "intro": "Официальная поддержка и правила приложения «Шашки» · Next Studio",
+  "date": "Действует / обновлено: 2 октября 2026 г.",
+  "contact": "Контакты",
+  "skip": "Перейти к содержанию",
+  "features": [
+   "Четыре правила: американские, бразильские, русские и международные (10×10)",
+   "Игра с компьютером (20 уровней) или вдвоём на одном устройстве",
+   "Онлайн-партии вживую и заочно, коды для друзей и рейтинги",
+   "Задачи · ежедневные миссии · анализ партий",
+   "Подписка Премиум"
+  ],
+  "privacy": [
+   [
+    "Оператор и область действия",
+    "Эта политика относится к iOS-приложению «Шашки» (идентификатор com.osj.checkers), которое публикует Next Studio — индивидуальный разработчик из Южной Кореи. Контакт: dhalska2@gmail.com."
+   ],
+   [
+    "Аккаунт и облачный прогресс",
+    "Регистрация не нужна: приложение автоматически создаёт анонимный аккаунт. Ваш прогресс (статистика, достижения, решённые задачи, миссии, монеты и предметы, настройки и незавершённая партия) сохраняется на нашем сервере в этом аккаунте, чтобы не потеряться. Вход через Apple необязателен; Apple передаёт идентификатор и, если вы разрешите, адрес электронной почты (возможно, скрытый адрес-пересылку), который используется только для распознавания аккаунта на ваших устройствах."
+   ],
+   [
+    "Онлайн-игра и рейтинги",
+    "При игре онлайн ваш ник, страна, аватар и рейтинг, а также ходы и результаты партий сохраняются на нашем сервере и показываются соперникам и в рейтингах. В приложении можно пожаловаться на игрока или заблокировать его; жалобы (игрок, причина и время) хранятся для проверки ников, нарушающих правила."
+   ],
+   [
+    "Покупки и подписки",
+    "Покупки (отключение рекламы, набор тем, наборы подсказок и отмен ходов) и подписку Премиум оплачиваются через Apple. Мы никогда не получаем ваши платёжные данные; храним идентификатор транзакции, товар и статус подписки, чтобы выдать и восстановить покупки."
+   ],
+   [
+    "Уведомления",
+    "Только если вы включите уведомления, сохраняется push-токен (Firebase Cloud Messaging), чтобы сообщать, что настал ваш ход или партия завершена. Это можно отключить в приложении или в настройках iOS."
+   ],
+   [
+    "Реклама",
+    "Google AdMob показывает неперсонализированную рекламу. Приложение не отслеживает вас в приложениях и на сайтах других компаний и не запрашивает доступ к рекламному идентификатору. При этом AdMob может обрабатывать сведения об устройстве и приблизительное местоположение (по IP), чтобы показывать рекламу, ограничивать частоту показов и предотвращать мошенничество. Рекламу можно отключить встроенной покупкой."
+   ],
+   [
+    "Отчёты о сбоях",
+    "Firebase Crashlytics собирает отчёты о сбоях и ошибках (модель устройства, версии iOS и приложения, технические журналы и случайный идентификатор установки), чтобы мы могли исправлять проблемы. Платёжных данных в них нет."
+   ],
+   [
+    "Поставщики услуг и хранение",
+    "Supabase (база данных и вход), Apple (вход через Apple и платежи) и Google (реклама AdMob, уведомления и отчёты о сбоях Firebase) обрабатывают данные по своим правилам; их серверы могут находиться за пределами вашей страны. Эти страницы размещены на GitHub Pages и не используют скрипты аналитики и рекламы."
+   ],
+   [
+    "Хранение и удаление",
+    "Данные на сервере хранятся, пока существует ваш аккаунт. Если вы удалите аккаунт в приложении или попросите об этом по почте, данные будут удалены или обезличены в разумный срок. Удаление приложения стирает только данные на устройстве."
+   ],
+   [
+    "Ваши права, дети и изменения",
+    "Запросить доступ, исправление или удаление данных можно по адресу dhalska2@gmail.com. Приложение не предназначено для детей младше 13 лет, и мы сознательно не собираем их данные. Изменения политики публикуются на этой странице с новой датой."
+   ]
+  ],
+  "terms": [
+   [
+    "Сервис",
+    "«Шашки» предлагают игру с компьютером, вдвоём на одном устройстве, онлайн-партии вживую и заочно, коды для друзей, рейтинги, задачи, ежедневные миссии и анализ партий. Подписка Премиум убирает рекламу и дневные ограничения и включает все оформления, а также неограниченные подсказки и отмены ходов."
+   ],
+   [
+    "Покупки и подписки",
+    "Оплата проходит через Apple. Подписка продлевается автоматически, если её не отменить минимум за 24 часа до конца текущего периода; управлять ею и отменять можно в настройках Apple ID. Возвраты — по правилам Apple. Монеты и предметы не имеют денежной стоимости и не обмениваются. Также действует стандартное лицензионное соглашение Apple (EULA)."
+   ],
+   [
+    "Честная игра и поведение",
+    "Не используйте движки и другую постороннюю помощь в онлайн-партиях, не оскорбляйте, не преследуйте и не выдавайте себя за других, не выбирайте оскорбительные ники и не мешайте работе серверов. Нарушителям мы можем скрыть ник, завершить партию или ограничить онлайн-игру."
+   ],
+   [
+    "Изменения и ответственность",
+    "Сервис предоставляется «как есть». Функции могут меняться или прекращаться, а эти условия — обновляться на этой странице."
+   ]
+  ],
+  "support": [
+   [
+    "Как играть",
+    "На главном экране выберите уровень и правила и играйте с компьютером или нажмите «Начать игру», чтобы играть вдвоём на одном устройстве, онлайн вживую или заочно, или по коду с другом. В разделе «Обучение» — правила и инструкция; нижняя панель ведёт в рейтинг, статистику и достижения и магазин."
+   ],
+   [
+    "Прогресс, покупки и синхронизация",
+    "Прогресс автоматически сохраняется в аккаунте. Кнопка «Восстановить покупки» в магазине вернёт покупки, а вход через Apple в настройках позволит продолжить на другом устройстве."
+   ],
+   [
+    "Связь с нами",
+    "Укажите «Шашки» в теме письма, а также версию приложения, устройство и версию iOS и шаги, которые привели к проблеме. При проблемах с покупкой чек Apple поможет ответить быстрее."
+   ]
+  ],
+  "delete-account": [
+   [
+    "Удаление в приложении",
+    "При входе через Apple: Настройки > Аккаунт > Удалить аккаунт. Прогресс, рейтинги, ник, права на покупки и оставшиеся платные подсказки и отмены удаляются навсегда, а текущие онлайн-партии завершаются. Платежи App Store не возвращаются."
+   ],
+   [
+    "Запрос по почте",
+    "Без входа через Apple напишите на dhalska2@gmail.com с темой «Удаление данных Шашки» и сведениями, по которым можно определить аккаунт (например, ник). Мы удалим данные с сервера в разумный срок."
+   ],
+   [
+    "Данные на устройстве",
+    "Чтобы стереть данные на устройстве, удалите приложение (не «Сгрузить приложение»)."
+   ]
+  ]
+ },
+ "tr": {
+  "nav": [
+   "Ana sayfa",
+   "Gizlilik Politikası",
+   "Hizmet Şartları",
+   "Yardım ve Destek",
+   "Verileri Sil"
+  ],
+  "tag": "Dört kurallı klasik dama — oyna, çöz, yüksel.",
+  "intro": "Dama resmî destek ve politikaları · Next Studio",
+  "date": "Yürürlük / güncelleme: 2 Ekim 2026",
+  "contact": "İletişim",
+  "skip": "İçeriğe geç",
+  "features": [
+   "Dört kural: Amerikan, Brezilya, Rus ve Uluslararası (10×10)",
+   "Bilgisayara karşı (20 seviye) veya tek cihazda iki kişi",
+   "Canlı ve sıra tabanlı çevrimiçi maçlar, arkadaş kodları ve sıralamalar",
+   "Bulmacalar · günlük görevler · maç analizi",
+   "Premium abonelik"
+  ],
+  "privacy": [
+   [
+    "İşletmeci ve kapsam",
+    "Bu politika, Güney Kore merkezli bireysel geliştirici Next Studio tarafından yayımlanan iOS uygulaması \"Dama\" (paket kimliği com.osj.checkers) için geçerlidir. İletişim: dhalska2@gmail.com."
+   ],
+   [
+    "Hesap ve bulut ilerlemesi",
+    "Kayıt gerekmez: uygulama otomatik olarak anonim bir hesap oluşturur. İlerlemen (istatistikler, başarımlar, çözülen bulmacalar, görevler, jetonlar ve öğeler, ayarlar ve bitmemiş bir maç) kaybolmasın diye bu hesapla sunucumuzda saklanır. Apple ile giriş isteğe bağlıdır; Apple bir tanımlayıcı ve izin verirsen bir e-posta adresi (gizli yönlendirme adresi olabilir) paylaşır; bu yalnızca hesabını cihazlarında tanımak için kullanılır."
+   ],
+   [
+    "Çevrimiçi oyun ve sıralamalar",
+    "Çevrimiçi oynadığında takma adın, ülken, avatarın ve puanın ile maçlarının hamleleri ve sonuçları sunucumuzda saklanır ve rakiplerine ve sıralamalarda gösterilir. Uygulamada bir oyuncuyu şikâyet edebilir veya engelleyebilirsin; şikâyetler (şikâyet edilen oyuncu, sebep ve zaman) kuralları ihlal eden takma adları incelemek için saklanır."
+   ],
+   [
+    "Satın almalar ve abonelikler",
+    "Satın almalar (reklamları kaldırma, tema paketi, ipucu ve geri alma paketleri) ve Premium abonelik Apple tarafından ücretlendirilir. Ödeme bilgilerini asla almayız; satın aldıklarını vermek ve geri yüklemek için işlem kimliğini, ürünü ve abonelik durumunu saklarız."
+   ],
+   [
+    "Bildirimler",
+    "Yalnızca bildirimleri açarsan, sıranın geldiğini veya maçın bittiğini haber vermek için bir push belirteci (Firebase Cloud Messaging) saklanır. Bunu uygulamada veya iOS Ayarları’nda kapatabilirsin."
+   ],
+   [
+    "Reklamlar",
+    "Google AdMob kişiselleştirilmemiş reklamlar gösterir. Uygulama seni başka şirketlerin uygulamaları veya web siteleri arasında izlemez ve reklam tanımlayıcısına erişim istemez. Yine de AdMob reklam sunmak, sıklığını sınırlamak ve dolandırıcılığı önlemek için cihaz bilgilerini ve yaklaşık konumu (IP tabanlı) işleyebilir. Reklamlar uygulama içi satın almayla kaldırılabilir."
+   ],
+   [
+    "Çökme raporları",
+    "Firebase Crashlytics, sorunları giderebilmemiz için çökme ve hata raporları (cihaz modeli, iOS ve uygulama sürümü, teknik kayıtlar ve rastgele bir kurulum kimliği) toplar. Bu raporlar ödeme bilgisi içermez."
+   ],
+   [
+    "Hizmet sağlayıcılar ve depolama",
+    "Supabase (veritabanı ve giriş), Apple (Apple ile Giriş ve ödemeler) ve Google (AdMob reklamları, Firebase bildirimleri ve çökme raporları) verileri kendi politikalarına göre işler; sunucuları ülken dışında olabilir. Bu sayfalar GitHub Pages’te barındırılır ve analiz ya da reklam betiği kullanmaz."
+   ],
+   [
+    "Saklama ve silme",
+    "Sunucu verileri hesabın var olduğu sürece saklanır. Hesabını uygulamada silersen veya e-postayla istersen makul bir süre içinde silinir ya da anonimleştirilir. Uygulamayı silmek yalnızca cihazdaki verileri kaldırır."
+   ],
+   [
+    "Hakların, çocuklar ve değişiklikler",
+    "Verilerine erişim, düzeltme veya silme talebini dhalska2@gmail.com adresine iletebilirsin. Uygulama 13 yaşın altındaki çocuklara yönelik değildir ve bilerek onların verilerini toplamayız. Bu politikadaki değişiklikler bu sayfada yeni tarihle yayımlanır."
+   ]
+  ],
+  "terms": [
+   [
+    "Hizmet",
+    "Dama; bilgisayara karşı oyun, tek cihazda iki oyuncu, canlı ve sıra tabanlı çevrimiçi oyun, arkadaş kodları, sıralamalar, bulmacalar, günlük görevler ve maç analizi sunar. Premium abonelik reklamları ve günlük sınırları kaldırır; tüm görünümleri ve sınırsız ipucu ile geri almayı içerir."
+   ],
+   [
+    "Satın almalar ve abonelikler",
+    "Ödemeler Apple üzerinden yapılır. Abonelikler, mevcut dönem bitmeden en az 24 saat önce iptal edilmezse otomatik yenilenir; Apple Kimliği ayarlarından yönetebilir veya iptal edebilirsin. İadeler Apple politikalarına tabidir. Jeton ve öğelerin nakit değeri yoktur ve değiştirilemez. Apple Standart EULA da geçerlidir."
+   ],
+   [
+    "Adil oyun ve davranış",
+    "Çevrimiçi maçlarda motor veya başka dış yardım kullanma, kimseye hakaret etme, taciz etme veya başkasını taklit etme, saldırgan takma ad seçme ve sunucuları bozma. Kuralları ihlal eden oyuncuların takma adlarını gizleyebilir, maçlarını sonlandırabilir veya çevrimiçi oyunlarını kısıtlayabiliriz."
+   ],
+   [
+    "Değişiklikler ve sorumluluk",
+    "Hizmet olduğu gibi sunulur. Özellikler değişebilir veya sona erebilir; bu şartlar bu sayfada güncellenebilir."
+   ]
+  ],
+  "support": [
+   [
+    "Nasıl oynanır",
+    "Ana ekranda seviyeyi ve kuralı seçip bilgisayara karşı oyna ya da Oyuna başla’ya dokunarak tek cihazda iki kişi, canlı veya sıra tabanlı çevrimiçi oyun ya da arkadaş koduyla maç seç. Öğren bölümünde kurallar ve nasıl oynanır anlatımı var; alt çubuk Sıralama, İstatistikler ve Başarımlar ile Mağaza’ya götürür."
+   ],
+   [
+    "İlerleme, satın almalar ve eşitleme",
+    "İlerleme hesabına otomatik kaydedilir. Satın aldıklarını geri almak için Mağaza’daki Satın Alımları Geri Yükle’yi kullan; başka bir cihazda devam etmek için Ayarlar’da Apple ile giriş yap."
+   ],
+   [
+    "Bize ulaşma",
+    "E-posta konusuna \"Dama\" yaz ve uygulama sürümünü, cihazını ve iOS sürümünü, sorunun oluştuğu adımları belirt. Satın alma sorunlarında Apple makbuzu daha hızlı yanıt vermemize yardımcı olur."
+   ]
+  ],
+  "delete-account": [
+   [
+    "Uygulamada silme",
+    "Apple ile giriş yaptıysan: Ayarlar > Hesap > Hesabı sil. İlerlemen, sıralamaların, takma adın, satın alma hakların ve kalan ücretli ipucu ve geri almaların kalıcı olarak silinir; devam eden çevrimiçi maçların sonlandırılır. App Store ödemeleri iade edilmez."
+   ],
+   [
+    "E-postayla talep",
+    "Apple ile giriş yapmadıysan, \"Dama Veri Silme\" konulu bir e-postayı hesabını tanımlayan bilgilerle (ör. takma adın) dhalska2@gmail.com adresine gönder. Sunucu verilerini makul bir süre içinde sileriz."
+   ],
+   [
+    "Cihazdaki veriler",
+    "Cihazda saklanan verileri kaldırmak için uygulamayı sil (\"Uygulamayı Boşalt\" değil)."
+   ]
+  ]
+ }
+}
