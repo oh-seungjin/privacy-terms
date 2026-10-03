@@ -1,0 +1,26 @@
+:root{color-scheme:light;--navy:#10243e;--blue:#2457d6;--muted:#5b6b80;--cloud:#f4f7fb;--line:#dbe4ef}
+*{box-sizing:border-box}html{scroll-behavior:smooth}
+body{margin:0;background:linear-gradient(180deg,#eef4ff 0,#fff 360px);font:16px/1.75 system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;color:var(--navy)}
+main{max-width:900px;margin:0 auto;padding:28px 22px 64px}
+.top{display:flex;gap:12px 20px;justify-content:space-between;align-items:center;flex-wrap:wrap;margin-bottom:14px}
+.brand{font-weight:850;letter-spacing:.04em;color:var(--navy);text-decoration:none}
+.languages,.pages{display:flex;flex-wrap:wrap;gap:0 14px;font-size:14px}
+.languages a,.pages a{display:inline-flex;align-items:center;min-height:44px}
+.pages{margin:0 0 18px;font-size:15px}
+[aria-current]{font-weight:800;color:var(--navy);text-decoration-thickness:2px}
+article{background:#fff;border:1px solid var(--line);border-radius:24px;padding:clamp(22px,5vw,56px);box-shadow:0 20px 60px #173a7412}
+h1{font-size:clamp(28px,5vw,44px);line-height:1.2;margin:0 0 8px;overflow-wrap:anywhere}
+h2{font-size:22px;line-height:1.4;margin:36px 0 10px}
+p,li{overflow-wrap:anywhere}li{margin:6px 0}
+.effective{color:var(--muted);margin-top:0}.intro{font-size:18px}
+.providers{margin-top:32px;font-size:14px;color:var(--muted)}
+.contact{margin-top:40px;background:var(--cloud);border-radius:16px;padding:22px}.contact b{font-size:18px}
+a{color:var(--blue);text-underline-offset:3px;overflow-wrap:anywhere}
+a:focus-visible{outline:3px solid #ffb020;outline-offset:3px}
+.hub{list-style:none;padding:0;margin:24px 0 0}
+.hub li{display:flex;flex-wrap:wrap;align-items:center;gap:0 18px;padding:10px 0;border-top:1px solid var(--line)}
+.hub a{display:inline-flex;align-items:center;min-height:44px}.hub .name{font-weight:800;min-width:150px}
+footer{text-align:center;color:var(--muted);font-size:14px;margin-top:26px}
+.skip{position:absolute;left:8px;top:-100px}.skip:focus{top:8px;background:#fff;padding:10px;z-index:2}
+@media(max-width:520px){main{padding:16px 16px 40px}article{border-radius:18px;padding:22px 18px}h2{font-size:19px}.languages{gap:0 12px}.hub .name{flex-basis:100%}}
+@media print{.languages,.pages,.skip{display:none}body{background:#fff}article{border:0;box-shadow:none;padding:0}}
