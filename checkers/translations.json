@@ -7,16 +7,17 @@
    "도움말·지원",
    "데이터 삭제"
   ],
-  "tag": "네 가지 규칙으로 즐기는 클래식 체커 — 두고, 풀고, 올라가세요.",
+  "tag": "열세 가지 규칙으로 즐기는 클래식 체커 — 두고, 풀고, 올라가세요.",
   "intro": "체커 공식 지원·정책 · 넥스트 스튜디오",
-  "date": "시행·개정일: 2026년 10월 2일",
+  "date": "시행·개정일: 2026년 10월 4일",
   "contact": "문의",
   "skip": "본문 바로가기",
   "features": [
-   "네 가지 규칙: 미국식, 브라질식, 러시아식, 국제식(10×10)",
+   "규칙 변형 13종: 미국식, 브라질식, 러시아식, 국제식(10×10) 외 9종",
    "컴퓨터 대전(20단계) 또는 한 기기로 둘이서",
-   "실시간·비동기 온라인 대전, 친구 코드, 랭킹",
-   "퍼즐 · 일일 미션 · 대국 분석",
+   "인터넷 없이 Wi-Fi·블루투스로 가까운 기기와 근처 대결",
+   "실시간·비동기 온라인 대전, 친구 코드, 토너먼트, 랭킹",
+   "퍼즐 · 일일 미션 · 대국 분석 · PDN 가져오기/내보내기 · 보드 에디터",
    "프리미엄 구독"
   ],
   "privacy": [
@@ -25,12 +26,28 @@
     "이 방침은 넥스트 스튜디오(대한민국 개인 개발자)가 배포하는 iOS 앱 \"체커\"(번들 ID com.osj.checkers)에 적용됩니다. 문의: dhalska2@gmail.com."
    ],
    [
-    "계정과 클라우드 진행 상황",
-    "가입 없이 쓸 수 있도록 앱이 익명 계정을 자동으로 만듭니다. 진행 상황(통계, 업적, 푼 퍼즐, 미션, 코인과 아이템, 설정, 끝나지 않은 대국)은 잃어버리지 않도록 이 계정 기준으로 서버에 저장됩니다. Apple 로그인은 선택 사항이며, Apple이 식별자와 허용한 경우 이메일 주소(비공개 릴레이 주소일 수 있음)를 공유합니다. 이는 여러 기기에서 계정을 알아보는 데만 씁니다."
+    "계정과 진행 상황",
+    "가입 없이 쓸 수 있도록 앱이 익명 계정을 자동으로 만듭니다. 진행 상황(통계, 업적, 푼 퍼즐, 미션, 설정, 끝나지 않은 대국)은 잃어버리지 않도록 이 계정 기준으로 서버에 저장됩니다. 코인, 힌트·되돌리기 수량, 보유 스킨, 출석 보너스, 일일 무료 횟수, 업적·미션 보상 수령 내역은 서버가 지급·차감하고 기록하며, 앱은 서버가 돌려준 값만 표시합니다. 보상형 광고는 AdMob 서버 검증을 마친 경우에만 한 번씩 인정되며, 이를 위해 계정 식별자와 일회용 토큰이 서버에 전달됩니다. Apple 로그인은 선택 사항이며, Apple이 식별자와 허용한 경우 이메일 주소(비공개 릴레이 주소일 수 있음)를 공유합니다. 이는 여러 기기에서 계정을 알아보는 데만 씁니다. 기존 계정으로 로그인하면 익명 계정의 진행 상황이 그 계정에 병합됩니다."
    ],
    [
-    "온라인 대전과 랭킹",
-    "온라인으로 대국하면 닉네임, 국가, 아바타, 레이팅과 대국의 수·결과가 서버에 저장되고 상대와 랭킹에 표시됩니다. 앱에서 다른 플레이어를 신고하거나 차단할 수 있으며, 신고 내용(신고된 플레이어, 사유, 시각)은 규칙을 어긴 닉네임을 검토하기 위해 보관합니다."
+    "온라인 대전, 랭킹, 관전",
+    "온라인으로 대국하면 닉네임, 국가, 아바타, 레이팅과 대국의 수·결과·이모지 반응이 서버에 저장되고 상대와 랭킹에 표시됩니다. 다른 이용자가 진행 중인 내 온라인 대국을 관전할 수 있으며(닉네임 등이 표시됨), 설정에서 끌 수 있습니다. 앱에서 다른 플레이어를 신고하거나 차단할 수 있으며, 신고 내용(신고된 플레이어, 사유, 시각)은 규칙을 어긴 닉네임과 행동을 검토하기 위해 보관합니다."
+   ],
+   [
+    "친구와 토너먼트",
+    "친구 기능을 쓰면 8자리 친구 코드가 만들어지고, 친구 목록과 도전(대국 신청) 내역이 서버에 저장됩니다. 친구에게는 내 닉네임, 레이팅, 마지막 접속 시각(앱을 쓰는 동안 갱신)이 표시됩니다. 친구 코드를 공유하면 다른 사람이 나를 찾아 추가할 수 있습니다. 토너먼트에 참가하면 참가 기록(점수, 경기 수, 승수, 레이팅, 순위, 상금 코인)이 서버에 저장되어 순위 집계에 쓰입니다."
+   ],
+   [
+    "게임 기록 동기화",
+    "끝난 대국(컴퓨터 대전, 온라인, 근처 대결, 한 기기 2인 대국. 연습 제외)은 기기에 저장되고 다른 기기에서도 다시 볼 수 있도록 서버에도 동기화됩니다. 기록에는 대국 ID, 시각, 규칙, 모드, 결과, 모든 수, 시작 배치(보드 에디터로 만든 배치 등), 난이도, 온라인·근처 대결의 상대 닉네임이 들어갈 수 있습니다. 서버에는 최근 20판, 프리미엄은 최근 200판까지 보관하며 오래된 기록부터 지워집니다. 기록 목록에서 개별 기록을 삭제할 수 있습니다."
+   ],
+   [
+    "근처 대결(Wi-Fi·블루투스)",
+    "근처 대결은 같은 Wi-Fi 또는 블루투스 LE로 가까운 기기와 인터넷 없이 직접 대국하는 기능입니다. Wi-Fi에서는 로컬 네트워크에서 Bonjour(mDNS)로 방을 알리고 찾으며, 블루투스에서는 광고·검색으로 상대를 찾습니다. 방을 열면 내 닉네임이 주변 기기에 보입니다. 연결되면 닉네임, 아바타, 규칙, 수, 항복·무승부 제안, 이모지 반응을 상대 기기로 직접 보내며, 이 내용은 우리 서버로 전송되지 않습니다. 위치 정보는 사용하지 않습니다. iOS는 처음 쓸 때 블루투스와 로컬 네트워크 접근을 묻고, 허용하지 않아도 다른 기능은 그대로 쓸 수 있으며 iOS 설정에서 바꿀 수 있습니다. 근처 대결은 레이팅, 통계, 미션, 코인 보상에 반영되지 않습니다. 다만 끝난 대국은 모드 \"근처 대결\"의 게임 기록으로 기기에 저장되고, 위 게임 기록 동기화 대상에 포함되어 서버에도 올라갑니다(상대 닉네임 포함). 근처 대결에는 신고·차단 기능이 없습니다."
+   ],
+   [
+    "기기 안에서 처리되는 기능",
+    "규칙 변형 13종, 하우스 룰, 보드 에디터로 만든 배치, 수 표기, 대국 분석은 기기 안에서 계산됩니다. PDN 가져오기는 직접 붙여넣거나 입력한 텍스트를 읽을 뿐이고, 내보내기는 클립보드로 복사할 뿐이며, 앱이 이를 서버로 보내지 않습니다. 분석을 열면 하루 무료 횟수를 세기 위해 대국을 구분하는 해시 식별자만 서버에 전달하고 수 자체는 보내지 않습니다. 이런 대국이 끝나 기록으로 남으면 위 게임 기록 동기화 대상이 됩니다."
    ],
    [
     "구매와 구독",
@@ -42,7 +59,7 @@
    ],
    [
     "광고",
-    "Google AdMob이 비맞춤 광고를 보여 줍니다. 앱은 다른 회사의 앱·웹사이트에 걸쳐 사용자를 추적하지 않으며 광고 식별자 접근을 요청하지 않습니다. 다만 AdMob은 광고 전달, 노출 빈도 제한, 부정 방지를 위해 기기 정보와 대략적인 위치(IP 기반)를 처리할 수 있습니다. 광고는 인앱 구매로 제거할 수 있습니다."
+    "Google AdMob이 비맞춤 광고를 보여 줍니다. 필요한 지역(예: EEA·영국)에서는 광고 전에 Google 동의 양식(UMP)이 표시되며, 설정에서 선택을 바꿀 수 있습니다. 앱은 추적 허용 요청(ATT)을 표시하지 않고, 다른 회사의 앱·웹사이트에 걸쳐 사용자를 추적하지 않으며, 광고 식별자 접근을 요청하지 않습니다. 다만 AdMob은 광고 전달, 노출 빈도 제한, 부정 방지를 위해 기기 정보와 대략적인 위치(IP 기반)를 처리할 수 있습니다. 광고는 인앱 구매로 제거할 수 있습니다."
    ],
    [
     "오류 보고",
@@ -64,7 +81,7 @@
   "terms": [
    [
     "서비스",
-    "체커는 컴퓨터 대전, 한 기기 2인 대국, 실시간·비동기 온라인 대전, 친구 코드, 랭킹, 퍼즐, 일일 미션, 대국 분석을 제공합니다. 프리미엄 구독은 광고와 일일 제한을 없애고 모든 스킨과 무제한 힌트·되돌리기를 포함합니다."
+    "체커는 컴퓨터 대전, 한 기기 2인 대국, 실시간·비동기 온라인 대전, 친구 코드와 도전, 토너먼트, 랭킹, Wi-Fi·블루투스 근처 대결, 규칙 변형 13종, 퍼즐, 일일 미션, 대국 분석을 제공합니다. 프리미엄 구독은 광고와 일일 제한을 없애고 모든 스킨과 무제한 힌트·되돌리기를 포함합니다."
    ],
    [
     "구매와 구독",
@@ -75,6 +92,14 @@
     "온라인 대국에서 엔진 등 외부 도움을 쓰거나, 다른 사람을 모욕·괴롭히거나 사칭하거나, 불쾌한 닉네임을 쓰거나, 서버를 방해하지 마세요. 이를 어긴 플레이어의 닉네임을 숨기거나 대국을 종료하거나 온라인 이용을 제한할 수 있습니다."
    ],
    [
+    "근처 대결",
+    "근처 대결은 두 기기를 Wi-Fi나 블루투스로 직접 연결합니다. 신뢰할 수 있는 사람과만 대국하세요. 내 닉네임과 아바타는 상대 기기에 표시되고, 방을 여는 동안에는 주변 기기에도 보입니다. 상대의 닉네임은 상대가 정하며 근처 대결에는 신고·차단 기능이 없으므로, 부적절하면 대국을 나가 주세요. 연결 거리와 안정성은 보장되지 않습니다. 근처 대결은 레이팅, 통계, 미션, 보상에 반영되지 않고 시간 제한 없이 진행되며, 끝난 대국은 게임 기록에 저장됩니다."
+   ],
+   [
+    "변형 규칙, 분석, 편집 기능",
+    "규칙 변형, 하우스 룰, 보드 에디터, PDN 가져오기·내보내기, 대국 분석은 즐거움과 학습을 위한 기능입니다. 변형 규칙은 공식 대회 규칙과 다를 수 있고 분석 결과는 완전하지 않을 수 있습니다. 사용할 권리가 있는 기보만 가져오세요. 하우스 룰은 오프라인 대국에서만 적용됩니다."
+   ],
+   [
     "변경과 책임",
     "서비스는 있는 그대로 제공됩니다. 기능은 바뀌거나 종료될 수 있으며 약관은 이 페이지에서 갱신될 수 있습니다."
    ]
@@ -82,7 +107,11 @@
   "support": [
    [
     "게임 방법",
-    "홈에서 난이도와 규칙을 정해 컴퓨터와 대결하거나, 게임 시작을 눌러 한 기기 2인, 실시간·비동기 온라인, 친구 코드 대국을 고르세요. 학습에 규칙과 게임 방법이 있고, 아래 탭에서 랭킹, 통계·업적, 상점으로 갑니다."
+    "홈에서 난이도와 규칙을 정해 컴퓨터와 대결하거나, 게임 시작을 눌러 한 기기 2인, 실시간·비동기 온라인, 친구 코드, 근처 대결을 고르세요. 학습에 규칙과 게임 방법이 있고, 아래 탭에서 랭킹, 통계·업적, 상점으로 갑니다. 게임 기록에서 지난 대국을 다시 보고 분석하거나 PDN으로 복사·가져올 수 있습니다."
+   ],
+   [
+    "근처 대결 문제 해결",
+    "두 기기 모두 게임 시작에서 근처 대결을 고르고, 한쪽이 방을 열고 다른 쪽이 참가합니다. Wi-Fi는 같은 네트워크여야 하고, 블루투스는 켜져 있어야 합니다. 연결되지 않으면 iOS 설정 > 체커에서 블루투스와 로컬 네트워크가 허용되어 있는지 확인하고 두 기기를 가까이 두세요."
    ],
    [
     "진행 상황, 구매, 동기화",
@@ -96,7 +125,7 @@
   "delete-account": [
    [
     "앱에서 삭제",
-    "Apple로 로그인한 경우: 설정 > 계정 > 계정 삭제. 진행 상황, 랭킹, 닉네임, 구매 권한, 남은 유료 힌트·되돌리기가 영구 삭제되고 진행 중인 온라인 대국은 종료됩니다. App Store 결제는 환불되지 않습니다."
+    "Apple로 로그인한 경우: 설정 > 계정 > 계정 삭제. 진행 상황, 랭킹, 닉네임, 구매 권한, 코인, 남은 유료 힌트·되돌리기, 친구와 친구 코드, 도전 내역, 서버에 동기화된 게임 기록, 토너먼트 참가 기록, 푸시 토큰이 영구 삭제되고 진행 중인 온라인 대국은 종료됩니다. App Store 결제는 환불되지 않습니다."
    ],
    [
     "이메일로 요청",
@@ -104,7 +133,7 @@
    ],
    [
     "기기의 데이터",
-    "기기에 저장된 데이터는 앱을 삭제(\"앱 정리하기\"가 아닌 \"앱 삭제\")하면 지워집니다."
+    "기기에 저장된 데이터(게임 기록 사본 등)는 앱을 삭제(\"앱 정리하기\"가 아닌 \"앱 삭제\")하면 지워집니다. 근처 대결에서 상대 기기로 전달된 닉네임과 수는 상대 기기에 남을 수 있어 우리가 지울 수 없습니다."
    ]
   ]
  },
@@ -116,16 +145,17 @@
    "Help & Support",
    "Delete Data"
   ],
-  "tag": "Classic checkers in four rule sets — play, solve and climb.",
+  "tag": "Classic checkers in 13 rule variants — play, solve and climb.",
   "intro": "Checkers official support & policies · Next Studio",
-  "date": "Effective / Updated: October 2, 2026",
+  "date": "Effective / Updated: October 4, 2026",
   "contact": "Contact",
   "skip": "Skip to content",
   "features": [
-   "Four rule sets: American, Brazilian, Russian and International (10×10)",
+   "13 rule variants: American, Brazilian, Russian, International (10×10) and 9 more",
    "Play the computer (20 levels) or a friend on one device",
-   "Live and async online play, friend codes and rankings",
-   "Puzzles · daily missions · game analysis",
+   "Nearby play over Wi-Fi or Bluetooth, no internet needed",
+   "Live and async online play, friend codes, tournaments and rankings",
+   "Puzzles · daily missions · game analysis · PDN import/export · board editor",
    "Premium subscription"
   ],
   "privacy": [
@@ -134,12 +164,28 @@
     "This policy applies to the iOS app \"Checkers\" (bundle ID com.osj.checkers), published by Next Studio, an individual developer based in South Korea. Contact: dhalska2@gmail.com."
    ],
    [
-    "Account and cloud progress",
-    "No sign-up is needed: the app automatically creates an anonymous account. Your progress (stats, achievements, solved puzzles, missions, coins and items, settings and an unfinished game) is saved on our server against that account so it is not lost. Signing in with Apple is optional; Apple shares an identifier and, if you allow it, an email address (which may be a private relay address), used only to recognise your account on your devices."
+    "Account and progress",
+    "No sign-up is needed: the app automatically creates an anonymous account. Your progress (stats, achievements, solved puzzles, missions, settings and an unfinished game) is saved on our server against that account so it is not lost. Coins, hints, undos, owned skins, attendance bonuses, daily free uses and claimed achievement and mission rewards are granted, deducted and recorded by the server; the app only shows the values the server returns. A rewarded ad counts once and only after AdMob server-side verification, for which your account identifier and a one-time token are passed to our server. Signing in with Apple is optional; Apple shares an identifier and, if you allow it, an email address (which may be a private relay address), used only to recognise your account on your devices. When you sign in to an existing account, the progress of the anonymous account is merged into it."
    ],
    [
-    "Online play and rankings",
-    "When you play online, your nickname, country, avatar and rating, and the moves and results of your games, are stored on our server and shown to your opponents and on the rankings. You can report or block another player in the app; reports (the reported player, the reason and the time) are kept to review nicknames that break the rules."
+    "Online play, rankings and spectating",
+    "When you play online, your nickname, country, avatar, rating, and the moves, result and emoji reactions of the game are stored on our server and shown to your opponent and in the rankings. Other players may watch your live online games (with your nickname shown); you can turn this off in Settings. You can report or block other players in the app; reports (the reported player, reason and time) are kept to review nicknames and conduct that break the rules."
+   ],
+   [
+    "Friends and tournaments",
+    "If you use friends, the app creates an 8-character friend code and stores your friend list and your challenges (game requests) on our server. Friends can see your nickname, rating and when you were last online (updated while you use the app). If you share your friend code, others can find and add you. If you join a tournament, your entry (score, games, wins, rating, rank and prize coins) is stored on our server and used for the standings."
+   ],
+   [
+    "Game record sync",
+    "Finished games (against the computer, online, nearby, and two players on one device; not practice) are saved on your device and also synced to our server so you can view them on another device. A record can contain the game ID, time, rules, mode, result, all moves, the starting position (for example one made in the board editor), the level, and the opponent’s nickname for online and nearby games. The server keeps your latest 20 games (200 with Premium) and the oldest are removed first. You can delete individual records in the records list."
+   ],
+   [
+    "Nearby play (Wi-Fi and Bluetooth)",
+    "Nearby play lets you play a device close to you directly, without internet, over the same Wi-Fi or Bluetooth LE. On Wi-Fi the room is announced and found on the local network with Bonjour (mDNS); on Bluetooth the opponent is found by advertising and scanning. While you host, your nickname is visible to nearby devices. Once connected, your nickname, avatar, rules, moves, resign and draw offers and emoji reactions go straight to the other device and are not sent to our servers. The app does not use your location. iOS asks for Bluetooth and local network access the first time; the rest of the app works if you decline, and you can change it in iOS Settings. Nearby games do not count toward rating, stats, missions or coin rewards. However, a finished game is saved on your device as a game record with the mode “nearby” and is included in the game record sync above, so it is also uploaded to our server (with the opponent’s nickname). Nearby play has no report or block function."
+   ],
+   [
+    "Features processed on your device",
+    "The 13 rule variants, house rules, positions made in the board editor, move notation and game analysis are calculated on your device. PDN import only reads text you paste or type, and export only copies to the clipboard; the app does not send either to a server. When you open an analysis, only a hash identifier of the game is sent to the server to count your free uses per day, not the moves themselves. If such a game is finished and kept as a record, it is included in the game record sync above."
    ],
    [
     "Purchases and subscriptions",
@@ -151,7 +197,7 @@
    ],
    [
     "Ads",
-    "Google AdMob shows non-personalized ads. The app does not track you across other companies' apps or websites and does not ask for access to the advertising identifier. AdMob may still process device information and an approximate (IP-based) location to deliver ads, limit how often they appear and prevent fraud. Ads can be removed with an in-app purchase."
+    "Google AdMob shows non-personalized ads. Where required (for example the EEA and UK), a Google consent form (UMP) is shown before ads and you can change your choice in Settings. The app does not show an App Tracking Transparency prompt, does not track you across other companies’ apps or websites and does not ask for access to the advertising identifier. AdMob may still process device information and an approximate (IP-based) location to deliver ads, limit how often they appear and prevent fraud. Ads can be removed with an in-app purchase."
    ],
    [
     "Crash reports",
@@ -173,7 +219,7 @@
   "terms": [
    [
     "Service",
-    "Checkers offers games against the computer, two players on one device, live and async online play, friend codes, rankings, puzzles, daily missions and game analysis. The Premium subscription removes ads and daily limits and includes all skins and unlimited hints and undos."
+    "Checkers offers computer play, two players on one device, live and async online play, friend codes and challenges, tournaments, rankings, nearby play over Wi-Fi or Bluetooth, 13 rule variants, puzzles, daily missions and game analysis. The Premium subscription removes ads and daily limits and includes all skins and unlimited hints and undos."
    ],
    [
     "Purchases and subscriptions",
@@ -184,6 +230,14 @@
     "Do not use engines or other outside help in online games, insult, harass or impersonate others, choose offensive nicknames, or disrupt the servers. We may hide nicknames, end games or restrict online play for players who break these rules."
    ],
    [
+    "Nearby play",
+    "Nearby play connects two devices directly over Wi-Fi or Bluetooth. Only play with people you trust. Your nickname and avatar are shown on the other device and, while you host, to nearby devices. The other player chooses their own nickname and nearby play has no report or block function, so leave the game if something is inappropriate. Range and connection stability are not guaranteed. Nearby games do not count toward rating, stats, missions or rewards, are untimed, and finished games are saved in your game records."
+   ],
+   [
+    "Variants, analysis and editing features",
+    "Rule variants, house rules, the board editor, PDN import and export and game analysis are provided for fun and study. Variants may differ from official tournament rules and analysis may be imperfect. Import only game records you have the right to use. House rules apply only in offline games."
+   ],
+   [
     "Changes and liability",
     "The service is provided as is. Features may change or end, and these terms may be updated on this page."
    ]
@@ -191,7 +245,11 @@
   "support": [
    [
     "How to play",
-    "On the home screen, set the level and rule set and play the computer, or tap Start game for two players on one device, live or async online play, or a game with a friend code. Learn has the rules and How to play; the bottom bar leads to Ranking, Stats & Achievements and the Shop."
+    "On Home choose a level and rules to play the computer, or tap Start game for two players on one device, live or async online play, friend-code games or nearby play. Learn has the rules and how to play; the tabs below lead to rankings, stats and achievements, and the shop. In game records you can replay and analyse past games and copy or import them as PDN."
+   ],
+   [
+    "Troubleshooting nearby play",
+    "On both devices choose nearby play under Start game; one hosts and the other joins. Wi-Fi needs the same network, and Bluetooth must be on. If they cannot connect, check in iOS Settings > Checkers that Bluetooth and Local Network are allowed, and keep the devices close."
    ],
    [
     "Progress, purchases and sync",
@@ -205,7 +263,7 @@
   "delete-account": [
    [
     "Delete in the app",
-    "Signed in with Apple: Settings > Account > Delete account. This permanently deletes your progress, rankings, nickname, purchase entitlements and remaining paid hints and undos, and ends your ongoing online games. App Store payments are not refunded."
+    "If you signed in with Apple: Settings > Account > Delete account. Your progress, ranking, nickname, purchase entitlements, coins, remaining paid hints and undos, friends and friend code, challenge history, game records synced to the server, tournament entries and push token are permanently deleted, and online games in progress are ended. App Store payments are not refunded."
    ],
    [
     "Request by email",
@@ -213,7 +271,7 @@
    ],
    [
     "Data on the device",
-    "Delete the app (not \"Offload App\") to remove the data stored on the device."
+    "Data stored on the device (such as local copies of game records) is removed when you delete the app (“Delete App”, not “Offload App”). The nickname and moves sent to another device during nearby play may remain on that device and we cannot delete them."
    ]
   ]
  },
@@ -225,16 +283,17 @@
    "ヘルプ・サポート",
    "データ削除"
   ],
-  "tag": "4つのルールで遊ぶクラシックなチェッカー — 指して、解いて、上を目指そう。",
+  "tag": "13のルールで遊ぶクラシックなチェッカー — 指して、解いて、上を目指そう。",
   "intro": "チェッカー公式サポート・ポリシー · Next Studio",
-  "date": "施行・改定日：2026年10月2日",
+  "date": "施行・改定日：2026年10月4日",
   "contact": "お問い合わせ",
   "skip": "本文へ移動",
   "features": [
-   "4つのルール：アメリカ式、ブラジル式、ロシア式、国際式（10×10）",
+   "13のルール：アメリカ式、ブラジル式、ロシア式、国際式（10×10）ほか9種",
    "コンピューター対戦（20段階）や1台で2人対戦",
-   "リアルタイム・非同期オンライン対戦、フレンドコード、ランキング",
-   "パズル · デイリーミッション · 対局解析",
+   "インターネット不要のWi-Fi・Bluetooth近距離対戦",
+   "リアルタイム・非同期オンライン対戦、フレンドコード、トーナメント、ランキング",
+   "パズル · デイリーミッション · 対局解析 · PDN入出力 · 盤面エディタ",
    "プレミアムサブスクリプション"
   ],
   "privacy": [
@@ -243,12 +302,28 @@
     "本ポリシーは、Next Studio（韓国の個人開発者）が配信するiOSアプリ「チェッカー」（バンドルID com.osj.checkers）に適用されます。お問い合わせ：dhalska2@gmail.com。"
    ],
    [
-    "アカウントとクラウドの進行状況",
-    "登録なしで使えるよう、アプリが匿名アカウントを自動で作成します。進行状況（統計、実績、解いたパズル、ミッション、コインとアイテム、設定、未完の対局）は失われないよう、このアカウントに紐づけてサーバーに保存されます。Appleでサインインは任意で、Appleは識別子と、許可した場合はメールアドレス（非公開リレーアドレスの場合あり）を共有します。これは端末間でアカウントを識別するためにのみ使います。"
+    "アカウントと進行状況",
+    "登録なしで使えるよう、アプリが匿名アカウントを自動で作成します。進行状況（統計、実績、解いたパズル、ミッション、設定、未完の対局）は失われないよう、このアカウントに紐づけてサーバーに保存されます。コイン、ヒント・取り消しの数、所持スキン、ログインボーナス、1日の無料回数、実績・ミッション報酬の受け取り履歴はサーバーが付与・消費・記録し、アプリはサーバーが返した値だけを表示します。リワード広告はAdMobのサーバー検証を終えたものだけが1回ずつ認められ、そのためアカウント識別子と使い捨てトークンがサーバーに送られます。Appleでサインインは任意で、Appleは識別子と、許可した場合はメールアドレス（非公開リレーアドレスの場合あり）を共有します。これは端末間でアカウントを識別するためにのみ使います。既存のアカウントにサインインすると、匿名アカウントの進行状況がそのアカウントに統合されます。"
    ],
    [
-    "オンライン対戦とランキング",
-    "オンラインで対局すると、ニックネーム、国、アバター、レーティング、対局の手と結果がサーバーに保存され、対戦相手とランキングに表示されます。アプリ内で他のプレイヤーを通報・ブロックでき、通報内容（通報されたプレイヤー、理由、日時）はルール違反のニックネームを確認するために保管します。"
+    "オンライン対戦、ランキング、観戦",
+    "オンラインで対局すると、ニックネーム、国、アバター、レーティング、対局の手・結果・絵文字リアクションがサーバーに保存され、相手とランキングに表示されます。ほかのユーザーが進行中のオンライン対局を観戦できます（ニックネームなどが表示されます）。設定でオフにできます。アプリ内でほかのプレイヤーを通報・ブロックでき、通報内容（通報されたプレイヤー、理由、日時）は規則に反するニックネームや行為を確認するために保管します。"
+   ],
+   [
+    "フレンドとトーナメント",
+    "フレンド機能を使うと8文字のフレンドコードが作られ、フレンド一覧とチャレンジ（対局の申し込み）履歴がサーバーに保存されます。フレンドにはニックネーム、レーティング、最終ログイン時刻（アプリ使用中に更新）が表示されます。フレンドコードを共有すると、ほかの人があなたを探して追加できます。トーナメントに参加すると、参加記録（得点、対局数、勝数、レーティング、順位、賞金コイン）がサーバーに保存され、順位集計に使われます。"
+   ],
+   [
+    "対局記録の同期",
+    "終了した対局（コンピューター対戦、オンライン、近距離対戦、1台で2人対戦。練習を除く）は端末に保存され、ほかの端末でも見られるようサーバーにも同期されます。記録には対局ID、日時、ルール、モード、結果、すべての手、開始配置（盤面エディタで作った配置など）、レベル、オンライン・近距離対戦では相手のニックネームが含まれることがあります。サーバーには直近20局（プレミアムは200局）を保管し、古いものから削除されます。記録一覧で個別に削除できます。"
+   ],
+   [
+    "近距離対戦（Wi-Fi・Bluetooth）",
+    "近距離対戦は、同じWi-FiまたはBluetooth LEで近くの端末とインターネットなしで直接対局する機能です。Wi-Fiではローカルネットワーク上でBonjour（mDNS）により部屋を告知・検索し、Bluetoothでは広告とスキャンで相手を探します。部屋を開いている間、ニックネームが周囲の端末に見えます。接続後は、ニックネーム、アバター、ルール、手、投了・引き分け提案、絵文字リアクションが相手の端末に直接送られ、当社のサーバーには送信されません。位置情報は使いません。iOSは初回にBluetoothとローカルネットワークへのアクセスを尋ねます。許可しなくてもほかの機能は使え、iOSの設定で変更できます。近距離対戦はレーティング、統計、ミッション、コイン報酬に反映されません。ただし終了した対局はモード「近距離」の対局記録として端末に保存され、上記の対局記録の同期の対象となってサーバーにもアップロードされます（相手のニックネームを含む）。近距離対戦には通報・ブロック機能はありません。"
+   ],
+   [
+    "端末内で処理される機能",
+    "13のルール、ハウスルール、盤面エディタで作った配置、棋譜表記、対局解析は端末内で計算されます。PDNの読み込みは貼り付けや入力したテキストを読むだけ、書き出しはクリップボードにコピーするだけで、アプリはどちらもサーバーに送りません。解析を開くと、1日の無料回数を数えるため対局を識別するハッシュ値だけがサーバーに送られ、手そのものは送られません。そのような対局が終了して記録として残る場合は、上記の対局記録の同期の対象になります。"
    ],
    [
     "購入とサブスクリプション",
@@ -260,7 +335,7 @@
    ],
    [
     "広告",
-    "Google AdMobがパーソナライズされていない広告を表示します。アプリは他社のアプリやウェブサイトをまたいでユーザーを追跡せず、広告識別子へのアクセスを求めません。ただしAdMobは広告配信、表示頻度の制限、不正防止のため端末情報とおおよその位置（IPベース）を処理する場合があります。広告はアプリ内購入で削除できます。"
+    "Google AdMobがパーソナライズされていない広告を表示します。必要な地域（EEA・英国など）では広告の前にGoogleの同意フォーム（UMP）が表示され、設定で選択を変更できます。アプリはApp Tracking Transparencyの確認を表示せず、他社のアプリやウェブサイトをまたいでユーザーを追跡せず、広告識別子へのアクセスを求めません。ただしAdMobは広告配信、表示頻度の制限、不正防止のため端末情報とおおよその位置（IPベース）を処理する場合があります。広告はアプリ内購入で削除できます。"
    ],
    [
     "クラッシュレポート",
@@ -282,7 +357,7 @@
   "terms": [
    [
     "サービス",
-    "チェッカーは、コンピューター対戦、1台での2人対戦、リアルタイム・非同期オンライン対戦、フレンドコード、ランキング、パズル、デイリーミッション、対局解析を提供します。プレミアムサブスクリプションは広告と1日の制限をなくし、すべてのスキンと無制限のヒント・やり直しを含みます。"
+    "チェッカーは、コンピューター対戦、1台で2人対戦、リアルタイム・非同期オンライン対戦、フレンドコードとチャレンジ、トーナメント、ランキング、Wi-Fi・Bluetoothの近距離対戦、13のルール、パズル、デイリーミッション、対局解析を提供します。プレミアムサブスクリプションは広告と1日の制限をなくし、すべてのスキンと無制限のヒント・取り消しを含みます。"
    ],
    [
     "購入とサブスクリプション",
@@ -293,6 +368,14 @@
     "オンライン対局でエンジンなどの外部の助けを使う、他人を侮辱・嫌がらせ・なりすましする、不快なニックネームを使う、サーバーを妨害する行為をしないでください。違反したプレイヤーのニックネームを非表示にしたり、対局を終了したり、オンライン利用を制限したりすることがあります。"
    ],
    [
+    "近距離対戦",
+    "近距離対戦は2台の端末をWi-FiまたはBluetoothで直接つなぎます。信頼できる相手とだけ対局してください。ニックネームとアバターは相手の端末に表示され、部屋を開いている間は周囲の端末にも見えます。相手のニックネームは相手が決めるもので、近距離対戦には通報・ブロック機能がないため、不適切な場合は対局を退出してください。接続距離と安定性は保証されません。近距離対戦はレーティング、統計、ミッション、報酬に反映されず、時間制限なしで行われ、終了した対局は対局記録に保存されます。"
+   ],
+   [
+    "ルール、解析、編集機能",
+    "ルール、ハウスルール、盤面エディタ、PDNの入出力、対局解析は楽しみと学習のための機能です。ルールは公式大会の規則と異なる場合があり、解析結果は完全でない場合があります。利用する権利のある棋譜のみ読み込んでください。ハウスルールはオフライン対局でのみ適用されます。"
+   ],
+   [
     "変更と責任",
     "サービスは現状のまま提供されます。機能は変更・終了することがあり、本規約はこのページで更新されることがあります。"
    ]
@@ -300,7 +383,11 @@
   "support": [
    [
     "遊び方",
-    "ホームでレベルとルールを決めてコンピューターと対戦するか、「ゲーム開始」から1台で2人、リアルタイム・非同期オンライン、フレンドコード対局を選びます。「学習」にルールと遊び方があり、下のバーからランキング、統計・実績、ショップへ移動できます。"
+    "ホームでレベルとルールを選んでコンピューターと対戦するか、ゲーム開始から1台で2人、リアルタイム・非同期オンライン、フレンドコード、近距離対戦を選びます。学習にルールと遊び方があり、下のタブからランキング、統計・実績、ショップへ進めます。対局記録では過去の対局を見直し、解析し、PDNとしてコピー・読み込みできます。"
+   ],
+   [
+    "近距離対戦のトラブル対処",
+    "両方の端末でゲーム開始から近距離対戦を選び、一方が部屋を開き、もう一方が参加します。Wi-Fiは同じネットワークが必要で、Bluetoothはオンにしておく必要があります。つながらない場合は、iOS設定 > チェッカーでBluetoothとローカルネットワークが許可されているか確認し、端末を近づけてください。"
    ],
    [
     "進行状況、購入、同期",
@@ -314,7 +401,7 @@
   "delete-account": [
    [
     "アプリで削除",
-    "Appleでサインインしている場合：設定 > アカウント > アカウントを削除。進行状況、ランキング、ニックネーム、購入の権利、残りの有料ヒント・やり直しが完全に削除され、進行中のオンライン対局は終了します。App Storeの支払いは返金されません。"
+    "Appleでサインインしている場合：設定 > アカウント > アカウント削除。進行状況、ランキング、ニックネーム、購入の権利、コイン、残りの有料ヒント・取り消し、フレンドとフレンドコード、チャレンジ履歴、サーバーに同期された対局記録、トーナメント参加記録、プッシュトークンが完全に削除され、進行中のオンライン対局は終了します。App Storeの支払いは返金されません。"
    ],
    [
     "メールで依頼",
@@ -322,7 +409,7 @@
    ],
    [
     "端末のデータ",
-    "端末に保存されたデータは、アプリを削除（「Appを取り除く」ではなく「Appを削除」）すると消去されます。"
+    "端末に保存されたデータ（対局記録のコピーなど）は、アプリを削除（「Appを取り除く」ではなく「Appを削除」）すると消えます。近距離対戦で相手の端末に送られたニックネームと手は相手の端末に残る場合があり、当社では削除できません。"
    ]
   ]
  },
@@ -334,17 +421,18 @@
    "帮助与支持",
    "删除数据"
   ],
-  "tag": "四种规则的经典跳棋——下棋、解题、不断进阶。",
+  "tag": "十三种规则的经典跳棋 — 对弈、解题、不断攀升。",
   "intro": "跳棋官方支持与政策 · Next Studio",
-  "date": "生效/更新日期：2026年10月2日",
+  "date": "生效/修订日期：2026年10月4日",
   "contact": "联系我们",
   "skip": "跳到正文",
   "features": [
-   "四种规则：美式、巴西式、俄式和国际式（10×10）",
-   "与电脑对战（20个等级）或在一台设备上双人对战",
-   "实时和异步在线对战、好友代码与排行榜",
-   "谜题 · 每日任务 · 对局复盘",
-   "高级版订阅"
+   "13 种规则：美式、巴西式、俄式、国际式（10×10）等",
+   "对战电脑（20 级）或一台设备双人对战",
+   "无需联网，通过 Wi-Fi 或蓝牙进行附近对战",
+   "实时与异步在线对战、好友码、锦标赛和排行榜",
+   "残局 · 每日任务 · 对局分析 · PDN 导入导出 · 棋盘编辑器",
+   "高级订阅"
   ],
   "privacy": [
    [
@@ -352,12 +440,28 @@
     "本政策适用于由 Next Studio（韩国个人开发者）发布的 iOS 应用“跳棋”（Bundle ID com.osj.checkers）。联系方式：dhalska2@gmail.com。"
    ],
    [
-    "账户与云端进度",
-    "无需注册：应用会自动创建匿名账户。你的进度（统计、成就、已解谜题、任务、金币和道具、设置以及未完成的对局）会以该账户保存在我们的服务器上，以免丢失。使用 Apple 登录是可选的；Apple 会共享一个标识符，以及在你允许时共享电子邮件地址（可能是隐藏的转发地址），仅用于在你的设备间识别账户。"
+    "账号与进度",
+    "无需注册：应用会自动创建匿名账号。你的进度（统计、成就、已解残局、任务、设置和未完成的对局）会按此账号保存在我们的服务器上，以免丢失。金币、提示和悔棋数量、已拥有的皮肤、签到奖励、每日免费次数以及已领取的成就和任务奖励均由服务器发放、扣除并记录，应用只显示服务器返回的数值。激励广告只有通过 AdMob 服务器验证后才会计入且仅一次，为此你的账号标识和一次性令牌会传给我们的服务器。使用 Apple 登录为可选项；Apple 会共享一个标识符，以及在你允许时共享电子邮件地址（可能是隐私中继地址），仅用于在你的多台设备上识别账号。登录已有账号时，匿名账号的进度会合并到该账号。"
    ],
    [
-    "在线对战与排行榜",
-    "在线对局时，你的昵称、国家/地区、头像、等级分以及对局的着法和结果会保存在服务器上，并向对手和排行榜展示。你可以在应用内举报或屏蔽其他玩家；举报内容（被举报玩家、原因和时间）会被保留，用于审核违规昵称。"
+    "在线对战、排行榜与观战",
+    "在线对局时，你的昵称、国家、头像、等级分，以及对局的着法、结果和表情回应会保存在我们的服务器上，并显示给对手和排行榜。其他玩家可以观看你正在进行的在线对局（会显示你的昵称等），你可以在设置中关闭。你可以在应用中举报或屏蔽其他玩家；举报内容（被举报玩家、原因、时间）会被保留，用于审查违反规则的昵称和行为。"
+   ],
+   [
+    "好友与锦标赛",
+    "使用好友功能时，应用会生成 8 位好友码，并在服务器上保存你的好友列表和挑战（对局邀请）记录。好友可以看到你的昵称、等级分和最近在线时间（使用应用时更新）。分享好友码后，其他人可以找到并添加你。参加锦标赛时，你的参赛记录（得分、局数、胜场、等级分、名次、奖励金币）会保存在服务器上，用于统计排名。"
+   ],
+   [
+    "对局记录同步",
+    "已结束的对局（对战电脑、在线、附近对战、一台设备双人对战；不含练习）会保存在设备上，并同步到服务器，以便在其他设备上查看。记录可能包含对局 ID、时间、规则、模式、结果、全部着法、起始局面（例如在棋盘编辑器中创建的局面）、难度，以及在线和附近对战中的对手昵称。服务器保留最近 20 局（高级版 200 局），最旧的先被删除。你可以在记录列表中单独删除记录。"
+   ],
+   [
+    "附近对战（Wi-Fi 与蓝牙）",
+    "附近对战让你无需联网，通过同一 Wi-Fi 或蓝牙 LE 与附近的设备直接对局。在 Wi-Fi 上，房间通过 Bonjour（mDNS）在本地网络中发布和查找；在蓝牙上，通过广播和扫描寻找对手。你创建房间期间，昵称会被附近设备看到。连接后，你的昵称、头像、规则、着法、认输和和棋提议以及表情回应会直接发送给对方设备，不会发送到我们的服务器。应用不使用你的位置信息。iOS 首次使用时会询问蓝牙和本地网络权限；拒绝后应用其余功能仍可使用，也可在 iOS 设置中更改。附近对战不计入等级分、统计、任务或金币奖励。但已结束的对局会以“附近”模式的对局记录保存在设备上，并属于上述对局记录同步的范围，因此也会上传到我们的服务器（包含对手昵称）。附近对战没有举报或屏蔽功能。"
+   ],
+   [
+    "在设备上处理的功能",
+    "13 种规则、自定义规则、棋盘编辑器创建的局面、着法记谱和对局分析都在你的设备上计算。PDN 导入只读取你粘贴或输入的文本，导出只复制到剪贴板；应用不会把它们发送到服务器。打开分析时，只会把用于标识对局的哈希值发送到服务器以统计每日免费次数，不会发送着法本身。此类对局结束并保存为记录后，会属于上述对局记录同步的范围。"
    ],
    [
     "购买与订阅",
@@ -369,7 +473,7 @@
    ],
    [
     "广告",
-    "Google AdMob 展示非个性化广告。本应用不会跨其他公司的应用或网站追踪你，也不会请求访问广告标识符。但 AdMob 可能会处理设备信息和大致位置（基于 IP），用于投放广告、限制展示频率和防止欺诈。可通过应用内购买去除广告。"
+    "Google AdMob 展示非个性化广告。在需要的地区（如 EEA 和英国），展示广告前会显示 Google 同意表单（UMP），你可以在设置中更改选择。应用不会显示 App 跟踪透明度提示，不会跨其他公司的应用或网站跟踪你，也不请求访问广告标识符。不过 AdMob 仍可能处理设备信息和大致位置（基于 IP），用于投放广告、限制展示频率和防止欺诈。可通过应用内购买移除广告。"
    ],
    [
     "崩溃报告",
@@ -391,7 +495,7 @@
   "terms": [
    [
     "服务",
-    "跳棋提供人机对战、一台设备双人对战、实时和异步在线对战、好友代码、排行榜、谜题、每日任务和对局复盘。高级版订阅可去除广告和每日限制，并包含全部皮肤及无限提示和悔棋。"
+    "跳棋提供电脑对战、一台设备双人对战、实时与异步在线对战、好友码与挑战、锦标赛、排行榜、Wi-Fi 或蓝牙附近对战、13 种规则、残局、每日任务和对局分析。高级订阅去除广告和每日限制，并包含所有皮肤以及无限提示和悔棋。"
    ],
    [
     "购买与订阅",
@@ -402,6 +506,14 @@
     "请勿在在线对局中使用引擎或其他外部帮助，侮辱、骚扰或冒充他人，使用冒犯性昵称，或干扰服务器。对于违反规则的玩家，我们可能会隐藏其昵称、结束对局或限制其在线游戏。"
    ],
    [
+    "附近对战",
+    "附近对战通过 Wi-Fi 或蓝牙直接连接两台设备。请只与你信任的人对局。你的昵称和头像会显示在对方设备上，创建房间期间附近设备也能看到。对方的昵称由对方自己决定，且附近对战没有举报或屏蔽功能，如有不当请退出对局。连接距离和稳定性不作保证。附近对战不计入等级分、统计、任务或奖励，不计时，已结束的对局会保存在对局记录中。"
+   ],
+   [
+    "规则变体、分析与编辑功能",
+    "规则变体、自定义规则、棋盘编辑器、PDN 导入导出和对局分析旨在供娱乐和学习使用。规则变体可能与正式比赛规则不同，分析结果可能并不完美。请只导入你有权使用的棋谱。自定义规则仅适用于离线对局。"
+   ],
+   [
     "变更与责任",
     "本服务按现状提供。功能可能变更或终止，本条款可能在本页面更新。"
    ]
@@ -409,7 +521,11 @@
   "support": [
    [
     "玩法",
-    "在首页设置等级和规则与电脑对战，或点击“开始游戏”选择一台设备双人、实时或异步在线对战，或好友代码对局。“学习”中有规则和玩法说明；底部栏可进入排行榜、统计与成就和商店。"
+    "在首页选择难度和规则对战电脑，或点击开始游戏选择一台设备双人、实时或异步在线、好友码对局或附近对战。学习中有规则和玩法说明，下方标签页通向排行榜、统计与成就以及商店。在对局记录中可以回看和分析过去的对局，并以 PDN 复制或导入。"
+   ],
+   [
+    "附近对战故障排除",
+    "两台设备都在开始游戏中选择附近对战，一台创建房间，另一台加入。Wi-Fi 需要同一网络，蓝牙必须开启。如果无法连接，请在 iOS 设置 > 跳棋 中确认已允许蓝牙和本地网络，并让两台设备靠近。"
    ],
    [
     "进度、购买与同步",
@@ -422,8 +538,8 @@
   ],
   "delete-account": [
    [
-    "在应用内删除",
-    "已使用 Apple 登录：设置 > 账户 > 删除账户。这将永久删除你的进度、排名、昵称、购买权益以及剩余的付费提示和悔棋，并结束进行中的在线对局。App Store 付款不予退款。"
+    "在应用中删除",
+    "如果你使用 Apple 登录：设置 > 账号 > 删除账号。你的进度、排名、昵称、购买权益、金币、剩余的付费提示和悔棋、好友和好友码、挑战记录、已同步到服务器的对局记录、锦标赛参赛记录以及推送令牌将被永久删除，进行中的在线对局会结束。App Store 的付款不予退款。"
    ],
    [
     "通过邮件申请",
@@ -431,7 +547,7 @@
    ],
    [
     "设备上的数据",
-    "删除应用（不是“卸载应用”）即可清除设备上存储的数据。"
+    "保存在设备上的数据（如对局记录的本地副本）会在你删除应用（“删除 App”，而非“卸载 App”）时清除。附近对战中发送到对方设备的昵称和着法可能保留在对方设备上，我们无法删除。"
    ]
   ]
  },
@@ -443,16 +559,17 @@
    "Hilfe & Support",
    "Daten löschen"
   ],
-  "tag": "Klassische Dame mit vier Regelwerken – spielen, lösen, aufsteigen.",
+  "tag": "Klassische Dame mit 13 Regelvarianten – spielen, lösen, aufsteigen.",
   "intro": "Offizieller Support & Richtlinien für Dame · Next Studio",
-  "date": "Gültig / aktualisiert: 2. Oktober 2026",
+  "date": "Gültig / aktualisiert: 4. Oktober 2026",
   "contact": "Kontakt",
   "skip": "Zum Inhalt springen",
   "features": [
-   "Vier Regelwerke: amerikanisch, brasilianisch, russisch und international (10×10)",
+   "13 Regelvarianten: amerikanisch, brasilianisch, russisch, international (10×10) und 9 weitere",
    "Gegen den Computer (20 Stufen) oder zu zweit an einem Gerät",
-   "Live- und Fernpartien online, Freundescodes und Ranglisten",
-   "Aufgaben · tägliche Missionen · Partieanalyse",
+   "Spielen in der Nähe per WLAN oder Bluetooth, ohne Internet",
+   "Live- und Fernpartien online, Freundescodes, Turniere und Ranglisten",
+   "Aufgaben · tägliche Missionen · Partieanalyse · PDN-Import/-Export · BrettEditor",
    "Premium-Abo"
   ],
   "privacy": [
@@ -461,12 +578,28 @@
     "Diese Erklärung gilt für die iOS-App „Dame“ (Bundle-ID com.osj.checkers) von Next Studio, einem Einzelentwickler aus Südkorea. Kontakt: dhalska2@gmail.com."
    ],
    [
-    "Konto und Cloud-Fortschritt",
-    "Eine Registrierung ist nicht nötig: Die App legt automatisch ein anonymes Konto an. Dein Fortschritt (Statistiken, Erfolge, gelöste Aufgaben, Missionen, Münzen und Gegenstände, Einstellungen und eine unvollendete Partie) wird mit diesem Konto auf unserem Server gespeichert, damit nichts verloren geht. Die Anmeldung mit Apple ist freiwillig; Apple teilt eine Kennung und, wenn du zustimmst, eine E-Mail-Adresse (ggf. eine private Weiterleitungsadresse), die nur dazu dient, dein Konto auf deinen Geräten zu erkennen."
+    "Konto und Fortschritt",
+    "Eine Registrierung ist nicht nötig: Die App legt automatisch ein anonymes Konto an. Dein Fortschritt (Statistiken, Erfolge, gelöste Aufgaben, Missionen, Einstellungen und eine unvollendete Partie) wird mit diesem Konto auf unserem Server gespeichert, damit nichts verloren geht. Münzen, Hinweise, Zugrücknahmen, gekaufte Designs, Anwesenheitsboni, tägliche Gratisnutzungen und abgeholte Erfolgs- und Missionsbelohnungen werden vom Server vergeben, abgezogen und protokolliert; die App zeigt nur die vom Server gelieferten Werte an. Eine Belohnungswerbung zählt nur einmal und erst nach der serverseitigen Prüfung durch AdMob; dafür werden deine Konto-Kennung und ein Einmal-Token an unseren Server übermittelt. Die Anmeldung mit Apple ist freiwillig; Apple teilt eine Kennung und, wenn du zustimmst, eine E-Mail-Adresse (ggf. eine private Weiterleitungsadresse), die nur dazu dient, dein Konto auf deinen Geräten zu erkennen. Meldest du dich bei einem bestehenden Konto an, wird der Fortschritt des anonymen Kontos dort zusammengeführt."
    ],
    [
-    "Online-Spiel und Ranglisten",
-    "Wenn du online spielst, werden dein Spitzname, Land, Avatar und deine Wertung sowie Züge und Ergebnisse deiner Partien auf unserem Server gespeichert und deinen Gegnern und in den Ranglisten angezeigt. Du kannst andere Spieler in der App melden oder blockieren; Meldungen (gemeldeter Spieler, Grund und Zeitpunkt) werden aufbewahrt, um regelwidrige Spitznamen zu prüfen."
+    "Online-Spiel, Ranglisten und Zuschauen",
+    "Wenn du online spielst, werden dein Spitzname, Land, Avatar, deine Wertung sowie Züge, Ergebnis und Emoji-Reaktionen der Partie auf unserem Server gespeichert und deinem Gegner und in den Ranglisten angezeigt. Andere Spieler können deine laufenden Online-Partien ansehen (mit deinem Spitznamen); das kannst du in den Einstellungen ausschalten. Du kannst andere Spieler in der App melden oder blockieren; Meldungen (gemeldeter Spieler, Grund, Zeit) werden aufbewahrt, um regelwidrige Spitznamen und Verhalten zu prüfen."
+   ],
+   [
+    "Freunde und Turniere",
+    "Wenn du Freunde nutzt, erzeugt die App einen 8-stelligen Freundescode und speichert deine Freundesliste und deine Herausforderungen (Spielanfragen) auf unserem Server. Freunde sehen deinen Spitznamen, deine Wertung und wann du zuletzt online warst (wird aktualisiert, solange du die App nutzt). Wenn du deinen Freundescode teilst, können andere dich finden und hinzufügen. Wenn du an einem Turnier teilnimmst, wird deine Teilnahme (Punkte, Partien, Siege, Wertung, Platz und Preismünzen) auf unserem Server gespeichert und für die Tabelle verwendet."
+   ],
+   [
+    "Synchronisierung der Partieverläufe",
+    "Beendete Partien (gegen den Computer, online, in der Nähe und zu zweit an einem Gerät; nicht Übungen) werden auf deinem Gerät gespeichert und auch mit unserem Server synchronisiert, damit du sie auf einem anderen Gerät ansehen kannst. Ein Eintrag kann Partie-ID, Zeit, Regeln, Modus, Ergebnis, alle Züge, die Ausgangsstellung (z. B. aus dem Brett-Editor), die Stufe und bei Online- und Nahpartien den Spitznamen des Gegners enthalten. Der Server behält deine letzten 20 Partien (mit Premium 200); die ältesten werden zuerst entfernt. In der Liste kannst du einzelne Einträge löschen."
+   ],
+   [
+    "Spielen in der Nähe (WLAN und Bluetooth)",
+    "Beim Spielen in der Nähe spielst du ohne Internet direkt mit einem Gerät in deiner Nähe, über dasselbe WLAN oder Bluetooth LE. Im WLAN wird der Raum im lokalen Netzwerk per Bonjour (mDNS) angekündigt und gefunden; per Bluetooth wird der Gegner durch Ankündigen und Suchen gefunden. Solange du den Raum hostest, ist dein Spitzname für Geräte in der Nähe sichtbar. Nach der Verbindung gehen Spitzname, Avatar, Regeln, Züge, Aufgabe- und Remisangebote sowie Emoji-Reaktionen direkt an das andere Gerät und werden nicht an unsere Server gesendet. Die App nutzt deinen Standort nicht. iOS fragt beim ersten Mal nach Bluetooth- und Lokales-Netzwerk-Zugriff; lehnst du ab, funktioniert der Rest der App weiter, und du kannst es in den iOS-Einstellungen ändern. Nahpartien zählen nicht für Wertung, Statistiken, Missionen oder Münzbelohnungen. Eine beendete Partie wird jedoch als Partieverlauf mit dem Modus „nearby“ auf deinem Gerät gespeichert und gehört zur obigen Synchronisierung, wird also auch auf unseren Server hochgeladen (mit dem Spitznamen des Gegners). Beim Spielen in der Nähe gibt es keine Melde- oder Blockierfunktion."
+   ],
+   [
+    "Auf dem Gerät verarbeitete Funktionen",
+    "Die 13 Regelvarianten, Hausregeln, im Brett-Editor erstellte Stellungen, Zugnotation und Partieanalyse werden auf deinem Gerät berechnet. Der PDN-Import liest nur Text, den du einfügst oder eingibst, der Export kopiert nur in die Zwischenablage; die App sendet beides nicht an einen Server. Wenn du eine Analyse öffnest, wird nur eine Hash-Kennung der Partie an den Server gesendet, um deine täglichen Gratisnutzungen zu zählen, nicht die Züge selbst. Wird eine solche Partie beendet und als Eintrag behalten, gehört sie zur obigen Synchronisierung."
    ],
    [
     "Käufe und Abos",
@@ -478,7 +611,7 @@
    ],
    [
     "Werbung",
-    "Google AdMob zeigt nicht personalisierte Werbung. Die App verfolgt dich nicht über Apps oder Websites anderer Unternehmen hinweg und fragt nicht nach Zugriff auf die Werbe-ID. AdMob kann dennoch Geräteinformationen und einen ungefähren Standort (IP-basiert) verarbeiten, um Werbung auszuliefern, ihre Häufigkeit zu begrenzen und Betrug zu verhindern. Werbung lässt sich per In-App-Kauf entfernen."
+    "Google AdMob zeigt nicht personalisierte Werbung. Wo erforderlich (z. B. EWR und Vereinigtes Königreich), erscheint vor der Werbung ein Google-Einwilligungsformular (UMP), und du kannst deine Wahl in den Einstellungen ändern. Die App zeigt keine App-Tracking-Transparenz-Abfrage, verfolgt dich nicht über Apps oder Websites anderer Unternehmen hinweg und fragt nicht nach Zugriff auf die Werbe-ID. AdMob kann dennoch Geräteinformationen und einen ungefähren Standort (IP-basiert) verarbeiten, um Werbung auszuliefern, ihre Häufigkeit zu begrenzen und Betrug zu verhindern. Werbung lässt sich per In-App-Kauf entfernen."
    ],
    [
     "Absturzberichte",
@@ -500,7 +633,7 @@
   "terms": [
    [
     "Leistung",
-    "Dame bietet Partien gegen den Computer, zu zweit an einem Gerät, Live- und Fernpartien online, Freundescodes, Ranglisten, Aufgaben, tägliche Missionen und Partieanalyse. Das Premium-Abo entfernt Werbung und Tageslimits und enthält alle Designs sowie unbegrenzte Tipps und Rückgängig-Züge."
+    "Dame bietet Spiele gegen den Computer, zu zweit an einem Gerät, Live- und Fernpartien online, Freundescodes und Herausforderungen, Turniere, Ranglisten, Spielen in der Nähe per WLAN oder Bluetooth, 13 Regelvarianten, Aufgaben, tägliche Missionen und Partieanalyse. Das Premium-Abo entfernt Werbung und Tageslimits und enthält alle Designs sowie unbegrenzt Hinweise und Zugrücknahmen."
    ],
    [
     "Käufe und Abos",
@@ -511,6 +644,14 @@
     "Nutze in Online-Partien keine Engines oder andere fremde Hilfe, beleidige, belästige oder imitiere niemanden, wähle keine anstößigen Spitznamen und störe die Server nicht. Bei Verstößen können wir Spitznamen ausblenden, Partien beenden oder das Online-Spiel einschränken."
    ],
    [
+    "Spielen in der Nähe",
+    "Beim Spielen in der Nähe werden zwei Geräte direkt über WLAN oder Bluetooth verbunden. Spiele nur mit Menschen, denen du vertraust. Dein Spitzname und Avatar werden auf dem anderen Gerät angezeigt und, solange du hostest, auch Geräten in der Nähe. Den Spitznamen wählt der andere Spieler selbst, und beim Spielen in der Nähe gibt es keine Melde- oder Blockierfunktion; verlasse die Partie, wenn etwas unangemessen ist. Reichweite und Verbindungsstabilität sind nicht garantiert. Nahpartien zählen nicht für Wertung, Statistiken, Missionen oder Belohnungen, sind ohne Zeitlimit, und beendete Partien werden in deinen Partieverläufen gespeichert."
+   ],
+   [
+    "Varianten, Analyse und Bearbeitungsfunktionen",
+    "Regelvarianten, Hausregeln, Brett-Editor, PDN-Import und -Export sowie Partieanalyse dienen Spaß und Lernen. Varianten können von offiziellen Turnierregeln abweichen, und die Analyse kann unvollkommen sein. Importiere nur Partien, zu deren Nutzung du berechtigt bist. Hausregeln gelten nur in Offline-Partien."
+   ],
+   [
     "Änderungen und Haftung",
     "Der Dienst wird so bereitgestellt, wie er ist. Funktionen können sich ändern oder eingestellt werden, und diese Bedingungen können auf dieser Seite aktualisiert werden."
    ]
@@ -518,7 +659,11 @@
   "support": [
    [
     "So wird gespielt",
-    "Wähle auf dem Startbildschirm Stufe und Regelwerk und spiele gegen den Computer, oder tippe auf Spiel starten für zwei Spieler an einem Gerät, Live- oder Fernpartien online oder eine Partie per Freundescode. Unter Lernen findest du Regeln und Anleitung; die untere Leiste führt zu Rangliste, Statistiken & Erfolgen und Shop."
+    "Wähle auf dem Startbildschirm Stufe und Regeln für das Spiel gegen den Computer, oder tippe auf Spiel starten für zwei Spieler an einem Gerät, Live- oder Fernpartien online, Freundescode-Partien oder das Spielen in der Nähe. Unter „Lernen“ findest du Regeln und Spielweise; die Tabs unten führen zu Rangliste, Statistiken und Erfolgen sowie zum Shop. In den Partieverläufen kannst du frühere Partien ansehen, analysieren und als PDN kopieren oder importieren."
+   ],
+   [
+    "Probleme beim Spielen in der Nähe",
+    "Wähle auf beiden Geräten unter Spiel starten das Spielen in der Nähe; ein Gerät hostet, das andere tritt bei. WLAN braucht dasselbe Netzwerk, Bluetooth muss eingeschaltet sein. Klappt die Verbindung nicht, prüfe in den iOS-Einstellungen > Dame, ob Bluetooth und Lokales Netzwerk erlaubt sind, und halte die Geräte nah beieinander."
    ],
    [
     "Fortschritt, Käufe und Synchronisierung",
@@ -532,7 +677,7 @@
   "delete-account": [
    [
     "In der App löschen",
-    "Mit Apple angemeldet: Einstellungen > Konto > Konto löschen. Fortschritt, Ranglisten, Spitzname, Kaufrechte und verbleibende bezahlte Tipps und Rückgängig-Züge werden dauerhaft gelöscht, laufende Online-Partien werden beendet. App-Store-Zahlungen werden nicht erstattet."
+    "Wenn du dich mit Apple angemeldet hast: Einstellungen > Konto > Konto löschen. Fortschritt, Rangliste, Spitzname, Kaufberechtigungen, Münzen, übrige bezahlte Hinweise und Zugrücknahmen, Freunde und Freundescode, Herausforderungen, mit dem Server synchronisierte Partieverläufe, Turnierteilnahmen und Push-Token werden dauerhaft gelöscht, laufende Online-Partien werden beendet. App-Store-Zahlungen werden nicht erstattet."
    ],
    [
     "Anfrage per E-Mail",
@@ -540,7 +685,7 @@
    ],
    [
     "Daten auf dem Gerät",
-    "Lösche die App (nicht „App auslagern“), um die auf dem Gerät gespeicherten Daten zu entfernen."
+    "Auf dem Gerät gespeicherte Daten (z. B. lokale Kopien der Partieverläufe) werden entfernt, wenn du die App löschst („App löschen“, nicht „App auslagern“). Spitzname und Züge, die beim Spielen in der Nähe an ein anderes Gerät gesendet wurden, können dort bleiben, und wir können sie nicht löschen."
    ]
   ]
  },
@@ -552,16 +697,17 @@
    "Ayuda y soporte",
    "Eliminar datos"
   ],
-  "tag": "Damas clásicas con cuatro reglas: juega, resuelve y escala.",
+  "tag": "Damas clásicas en 13 variantes de reglas: juega, resuelve y sube.",
   "intro": "Soporte y políticas oficiales de Damas · Next Studio",
-  "date": "Vigente / Actualizada: 2 de octubre de 2026",
+  "date": "En vigor / actualizado: 4 de octubre de 2026",
   "contact": "Contacto",
   "skip": "Ir al contenido",
   "features": [
-   "Cuatro reglas: americana, brasileña, rusa e internacional (10×10)",
-   "Juega contra la computadora (20 niveles) o con alguien en un mismo dispositivo",
-   "Partidas online en vivo y por turnos, códigos de amigo y clasificaciones",
-   "Problemas · misiones diarias · análisis de partidas",
+   "13 variantes: americana, brasileña, rusa, internacional (10×10) y 9 más",
+   "Juega contra el ordenador (20 niveles) o dos en un dispositivo",
+   "Partidas cercanas por Wi-Fi o Bluetooth, sin internet",
+   "Partidas en línea en vivo y asíncronas, códigos de amigo, torneos y clasificaciones",
+   "Problemas · misiones diarias · análisis de partidas · importar/exportar PDN · editor de tablero",
    "Suscripción Premium"
   ],
   "privacy": [
@@ -570,12 +716,28 @@
     "Esta política se aplica a la app de iOS \"Damas\" (ID de paquete com.osj.checkers), publicada por Next Studio, desarrollador individual con sede en Corea del Sur. Contacto: dhalska2@gmail.com."
    ],
    [
-    "Cuenta y progreso en la nube",
-    "No hace falta registrarse: la app crea automáticamente una cuenta anónima. Tu progreso (estadísticas, logros, problemas resueltos, misiones, monedas y objetos, ajustes y una partida sin terminar) se guarda en nuestro servidor con esa cuenta para que no se pierda. Iniciar sesión con Apple es opcional; Apple comparte un identificador y, si lo permites, un correo (que puede ser una dirección de reenvío privada), usado solo para reconocer tu cuenta en tus dispositivos."
+    "Cuenta y progreso",
+    "No hace falta registrarse: la app crea automáticamente una cuenta anónima. Tu progreso (estadísticas, logros, problemas resueltos, misiones, ajustes y una partida sin terminar) se guarda en nuestro servidor con esa cuenta para que no se pierda. Las monedas, las pistas, los deshacer, los diseños que tienes, las bonificaciones de asistencia, los usos gratuitos diarios y las recompensas de logros y misiones reclamadas las concede, descuenta y registra el servidor; la app solo muestra los valores que este devuelve. Un anuncio con recompensa cuenta una sola vez y solo tras la verificación del lado del servidor de AdMob, para lo cual se envían a nuestro servidor el identificador de tu cuenta y un token de un solo uso. Iniciar sesión con Apple es opcional; Apple comparte un identificador y, si lo permites, un correo electrónico (que puede ser una dirección de retransmisión privada), que se usa solo para reconocer tu cuenta en tus dispositivos. Al iniciar sesión en una cuenta existente, el progreso de la cuenta anónima se fusiona con ella."
    ],
    [
-    "Juego online y clasificaciones",
-    "Al jugar online, tu apodo, país, avatar y puntuación, así como las jugadas y resultados de tus partidas, se guardan en nuestro servidor y se muestran a tus rivales y en las clasificaciones. Puedes denunciar o bloquear a otro jugador en la app; las denuncias (jugador denunciado, motivo y hora) se conservan para revisar apodos que incumplan las normas."
+    "Juego en línea, clasificaciones y espectadores",
+    "Cuando juegas en línea, tu apodo, país, avatar, puntuación y las jugadas, el resultado y las reacciones con emojis de la partida se guardan en nuestro servidor y se muestran a tu rival y en las clasificaciones. Otros jugadores pueden ver tus partidas en línea en curso (con tu apodo); puedes desactivarlo en Ajustes. Puedes denunciar o bloquear a otros jugadores en la app; las denuncias (jugador denunciado, motivo y hora) se conservan para revisar apodos y conductas que incumplan las normas."
+   ],
+   [
+    "Amigos y torneos",
+    "Si usas la función de amigos, la app crea tu código de amigo de 8 caracteres y guarda en nuestro servidor tu lista de amigos y tus desafíos (solicitudes de partida). Tus amigos ven tu apodo, tu puntuación y cuándo estuviste en línea por última vez (se actualiza mientras usas la app). Si compartes tu código de amigo, otros pueden encontrarte y añadirte. Si te unes a un torneo, tu participación (puntos, partidas, victorias, puntuación, puesto y monedas de premio) se guarda en nuestro servidor y se usa para la clasificación."
+   ],
+   [
+    "Sincronización del historial de partidas",
+    "Las partidas terminadas (contra el ordenador, en línea, cercanas y de dos jugadores en un dispositivo; no las de práctica) se guardan en tu dispositivo y también se sincronizan con nuestro servidor para que puedas verlas en otro dispositivo. Un registro puede contener el ID de la partida, la hora, las reglas, el modo, el resultado, todas las jugadas, la posición inicial (por ejemplo, una creada en el editor de tablero), el nivel y, en partidas en línea y cercanas, el apodo del rival. El servidor conserva tus últimas 20 partidas (200 con Premium) y se borran primero las más antiguas. Puedes eliminar registros individuales en la lista."
+   ],
+   [
+    "Partidas cercanas (Wi-Fi y Bluetooth)",
+    "Las partidas cercanas te permiten jugar directamente con un dispositivo próximo, sin internet, por la misma red Wi-Fi o por Bluetooth LE. En Wi-Fi la sala se anuncia y se encuentra en la red local con Bonjour (mDNS); en Bluetooth el rival se encuentra mediante anuncio y búsqueda. Mientras eres anfitrión, tu apodo es visible para los dispositivos cercanos. Una vez conectados, tu apodo, avatar, reglas, jugadas, ofertas de rendición y tablas y reacciones con emojis van directamente al otro dispositivo y no se envían a nuestros servidores. La app no usa tu ubicación. iOS pide acceso a Bluetooth y a la red local la primera vez; si lo rechazas, el resto de la app funciona y puedes cambiarlo en Ajustes de iOS. Las partidas cercanas no cuentan para la puntuación, las estadísticas, las misiones ni las recompensas de monedas. Sin embargo, una partida terminada se guarda en tu dispositivo como registro con el modo «nearby» y entra en la sincronización del historial descrita arriba, por lo que también se sube a nuestro servidor (con el apodo del rival). Las partidas cercanas no tienen función de denuncia ni de bloqueo."
+   ],
+   [
+    "Funciones procesadas en tu dispositivo",
+    "Las 13 variantes de reglas, las reglas de la casa, las posiciones creadas en el editor de tablero, la notación de jugadas y el análisis de partidas se calculan en tu dispositivo. La importación de PDN solo lee el texto que pegas o escribes y la exportación solo copia al portapapeles; la app no envía ninguna de las dos a un servidor. Al abrir un análisis, solo se envía al servidor un identificador hash de la partida para contar tus usos gratuitos diarios, no las jugadas. Si una partida así termina y se conserva como registro, entra en la sincronización del historial descrita arriba."
    ],
    [
     "Compras y suscripciones",
@@ -587,7 +749,7 @@
    ],
    [
     "Anuncios",
-    "Google AdMob muestra anuncios no personalizados. La app no te rastrea en apps o webs de otras empresas ni solicita acceso al identificador de publicidad. Aun así, AdMob puede procesar información del dispositivo y una ubicación aproximada (por IP) para mostrar anuncios, limitar su frecuencia y prevenir fraudes. Los anuncios se pueden quitar con una compra en la app."
+    "Google AdMob muestra anuncios no personalizados. Donde se exige (por ejemplo, el EEE y el Reino Unido), antes de los anuncios se muestra un formulario de consentimiento de Google (UMP) y puedes cambiar tu elección en Ajustes. La app no muestra la solicitud de transparencia de seguimiento de apps, no te rastrea en apps ni sitios web de otras empresas y no pide acceso al identificador de publicidad. Aun así, AdMob puede procesar información del dispositivo y una ubicación aproximada (basada en la IP) para ofrecer anuncios, limitar su frecuencia y prevenir el fraude. Los anuncios se pueden quitar con una compra dentro de la app."
    ],
    [
     "Informes de fallos",
@@ -609,7 +771,7 @@
   "terms": [
    [
     "Servicio",
-    "Damas ofrece partidas contra la computadora, dos jugadores en un dispositivo, juego online en vivo y por turnos, códigos de amigo, clasificaciones, problemas, misiones diarias y análisis de partidas. La suscripción Premium quita los anuncios y los límites diarios e incluye todas las apariencias y pistas y deshacer ilimitados."
+    "Damas ofrece partidas contra el ordenador, dos jugadores en un dispositivo, juego en línea en vivo y asíncrono, códigos de amigo y desafíos, torneos, clasificaciones, partidas cercanas por Wi-Fi o Bluetooth, 13 variantes de reglas, problemas, misiones diarias y análisis de partidas. La suscripción Premium quita los anuncios y los límites diarios e incluye todos los diseños y pistas y deshacer ilimitados."
    ],
    [
     "Compras y suscripciones",
@@ -620,14 +782,26 @@
     "No uses motores ni otra ayuda externa en partidas online, no insultes, acoses ni suplantes a otros, no elijas apodos ofensivos ni perturbes los servidores. Podemos ocultar apodos, terminar partidas o restringir el juego online a quienes incumplan estas normas."
    ],
    [
+    "Partidas cercanas",
+    "Las partidas cercanas conectan dos dispositivos directamente por Wi-Fi o Bluetooth. Juega solo con personas de confianza. Tu apodo y avatar se muestran en el otro dispositivo y, mientras eres anfitrión, a los dispositivos cercanos. El otro jugador elige su propio apodo y las partidas cercanas no tienen función de denuncia ni de bloqueo, así que abandona la partida si algo es inapropiado. No se garantizan el alcance ni la estabilidad de la conexión. Las partidas cercanas no cuentan para la puntuación, las estadísticas, las misiones ni las recompensas, no tienen límite de tiempo y las partidas terminadas se guardan en tu historial."
+   ],
+   [
+    "Variantes, análisis y funciones de edición",
+    "Las variantes de reglas, las reglas de la casa, el editor de tablero, la importación y exportación de PDN y el análisis de partidas se ofrecen para diversión y aprendizaje. Las variantes pueden diferir de las reglas oficiales de torneo y el análisis puede no ser perfecto. Importa solo partidas que tengas derecho a usar. Las reglas de la casa solo se aplican en partidas sin conexión."
+   ],
+   [
     "Cambios y responsabilidad",
     "El servicio se ofrece tal cual. Las funciones pueden cambiar o terminar, y estos términos pueden actualizarse en esta página."
    ]
   ],
   "support": [
    [
-    "Cómo jugar",
-    "En la pantalla de inicio, elige el nivel y la regla y juega contra la computadora, o toca Empezar partida para dos jugadores en un dispositivo, juego online en vivo o por turnos, o una partida con código de amigo. En Aprender están las reglas y cómo jugar; la barra inferior lleva a Clasificación, Estadísticas y logros y Tienda."
+    "Cómo se juega",
+    "En Inicio elige nivel y reglas para jugar contra el ordenador, o toca Iniciar partida para dos jugadores en un dispositivo, juego en línea en vivo o asíncrono, partidas con código de amigo o partidas cercanas. Aprender tiene las reglas y cómo jugar; las pestañas de abajo llevan a clasificaciones, estadísticas y logros, y la tienda. En el historial de partidas puedes repetir y analizar partidas pasadas y copiarlas o importarlas como PDN."
+   ],
+   [
+    "Solución de problemas de partidas cercanas",
+    "En ambos dispositivos elige partida cercana en Iniciar partida; uno hace de anfitrión y el otro se une. El Wi-Fi necesita la misma red y el Bluetooth debe estar activado. Si no se conectan, comprueba en Ajustes de iOS > Damas que Bluetooth y Red local estén permitidos y acerca los dispositivos."
    ],
    [
     "Progreso, compras y sincronización",
@@ -641,15 +815,15 @@
   "delete-account": [
    [
     "Eliminar en la app",
-    "Con sesión iniciada con Apple: Ajustes > Cuenta > Eliminar cuenta. Se eliminan de forma permanente tu progreso, clasificaciones, apodo, derechos de compra y las pistas y deshacer de pago restantes, y terminan tus partidas online en curso. Los pagos del App Store no se reembolsan."
+    "Si iniciaste sesión con Apple: Ajustes > Cuenta > Eliminar cuenta. Se eliminan de forma permanente tu progreso, clasificación, apodo, derechos de compra, monedas, pistas y deshacer de pago restantes, amigos y código de amigo, historial de desafíos, historial de partidas sincronizado con el servidor, participaciones en torneos y el token de notificaciones, y las partidas en línea en curso terminan. Los pagos de la App Store no se reembolsan."
    ],
    [
     "Solicitud por correo",
     "Sin iniciar sesión con Apple, escribe a dhalska2@gmail.com con el asunto \"Eliminación de datos de Damas\" y datos que identifiquen tu cuenta (por ejemplo, tu apodo). Eliminaremos los datos del servidor en un plazo razonable."
    ],
    [
-    "Datos del dispositivo",
-    "Elimina la app (no \"Descargar app\") para borrar los datos guardados en el dispositivo."
+    "Datos en el dispositivo",
+    "Los datos guardados en el dispositivo (como copias locales del historial de partidas) se eliminan al borrar la app («Eliminar app», no «Descargar app»). El apodo y las jugadas enviados a otro dispositivo en una partida cercana pueden permanecer en él y no podemos borrarlos."
    ]
   ]
  },
@@ -661,16 +835,17 @@
    "Aide et assistance",
    "Supprimer les données"
   ],
-  "tag": "Les dames classiques en quatre règles : jouez, résolvez, progressez.",
+  "tag": "Les dames classiques en 13 variantes de règles — jouez, résolvez, progressez.",
   "intro": "Assistance et politiques officielles de Dames · Next Studio",
-  "date": "En vigueur / mise à jour : 2 octobre 2026",
+  "date": "En vigueur / mis à jour : 4 octobre 2026",
   "contact": "Contact",
   "skip": "Aller au contenu",
   "features": [
-   "Quatre règles : américaine, brésilienne, russe et internationale (10×10)",
-   "Jouez contre l'ordinateur (20 niveaux) ou à deux sur un appareil",
-   "Parties en ligne en direct et différées, codes ami et classements",
-   "Problèmes · missions quotidiennes · analyse de parties",
+   "13 variantes : américaine, brésilienne, russe, internationale (10×10) et 9 autres",
+   "Jouez contre l’ordinateur (20 niveaux) ou à deux sur un appareil",
+   "Parties à proximité en Wi-Fi ou Bluetooth, sans internet",
+   "Parties en ligne en direct ou asynchrones, codes d’ami, tournois et classements",
+   "Problèmes · missions quotidiennes · analyse de parties · import/export PDN · éditeur de plateau",
    "Abonnement Premium"
   ],
   "privacy": [
@@ -679,12 +854,28 @@
     "Cette politique s’applique à l’app iOS « Dames » (identifiant com.osj.checkers), publiée par Next Studio, développeur individuel basé en Corée du Sud. Contact : dhalska2@gmail.com."
    ],
    [
-    "Compte et progression dans le cloud",
-    "Aucune inscription n’est nécessaire : l’app crée automatiquement un compte anonyme. Votre progression (statistiques, succès, problèmes résolus, missions, pièces et objets, réglages et une partie inachevée) est enregistrée sur notre serveur avec ce compte pour ne pas être perdue. La connexion avec Apple est facultative ; Apple partage un identifiant et, si vous l’autorisez, une adresse e-mail (éventuellement un relais privé), utilisée uniquement pour reconnaître votre compte sur vos appareils."
+    "Compte et progression",
+    "Aucune inscription n’est nécessaire : l’app crée automatiquement un compte anonyme. Votre progression (statistiques, succès, problèmes résolus, missions, réglages et une partie en cours) est enregistrée sur notre serveur pour ce compte afin de ne pas être perdue. Les pièces, indices, annulations, thèmes possédés, bonus de présence, utilisations gratuites quotidiennes et récompenses de succès et de missions récupérées sont accordés, déduits et enregistrés par le serveur ; l’app n’affiche que les valeurs renvoyées par le serveur. Une publicité récompensée n’est comptée qu’une fois et seulement après la vérification côté serveur d’AdMob, pour laquelle l’identifiant de votre compte et un jeton à usage unique sont transmis à notre serveur. La connexion avec Apple est facultative ; Apple partage un identifiant et, si vous l’autorisez, une adresse e-mail (éventuellement une adresse relais privée), utilisés uniquement pour reconnaître votre compte sur vos appareils. Si vous vous connectez à un compte existant, la progression du compte anonyme y est fusionnée."
    ],
    [
-    "Jeu en ligne et classements",
-    "Lorsque vous jouez en ligne, votre pseudo, votre pays, votre avatar et votre classement, ainsi que les coups et résultats de vos parties, sont enregistrés sur notre serveur et montrés à vos adversaires et dans les classements. Vous pouvez signaler ou bloquer un joueur dans l’app ; les signalements (joueur signalé, motif et heure) sont conservés pour examiner les pseudos qui enfreignent les règles."
+    "Jeu en ligne, classements et spectateurs",
+    "Lorsque vous jouez en ligne, votre pseudo, votre pays, votre avatar, votre classement, ainsi que les coups, le résultat et les réactions emoji de la partie sont enregistrés sur notre serveur et affichés à votre adversaire et dans les classements. D’autres joueurs peuvent regarder vos parties en ligne en cours (avec votre pseudo) ; vous pouvez le désactiver dans les Réglages. Vous pouvez signaler ou bloquer d’autres joueurs dans l’app ; les signalements (joueur signalé, motif, heure) sont conservés pour examiner les pseudos et comportements contraires aux règles."
+   ],
+   [
+    "Amis et tournois",
+    "Si vous utilisez les amis, l’app crée votre code d’ami à 8 caractères et enregistre sur notre serveur votre liste d’amis et vos défis (demandes de partie). Vos amis voient votre pseudo, votre classement et votre dernière connexion (mise à jour pendant que vous utilisez l’app). Si vous partagez votre code d’ami, d’autres peuvent vous trouver et vous ajouter. Si vous rejoignez un tournoi, votre participation (points, parties, victoires, classement, rang et pièces de récompense) est enregistrée sur notre serveur et sert au classement."
+   ],
+   [
+    "Synchronisation de l’historique des parties",
+    "Les parties terminées (contre l’ordinateur, en ligne, à proximité et à deux sur un appareil ; hors entraînement) sont enregistrées sur votre appareil et synchronisées avec notre serveur pour que vous puissiez les revoir sur un autre appareil. Un enregistrement peut contenir l’identifiant de la partie, l’heure, les règles, le mode, le résultat, tous les coups, la position de départ (par exemple créée dans l’éditeur de plateau), le niveau et, pour les parties en ligne et à proximité, le pseudo de l’adversaire. Le serveur conserve vos 20 dernières parties (200 avec Premium) ; les plus anciennes sont supprimées d’abord. Vous pouvez supprimer chaque enregistrement dans la liste."
+   ],
+   [
+    "Parties à proximité (Wi-Fi et Bluetooth)",
+    "Les parties à proximité vous permettent de jouer directement avec un appareil proche, sans internet, via le même Wi-Fi ou Bluetooth LE. En Wi-Fi, la salle est annoncée et trouvée sur le réseau local avec Bonjour (mDNS) ; en Bluetooth, l’adversaire est trouvé par annonce et recherche. Tant que vous hébergez, votre pseudo est visible des appareils proches. Une fois connectés, votre pseudo, votre avatar, les règles, les coups, les offres d’abandon et de nulle et les réactions emoji passent directement à l’autre appareil et ne sont pas envoyés à nos serveurs. L’app n’utilise pas votre position. iOS demande l’accès au Bluetooth et au réseau local la première fois ; si vous refusez, le reste de l’app fonctionne et vous pouvez changer cela dans les Réglages iOS. Les parties à proximité ne comptent pas pour le classement, les statistiques, les missions ni les récompenses en pièces. Toutefois, une partie terminée est enregistrée sur votre appareil comme historique avec le mode « nearby » et entre dans la synchronisation ci-dessus ; elle est donc aussi envoyée à notre serveur (avec le pseudo de l’adversaire). Les parties à proximité n’offrent ni signalement ni blocage."
+   ],
+   [
+    "Fonctions traitées sur votre appareil",
+    "Les 13 variantes de règles, les règles maison, les positions créées dans l’éditeur de plateau, la notation des coups et l’analyse de parties sont calculées sur votre appareil. L’import PDN lit seulement le texte que vous collez ou saisissez et l’export copie seulement dans le presse-papiers ; l’app n’envoie ni l’un ni l’autre à un serveur. Quand vous ouvrez une analyse, seul un identifiant de hachage de la partie est envoyé au serveur pour compter vos utilisations gratuites par jour, pas les coups eux-mêmes. Si une telle partie se termine et est conservée comme enregistrement, elle entre dans la synchronisation ci-dessus."
    ],
    [
     "Achats et abonnements",
@@ -696,7 +887,7 @@
    ],
    [
     "Publicités",
-    "Google AdMob affiche des publicités non personnalisées. L’app ne vous suit pas à travers les apps ou sites d’autres entreprises et ne demande pas l’accès à l’identifiant publicitaire. AdMob peut toutefois traiter des informations sur l’appareil et une position approximative (via l’IP) pour diffuser les publicités, limiter leur fréquence et prévenir la fraude. Les publicités peuvent être supprimées par un achat intégré."
+    "Google AdMob affiche des publicités non personnalisées. Là où c’est requis (par exemple l’EEE et le Royaume-Uni), un formulaire de consentement Google (UMP) s’affiche avant les publicités et vous pouvez modifier votre choix dans les Réglages. L’app n’affiche pas de demande App Tracking Transparency, ne vous suit pas sur les apps ou sites d’autres entreprises et ne demande pas l’accès à l’identifiant publicitaire. AdMob peut néanmoins traiter des informations sur l’appareil et une position approximative (selon l’IP) pour diffuser les publicités, limiter leur fréquence et prévenir la fraude. Les publicités peuvent être supprimées par un achat intégré."
    ],
    [
     "Rapports de plantage",
@@ -718,7 +909,7 @@
   "terms": [
    [
     "Service",
-    "Dames propose des parties contre l’ordinateur, à deux sur un appareil, en ligne en direct et différées, des codes ami, des classements, des problèmes, des missions quotidiennes et l’analyse de parties. L’abonnement Premium supprime les publicités et les limites quotidiennes et inclut tous les skins ainsi que des indices et annulations illimités."
+    "Dames propose des parties contre l’ordinateur, à deux sur un appareil, en ligne en direct et asynchrones, des codes d’ami et défis, des tournois, des classements, des parties à proximité en Wi-Fi ou Bluetooth, 13 variantes de règles, des problèmes, des missions quotidiennes et l’analyse de parties. L’abonnement Premium supprime les publicités et les limites quotidiennes et inclut tous les thèmes ainsi que des indices et annulations illimités."
    ],
    [
     "Achats et abonnements",
@@ -729,6 +920,14 @@
     "N’utilisez pas de moteur ni d’aide extérieure en ligne, n’insultez, ne harcelez ni n’usurpez l’identité de personne, ne choisissez pas de pseudo offensant et ne perturbez pas les serveurs. Nous pouvons masquer des pseudos, mettre fin à des parties ou restreindre le jeu en ligne des joueurs qui enfreignent ces règles."
    ],
    [
+    "Parties à proximité",
+    "Les parties à proximité relient deux appareils directement par Wi-Fi ou Bluetooth. Ne jouez qu’avec des personnes de confiance. Votre pseudo et votre avatar s’affichent sur l’autre appareil et, tant que vous hébergez, aux appareils proches. L’autre joueur choisit lui-même son pseudo et les parties à proximité n’offrent ni signalement ni blocage ; quittez la partie si quelque chose est inapproprié. La portée et la stabilité de la connexion ne sont pas garanties. Les parties à proximité ne comptent pas pour le classement, les statistiques, les missions ni les récompenses, sont sans limite de temps, et les parties terminées sont enregistrées dans votre historique."
+   ],
+   [
+    "Variantes, analyse et fonctions d’édition",
+    "Les variantes de règles, les règles maison, l’éditeur de plateau, l’import et l’export PDN et l’analyse de parties sont proposés pour le plaisir et l’apprentissage. Les variantes peuvent différer des règles officielles de tournoi et l’analyse peut être imparfaite. N’importez que des parties que vous avez le droit d’utiliser. Les règles maison ne s’appliquent qu’aux parties hors ligne."
+   ],
+   [
     "Modifications et responsabilité",
     "Le service est fourni en l’état. Les fonctionnalités peuvent évoluer ou prendre fin, et ces conditions peuvent être mises à jour sur cette page."
    ]
@@ -736,7 +935,11 @@
   "support": [
    [
     "Comment jouer",
-    "Sur l’écran d’accueil, choisissez le niveau et la règle et jouez contre l’ordinateur, ou touchez Commencer une partie pour jouer à deux sur un appareil, en ligne en direct ou en différé, ou avec un code ami. Apprendre contient les règles et le guide ; la barre du bas mène au Classement, aux Statistiques et succès et à la Boutique."
+    "Sur l’accueil, choisissez un niveau et des règles pour jouer contre l’ordinateur, ou touchez Démarrer une partie pour jouer à deux sur un appareil, en ligne en direct ou asynchrone, avec un code d’ami ou à proximité. Apprendre contient les règles et la façon de jouer ; les onglets du bas mènent aux classements, aux statistiques et succès, et à la boutique. Dans l’historique des parties, vous pouvez revoir et analyser vos parties passées et les copier ou les importer en PDN."
+   ],
+   [
+    "Dépannage des parties à proximité",
+    "Sur les deux appareils, choisissez la partie à proximité dans Démarrer une partie ; l’un héberge et l’autre rejoint. Le Wi-Fi nécessite le même réseau et le Bluetooth doit être activé. Si la connexion échoue, vérifiez dans Réglages iOS > Dames que le Bluetooth et le Réseau local sont autorisés, et rapprochez les appareils."
    ],
    [
     "Progression, achats et synchronisation",
@@ -750,7 +953,7 @@
   "delete-account": [
    [
     "Supprimer dans l’app",
-    "Connecté avec Apple : Réglages > Compte > Supprimer le compte. Votre progression, vos classements, votre pseudo, vos droits d’achat et les indices et annulations payants restants sont supprimés définitivement, et vos parties en ligne en cours prennent fin. Les paiements App Store ne sont pas remboursés."
+    "Si vous vous êtes connecté avec Apple : Réglages > Compte > Supprimer le compte. Votre progression, classement, pseudo, droits d’achat, pièces, indices et annulations payants restants, amis et code d’ami, historique des défis, historique des parties synchronisé avec le serveur, participations aux tournois et jeton de notification sont supprimés définitivement, et les parties en ligne en cours prennent fin. Les paiements App Store ne sont pas remboursés."
    ],
    [
     "Demande par e-mail",
@@ -758,7 +961,7 @@
    ],
    [
     "Données sur l’appareil",
-    "Supprimez l’app (et non « Décharger l’app ») pour effacer les données stockées sur l’appareil."
+    "Les données stockées sur l’appareil (comme les copies locales de l’historique des parties) sont supprimées quand vous supprimez l’app (« Supprimer l’app », pas « Désinstaller l’app »). Le pseudo et les coups envoyés à un autre appareil lors d’une partie à proximité peuvent y rester et nous ne pouvons pas les supprimer."
    ]
   ]
  },
@@ -770,16 +973,17 @@
    "सहायता",
    "डेटा हटाएँ"
   ],
-  "tag": "चार नियमों वाला क्लासिक चेकर्स — खेलें, हल करें, आगे बढ़ें।",
+  "tag": "13 नियम-प्रकारों में क्लासिक चेकर्स — खेलें, हल करें, ऊपर चढ़ें।",
   "intro": "चेकर्स की आधिकारिक सहायता और नीतियाँ · Next Studio",
-  "date": "लागू / अपडेट: 2 अक्टूबर 2026",
+  "date": "प्रभावी / अद्यतन: 4 अक्टूबर 2026",
   "contact": "संपर्क",
   "skip": "मुख्य सामग्री पर जाएँ",
   "features": [
-   "चार नियम: अमेरिकी, ब्राज़ीली, रूसी और अंतरराष्ट्रीय (10×10)",
-   "कंप्यूटर से खेलें (20 स्तर) या एक ही डिवाइस पर दो लोग",
-   "लाइव और असिंक्रोनस ऑनलाइन मैच, दोस्त कोड और रैंकिंग",
-   "पहेलियाँ · दैनिक मिशन · मैच विश्लेषण",
+   "13 नियम-प्रकार: अमेरिकी, ब्राज़ीलियाई, रूसी, अंतरराष्ट्रीय (10×10) और 9 और",
+   "कंप्यूटर (20 स्तर) या एक डिवाइस पर दो खिलाड़ी",
+   "बिना इंटरनेट Wi-Fi या ब्लूटूथ से पास के डिवाइस के साथ खेलें",
+   "लाइव और एसिंक ऑनलाइन खेल, फ्रेंड कोड, टूर्नामेंट और रैंकिंग",
+   "पहेलियाँ · दैनिक मिशन · खेल विश्लेषण · PDN आयात/निर्यात · बोर्ड एडिटर",
    "प्रीमियम सदस्यता"
   ],
   "privacy": [
@@ -788,12 +992,28 @@
     "यह नीति iOS ऐप \"चेकर्स\" (बंडल ID com.osj.checkers) पर लागू होती है, जिसे दक्षिण कोरिया स्थित एकल डेवलपर Next Studio प्रकाशित करता है। संपर्क: dhalska2@gmail.com।"
    ],
    [
-    "खाता और क्लाउड प्रगति",
-    "साइन अप की ज़रूरत नहीं: ऐप अपने आप एक गुमनाम खाता बनाता है। आपकी प्रगति (आँकड़े, उपलब्धियाँ, हल की गई पहेलियाँ, मिशन, सिक्के और आइटम, सेटिंग्स और अधूरा मैच) उसी खाते के साथ हमारे सर्वर पर सहेजी जाती है ताकि खो न जाए। Apple से साइन इन वैकल्पिक है; Apple एक पहचानकर्ता और, आपकी अनुमति हो तो, ईमेल पता (जो निजी रिले पता हो सकता है) साझा करता है, जिसका उपयोग केवल आपके डिवाइसों पर खाते को पहचानने के लिए होता है।"
+    "खाता और प्रगति",
+    "साइन-अप ज़रूरी नहीं: ऐप अपने-आप एक अनाम खाता बनाता है। आपकी प्रगति (आँकड़े, उपलब्धियाँ, हल की गई पहेलियाँ, मिशन, सेटिंग और अधूरा खेल) खोने से बचाने के लिए इसी खाते के आधार पर हमारे सर्वर पर सहेजी जाती है। सिक्के, हिंट, अंडू की संख्या, आपके स्किन, उपस्थिति बोनस, दैनिक मुफ़्त उपयोग और ली गई उपलब्धि व मिशन पुरस्कार सर्वर द्वारा दिए, घटाए और दर्ज किए जाते हैं; ऐप केवल वही मान दिखाता है जो सर्वर लौटाता है। इनाम वाला विज्ञापन केवल AdMob के सर्वर-साइड सत्यापन के बाद और एक ही बार गिना जाता है, जिसके लिए आपके खाते की पहचान और एक बार वाला टोकन हमारे सर्वर को भेजा जाता है। Apple से साइन इन वैकल्पिक है; Apple एक पहचानकर्ता और, आपकी अनुमति हो तो, ईमेल पता (निजी रिले पता हो सकता है) साझा करता है, जिसका उपयोग केवल आपके डिवाइसों पर खाते की पहचान के लिए होता है। किसी मौजूदा खाते में साइन इन करने पर अनाम खाते की प्रगति उसमें मिला दी जाती है।"
    ],
    [
-    "ऑनलाइन खेल और रैंकिंग",
-    "ऑनलाइन खेलने पर आपका उपनाम, देश, अवतार और रेटिंग तथा मैचों की चालें और परिणाम हमारे सर्वर पर सहेजे जाते हैं और विरोधियों व रैंकिंग में दिखते हैं। आप ऐप में किसी खिलाड़ी की रिपोर्ट कर सकते हैं या उसे ब्लॉक कर सकते हैं; रिपोर्ट (रिपोर्ट किया गया खिलाड़ी, कारण और समय) नियम तोड़ने वाले उपनामों की समीक्षा के लिए रखी जाती हैं।"
+    "ऑनलाइन खेल, रैंकिंग और दर्शक",
+    "ऑनलाइन खेलने पर आपका उपनाम, देश, अवतार, रेटिंग और खेल की चालें, नतीजा और इमोजी प्रतिक्रियाएँ हमारे सर्वर पर सहेजी जाती हैं और आपके प्रतिद्वंद्वी को तथा रैंकिंग में दिखती हैं। अन्य खिलाड़ी आपके चल रहे ऑनलाइन खेल देख सकते हैं (आपका उपनाम दिखता है); आप इसे सेटिंग में बंद कर सकते हैं। आप ऐप में अन्य खिलाड़ियों की रिपोर्ट या उन्हें ब्लॉक कर सकते हैं; रिपोर्ट (रिपोर्ट किया गया खिलाड़ी, कारण, समय) नियम तोड़ने वाले उपनामों और व्यवहार की समीक्षा के लिए रखी जाती है।"
+   ],
+   [
+    "दोस्त और टूर्नामेंट",
+    "दोस्त सुविधा का उपयोग करने पर ऐप 8 अक्षरों का फ्रेंड कोड बनाता है और आपकी दोस्त सूची तथा चुनौतियाँ (खेल अनुरोध) हमारे सर्वर पर सहेजता है। दोस्तों को आपका उपनाम, रेटिंग और आख़िरी बार ऑनलाइन होने का समय दिखता है (ऐप उपयोग के दौरान अपडेट होता है)। फ्रेंड कोड साझा करने पर अन्य लोग आपको ढूँढकर जोड़ सकते हैं। टूर्नामेंट में शामिल होने पर आपकी प्रविष्टि (अंक, खेल, जीत, रेटिंग, रैंक और पुरस्कार सिक्के) हमारे सर्वर पर सहेजी जाती है और तालिका के लिए उपयोग होती है।"
+   ],
+   [
+    "खेल रिकॉर्ड सिंक",
+    "पूरे हुए खेल (कंप्यूटर के विरुद्ध, ऑनलाइन, पास के और एक डिवाइस पर दो खिलाड़ी; अभ्यास नहीं) आपके डिवाइस पर सहेजे जाते हैं और हमारे सर्वर से भी सिंक होते हैं ताकि आप उन्हें दूसरे डिवाइस पर देख सकें। रिकॉर्ड में खेल ID, समय, नियम, मोड, नतीजा, सभी चालें, शुरुआती स्थिति (जैसे बोर्ड एडिटर में बनाई गई), स्तर और ऑनलाइन व पास के खेल में प्रतिद्वंद्वी का उपनाम हो सकता है। सर्वर आपके नवीनतम 20 खेल (प्रीमियम में 200) रखता है और सबसे पुराने पहले हटाए जाते हैं। आप सूची में अलग-अलग रिकॉर्ड हटा सकते हैं।"
+   ],
+   [
+    "पास का खेल (Wi-Fi और ब्लूटूथ)",
+    "पास का खेल आपको बिना इंटरनेट, उसी Wi-Fi या ब्लूटूथ LE पर पास के डिवाइस के साथ सीधे खेलने देता है। Wi-Fi पर कमरा स्थानीय नेटवर्क में Bonjour (mDNS) से घोषित और खोजा जाता है; ब्लूटूथ पर प्रतिद्वंद्वी विज्ञापन और स्कैन से मिलता है। आप जब तक कमरा चलाते हैं, आपका उपनाम पास के डिवाइसों को दिखता है। जुड़ने के बाद आपका उपनाम, अवतार, नियम, चालें, हार मानने और ड्रॉ के प्रस्ताव तथा इमोजी प्रतिक्रियाएँ सीधे दूसरे डिवाइस को जाती हैं और हमारे सर्वर को नहीं भेजी जातीं। ऐप आपके स्थान का उपयोग नहीं करता। iOS पहली बार ब्लूटूथ और स्थानीय नेटवर्क की अनुमति पूछता है; मना करने पर भी बाकी ऐप चलता है, और आप iOS सेटिंग में बदल सकते हैं। पास के खेल रेटिंग, आँकड़ों, मिशनों या सिक्का पुरस्कारों में नहीं गिने जाते। हालाँकि, पूरा हुआ खेल मोड “nearby” वाले रिकॉर्ड के रूप में आपके डिवाइस पर सहेजा जाता है और ऊपर के खेल रिकॉर्ड सिंक में शामिल होता है, इसलिए वह हमारे सर्वर पर भी अपलोड होता है (प्रतिद्वंद्वी के उपनाम सहित)। पास के खेल में रिपोर्ट या ब्लॉक की सुविधा नहीं है।"
+   ],
+   [
+    "आपके डिवाइस पर प्रोसेस होने वाली सुविधाएँ",
+    "13 नियम-प्रकार, हाउस नियम, बोर्ड एडिटर में बनाई स्थितियाँ, चाल संकेतन और खेल विश्लेषण आपके डिवाइस पर गणना होते हैं। PDN आयात केवल वही टेक्स्ट पढ़ता है जो आप पेस्ट या टाइप करते हैं और निर्यात केवल क्लिपबोर्ड पर कॉपी करता है; ऐप इनमें से कुछ भी सर्वर को नहीं भेजता। विश्लेषण खोलने पर रोज़ के मुफ़्त उपयोग गिनने के लिए केवल खेल की हैश पहचान सर्वर को भेजी जाती है, चालें नहीं। ऐसा खेल पूरा होकर रिकॉर्ड के रूप में रखा जाए तो वह ऊपर के खेल रिकॉर्ड सिंक में शामिल होता है।"
    ],
    [
     "खरीदारी और सदस्यता",
@@ -805,7 +1025,7 @@
    ],
    [
     "विज्ञापन",
-    "Google AdMob गैर-वैयक्तिकृत विज्ञापन दिखाता है। ऐप अन्य कंपनियों के ऐप या वेबसाइटों पर आपको ट्रैक नहीं करता और विज्ञापन पहचानकर्ता तक पहुँच नहीं माँगता। फिर भी AdMob विज्ञापन दिखाने, उनकी आवृत्ति सीमित करने और धोखाधड़ी रोकने के लिए डिवाइस जानकारी और अनुमानित स्थान (IP आधारित) संसाधित कर सकता है। विज्ञापन इन-ऐप खरीदारी से हटाए जा सकते हैं।"
+    "Google AdMob गैर-वैयक्तिकृत विज्ञापन दिखाता है। जहाँ आवश्यक हो (जैसे EEA और यूके), विज्ञापनों से पहले Google सहमति फ़ॉर्म (UMP) दिखता है और आप सेटिंग में अपना चुनाव बदल सकते हैं। ऐप App Tracking Transparency का अनुरोध नहीं दिखाता, अन्य कंपनियों के ऐप या वेबसाइटों में आपको ट्रैक नहीं करता और विज्ञापन पहचानकर्ता तक पहुँच नहीं माँगता। फिर भी AdMob विज्ञापन देने, उनकी आवृत्ति सीमित करने और धोखाधड़ी रोकने के लिए डिवाइस जानकारी और अनुमानित (IP-आधारित) स्थान प्रोसेस कर सकता है। ऐप में खरीदारी से विज्ञापन हटाए जा सकते हैं।"
    ],
    [
     "क्रैश रिपोर्ट",
@@ -827,7 +1047,7 @@
   "terms": [
    [
     "सेवा",
-    "चेकर्स कंप्यूटर से खेल, एक डिवाइस पर दो खिलाड़ी, लाइव और असिंक्रोनस ऑनलाइन खेल, दोस्त कोड, रैंकिंग, पहेलियाँ, दैनिक मिशन और मैच विश्लेषण देता है। प्रीमियम सदस्यता विज्ञापन और दैनिक सीमाएँ हटाती है और सभी स्किन तथा असीमित संकेत और पूर्ववत शामिल करती है।"
+    "चेकर्स कंप्यूटर के साथ खेल, एक डिवाइस पर दो खिलाड़ी, लाइव और एसिंक ऑनलाइन खेल, फ्रेंड कोड और चुनौतियाँ, टूर्नामेंट, रैंकिंग, Wi-Fi या ब्लूटूथ से पास का खेल, 13 नियम-प्रकार, पहेलियाँ, दैनिक मिशन और खेल विश्लेषण देता है। प्रीमियम सदस्यता विज्ञापन और दैनिक सीमाएँ हटाती है और सभी स्किन तथा असीमित हिंट व अंडू शामिल करती है।"
    ],
    [
     "खरीदारी और सदस्यता",
@@ -838,14 +1058,26 @@
     "ऑनलाइन मैचों में इंजन या कोई बाहरी मदद न लें, किसी का अपमान, उत्पीड़न या प्रतिरूपण न करें, आपत्तिजनक उपनाम न चुनें और सर्वर में बाधा न डालें। नियम तोड़ने वाले खिलाड़ियों के उपनाम छिपाए जा सकते हैं, मैच समाप्त किए जा सकते हैं या ऑनलाइन खेल सीमित किया जा सकता है।"
    ],
    [
+    "पास का खेल",
+    "पास का खेल दो डिवाइसों को Wi-Fi या ब्लूटूथ से सीधे जोड़ता है। केवल उन्हीं लोगों के साथ खेलें जिन पर आपको भरोसा है। आपका उपनाम और अवतार दूसरे डिवाइस पर दिखता है और, जब तक आप कमरा चलाते हैं, पास के डिवाइसों को भी। दूसरा खिलाड़ी अपना उपनाम खुद चुनता है और पास के खेल में रिपोर्ट या ब्लॉक की सुविधा नहीं है, इसलिए कुछ अनुचित लगे तो खेल छोड़ दें। दूरी और कनेक्शन की स्थिरता की गारंटी नहीं है। पास के खेल रेटिंग, आँकड़ों, मिशनों या पुरस्कारों में नहीं गिने जाते, उनमें समय सीमा नहीं होती, और पूरे हुए खेल आपके खेल रिकॉर्ड में सहेजे जाते हैं।"
+   ],
+   [
+    "नियम-प्रकार, विश्लेषण और संपादन सुविधाएँ",
+    "नियम-प्रकार, हाउस नियम, बोर्ड एडिटर, PDN आयात-निर्यात और खेल विश्लेषण मनोरंजन और सीखने के लिए हैं। नियम-प्रकार आधिकारिक टूर्नामेंट नियमों से भिन्न हो सकते हैं और विश्लेषण अपूर्ण हो सकता है। केवल वही खेल आयात करें जिनके उपयोग का आपको अधिकार है। हाउस नियम केवल ऑफ़लाइन खेल में लागू होते हैं।"
+   ],
+   [
     "बदलाव और दायित्व",
     "सेवा जैसी है वैसी प्रदान की जाती है। सुविधाएँ बदल या बंद हो सकती हैं, और ये शर्तें इस पेज पर अपडेट हो सकती हैं।"
    ]
   ],
   "support": [
    [
-    "कैसे खेलें",
-    "होम स्क्रीन पर स्तर और नियम चुनकर कंप्यूटर से खेलें, या गेम शुरू करें पर टैप करके एक डिवाइस पर दो खिलाड़ी, लाइव या असिंक्रोनस ऑनलाइन खेल या दोस्त कोड वाला मैच चुनें। सीखें में नियम और खेलने का तरीका है; नीचे की पट्टी रैंकिंग, आँकड़े और उपलब्धियाँ तथा दुकान तक ले जाती है।"
+    "खेलने का तरीका",
+    "होम पर स्तर और नियम चुनकर कंप्यूटर के साथ खेलें, या खेल शुरू करें दबाकर एक डिवाइस पर दो खिलाड़ी, लाइव या एसिंक ऑनलाइन, फ्रेंड कोड खेल या पास का खेल चुनें। सीखें में नियम और खेलने का तरीका है; नीचे के टैब रैंकिंग, आँकड़े व उपलब्धियाँ और स्टोर तक ले जाते हैं। खेल रिकॉर्ड में आप पिछले खेल दोबारा देख, विश्लेषित कर और PDN के रूप में कॉपी या आयात कर सकते हैं।"
+   ],
+   [
+    "पास के खेल की समस्या हल करें",
+    "दोनों डिवाइसों पर खेल शुरू करें में पास का खेल चुनें; एक कमरा चलाता है और दूसरा जुड़ता है। Wi-Fi के लिए एक ही नेटवर्क चाहिए और ब्लूटूथ चालू होना चाहिए। न जुड़े तो iOS सेटिंग > चेकर्स में देखें कि ब्लूटूथ और स्थानीय नेटवर्क की अनुमति है, और डिवाइसों को पास रखें।"
    ],
    [
     "प्रगति, खरीदारी और सिंक",
@@ -859,15 +1091,15 @@
   "delete-account": [
    [
     "ऐप में हटाएँ",
-    "Apple से साइन इन होने पर: सेटिंग्स > खाता > खाता हटाएँ। आपकी प्रगति, रैंकिंग, उपनाम, खरीद अधिकार और बचे हुए सशुल्क संकेत और पूर्ववत स्थायी रूप से हट जाते हैं और चल रहे ऑनलाइन मैच समाप्त हो जाते हैं। App Store भुगतान वापस नहीं होते।"
+    "यदि आपने Apple से साइन इन किया है: सेटिंग > खाता > खाता हटाएँ। आपकी प्रगति, रैंकिंग, उपनाम, खरीद अधिकार, सिक्के, बचे हुए सशुल्क हिंट और अंडू, दोस्त और फ्रेंड कोड, चुनौती इतिहास, सर्वर पर सिंक हुए खेल रिकॉर्ड, टूर्नामेंट प्रविष्टियाँ और पुश टोकन स्थायी रूप से हटा दिए जाते हैं, और चल रहे ऑनलाइन खेल समाप्त हो जाते हैं। App Store भुगतान वापस नहीं किए जाते।"
    ],
    [
     "ईमेल से अनुरोध",
     "Apple साइन इन के बिना, विषय \"चेकर्स डेटा हटाना\" के साथ dhalska2@gmail.com पर अपने खाते की पहचान वाली जानकारी (जैसे उपनाम) भेजें। हम उचित समय में सर्वर डेटा हटा देंगे।"
    ],
    [
-    "डिवाइस का डेटा",
-    "डिवाइस पर सहेजा डेटा हटाने के लिए ऐप हटाएँ (\"ऐप ऑफ़लोड करें\" नहीं)।"
+    "डिवाइस पर डेटा",
+    "डिवाइस पर सहेजा डेटा (जैसे खेल रिकॉर्ड की स्थानीय प्रतियाँ) ऐप हटाने पर (“ऐप हटाएँ”, “ऐप ऑफ़लोड करें” नहीं) मिट जाता है। पास के खेल में दूसरे डिवाइस को भेजे गए उपनाम और चालें उस डिवाइस पर रह सकती हैं और हम उन्हें नहीं हटा सकते।"
    ]
   ]
  },
@@ -879,16 +1111,17 @@
    "Bantuan & Dukungan",
    "Hapus Data"
   ],
-  "tag": "Dam klasik dengan empat aturan — bermain, memecahkan, dan naik peringkat.",
+  "tag": "Dam klasik dalam 13 varian aturan — main, pecahkan, dan naik peringkat.",
   "intro": "Dukungan & kebijakan resmi Dam · Next Studio",
-  "date": "Berlaku / diperbarui: 2 Oktober 2026",
+  "date": "Berlaku / diperbarui: 4 Oktober 2026",
   "contact": "Kontak",
   "skip": "Langsung ke konten",
   "features": [
-   "Empat aturan: Amerika, Brasil, Rusia, dan Internasional (10×10)",
+   "13 varian aturan: Amerika, Brasil, Rusia, Internasional (10×10) dan 9 lainnya",
    "Lawan komputer (20 level) atau berdua di satu perangkat",
-   "Permainan online langsung dan bergiliran, kode teman, dan peringkat",
-   "Teka-teki · misi harian · analisis permainan",
+   "Main di dekat lewat Wi-Fi atau Bluetooth, tanpa internet",
+   "Main online langsung dan asinkron, kode teman, turnamen, dan peringkat",
+   "Teka-teki · misi harian · analisis permainan · impor/ekspor PDN · editor papan",
    "Langganan Premium"
   ],
   "privacy": [
@@ -897,12 +1130,28 @@
     "Kebijakan ini berlaku untuk aplikasi iOS \"Dam\" (bundle ID com.osj.checkers) yang diterbitkan oleh Next Studio, pengembang perorangan di Korea Selatan. Kontak: dhalska2@gmail.com."
    ],
    [
-    "Akun dan progres cloud",
-    "Tidak perlu mendaftar: aplikasi otomatis membuat akun anonim. Progres kamu (statistik, pencapaian, teka-teki yang dipecahkan, misi, koin dan item, pengaturan, serta permainan yang belum selesai) disimpan di server kami dengan akun itu agar tidak hilang. Masuk dengan Apple bersifat opsional; Apple membagikan pengenal dan, jika kamu izinkan, alamat email (bisa berupa alamat relai pribadi), yang hanya dipakai untuk mengenali akunmu di perangkatmu."
+    "Akun dan progres",
+    "Tidak perlu mendaftar: aplikasi otomatis membuat akun anonim. Progres Anda (statistik, pencapaian, teka-teki yang diselesaikan, misi, pengaturan, dan permainan yang belum selesai) disimpan di server kami pada akun itu agar tidak hilang. Koin, petunjuk, urungkan, skin yang dimiliki, bonus kehadiran, penggunaan gratis harian, dan hadiah pencapaian serta misi yang diklaim diberikan, dikurangi, dan dicatat oleh server; aplikasi hanya menampilkan nilai yang dikembalikan server. Iklan berhadiah dihitung sekali saja dan hanya setelah verifikasi sisi server AdMob, yang untuk itu pengenal akun Anda dan token sekali pakai dikirim ke server kami. Masuk dengan Apple bersifat opsional; Apple membagikan pengenal dan, jika Anda mengizinkan, alamat email (bisa berupa alamat relai pribadi), yang hanya dipakai untuk mengenali akun Anda di perangkat Anda. Saat Anda masuk ke akun yang sudah ada, progres akun anonim digabungkan ke akun itu."
    ],
    [
-    "Permainan online dan peringkat",
-    "Saat bermain online, nama panggilan, negara, avatar, dan rating kamu, serta langkah dan hasil permainan, disimpan di server kami dan ditampilkan kepada lawan dan di peringkat. Kamu bisa melaporkan atau memblokir pemain lain di aplikasi; laporan (pemain yang dilaporkan, alasan, dan waktu) disimpan untuk meninjau nama panggilan yang melanggar aturan."
+    "Main online, peringkat, dan penonton",
+    "Saat bermain online, nama panggilan, negara, avatar, rating, serta langkah, hasil, dan reaksi emoji permainan disimpan di server kami dan ditampilkan kepada lawan serta di peringkat. Pemain lain dapat menonton permainan online Anda yang sedang berlangsung (dengan nama panggilan Anda); Anda dapat mematikannya di Pengaturan. Anda dapat melaporkan atau memblokir pemain lain di aplikasi; laporan (pemain yang dilaporkan, alasan, dan waktu) disimpan untuk meninjau nama panggilan dan perilaku yang melanggar aturan."
+   ],
+   [
+    "Teman dan turnamen",
+    "Jika Anda memakai fitur teman, aplikasi membuat kode teman 8 karakter dan menyimpan daftar teman serta tantangan (permintaan main) Anda di server kami. Teman dapat melihat nama panggilan, rating, dan kapan Anda terakhir online (diperbarui saat Anda memakai aplikasi). Jika Anda membagikan kode teman, orang lain dapat menemukan dan menambahkan Anda. Jika Anda mengikuti turnamen, keikutsertaan Anda (skor, jumlah permainan, kemenangan, rating, peringkat, dan koin hadiah) disimpan di server kami dan dipakai untuk klasemen."
+   ],
+   [
+    "Sinkronisasi catatan permainan",
+    "Permainan yang selesai (melawan komputer, online, di dekat, dan berdua di satu perangkat; bukan latihan) disimpan di perangkat Anda dan juga disinkronkan ke server kami agar bisa dilihat di perangkat lain. Satu catatan dapat berisi ID permainan, waktu, aturan, mode, hasil, semua langkah, posisi awal (misalnya yang dibuat di editor papan), level, dan nama panggilan lawan untuk permainan online dan di dekat. Server menyimpan 20 permainan terbaru Anda (200 dengan Premium) dan yang paling lama dihapus lebih dulu. Anda dapat menghapus catatan satu per satu di daftar."
+   ],
+   [
+    "Main di dekat (Wi-Fi dan Bluetooth)",
+    "Main di dekat memungkinkan Anda bermain langsung dengan perangkat di dekat Anda, tanpa internet, lewat Wi-Fi yang sama atau Bluetooth LE. Di Wi-Fi, ruangan diumumkan dan ditemukan di jaringan lokal dengan Bonjour (mDNS); di Bluetooth, lawan ditemukan lewat iklan dan pemindaian. Selama Anda menjadi tuan rumah, nama panggilan Anda terlihat oleh perangkat di sekitar. Setelah terhubung, nama panggilan, avatar, aturan, langkah, tawaran menyerah dan seri, serta reaksi emoji langsung dikirim ke perangkat lain dan tidak dikirim ke server kami. Aplikasi tidak memakai lokasi Anda. iOS meminta akses Bluetooth dan jaringan lokal saat pertama kali; jika ditolak, bagian aplikasi lain tetap berfungsi, dan Anda dapat mengubahnya di Pengaturan iOS. Permainan di dekat tidak dihitung dalam rating, statistik, misi, atau hadiah koin. Namun, permainan yang selesai disimpan di perangkat Anda sebagai catatan dengan mode “nearby” dan termasuk dalam sinkronisasi catatan di atas, sehingga juga diunggah ke server kami (dengan nama panggilan lawan). Main di dekat tidak memiliki fitur lapor atau blokir."
+   ],
+   [
+    "Fitur yang diproses di perangkat Anda",
+    "13 varian aturan, aturan rumah, posisi yang dibuat di editor papan, notasi langkah, dan analisis permainan dihitung di perangkat Anda. Impor PDN hanya membaca teks yang Anda tempel atau ketik dan ekspor hanya menyalin ke papan klip; aplikasi tidak mengirim keduanya ke server. Saat Anda membuka analisis, hanya pengenal hash permainan yang dikirim ke server untuk menghitung penggunaan gratis harian Anda, bukan langkahnya. Jika permainan seperti itu selesai dan disimpan sebagai catatan, ia termasuk dalam sinkronisasi catatan di atas."
    ],
    [
     "Pembelian dan langganan",
@@ -914,7 +1163,7 @@
    ],
    [
     "Iklan",
-    "Google AdMob menampilkan iklan yang tidak dipersonalisasi. Aplikasi tidak melacakmu di aplikasi atau situs perusahaan lain dan tidak meminta akses ke pengenal iklan. Namun AdMob dapat memproses informasi perangkat dan perkiraan lokasi (berbasis IP) untuk menayangkan iklan, membatasi frekuensinya, dan mencegah penipuan. Iklan dapat dihapus dengan pembelian dalam aplikasi."
+    "Google AdMob menampilkan iklan nonpersonalisasi. Di tempat yang diwajibkan (misalnya EEA dan Inggris), formulir persetujuan Google (UMP) ditampilkan sebelum iklan dan Anda dapat mengubah pilihan di Pengaturan. Aplikasi tidak menampilkan permintaan App Tracking Transparency, tidak melacak Anda di aplikasi atau situs web perusahaan lain, dan tidak meminta akses ke pengenal iklan. Namun AdMob tetap dapat memproses informasi perangkat dan perkiraan lokasi (berbasis IP) untuk menayangkan iklan, membatasi frekuensinya, dan mencegah penipuan. Iklan dapat dihapus dengan pembelian dalam aplikasi."
    ],
    [
     "Laporan kerusakan",
@@ -936,7 +1185,7 @@
   "terms": [
    [
     "Layanan",
-    "Dam menyediakan permainan melawan komputer, dua pemain di satu perangkat, permainan online langsung dan bergiliran, kode teman, peringkat, teka-teki, misi harian, dan analisis permainan. Langganan Premium menghapus iklan dan batas harian serta mencakup semua skin dan petunjuk serta urungkan tanpa batas."
+    "Dam menyediakan permainan melawan komputer, berdua di satu perangkat, main online langsung dan asinkron, kode teman dan tantangan, turnamen, peringkat, main di dekat lewat Wi-Fi atau Bluetooth, 13 varian aturan, teka-teki, misi harian, dan analisis permainan. Langganan Premium menghapus iklan dan batas harian serta mencakup semua skin dan petunjuk serta urungkan tanpa batas."
    ],
    [
     "Pembelian dan langganan",
@@ -947,6 +1196,14 @@
     "Jangan memakai mesin atau bantuan luar lain dalam permainan online, menghina, melecehkan, atau menyamar sebagai orang lain, memakai nama panggilan yang menyinggung, atau mengganggu server. Kami dapat menyembunyikan nama panggilan, mengakhiri permainan, atau membatasi permainan online bagi pemain yang melanggar."
    ],
    [
+    "Main di dekat",
+    "Main di dekat menghubungkan dua perangkat langsung lewat Wi-Fi atau Bluetooth. Bermainlah hanya dengan orang yang Anda percaya. Nama panggilan dan avatar Anda ditampilkan di perangkat lain dan, selama Anda menjadi tuan rumah, di perangkat sekitar. Pemain lain memilih sendiri nama panggilannya dan main di dekat tidak memiliki fitur lapor atau blokir, jadi keluarlah dari permainan jika ada yang tidak pantas. Jangkauan dan kestabilan koneksi tidak dijamin. Permainan di dekat tidak dihitung dalam rating, statistik, misi, atau hadiah, tanpa batas waktu, dan permainan yang selesai disimpan di catatan permainan Anda."
+   ],
+   [
+    "Varian, analisis, dan fitur penyuntingan",
+    "Varian aturan, aturan rumah, editor papan, impor dan ekspor PDN, serta analisis permainan disediakan untuk hiburan dan belajar. Varian dapat berbeda dari aturan turnamen resmi dan analisis mungkin tidak sempurna. Impor hanya permainan yang Anda berhak gunakan. Aturan rumah hanya berlaku di permainan offline."
+   ],
+   [
     "Perubahan dan tanggung jawab",
     "Layanan disediakan apa adanya. Fitur dapat berubah atau dihentikan, dan ketentuan ini dapat diperbarui di halaman ini."
    ]
@@ -954,7 +1211,11 @@
   "support": [
    [
     "Cara bermain",
-    "Di layar beranda, atur level dan aturan lalu lawan komputer, atau ketuk Mulai permainan untuk dua pemain di satu perangkat, permainan online langsung atau bergiliran, atau permainan dengan kode teman. Belajar berisi aturan dan cara bermain; bilah bawah menuju Peringkat, Statistik & Pencapaian, dan Toko."
+    "Di Beranda pilih level dan aturan untuk melawan komputer, atau ketuk Mulai permainan untuk berdua di satu perangkat, main online langsung atau asinkron, permainan kode teman, atau main di dekat. Belajar berisi aturan dan cara bermain; tab di bawah mengarah ke peringkat, statistik dan pencapaian, serta toko. Di catatan permainan Anda dapat memutar ulang dan menganalisis permainan lama serta menyalin atau mengimpornya sebagai PDN."
+   ],
+   [
+    "Mengatasi masalah main di dekat",
+    "Di kedua perangkat pilih main di dekat di Mulai permainan; satu menjadi tuan rumah dan satunya bergabung. Wi-Fi memerlukan jaringan yang sama dan Bluetooth harus menyala. Jika tidak terhubung, periksa di Pengaturan iOS > Dam bahwa Bluetooth dan Jaringan Lokal diizinkan, dan dekatkan kedua perangkat."
    ],
    [
     "Progres, pembelian, dan sinkronisasi",
@@ -968,7 +1229,7 @@
   "delete-account": [
    [
     "Hapus di aplikasi",
-    "Jika masuk dengan Apple: Pengaturan > Akun > Hapus akun. Progres, peringkat, nama panggilan, hak pembelian, serta sisa petunjuk dan urungkan berbayar dihapus permanen, dan permainan online yang sedang berjalan diakhiri. Pembayaran App Store tidak dikembalikan."
+    "Jika Anda masuk dengan Apple: Pengaturan > Akun > Hapus akun. Progres, peringkat, nama panggilan, hak pembelian, koin, sisa petunjuk dan urungkan berbayar, teman dan kode teman, riwayat tantangan, catatan permainan yang disinkronkan ke server, keikutsertaan turnamen, dan token notifikasi dihapus permanen, dan permainan online yang sedang berlangsung diakhiri. Pembayaran App Store tidak dikembalikan."
    ],
    [
     "Permintaan lewat email",
@@ -976,7 +1237,7 @@
    ],
    [
     "Data di perangkat",
-    "Hapus aplikasi (bukan \"Pindahkan Aplikasi\") untuk menghapus data yang tersimpan di perangkat."
+    "Data yang tersimpan di perangkat (seperti salinan lokal catatan permainan) terhapus saat Anda menghapus aplikasi (“Hapus App”, bukan “Bongkar App”). Nama panggilan dan langkah yang dikirim ke perangkat lain saat main di dekat mungkin tetap ada di perangkat itu dan tidak dapat kami hapus."
    ]
   ]
  },
@@ -988,16 +1249,17 @@
    "Ajuda e suporte",
    "Excluir dados"
   ],
-  "tag": "Damas clássicas em quatro regras: jogue, resolva e suba.",
+  "tag": "Damas clássicas em 13 variantes de regras — jogue, resolva e suba.",
   "intro": "Suporte e políticas oficiais de Damas · Next Studio",
-  "date": "Em vigor / atualizada em: 2 de outubro de 2026",
+  "date": "Em vigor / atualizado: 4 de outubro de 2026",
   "contact": "Contato",
   "skip": "Ir para o conteúdo",
   "features": [
-   "Quatro regras: americana, brasileira, russa e internacional (10×10)",
-   "Jogue contra o computador (20 níveis) ou a dois no mesmo aparelho",
-   "Partidas online ao vivo e por turnos, códigos de amigo e rankings",
-   "Problemas · missões diárias · análise de partidas",
+   "13 variantes: americana, brasileira, russa, internacional (10×10) e mais 9",
+   "Jogue contra o computador (20 níveis) ou em dois no mesmo aparelho",
+   "Partidas próximas por Wi-Fi ou Bluetooth, sem internet",
+   "Partidas online ao vivo e assíncronas, códigos de amigo, torneios e rankings",
+   "Problemas · missões diárias · análise de partidas · importar/exportar PDN · editor de tabuleiro",
    "Assinatura Premium"
   ],
   "privacy": [
@@ -1006,12 +1268,28 @@
     "Esta política se aplica ao app para iOS \"Damas\" (ID do pacote com.osj.checkers), publicado pela Next Studio, desenvolvedor individual sediado na Coreia do Sul. Contato: dhalska2@gmail.com."
    ],
    [
-    "Conta e progresso na nuvem",
-    "Não é preciso cadastro: o app cria automaticamente uma conta anônima. Seu progresso (estatísticas, conquistas, problemas resolvidos, missões, moedas e itens, configurações e uma partida não terminada) é salvo no nosso servidor com essa conta para não se perder. Entrar com a Apple é opcional; a Apple compartilha um identificador e, se você permitir, um e-mail (que pode ser um endereço de retransmissão privado), usado só para reconhecer sua conta nos seus aparelhos."
+    "Conta e progresso",
+    "Não é preciso se cadastrar: o app cria automaticamente uma conta anônima. Seu progresso (estatísticas, conquistas, problemas resolvidos, missões, configurações e uma partida não terminada) é salvo em nosso servidor nessa conta para não se perder. Moedas, dicas, desfazer, temas que você tem, bônus de presença, usos gratuitos diários e recompensas de conquistas e missões resgatadas são concedidos, descontados e registrados pelo servidor; o app apenas mostra os valores que o servidor devolve. Um anúncio com recompensa conta uma única vez e somente após a verificação do lado do servidor do AdMob, para a qual o identificador da sua conta e um token de uso único são enviados ao nosso servidor. Entrar com a Apple é opcional; a Apple compartilha um identificador e, se você permitir, um e-mail (que pode ser um endereço de retransmissão privado), usados apenas para reconhecer sua conta nos seus aparelhos. Ao entrar em uma conta existente, o progresso da conta anônima é mesclado a ela."
    ],
    [
-    "Jogo online e rankings",
-    "Ao jogar online, seu apelido, país, avatar e pontuação, além dos lances e resultados das partidas, são salvos no nosso servidor e mostrados aos adversários e nos rankings. Você pode denunciar ou bloquear outro jogador no app; as denúncias (jogador denunciado, motivo e horário) são guardadas para revisar apelidos que violem as regras."
+    "Jogo online, rankings e espectadores",
+    "Ao jogar online, seu apelido, país, avatar, rating e os lances, o resultado e as reações com emoji da partida são salvos em nosso servidor e exibidos ao seu adversário e nos rankings. Outros jogadores podem assistir às suas partidas online em andamento (com seu apelido); você pode desativar isso em Ajustes. Você pode denunciar ou bloquear outros jogadores no app; as denúncias (jogador denunciado, motivo e horário) são mantidas para revisar apelidos e condutas que violem as regras."
+   ],
+   [
+    "Amigos e torneios",
+    "Se você usa amigos, o app cria seu código de amigo de 8 caracteres e salva em nosso servidor sua lista de amigos e seus desafios (pedidos de partida). Os amigos veem seu apelido, seu rating e quando você esteve online pela última vez (atualizado enquanto você usa o app). Se você compartilhar seu código de amigo, outras pessoas podem encontrar e adicionar você. Se você entrar em um torneio, sua participação (pontos, partidas, vitórias, rating, posição e moedas de prêmio) é salva em nosso servidor e usada para a classificação."
+   ],
+   [
+    "Sincronização do histórico de partidas",
+    "As partidas terminadas (contra o computador, online, próximas e dois jogadores no mesmo aparelho; exceto treino) são salvas no seu aparelho e também sincronizadas com nosso servidor para que você possa vê-las em outro aparelho. Um registro pode conter o ID da partida, hora, regras, modo, resultado, todos os lances, a posição inicial (por exemplo, uma criada no editor de tabuleiro), o nível e, em partidas online e próximas, o apelido do adversário. O servidor guarda suas últimas 20 partidas (200 com Premium), e as mais antigas são removidas primeiro. Você pode excluir registros individuais na lista."
+   ],
+   [
+    "Partidas próximas (Wi-Fi e Bluetooth)",
+    "As partidas próximas permitem jogar diretamente com um aparelho perto de você, sem internet, pelo mesmo Wi-Fi ou por Bluetooth LE. No Wi-Fi, a sala é anunciada e encontrada na rede local com Bonjour (mDNS); no Bluetooth, o adversário é encontrado por anúncio e busca. Enquanto você é o anfitrião, seu apelido fica visível para aparelhos próximos. Depois de conectados, seu apelido, avatar, regras, lances, ofertas de desistência e empate e reações com emoji vão diretamente ao outro aparelho e não são enviados aos nossos servidores. O app não usa sua localização. O iOS pede acesso ao Bluetooth e à rede local na primeira vez; se você recusar, o restante do app funciona, e você pode mudar isso nos Ajustes do iOS. Partidas próximas não contam para rating, estatísticas, missões nem recompensas em moedas. No entanto, uma partida terminada é salva no seu aparelho como registro com o modo “nearby” e entra na sincronização do histórico acima, sendo também enviada ao nosso servidor (com o apelido do adversário). As partidas próximas não têm função de denúncia nem de bloqueio."
+   ],
+   [
+    "Recursos processados no seu aparelho",
+    "As 13 variantes de regras, as regras da casa, as posições criadas no editor de tabuleiro, a notação de lances e a análise de partidas são calculadas no seu aparelho. A importação de PDN apenas lê o texto que você cola ou digita e a exportação apenas copia para a área de transferência; o app não envia nenhuma das duas a um servidor. Ao abrir uma análise, apenas um identificador hash da partida é enviado ao servidor para contar seus usos gratuitos por dia, não os lances em si. Se uma partida assim terminar e for mantida como registro, ela entra na sincronização do histórico acima."
    ],
    [
     "Compras e assinaturas",
@@ -1023,7 +1301,7 @@
    ],
    [
     "Anúncios",
-    "O Google AdMob exibe anúncios não personalizados. O app não rastreia você em apps ou sites de outras empresas e não pede acesso ao identificador de publicidade. Mesmo assim, o AdMob pode processar informações do aparelho e uma localização aproximada (por IP) para exibir anúncios, limitar a frequência e evitar fraudes. Os anúncios podem ser removidos com uma compra no app."
+    "O Google AdMob exibe anúncios não personalizados. Onde exigido (por exemplo, o EEE e o Reino Unido), um formulário de consentimento do Google (UMP) é exibido antes dos anúncios e você pode mudar sua escolha em Ajustes. O app não exibe o pedido de transparência de rastreamento de apps, não rastreia você em apps ou sites de outras empresas e não pede acesso ao identificador de publicidade. Ainda assim, o AdMob pode processar informações do aparelho e uma localização aproximada (baseada no IP) para entregar anúncios, limitar a frequência e prevenir fraudes. Os anúncios podem ser removidos com uma compra no app."
    ],
    [
     "Relatórios de falhas",
@@ -1045,7 +1323,7 @@
   "terms": [
    [
     "Serviço",
-    "Damas oferece partidas contra o computador, dois jogadores no mesmo aparelho, jogo online ao vivo e por turnos, códigos de amigo, rankings, problemas, missões diárias e análise de partidas. A assinatura Premium remove anúncios e limites diários e inclui todos os visuais e dicas e desfazer ilimitados."
+    "Damas oferece partidas contra o computador, dois jogadores no mesmo aparelho, jogo online ao vivo e assíncrono, códigos de amigo e desafios, torneios, rankings, partidas próximas por Wi-Fi ou Bluetooth, 13 variantes de regras, problemas, missões diárias e análise de partidas. A assinatura Premium remove anúncios e limites diários e inclui todos os temas e dicas e desfazer ilimitados."
    ],
    [
     "Compras e assinaturas",
@@ -1056,6 +1334,14 @@
     "Não use motores nem outra ajuda externa em partidas online, não insulte, assedie ou se passe por outras pessoas, não escolha apelidos ofensivos nem perturbe os servidores. Podemos ocultar apelidos, encerrar partidas ou restringir o jogo online de quem violar estas regras."
    ],
    [
+    "Partidas próximas",
+    "As partidas próximas conectam dois aparelhos diretamente por Wi-Fi ou Bluetooth. Jogue apenas com pessoas em quem você confia. Seu apelido e avatar aparecem no outro aparelho e, enquanto você é o anfitrião, para aparelhos próximos. O outro jogador escolhe o próprio apelido e as partidas próximas não têm função de denúncia nem de bloqueio; saia da partida se algo for inadequado. O alcance e a estabilidade da conexão não são garantidos. As partidas próximas não contam para rating, estatísticas, missões nem recompensas, não têm limite de tempo, e as partidas terminadas são salvas no seu histórico."
+   ],
+   [
+    "Variantes, análise e recursos de edição",
+    "As variantes de regras, as regras da casa, o editor de tabuleiro, a importação e exportação de PDN e a análise de partidas são oferecidos para diversão e aprendizado. As variantes podem diferir das regras oficiais de torneio e a análise pode ser imperfeita. Importe apenas partidas que você tem o direito de usar. As regras da casa valem apenas em partidas offline."
+   ],
+   [
     "Alterações e responsabilidade",
     "O serviço é fornecido como está. Os recursos podem mudar ou ser encerrados, e estes termos podem ser atualizados nesta página."
    ]
@@ -1063,7 +1349,11 @@
   "support": [
    [
     "Como jogar",
-    "Na tela inicial, escolha o nível e a regra e jogue contra o computador, ou toque em Iniciar jogo para dois jogadores no mesmo aparelho, jogo online ao vivo ou por turnos, ou uma partida por código de amigo. Em Aprender estão as regras e como jogar; a barra inferior leva a Ranking, Estatísticas e conquistas e Loja."
+    "Na tela inicial, escolha nível e regras para jogar contra o computador, ou toque em Iniciar jogo para dois jogadores no mesmo aparelho, jogo online ao vivo ou assíncrono, partidas com código de amigo ou partidas próximas. Aprender tem as regras e como jogar; as abas abaixo levam a rankings, estatísticas e conquistas e à loja. No histórico de partidas você pode rever e analisar partidas anteriores e copiá-las ou importá-las como PDN."
+   ],
+   [
+    "Solução de problemas das partidas próximas",
+    "Nos dois aparelhos, escolha partida próxima em Iniciar jogo; um é o anfitrião e o outro entra. O Wi-Fi exige a mesma rede e o Bluetooth precisa estar ligado. Se não conectar, verifique em Ajustes do iOS > Damas se Bluetooth e Rede Local estão permitidos e aproxime os aparelhos."
    ],
    [
     "Progresso, compras e sincronização",
@@ -1077,7 +1367,7 @@
   "delete-account": [
    [
     "Excluir no app",
-    "Com login na Apple: Ajustes > Conta > Excluir conta. Seu progresso, rankings, apelido, direitos de compra e as dicas e desfazer pagos restantes são excluídos permanentemente, e suas partidas online em andamento são encerradas. Pagamentos da App Store não são reembolsados."
+    "Se você entrou com a Apple: Ajustes > Conta > Excluir conta. Seu progresso, ranking, apelido, direitos de compra, moedas, dicas e desfazer pagos restantes, amigos e código de amigo, histórico de desafios, histórico de partidas sincronizado com o servidor, participações em torneios e o token de notificações são excluídos permanentemente, e as partidas online em andamento terminam. Pagamentos da App Store não são reembolsados."
    ],
    [
     "Pedido por e-mail",
@@ -1085,7 +1375,7 @@
    ],
    [
     "Dados no aparelho",
-    "Apague o app (não \"Descarregar App\") para remover os dados guardados no aparelho."
+    "Os dados armazenados no aparelho (como cópias locais do histórico de partidas) são removidos quando você exclui o app (“Excluir app”, não “Descarregar app”). O apelido e os lances enviados a outro aparelho numa partida próxima podem permanecer nele e não podemos excluí-los."
    ]
   ]
  },
@@ -1097,17 +1387,18 @@
    "Помощь и поддержка",
    "Удаление данных"
   ],
-  "tag": "Классические шашки по четырём правилам — играйте, решайте, растите.",
+  "tag": "Классические шашки в 13 вариантах правил — играйте, решайте, поднимайтесь.",
   "intro": "Официальная поддержка и правила приложения «Шашки» · Next Studio",
-  "date": "Действует / обновлено: 2 октября 2026 г.",
+  "date": "Действует / обновлено: 4 октября 2026 г.",
   "contact": "Контакты",
   "skip": "Перейти к содержанию",
   "features": [
-   "Четыре правила: американские, бразильские, русские и международные (10×10)",
+   "13 вариантов правил: американские, бразильские, русские, международные (10×10) и ещё 9",
    "Игра с компьютером (20 уровней) или вдвоём на одном устройстве",
-   "Онлайн-партии вживую и заочно, коды для друзей и рейтинги",
-   "Задачи · ежедневные миссии · анализ партий",
-   "Подписка Премиум"
+   "Игра рядом по Wi-Fi или Bluetooth, без интернета",
+   "Онлайн-игра в реальном времени и по переписке, коды друзей, турниры и рейтинги",
+   "Задачи · ежедневные миссии · анализ партий · импорт/экспорт PDN · редактор доски",
+   "Подписка Premium"
   ],
   "privacy": [
    [
@@ -1115,12 +1406,28 @@
     "Эта политика относится к iOS-приложению «Шашки» (идентификатор com.osj.checkers), которое публикует Next Studio — индивидуальный разработчик из Южной Кореи. Контакт: dhalska2@gmail.com."
    ],
    [
-    "Аккаунт и облачный прогресс",
-    "Регистрация не нужна: приложение автоматически создаёт анонимный аккаунт. Ваш прогресс (статистика, достижения, решённые задачи, миссии, монеты и предметы, настройки и незавершённая партия) сохраняется на нашем сервере в этом аккаунте, чтобы не потеряться. Вход через Apple необязателен; Apple передаёт идентификатор и, если вы разрешите, адрес электронной почты (возможно, скрытый адрес-пересылку), который используется только для распознавания аккаунта на ваших устройствах."
+    "Аккаунт и прогресс",
+    "Регистрация не нужна: приложение автоматически создаёт анонимный аккаунт. Ваш прогресс (статистика, достижения, решённые задачи, миссии, настройки и незавершённая партия) сохраняется на нашем сервере за этим аккаунтом, чтобы не потеряться. Монеты, подсказки, отмены ходов, имеющиеся скины, бонусы за ежедневный вход, ежедневные бесплатные использования и полученные награды за достижения и миссии начисляются, списываются и записываются сервером; приложение лишь показывает значения, которые вернул сервер. Награда за рекламу засчитывается один раз и только после серверной проверки AdMob; для этого на наш сервер передаются идентификатор вашего аккаунта и одноразовый токен. Вход через Apple необязателен; Apple передаёт идентификатор и, если вы разрешите, адрес электронной почты (это может быть частный адрес-ретранслятор), которые используются только для распознавания аккаунта на ваших устройствах. Когда вы входите в существующий аккаунт, прогресс анонимного аккаунта объединяется с ним."
    ],
    [
-    "Онлайн-игра и рейтинги",
-    "При игре онлайн ваш ник, страна, аватар и рейтинг, а также ходы и результаты партий сохраняются на нашем сервере и показываются соперникам и в рейтингах. В приложении можно пожаловаться на игрока или заблокировать его; жалобы (игрок, причина и время) хранятся для проверки ников, нарушающих правила."
+    "Онлайн-игра, рейтинги и наблюдение",
+    "При онлайн-игре ваш ник, страна, аватар, рейтинг, а также ходы, результат и эмодзи-реакции партии сохраняются на нашем сервере и показываются сопернику и в рейтингах. Другие игроки могут наблюдать за вашими идущими онлайн-партиями (с вашим ником); это можно отключить в настройках. В приложении можно пожаловаться на игрока или заблокировать его; жалобы (игрок, причина, время) хранятся для проверки ников и поведения, нарушающих правила."
+   ],
+   [
+    "Друзья и турниры",
+    "Если вы пользуетесь друзьями, приложение создаёт ваш 8-символьный код друга и сохраняет на нашем сервере ваш список друзей и ваши вызовы (приглашения в игру). Друзья видят ваш ник, рейтинг и время последнего захода (обновляется, пока вы пользуетесь приложением). Если вы делитесь кодом друга, другие могут найти и добавить вас. Если вы участвуете в турнире, ваша запись (очки, партии, победы, рейтинг, место и призовые монеты) сохраняется на нашем сервере и используется для таблицы."
+   ],
+   [
+    "Синхронизация записей партий",
+    "Завершённые партии (с компьютером, онлайн, рядом и вдвоём на одном устройстве; кроме тренировки) сохраняются на вашем устройстве и синхронизируются с нашим сервером, чтобы вы могли смотреть их на другом устройстве. Запись может содержать ID партии, время, правила, режим, результат, все ходы, начальную позицию (например, созданную в редакторе доски), уровень и ник соперника в онлайн-играх и играх рядом. Сервер хранит ваши последние 20 партий (200 с Premium), самые старые удаляются первыми. В списке можно удалять отдельные записи."
+   ],
+   [
+    "Игра рядом (Wi-Fi и Bluetooth)",
+    "Игра рядом позволяет играть напрямую с находящимся рядом устройством без интернета — по одной сети Wi-Fi или Bluetooth LE. В Wi-Fi комната объявляется и находится в локальной сети через Bonjour (mDNS); в Bluetooth соперник находится через объявление и сканирование. Пока вы создаёте комнату, ваш ник виден устройствам поблизости. После соединения ваш ник, аватар, правила, ходы, предложения сдаться и ничьей и эмодзи-реакции передаются напрямую на другое устройство и не отправляются на наши серверы. Приложение не использует ваше местоположение. iOS при первом использовании спрашивает доступ к Bluetooth и локальной сети; при отказе остальное приложение работает, и это можно изменить в настройках iOS. Игры рядом не учитываются в рейтинге, статистике, миссиях и наградах монетами. Однако завершённая партия сохраняется на вашем устройстве как запись с режимом «nearby» и входит в описанную выше синхронизацию записей, то есть тоже загружается на наш сервер (с ником соперника). В игре рядом нет функций жалобы и блокировки."
+   ],
+   [
+    "Функции, обрабатываемые на вашем устройстве",
+    "13 вариантов правил, домашние правила, позиции из редактора доски, запись ходов и анализ партий вычисляются на вашем устройстве. Импорт PDN только читает текст, который вы вставляете или вводите, а экспорт только копирует в буфер обмена; приложение не отправляет ни то ни другое на сервер. При открытии анализа на сервер отправляется только хеш-идентификатор партии, чтобы считать ваши ежедневные бесплатные использования, но не сами ходы. Если такая партия завершена и сохранена как запись, она входит в описанную выше синхронизацию записей."
    ],
    [
     "Покупки и подписки",
@@ -1132,7 +1439,7 @@
    ],
    [
     "Реклама",
-    "Google AdMob показывает неперсонализированную рекламу. Приложение не отслеживает вас в приложениях и на сайтах других компаний и не запрашивает доступ к рекламному идентификатору. При этом AdMob может обрабатывать сведения об устройстве и приблизительное местоположение (по IP), чтобы показывать рекламу, ограничивать частоту показов и предотвращать мошенничество. Рекламу можно отключить встроенной покупкой."
+    "Google AdMob показывает неперсонализированную рекламу. Там, где это требуется (например, в ЕЭЗ и Великобритании), перед рекламой показывается форма согласия Google (UMP), и вы можете изменить выбор в настройках. Приложение не показывает запрос App Tracking Transparency, не отслеживает вас в приложениях и на сайтах других компаний и не запрашивает доступ к рекламному идентификатору. Тем не менее AdMob может обрабатывать данные об устройстве и примерное местоположение (по IP) для показа рекламы, ограничения её частоты и предотвращения мошенничества. Рекламу можно отключить покупкой в приложении."
    ],
    [
     "Отчёты о сбоях",
@@ -1154,7 +1461,7 @@
   "terms": [
    [
     "Сервис",
-    "«Шашки» предлагают игру с компьютером, вдвоём на одном устройстве, онлайн-партии вживую и заочно, коды для друзей, рейтинги, задачи, ежедневные миссии и анализ партий. Подписка Премиум убирает рекламу и дневные ограничения и включает все оформления, а также неограниченные подсказки и отмены ходов."
+    "«Шашки» предлагают игру с компьютером, вдвоём на одном устройстве, онлайн-игру в реальном времени и по переписке, коды друзей и вызовы, турниры, рейтинги, игру рядом по Wi-Fi или Bluetooth, 13 вариантов правил, задачи, ежедневные миссии и анализ партий. Подписка Premium убирает рекламу и ежедневные ограничения и включает все скины и неограниченные подсказки и отмены ходов."
    ],
    [
     "Покупки и подписки",
@@ -1165,6 +1472,14 @@
     "Не используйте движки и другую постороннюю помощь в онлайн-партиях, не оскорбляйте, не преследуйте и не выдавайте себя за других, не выбирайте оскорбительные ники и не мешайте работе серверов. Нарушителям мы можем скрыть ник, завершить партию или ограничить онлайн-игру."
    ],
    [
+    "Игра рядом",
+    "Игра рядом напрямую соединяет два устройства по Wi-Fi или Bluetooth. Играйте только с теми, кому доверяете. Ваш ник и аватар отображаются на другом устройстве, а пока вы создаёте комнату — и на устройствах поблизости. Ник выбирает сам другой игрок, а в игре рядом нет функций жалобы и блокировки, поэтому при неприемлемом поведении выйдите из партии. Дальность и стабильность соединения не гарантируются. Игры рядом не учитываются в рейтинге, статистике, миссиях и наградах, идут без ограничения времени, а завершённые партии сохраняются в ваших записях партий."
+   ],
+   [
+    "Варианты, анализ и функции редактирования",
+    "Варианты правил, домашние правила, редактор доски, импорт и экспорт PDN и анализ партий предоставляются для развлечения и обучения. Варианты могут отличаться от официальных турнирных правил, а анализ может быть неидеальным. Импортируйте только партии, которые вы вправе использовать. Домашние правила действуют только в офлайн-партиях."
+   ],
+   [
     "Изменения и ответственность",
     "Сервис предоставляется «как есть». Функции могут меняться или прекращаться, а эти условия — обновляться на этой странице."
    ]
@@ -1172,7 +1487,11 @@
   "support": [
    [
     "Как играть",
-    "На главном экране выберите уровень и правила и играйте с компьютером или нажмите «Начать игру», чтобы играть вдвоём на одном устройстве, онлайн вживую или заочно, или по коду с другом. В разделе «Обучение» — правила и инструкция; нижняя панель ведёт в рейтинг, статистику и достижения и магазин."
+    "На главной выберите уровень и правила для игры с компьютером или нажмите «Начать игру», чтобы играть вдвоём на одном устройстве, онлайн в реальном времени или по переписке, по коду друга или рядом. В разделе обучения есть правила и способ игры; вкладки внизу ведут к рейтингам, статистике и достижениям и в магазин. В записях партий можно пересматривать и анализировать прошлые партии, копировать и импортировать их как PDN."
+   ],
+   [
+    "Если игра рядом не работает",
+    "На обоих устройствах выберите игру рядом в разделе «Начать игру»; одно создаёт комнату, другое присоединяется. Для Wi-Fi нужна одна сеть, Bluetooth должен быть включён. Если не удаётся соединиться, проверьте в настройках iOS > Шашки, что Bluetooth и локальная сеть разрешены, и поднесите устройства ближе."
    ],
    [
     "Прогресс, покупки и синхронизация",
@@ -1186,7 +1505,7 @@
   "delete-account": [
    [
     "Удаление в приложении",
-    "При входе через Apple: Настройки > Аккаунт > Удалить аккаунт. Прогресс, рейтинги, ник, права на покупки и оставшиеся платные подсказки и отмены удаляются навсегда, а текущие онлайн-партии завершаются. Платежи App Store не возвращаются."
+    "Если вы вошли через Apple: Настройки > Аккаунт > Удалить аккаунт. Ваш прогресс, рейтинг, ник, права на покупки, монеты, оставшиеся платные подсказки и отмены, друзья и код друга, история вызовов, записи партий, синхронизированные с сервером, записи об участии в турнирах и push-токен удаляются без возможности восстановления, идущие онлайн-партии завершаются. Платежи App Store не возвращаются."
    ],
    [
     "Запрос по почте",
@@ -1194,7 +1513,7 @@
    ],
    [
     "Данные на устройстве",
-    "Чтобы стереть данные на устройстве, удалите приложение (не «Сгрузить приложение»)."
+    "Данные, хранящиеся на устройстве (например, локальные копии записей партий), удаляются при удалении приложения («Удалить приложение», а не «Сгрузить приложение»). Ник и ходы, отправленные на другое устройство при игре рядом, могут остаться на нём, и мы не можем их удалить."
    ]
   ]
  },
@@ -1206,16 +1525,17 @@
    "Yardım ve Destek",
    "Verileri Sil"
   ],
-  "tag": "Dört kurallı klasik dama — oyna, çöz, yüksel.",
+  "tag": "13 kural varyantıyla klasik dama — oyna, çöz, yüksel.",
   "intro": "Dama resmî destek ve politikaları · Next Studio",
-  "date": "Yürürlük / güncelleme: 2 Ekim 2026",
+  "date": "Yürürlük / güncelleme: 4 Ekim 2026",
   "contact": "İletişim",
   "skip": "İçeriğe geç",
   "features": [
-   "Dört kural: Amerikan, Brezilya, Rus ve Uluslararası (10×10)",
+   "13 kural varyantı: Amerikan, Brezilya, Rus, Uluslararası (10×10) ve 9 tane daha",
    "Bilgisayara karşı (20 seviye) veya tek cihazda iki kişi",
-   "Canlı ve sıra tabanlı çevrimiçi maçlar, arkadaş kodları ve sıralamalar",
-   "Bulmacalar · günlük görevler · maç analizi",
+   "İnternetsiz, Wi-Fi veya Bluetooth ile yakındaki cihazla oyun",
+   "Canlı ve eşzamansız çevrimiçi oyun, arkadaş kodları, turnuvalar ve sıralamalar",
+   "Bulmacalar · günlük görevler · oyun analizi · PDN içe/dışa aktarma · tahta düzenleyici",
    "Premium abonelik"
   ],
   "privacy": [
@@ -1224,12 +1544,28 @@
     "Bu politika, Güney Kore merkezli bireysel geliştirici Next Studio tarafından yayımlanan iOS uygulaması \"Dama\" (paket kimliği com.osj.checkers) için geçerlidir. İletişim: dhalska2@gmail.com."
    ],
    [
-    "Hesap ve bulut ilerlemesi",
-    "Kayıt gerekmez: uygulama otomatik olarak anonim bir hesap oluşturur. İlerlemen (istatistikler, başarımlar, çözülen bulmacalar, görevler, jetonlar ve öğeler, ayarlar ve bitmemiş bir maç) kaybolmasın diye bu hesapla sunucumuzda saklanır. Apple ile giriş isteğe bağlıdır; Apple bir tanımlayıcı ve izin verirsen bir e-posta adresi (gizli yönlendirme adresi olabilir) paylaşır; bu yalnızca hesabını cihazlarında tanımak için kullanılır."
+    "Hesap ve ilerleme",
+    "Kayıt gerekmez: uygulama otomatik olarak anonim bir hesap oluşturur. İlerlemeniz (istatistikler, başarımlar, çözülen bulmacalar, görevler, ayarlar ve bitmemiş bir oyun) kaybolmasın diye bu hesaba bağlı olarak sunucumuzda saklanır. Jetonlar, ipuçları, geri almalar, sahip olunan görünümler, devam bonusları, günlük ücretsiz kullanımlar ve alınan başarım ile görev ödülleri sunucu tarafından verilir, düşülür ve kaydedilir; uygulama yalnızca sunucunun döndürdüğü değerleri gösterir. Ödüllü reklam yalnızca AdMob sunucu tarafı doğrulamasından sonra ve bir kez sayılır; bunun için hesap tanımlayıcınız ve tek kullanımlık bir belirteç sunucumuza iletilir. Apple ile giriş isteğe bağlıdır; Apple bir tanımlayıcı ve izin verirseniz bir e-posta adresi (özel aktarma adresi olabilir) paylaşır, bunlar yalnızca hesabınızı cihazlarınızda tanımak için kullanılır. Mevcut bir hesapta oturum açtığınızda anonim hesabın ilerlemesi ona birleştirilir."
    ],
    [
-    "Çevrimiçi oyun ve sıralamalar",
-    "Çevrimiçi oynadığında takma adın, ülken, avatarın ve puanın ile maçlarının hamleleri ve sonuçları sunucumuzda saklanır ve rakiplerine ve sıralamalarda gösterilir. Uygulamada bir oyuncuyu şikâyet edebilir veya engelleyebilirsin; şikâyetler (şikâyet edilen oyuncu, sebep ve zaman) kuralları ihlal eden takma adları incelemek için saklanır."
+    "Çevrimiçi oyun, sıralamalar ve izleme",
+    "Çevrimiçi oynadığınızda takma adınız, ülkeniz, avatarınız, puanınız ile oyunun hamleleri, sonucu ve emoji tepkileri sunucumuzda saklanır ve rakibinize ve sıralamalarda gösterilir. Diğer oyuncular devam eden çevrimiçi oyunlarınızı izleyebilir (takma adınız gösterilir); bunu Ayarlar’dan kapatabilirsiniz. Uygulamada diğer oyuncuları şikayet edebilir veya engelleyebilirsiniz; şikayetler (şikayet edilen oyuncu, neden, zaman) kurallara aykırı takma adları ve davranışları incelemek için saklanır."
+   ],
+   [
+    "Arkadaşlar ve turnuvalar",
+    "Arkadaş özelliğini kullanırsanız uygulama 8 karakterlik arkadaş kodunuzu oluşturur ve arkadaş listenizi ile meydan okumalarınızı (oyun istekleri) sunucumuzda saklar. Arkadaşlarınız takma adınızı, puanınızı ve en son ne zaman çevrimiçi olduğunuzu görür (uygulamayı kullanırken güncellenir). Arkadaş kodunuzu paylaşırsanız başkaları sizi bulup ekleyebilir. Bir turnuvaya katılırsanız katılımınız (puan, oyun sayısı, galibiyet, puan düzeyi, sıra ve ödül jetonları) sunucumuzda saklanır ve sıralama için kullanılır."
+   ],
+   [
+    "Oyun kayıtlarının eşitlenmesi",
+    "Biten oyunlar (bilgisayara karşı, çevrimiçi, yakındaki ve tek cihazda iki kişi; alıştırma hariç) cihazınızda saklanır ve başka bir cihazda görebilmeniz için sunucumuzla da eşitlenir. Bir kayıt oyun kimliğini, zamanı, kuralları, modu, sonucu, tüm hamleleri, başlangıç konumunu (örneğin tahta düzenleyicide oluşturulan), seviyeyi ve çevrimiçi ile yakındaki oyunlarda rakibin takma adını içerebilir. Sunucu son 20 oyununuzu (Premium ile 200) tutar; en eskiler önce silinir. Listede kayıtları tek tek silebilirsiniz."
+   ],
+   [
+    "Yakındaki oyun (Wi-Fi ve Bluetooth)",
+    "Yakındaki oyun, internet olmadan aynı Wi-Fi veya Bluetooth LE üzerinden yakınınızdaki bir cihazla doğrudan oynamanızı sağlar. Wi-Fi’de oda yerel ağda Bonjour (mDNS) ile duyurulur ve bulunur; Bluetooth’ta rakip duyuru ve tarama ile bulunur. Oda kurduğunuz sürece takma adınız yakındaki cihazlara görünür. Bağlandıktan sonra takma adınız, avatarınız, kurallar, hamleler, pes ve beraberlik teklifleri ile emoji tepkileri doğrudan diğer cihaza gider ve sunucularımıza gönderilmez. Uygulama konumunuzu kullanmaz. iOS ilk kullanımda Bluetooth ve yerel ağ erişimi ister; reddederseniz uygulamanın geri kalanı çalışır ve iOS Ayarları’ndan değiştirebilirsiniz. Yakındaki oyunlar puana, istatistiklere, görevlere veya jeton ödüllerine sayılmaz. Ancak biten bir oyun, cihazınızda “nearby” modlu bir oyun kaydı olarak saklanır ve yukarıdaki oyun kaydı eşitlemesine dahildir; bu nedenle sunucumuza da yüklenir (rakibin takma adıyla). Yakındaki oyunda şikayet veya engelleme özelliği yoktur."
+   ],
+   [
+    "Cihazınızda işlenen özellikler",
+    "13 kural varyantı, ev kuralları, tahta düzenleyicide oluşturulan konumlar, hamle notasyonu ve oyun analizi cihazınızda hesaplanır. PDN içe aktarma yalnızca yapıştırdığınız veya yazdığınız metni okur, dışa aktarma yalnızca panoya kopyalar; uygulama bunların hiçbirini sunucuya göndermez. Bir analiz açtığınızda günlük ücretsiz kullanımlarınızı saymak için yalnızca oyunun bir karma tanımlayıcısı sunucuya gönderilir, hamlelerin kendisi gönderilmez. Böyle bir oyun bitip kayıt olarak saklanırsa yukarıdaki oyun kaydı eşitlemesine dahil olur."
    ],
    [
     "Satın almalar ve abonelikler",
@@ -1241,7 +1577,7 @@
    ],
    [
     "Reklamlar",
-    "Google AdMob kişiselleştirilmemiş reklamlar gösterir. Uygulama seni başka şirketlerin uygulamaları veya web siteleri arasında izlemez ve reklam tanımlayıcısına erişim istemez. Yine de AdMob reklam sunmak, sıklığını sınırlamak ve dolandırıcılığı önlemek için cihaz bilgilerini ve yaklaşık konumu (IP tabanlı) işleyebilir. Reklamlar uygulama içi satın almayla kaldırılabilir."
+    "Google AdMob kişiselleştirilmemiş reklamlar gösterir. Gereken yerlerde (örneğin AEA ve Birleşik Krallık) reklamlardan önce Google onay formu (UMP) gösterilir ve tercihinizi Ayarlar’dan değiştirebilirsiniz. Uygulama Uygulama İzleme Şeffaflığı istemi göstermez, sizi diğer şirketlerin uygulama veya web sitelerinde izlemez ve reklam tanımlayıcısına erişim istemez. Yine de AdMob, reklamları sunmak, sıklığını sınırlamak ve sahteciliği önlemek için cihaz bilgilerini ve yaklaşık (IP tabanlı) konumu işleyebilir. Reklamlar uygulama içi satın alma ile kaldırılabilir."
    ],
    [
     "Çökme raporları",
@@ -1263,7 +1599,7 @@
   "terms": [
    [
     "Hizmet",
-    "Dama; bilgisayara karşı oyun, tek cihazda iki oyuncu, canlı ve sıra tabanlı çevrimiçi oyun, arkadaş kodları, sıralamalar, bulmacalar, günlük görevler ve maç analizi sunar. Premium abonelik reklamları ve günlük sınırları kaldırır; tüm görünümleri ve sınırsız ipucu ile geri almayı içerir."
+    "Dama; bilgisayara karşı oyun, tek cihazda iki kişi, canlı ve eşzamansız çevrimiçi oyun, arkadaş kodları ve meydan okumalar, turnuvalar, sıralamalar, Wi-Fi veya Bluetooth ile yakındaki oyun, 13 kural varyantı, bulmacalar, günlük görevler ve oyun analizi sunar. Premium abonelik reklamları ve günlük sınırları kaldırır; tüm görünümleri ve sınırsız ipucu ile geri almayı içerir."
    ],
    [
     "Satın almalar ve abonelikler",
@@ -1274,6 +1610,14 @@
     "Çevrimiçi maçlarda motor veya başka dış yardım kullanma, kimseye hakaret etme, taciz etme veya başkasını taklit etme, saldırgan takma ad seçme ve sunucuları bozma. Kuralları ihlal eden oyuncuların takma adlarını gizleyebilir, maçlarını sonlandırabilir veya çevrimiçi oyunlarını kısıtlayabiliriz."
    ],
    [
+    "Yakındaki oyun",
+    "Yakındaki oyun iki cihazı Wi-Fi veya Bluetooth ile doğrudan bağlar. Yalnızca güvendiğiniz kişilerle oynayın. Takma adınız ve avatarınız diğer cihazda, oda kurduğunuz sürece de yakındaki cihazlarda gösterilir. Diğer oyuncu kendi takma adını seçer ve yakındaki oyunda şikayet veya engelleme özelliği yoktur; uygunsuz bir durum olursa oyundan çıkın. Menzil ve bağlantı kararlılığı garanti edilmez. Yakındaki oyunlar puana, istatistiklere, görevlere veya ödüllere sayılmaz, süresizdir ve biten oyunlar oyun kayıtlarınıza kaydedilir."
+   ],
+   [
+    "Varyantlar, analiz ve düzenleme özellikleri",
+    "Kural varyantları, ev kuralları, tahta düzenleyici, PDN içe ve dışa aktarma ile oyun analizi eğlence ve öğrenme amacıyla sunulur. Varyantlar resmi turnuva kurallarından farklı olabilir ve analiz kusursuz olmayabilir. Yalnızca kullanma hakkınız olan oyunları içe aktarın. Ev kuralları yalnızca çevrimdışı oyunlarda geçerlidir."
+   ],
+   [
     "Değişiklikler ve sorumluluk",
     "Hizmet olduğu gibi sunulur. Özellikler değişebilir veya sona erebilir; bu şartlar bu sayfada güncellenebilir."
    ]
@@ -1281,7 +1625,11 @@
   "support": [
    [
     "Nasıl oynanır",
-    "Ana ekranda seviyeyi ve kuralı seçip bilgisayara karşı oyna ya da Oyuna başla’ya dokunarak tek cihazda iki kişi, canlı veya sıra tabanlı çevrimiçi oyun ya da arkadaş koduyla maç seç. Öğren bölümünde kurallar ve nasıl oynanır anlatımı var; alt çubuk Sıralama, İstatistikler ve Başarımlar ile Mağaza’ya götürür."
+    "Ana ekranda seviye ve kuralları seçerek bilgisayarla oynayın veya Oyunu başlat’a dokunarak tek cihazda iki kişi, canlı veya eşzamansız çevrimiçi oyun, arkadaş kodlu oyun ya da yakındaki oyunu seçin. Öğren bölümünde kurallar ve oynanış vardır; alttaki sekmeler sıralamalara, istatistik ve başarımlara ve mağazaya götürür. Oyun kayıtlarında geçmiş oyunları yeniden izleyebilir, analiz edebilir ve PDN olarak kopyalayabilir veya içe aktarabilirsiniz."
+   ],
+   [
+    "Yakındaki oyun sorunları",
+    "Her iki cihazda da Oyunu başlat altında yakındaki oyunu seçin; biri oda kurar, diğeri katılır. Wi-Fi için aynı ağ gerekir, Bluetooth açık olmalıdır. Bağlanamazsanız iOS Ayarları > Dama’da Bluetooth ve Yerel Ağ’a izin verildiğini kontrol edin ve cihazları yaklaştırın."
    ],
    [
     "İlerleme, satın almalar ve eşitleme",
@@ -1294,8 +1642,8 @@
   ],
   "delete-account": [
    [
-    "Uygulamada silme",
-    "Apple ile giriş yaptıysan: Ayarlar > Hesap > Hesabı sil. İlerlemen, sıralamaların, takma adın, satın alma hakların ve kalan ücretli ipucu ve geri almaların kalıcı olarak silinir; devam eden çevrimiçi maçların sonlandırılır. App Store ödemeleri iade edilmez."
+    "Uygulamada sil",
+    "Apple ile giriş yaptıysanız: Ayarlar > Hesap > Hesabı sil. İlerlemeniz, sıralamanız, takma adınız, satın alma haklarınız, jetonlarınız, kalan ücretli ipuçları ve geri almalar, arkadaşlar ve arkadaş kodu, meydan okuma geçmişi, sunucuyla eşitlenen oyun kayıtları, turnuva katılımları ve anlık bildirim belirteci kalıcı olarak silinir; devam eden çevrimiçi oyunlar sona erer. App Store ödemeleri iade edilmez."
    ],
    [
     "E-postayla talep",
@@ -1303,7 +1651,7 @@
    ],
    [
     "Cihazdaki veriler",
-    "Cihazda saklanan verileri kaldırmak için uygulamayı sil (\"Uygulamayı Boşalt\" değil)."
+    "Cihazda saklanan veriler (oyun kayıtlarının yerel kopyaları gibi) uygulamayı sildiğinizde (“Uygulamayı Sil”, “Uygulamayı Boşalt” değil) kaldırılır. Yakındaki oyunda başka bir cihaza gönderilen takma ad ve hamleler o cihazda kalabilir ve biz bunları silemeyiz."
    ]
   ]
  }
