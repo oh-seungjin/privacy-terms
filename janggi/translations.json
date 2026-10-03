@@ -1,0 +1,747 @@
+{
+ "ko": {
+  "nav": [
+   "홈",
+   "개인정보처리방침",
+   "이용약관",
+   "도움말·지원",
+   "데이터 삭제"
+  ],
+  "tag": "사람처럼 두는 AI와 장기 한판 — 배우고, 두고, 복기하세요.",
+  "intro": "장기 한판: 사람 같은 AI & Online 공식 지원·정책 · 넥스트 스튜디오",
+  "date": "시행·개정일: 2026년 10월 3일",
+  "contact": "문의",
+  "skip": "본문 바로가기",
+  "features": [
+   "18급부터 9단까지 사람처럼 두는 AI",
+   "실시간·비동기·친구 온라인 대전과 랭킹",
+   "직접 말을 움직이는 튜토리얼과 외통수 퀴즈 397문제",
+   "복기 분석과 코치 총평",
+   "장기 프리미엄 구독·평생 이용권"
+  ],
+  "privacy": [
+   [
+    "운영자와 적용 범위",
+    "이 방침은 넥스트 스튜디오(대한민국 개인 개발자)가 배포하는 iOS 앱 \"장기 한판: 사람 같은 AI & Online\"(번들 ID com.osj.janggi)에 적용됩니다. 문의: dhalska2@gmail.com."
+   ],
+   [
+    "계정과 클라우드 진행 상황",
+    "가입 없이 쓸 수 있도록 앱이 익명 계정을 자동으로 만듭니다. 진행 상황(레이팅, 업적, 출석, 푼 퀴즈, 훈수권, 설정, 끝나지 않은 AI 대국, 최근 기보)은 잃어버리지 않도록 이 계정 기준으로 서버에 저장됩니다. Apple 로그인은 선택 사항이며, Apple이 식별자와 허용한 경우 이메일 주소(비공개 릴레이 주소일 수 있음)를 공유합니다. 이는 여러 기기에서 계정을 알아보는 데만 씁니다."
+   ],
+   [
+    "온라인 대전과 랭킹",
+    "온라인으로 대국하면 닉네임, 국가, 레이팅과 대국의 수·결과가 서버에 저장되고 상대와 랭킹에 표시됩니다. 다른 플레이어를 신고할 수 있으며, 신고 내용(신고된 플레이어, 사유, 시각)은 규칙 위반을 검토하기 위해 보관합니다. 신고된 닉네임은 부적절한지 판단하기 위해 Anthropic의 Claude AI로 검토할 수 있으며, 이때 닉네임 문자열만 전송합니다."
+   ],
+   [
+    "AI 학습용 기보 제공",
+    "설정의 \"AI 학습에 기보 제공\"이 켜져 있으면 끝난 AI 대국의 수순과 결과를 익명 계정 ID로 서버에 보내 사람처럼 두는 AI를 학습시키는 데 씁니다. 이름이나 연락처는 포함되지 않으며, 설정에서 언제든 끌 수 있습니다."
+   ],
+   [
+    "AI 코치 총평",
+    "프리미엄 이용자가 코치 총평을 요청하면, 그 대국의 엔진 분석 요약(진영, 결과, 정확도, 주요 장면의 수와 더 좋은 수)을 Anthropic의 Claude API로 보내 총평 문장을 만듭니다. 계정 정보나 닉네임은 보내지 않으며, 만들어진 총평은 다시 요청할 때 쓰도록 서버에 보관합니다."
+   ],
+   [
+    "구매와 구독",
+    "구매(훈수권·복기권 묶음, 광고 제거, 테마 팩, 평생 이용권)와 프리미엄 구독은 Apple이 결제합니다. 결제 정보는 받지 않으며, 구매한 것을 지급·복원하기 위해 거래 ID, 상품, 구독 상태만 저장합니다."
+   ],
+   [
+    "알림",
+    "알림을 허용한 경우에만 내 차례, 대국 성사, 대국 종료를 알려 드리기 위해 푸시 토큰(Firebase Cloud Messaging)과 앱 언어를 저장합니다. 앱이나 iOS 설정에서 끌 수 있습니다."
+   ],
+   [
+    "광고",
+    "Google AdMob이 대국 시작 전·종료 후와 보상형 광고에서 비맞춤 광고를 보여 줍니다. 앱은 다른 회사의 앱·웹사이트에 걸쳐 사용자를 추적하지 않으며 광고 식별자 접근을 요청하지 않습니다. 다만 AdMob은 광고 전달, 노출 빈도 제한, 부정 방지를 위해 기기 정보와 대략적인 위치(IP 기반)를 처리할 수 있습니다. 보상형 광고의 보상은 Google의 서명된 확인(SSV)으로 지급합니다."
+   ],
+   [
+    "오류 보고",
+    "Firebase Crashlytics가 문제를 고치기 위해 비정상 종료·오류 보고(기기 모델, OS·앱 버전, 기술 로그, 임의 설치 ID)를 수집합니다. 결제 정보는 포함되지 않습니다."
+   ],
+   [
+    "서비스 제공자와 저장 위치",
+    "Supabase(데이터베이스·로그인), Apple(Apple 로그인·결제), Google(AdMob 광고, Firebase 알림·오류 보고), Anthropic(코치 총평과 닉네임 검토)은 각자의 개인정보처리방침에 따라 데이터를 처리하며, 서버가 국외에 있을 수 있습니다. 이 페이지는 GitHub Pages에서 제공되며 분석·광고 스크립트를 쓰지 않습니다."
+   ],
+   [
+    "보관과 삭제",
+    "서버 데이터는 계정이 있는 동안 보관합니다. 앱의 설정 > 장기 데이터 삭제로 지우거나 이메일로 요청하면 이 게임의 서버 데이터를 합리적인 기간 안에 삭제하거나 익명화합니다. 앱을 지우면 기기에 저장된 데이터만 지워집니다."
+   ],
+   [
+    "이용자 권리, 아동, 변경",
+    "dhalska2@gmail.com로 내 데이터의 열람·정정·삭제를 요청할 수 있습니다. 이 앱은 만 13세 미만 아동을 대상으로 하지 않으며 아동의 정보를 알면서 수집하지 않습니다. 방침이 바뀌면 이 페이지에 새 날짜와 함께 게시합니다."
+   ]
+  ],
+  "terms": [
+   [
+    "적용",
+    "이 약관은 넥스트 스튜디오의 iOS 앱 \"장기 한판: 사람 같은 AI & Online\"(이하 \"앱\") 이용에 적용됩니다. 앱 사용에는 Apple 표준 최종 사용자 사용권 계약(EULA)도 함께 적용됩니다."
+   ],
+   [
+    "서비스",
+    "앱은 AI 대국, 온라인 대전, 튜토리얼, 외통수 퀴즈, 복기 분석과 코치 총평을 제공합니다. 온라인 기능과 AI 코치 총평은 서버와 외부 서비스에 의존하므로 점검이나 장애로 일시 중단될 수 있습니다. AI 분석과 총평은 참고용이며 항상 정확하지는 않습니다."
+   ],
+   [
+    "구매와 구독",
+    "장기 프리미엄(월간·연간 구독, 평생 이용권)과 이용권·광고 제거·테마 팩은 Apple을 통해 결제됩니다. 구독은 현재 기간이 끝나기 최소 24시간 전에 해지하지 않으면 자동으로 갱신되며, App Store 계정 설정에서 관리하거나 해지할 수 있습니다. 환불은 Apple의 정책을 따릅니다. 이용권은 계정에 보관되고 쓸 때마다 1장씩 차감됩니다."
+   ],
+   [
+    "이용자 행동",
+    "다른 플레이어를 모욕하거나 혐오·성적·광고성 닉네임을 쓰거나, 부정 도구·여러 계정·의도적 패배로 레이팅을 조작하거나, 서비스를 방해해서는 안 됩니다. 위반 시 닉네임 초기화, 온라인 기능 제한 또는 계정 정지가 있을 수 있습니다."
+   ],
+   [
+    "콘텐츠와 권리",
+    "앱, 디자인, AI, 퀴즈와 문구의 권리는 넥스트 스튜디오에 있습니다. 내가 둔 기보는 자유롭게 쓸 수 있으며, AI 학습 제공을 켠 경우 익명화된 기보를 AI 개선에 쓰도록 허락한 것으로 봅니다."
+   ],
+   [
+    "책임의 한계",
+    "법이 허용하는 범위에서 앱은 현 상태 그대로 제공되며, 서비스 중단이나 데이터 손실로 인한 간접 손해에 대해 책임지지 않습니다. 대한민국 법을 따릅니다."
+   ],
+   [
+    "변경과 문의",
+    "약관이 바뀌면 이 페이지에 새 날짜와 함께 게시합니다. 문의: dhalska2@gmail.com."
+   ]
+  ],
+  "support": [
+   [
+    "장기 규칙을 모르는데 시작할 수 있나요?",
+    "하단 탭의 \"학습\" > \"장기 배우기\"에서 14단계 튜토리얼로 기물 행마부터 장군·외통·빅장까지 직접 말을 움직이며 배울 수 있습니다."
+   ],
+   [
+    "AI 실력은 어떻게 고르나요?",
+    "\"AI 대전 시작\"에서 18급부터 9단까지 고를 수 있습니다. 앱은 마지막에 고른 진영·상차림·급수를 기억합니다."
+   ],
+   [
+    "빅장과 점수 계가는 어떻게 되나요?",
+    "두 궁이 마주 본 채로 한 수가 지나면 남은 기물 점수(차13·포7·마5·상3·사3·졸2, 한 1.5점 덤)로 판정합니다. 설정에서 무승부로 바꿀 수 있습니다."
+   ],
+   [
+    "온라인 대전 시간은?",
+    "실시간 대전은 15분에 초읽기 30초 3회입니다. 비동기 대전은 무료로 동시에 3판까지, 프리미엄은 제한 없이 둘 수 있습니다."
+   ],
+   [
+    "구매를 복원하려면?",
+    "상점 화면 아래의 \"구매 복원\"을 누르세요. 구독 해지는 App Store 계정 설정 > 구독에서 할 수 있습니다."
+   ],
+   [
+    "다른 기기로 옮기려면?",
+    "설정에서 Apple로 로그인하면 레이팅, 업적, 기보, 설정과 진행 중인 AI 대국을 다른 기기에서 이어갈 수 있습니다."
+   ],
+   [
+    "문제가 생겼어요",
+    "앱 버전, 기기 모델과 증상을 적어 dhalska2@gmail.com로 보내 주세요."
+   ]
+  ],
+  "delete-account": [
+   [
+    "앱에서 삭제하기",
+    "설정 > 계정 > \"장기 데이터 삭제\"를 누르면 이 게임의 서버 기록(레이팅, 온라인 대국, 기보, 진행 상황, 푸시 토큰)과 이 기기의 기록이 삭제됩니다. 진행 중인 온라인 대국은 기권 처리됩니다."
+   ],
+   [
+    "삭제되지 않는 것",
+    "Apple을 통한 구매·구독 기록은 Apple이 관리하며, 법적 의무를 위해 필요한 결제 거래 기록은 정해진 기간 보관될 수 있습니다. 같은 계정으로 쓰는 다른 넥스트 스튜디오 게임의 데이터는 지워지지 않습니다."
+   ],
+   [
+    "이메일로 요청하기",
+    "앱을 쓸 수 없다면 dhalska2@gmail.com로 \"장기 데이터 삭제\" 제목과 함께 요청해 주세요. 본인 확인 후 합리적인 기간 안에 처리합니다."
+   ],
+   [
+    "구독 해지",
+    "데이터를 지워도 Apple 구독은 자동으로 해지되지 않습니다. App Store 계정 설정 > 구독에서 해지해 주세요."
+   ]
+  ]
+ },
+ "en": {
+  "nav": [
+   "Home",
+   "Privacy Policy",
+   "Terms of Use",
+   "Help & Support",
+   "Delete Data"
+  ],
+  "tag": "Play janggi against an AI that plays like a person — learn, play, review.",
+  "intro": "Janggi: Human-like AI & Online — official support and policies · Next Studio",
+  "date": "Effective date: October 3, 2026",
+  "contact": "Contact",
+  "skip": "Skip to content",
+  "features": [
+   "Human-like AI from 18 kyu to 9 dan",
+   "Realtime, correspondence and friend games online, with a leaderboard",
+   "A hands-on tutorial and 397 mate puzzles",
+   "Game review and coach summary",
+   "Janggi Premium subscription or lifetime purchase"
+  ],
+  "privacy": [
+   [
+    "Operator and scope",
+    "This policy covers the iOS app \"Janggi: Human-like AI & Online\" (bundle ID com.osj.janggi) published by Next Studio, an individual developer in the Republic of Korea. Contact: dhalska2@gmail.com."
+   ],
+   [
+    "Account and cloud progress",
+    "So you can play without signing up, the app creates an anonymous account. Your progress (rating, achievements, attendance, solved puzzles, hint tickets, settings, an unfinished AI game, recent game records) is stored on the server under this account so it is not lost. Sign in with Apple is optional; Apple shares an identifier and, if you allow it, an email address (possibly a private relay address), used only to recognise your account across devices."
+   ],
+   [
+    "Online games and leaderboard",
+    "When you play online, your nickname, country, rating and the moves and results of your games are stored on the server and shown to opponents and on the leaderboard. You can report other players; reports (who, why, when) are kept to review rule violations. Reported nicknames may be checked by Anthropic's Claude AI; only the nickname text is sent."
+   ],
+   [
+    "Game records for AI training",
+    "When \"Share games for AI training\" is on in Settings, the moves and results of finished AI games are sent under your anonymous account ID to train a more human-like AI. No name or contact details are included, and you can turn it off at any time."
+   ],
+   [
+    "AI coach summary",
+    "When a Premium user asks for a coach summary, an engine-analysis summary of that game (side, result, accuracy, key moves and better moves) is sent to Anthropic's Claude API to write the summary. No account details or nickname are sent; the written summary is kept on the server so it can be shown again."
+   ],
+   [
+    "Purchases and subscriptions",
+    "Purchases (hint and review ticket packs, ad removal, theme pack, lifetime) and the Premium subscription are paid through Apple. We never receive payment details; we store only the transaction ID, product and subscription status to deliver and restore what you bought."
+   ],
+   [
+    "Notifications",
+    "Only if you allow notifications, we store a push token (Firebase Cloud Messaging) and the app language to tell you when it is your move, a game is found or a game ends. You can turn this off in the app or in iOS Settings."
+   ],
+   [
+    "Ads",
+    "Google AdMob shows non-personalised ads before and after games and for rewards. The app does not track you across other companies' apps or websites and does not ask for the advertising identifier. AdMob may still process device information and approximate location (from IP) for ad delivery, frequency capping and fraud prevention. Rewards are granted through Google's signed server-side verification."
+   ],
+   [
+    "Crash reports",
+    "Firebase Crashlytics collects crash and error reports (device model, OS and app version, technical logs, a random installation ID) to fix problems. No payment information is included."
+   ],
+   [
+    "Service providers and location",
+    "Supabase (database, sign-in), Apple (Sign in with Apple, payments), Google (AdMob, Firebase notifications and crash reports) and Anthropic (coach summaries, nickname review) process data under their own privacy policies, and servers may be outside your country. This site is served by GitHub Pages and uses no analytics or ad scripts."
+   ],
+   [
+    "Retention and deletion",
+    "Server data is kept while your account exists. Use Settings > Delete Janggi data in the app, or email us, and this game's server data is deleted or anonymised within a reasonable time. Deleting the app removes only the data stored on the device."
+   ],
+   [
+    "Your rights, children, changes",
+    "Email dhalska2@gmail.com to access, correct or delete your data. The app is not directed at children under 13 and does not knowingly collect their information. Changes to this policy are posted on this page with a new date."
+   ]
+  ],
+  "terms": [
+   [
+    "Scope",
+    "These terms govern your use of Next Studio's iOS app \"Janggi: Human-like AI & Online\" (the \"App\"). Apple's Standard End User License Agreement (EULA) also applies."
+   ],
+   [
+    "The service",
+    "The App offers AI games, online play, a tutorial, mate puzzles, game review and coach summaries. Online features and AI coach summaries depend on servers and third-party services and may be interrupted for maintenance or outages. AI analysis and summaries are for guidance and are not always accurate."
+   ],
+   [
+    "Purchases and subscriptions",
+    "Janggi Premium (monthly and yearly subscriptions, lifetime) and ticket packs, ad removal and the theme pack are paid through Apple. Subscriptions renew automatically unless cancelled at least 24 hours before the end of the current period, and can be managed or cancelled in your App Store account settings. Refunds follow Apple's policy. Tickets are kept on your account and one is used each time."
+   ],
+   [
+    "Conduct",
+    "Do not insult other players, use hateful, sexual or advertising nicknames, manipulate ratings with cheating tools, multiple accounts or intentional losses, or disrupt the service. Violations may lead to a nickname reset, limits on online features or account suspension."
+   ],
+   [
+    "Content and rights",
+    "The App, its design, AI, puzzles and text belong to Next Studio. You may use the records of your own games freely; with AI training sharing on, you allow anonymised records to be used to improve the AI."
+   ],
+   [
+    "Limitation of liability",
+    "To the extent the law allows, the App is provided as is, and we are not liable for indirect losses from service interruptions or data loss. The laws of the Republic of Korea apply."
+   ],
+   [
+    "Changes and contact",
+    "Changes are posted on this page with a new date. Contact: dhalska2@gmail.com."
+   ]
+  ],
+  "support": [
+   [
+    "I don't know the rules. Can I still start?",
+    "Open the Learn tab > Learn janggi. The 14-step tutorial lets you move the pieces yourself, from how each piece moves to check, mate and bikjang."
+   ],
+   [
+    "How do I choose the AI's strength?",
+    "Tap \"Play the AI\" and pick from 18 kyu to 9 dan. The app remembers your last side, setups and level."
+   ],
+   [
+    "How do bikjang and points work?",
+    "If the two generals face each other through a full move, the game is decided on remaining material (chariot 13, cannon 7, horse 5, elephant 3, guard 3, soldier 2, plus 1.5 for Han). You can make it a draw in Settings."
+   ],
+   [
+    "What are the online time controls?",
+    "Realtime games are 15 minutes plus byo-yomi 3 × 30 seconds. Free players can run 3 correspondence games at once; Premium has no limit."
+   ],
+   [
+    "How do I restore purchases?",
+    "Tap \"Restore purchases\" at the bottom of the shop. Cancel a subscription in App Store account settings > Subscriptions."
+   ],
+   [
+    "How do I move to another device?",
+    "Sign in with Apple in Settings to continue your rating, achievements, records, settings and unfinished AI game on another device."
+   ],
+   [
+    "Something is wrong",
+    "Email dhalska2@gmail.com with the app version, device model and what happened."
+   ]
+  ],
+  "delete-account": [
+   [
+    "Delete in the app",
+    "Settings > Account > \"Delete Janggi data\" removes this game's server records (rating, online games, game records, progress, push token) and the records on this device. Online games in progress are resigned."
+   ],
+   [
+    "What is not deleted",
+    "Purchase and subscription records are managed by Apple, and payment transaction records required by law may be kept for the required period. Data of other Next Studio games on the same account is not deleted."
+   ],
+   [
+    "Request by email",
+    "If you cannot use the app, email dhalska2@gmail.com with the subject \"Delete Janggi data\". We process it within a reasonable time after verifying the request."
+   ],
+   [
+    "Cancel your subscription",
+    "Deleting data does not cancel an Apple subscription. Cancel it in App Store account settings > Subscriptions."
+   ]
+  ]
+ },
+ "zh": {
+  "nav": [
+   "首页",
+   "隐私政策",
+   "使用条款",
+   "帮助与支持",
+   "删除数据"
+  ],
+  "tag": "与像人一样下棋的AI来一盘韩国象棋 —— 学棋、对弈、复盘。",
+  "intro": "韩国象棋：像人一样的AI与在线对战 · 官方支持与政策 · Next Studio",
+  "date": "生效日期：2026年10月3日",
+  "contact": "联系我们",
+  "skip": "跳到正文",
+  "features": [
+   "从18级到9段，像人一样下棋的AI",
+   "实时、异步、好友在线对战与排行榜",
+   "亲手走棋的教程与397道杀棋习题",
+   "复盘分析与教练点评",
+   "高级版订阅或永久版"
+  ],
+  "privacy": [
+   [
+    "运营者与适用范围",
+    "本政策适用于Next Studio（大韩民国个人开发者）发布的iOS应用\"韩国象棋：像人一样的AI与在线对战\"（Bundle ID com.osj.janggi）。联系方式：dhalska2@gmail.com。"
+   ],
+   [
+    "账户与云端进度",
+    "为免注册即可使用，应用会自动创建匿名账户。你的进度（等级分、成就、签到、已解习题、提示券、设置、未完成的人机对局、近期棋谱）以该账户保存在服务器上，避免丢失。使用Apple登录为可选项；Apple会提供一个标识符，以及在你允许时提供电子邮件地址（可能是隐藏的转发地址），仅用于在多台设备上识别你的账户。"
+   ],
+   [
+    "在线对战与排行榜",
+    "在线对弈时，你的昵称、国家/地区、等级分以及对局着法与结果会保存在服务器上，并显示给对手和排行榜。你可以举报其他玩家；举报内容（被举报者、原因、时间）会被保留以审核违规行为。被举报的昵称可能由Anthropic的Claude AI审核，只发送昵称文本。"
+   ],
+   [
+    "提供棋谱用于AI训练",
+    "当设置中的\"提供棋谱用于AI训练\"开启时，已结束的人机对局着法与结果会以匿名账户ID发送到服务器，用于训练更像人的AI。不包含姓名或联系方式，可随时在设置中关闭。"
+   ],
+   [
+    "AI教练点评",
+    "高级版用户请求教练点评时，该局的引擎分析摘要（阵营、结果、准确度、关键着法与更好的着法）会发送到Anthropic的Claude API以生成点评。不发送账户信息或昵称；生成的点评会保存在服务器上以便再次查看。"
+   ],
+   [
+    "购买与订阅",
+    "购买（提示券与复盘券、去广告、主题包、永久版）及高级版订阅均通过Apple付款。我们不会收到付款信息，只保存交易ID、商品与订阅状态，用于发放与恢复购买内容。"
+   ],
+   [
+    "通知",
+    "仅在你允许通知时，我们会保存推送令牌（Firebase Cloud Messaging）与应用语言，用于通知轮到你走棋、匹配成功或对局结束。可在应用或iOS设置中关闭。"
+   ],
+   [
+    "广告",
+    "Google AdMob会在对局开始前、结束后以及奖励广告中展示非个性化广告。应用不会跨其他公司的应用或网站追踪你，也不请求广告标识符。但AdMob可能为投放广告、频次控制与防作弊而处理设备信息与大致位置（基于IP）。奖励通过Google签名的服务器端验证发放。"
+   ],
+   [
+    "错误报告",
+    "Firebase Crashlytics会收集崩溃与错误报告（设备型号、系统与应用版本、技术日志、随机安装ID）以修复问题，不包含付款信息。"
+   ],
+   [
+    "服务提供商与存储位置",
+    "Supabase（数据库、登录）、Apple（Apple登录、付款）、Google（AdMob、Firebase通知与错误报告）与Anthropic（教练点评、昵称审核）按各自的隐私政策处理数据，服务器可能位于你所在国家/地区以外。本网站由GitHub Pages提供，不使用任何分析或广告脚本。"
+   ],
+   [
+    "保存与删除",
+    "服务器数据在账户存在期间保存。在应用中通过 设置 > 删除韩国象棋数据，或发送邮件请求，本游戏的服务器数据会在合理期限内删除或匿名化。删除应用只会删除设备上保存的数据。"
+   ],
+   [
+    "你的权利、儿童、变更",
+    "你可发送邮件至dhalska2@gmail.com要求查阅、更正或删除你的数据。本应用不面向13岁以下儿童，也不会在知情的情况下收集其信息。本政策变更时会在本页面以新日期发布。"
+   ]
+  ],
+  "terms": [
+   [
+    "适用范围",
+    "本条款适用于你使用Next Studio的iOS应用\"韩国象棋：像人一样的AI与在线对战\"（\"本应用\"）。Apple标准最终用户许可协议（EULA）同样适用。"
+   ],
+   [
+    "服务内容",
+    "本应用提供人机对弈、在线对战、教程、杀棋习题、复盘分析与教练点评。在线功能与AI教练点评依赖服务器与第三方服务，可能因维护或故障暂时中断。AI分析与点评仅供参考，并不总是准确。"
+   ],
+   [
+    "购买与订阅",
+    "高级版（月度与年度订阅、永久版）以及券包、去广告与主题包通过Apple付款。订阅会自动续期，除非在当前周期结束前至少24小时取消，可在App Store账户设置中管理或取消。退款遵循Apple的政策。券保存在账户中，每次使用扣除1张。"
+   ],
+   [
+    "用户行为",
+    "不得辱骂其他玩家，不得使用仇恨、色情或广告性质的昵称，不得通过作弊工具、多个账户或故意输棋操纵等级分，不得干扰服务。违规可能导致昵称重置、在线功能受限或账户停用。"
+   ],
+   [
+    "内容与权利",
+    "本应用及其设计、AI、习题与文字的权利归Next Studio所有。你可自由使用自己对局的棋谱；开启AI训练共享即表示同意将匿名化棋谱用于改进AI。"
+   ],
+   [
+    "责任限制",
+    "在法律允许的范围内，本应用按现状提供，对服务中断或数据丢失造成的间接损失不承担责任。适用大韩民国法律。"
+   ],
+   [
+    "变更与联系",
+    "条款变更时会在本页面以新日期发布。联系方式：dhalska2@gmail.com。"
+   ]
+  ],
+  "support": [
+   [
+    "不懂规则也能开始吗？",
+    "在底部\"学习\"标签 > \"学习韩国象棋\"中，14步教程让你亲手走棋，从各棋子走法学到将军、将死与照面。会下中国象棋的话会很快上手。"
+   ],
+   [
+    "如何选择AI强度？",
+    "点击\"开始人机对弈\"，可从18级到9段中选择。应用会记住你上次选择的阵营、布阵与等级。"
+   ],
+   [
+    "照面与计分如何判定？",
+    "两将相对经过一整手后，按剩余棋子计分（车13、炮7、马5、象3、士3、卒2，汉方另加1.5分）。可在设置中改为和棋。"
+   ],
+   [
+    "在线对战的用时？",
+    "实时对战为15分钟加读秒30秒×3次。免费用户可同时进行3局异步对战，高级版不限。"
+   ],
+   [
+    "如何恢复购买？",
+    "点击商店页面底部的\"恢复购买\"。取消订阅请前往App Store账户设置 > 订阅。"
+   ],
+   [
+    "如何换到其他设备？",
+    "在设置中使用Apple登录，即可在其他设备上继续你的等级分、成就、棋谱、设置与未完成的人机对局。"
+   ],
+   [
+    "遇到问题",
+    "请将应用版本、设备型号与问题描述发送至dhalska2@gmail.com。"
+   ]
+  ],
+  "delete-account": [
+   [
+    "在应用中删除",
+    "设置 > 账户 > \"删除韩国象棋数据\"会删除本游戏的服务器记录（等级分、在线对局、棋谱、进度、推送令牌）以及本设备上的记录。进行中的在线对局按认输处理。"
+   ],
+   [
+    "不会被删除的内容",
+    "购买与订阅记录由Apple管理，法律要求的付款交易记录可能按规定期限保存。同一账户下其他Next Studio游戏的数据不会被删除。"
+   ],
+   [
+    "通过邮件请求",
+    "如无法使用应用，请发送邮件至dhalska2@gmail.com，标题注明\"删除韩国象棋数据\"。核实后会在合理期限内处理。"
+   ],
+   [
+    "取消订阅",
+    "删除数据不会自动取消Apple订阅。请在App Store账户设置 > 订阅中取消。"
+   ]
+  ]
+ },
+ "vi": {
+  "nav": [
+   "Trang chủ",
+   "Chính sách quyền riêng tư",
+   "Điều khoản sử dụng",
+   "Trợ giúp",
+   "Xóa dữ liệu"
+  ],
+  "tag": "Chơi Janggi với AI đánh như người thật — học, chơi, phân tích.",
+  "intro": "Cờ Tướng Hàn Quốc: AI & Online — hỗ trợ và chính sách chính thức · Next Studio",
+  "date": "Ngày hiệu lực: 3 tháng 10 năm 2026",
+  "contact": "Liên hệ",
+  "skip": "Đến nội dung chính",
+  "features": [
+   "AI giống người từ 18 cấp đến 9 đẳng",
+   "Chơi trực tuyến thời gian thực, không đồng bộ, với bạn bè và bảng xếp hạng",
+   "Hướng dẫn tự đi quân và 397 thế cờ chiếu bí",
+   "Phân tích ván cờ và nhận xét của huấn luyện viên",
+   "Gói Janggi Premium hoặc trọn đời"
+  ],
+  "privacy": [
+   [
+    "Đơn vị vận hành và phạm vi",
+    "Chính sách này áp dụng cho ứng dụng iOS \"Cờ Tướng Hàn Quốc: AI & Online\" (Bundle ID com.osj.janggi) do Next Studio, nhà phát triển cá nhân tại Hàn Quốc, phát hành. Liên hệ: dhalska2@gmail.com."
+   ],
+   [
+    "Tài khoản và tiến trình trên đám mây",
+    "Để bạn chơi mà không cần đăng ký, ứng dụng tự tạo một tài khoản ẩn danh. Tiến trình của bạn (điểm xếp hạng, thành tích, điểm danh, câu đố đã giải, lượt gợi ý, cài đặt, ván đấu với AI chưa xong, ván cờ gần đây) được lưu trên máy chủ theo tài khoản này để không bị mất. Đăng nhập bằng Apple là tùy chọn; Apple cung cấp một mã định danh và, nếu bạn cho phép, địa chỉ email (có thể là địa chỉ chuyển tiếp ẩn), chỉ dùng để nhận ra tài khoản của bạn trên nhiều thiết bị."
+   ],
+   [
+    "Chơi trực tuyến và bảng xếp hạng",
+    "Khi chơi trực tuyến, biệt danh, quốc gia, điểm xếp hạng cùng nước đi và kết quả ván cờ được lưu trên máy chủ và hiển thị cho đối thủ và trên bảng xếp hạng. Bạn có thể báo cáo người chơi khác; nội dung báo cáo (ai, lý do, thời điểm) được lưu để xem xét vi phạm. Biệt danh bị báo cáo có thể được kiểm tra bằng Claude AI của Anthropic; chỉ gửi văn bản biệt danh."
+   ],
+   [
+    "Chia sẻ ván cờ để huấn luyện AI",
+    "Khi \"Chia sẻ ván cờ để cải thiện AI\" được bật trong Cài đặt, nước đi và kết quả của các ván đã kết thúc với AI được gửi kèm ID tài khoản ẩn danh để huấn luyện AI giống người hơn. Không bao gồm tên hay thông tin liên hệ, và bạn có thể tắt bất cứ lúc nào."
+   ],
+   [
+    "Nhận xét của huấn luyện viên AI",
+    "Khi người dùng Premium yêu cầu nhận xét, bản tóm tắt phân tích của máy cho ván đó (bên chơi, kết quả, độ chính xác, các nước quan trọng và nước tốt hơn) được gửi đến Claude API của Anthropic để viết nhận xét. Không gửi thông tin tài khoản hay biệt danh; nhận xét được lưu trên máy chủ để xem lại."
+   ],
+   [
+    "Mua hàng và gói đăng ký",
+    "Các giao dịch mua (gói lượt gợi ý và lượt phân tích, gỡ quảng cáo, gói chủ đề, trọn đời) và gói Premium được thanh toán qua Apple. Chúng tôi không nhận thông tin thanh toán; chỉ lưu mã giao dịch, sản phẩm và trạng thái gói để cấp và khôi phục những gì bạn đã mua."
+   ],
+   [
+    "Thông báo",
+    "Chỉ khi bạn cho phép thông báo, chúng tôi lưu mã thông báo đẩy (Firebase Cloud Messaging) và ngôn ngữ ứng dụng để báo đến lượt bạn, đã tìm được ván hoặc ván đã kết thúc. Bạn có thể tắt trong ứng dụng hoặc Cài đặt iOS."
+   ],
+   [
+    "Quảng cáo",
+    "Google AdMob hiển thị quảng cáo không cá nhân hóa trước và sau ván cờ và cho phần thưởng. Ứng dụng không theo dõi bạn trên ứng dụng hay trang web của công ty khác và không yêu cầu mã định danh quảng cáo. Tuy vậy AdMob có thể xử lý thông tin thiết bị và vị trí gần đúng (theo IP) để phân phối quảng cáo, giới hạn tần suất và chống gian lận. Phần thưởng được cấp qua xác minh phía máy chủ có chữ ký của Google."
+   ],
+   [
+    "Báo cáo lỗi",
+    "Firebase Crashlytics thu thập báo cáo sự cố và lỗi (mẫu thiết bị, phiên bản hệ điều hành và ứng dụng, nhật ký kỹ thuật, ID cài đặt ngẫu nhiên) để sửa lỗi. Không bao gồm thông tin thanh toán."
+   ],
+   [
+    "Nhà cung cấp dịch vụ và vị trí lưu trữ",
+    "Supabase (cơ sở dữ liệu, đăng nhập), Apple (Đăng nhập bằng Apple, thanh toán), Google (AdMob, thông báo và báo cáo lỗi Firebase) và Anthropic (nhận xét của huấn luyện viên, kiểm tra biệt danh) xử lý dữ liệu theo chính sách riêng của họ, và máy chủ có thể ở ngoài quốc gia của bạn. Trang này được cung cấp bởi GitHub Pages và không dùng mã phân tích hay quảng cáo."
+   ],
+   [
+    "Lưu giữ và xóa",
+    "Dữ liệu trên máy chủ được lưu khi tài khoản còn tồn tại. Dùng Cài đặt > Xóa dữ liệu Janggi trong ứng dụng hoặc gửi email, dữ liệu máy chủ của trò chơi này sẽ được xóa hoặc ẩn danh trong thời gian hợp lý. Xóa ứng dụng chỉ xóa dữ liệu trên thiết bị."
+   ],
+   [
+    "Quyền của bạn, trẻ em, thay đổi",
+    "Gửi email đến dhalska2@gmail.com để xem, sửa hoặc xóa dữ liệu của bạn. Ứng dụng không dành cho trẻ em dưới 13 tuổi và không cố ý thu thập thông tin của trẻ. Thay đổi chính sách sẽ được đăng trên trang này kèm ngày mới."
+   ]
+  ],
+  "terms": [
+   [
+    "Phạm vi",
+    "Các điều khoản này áp dụng cho việc bạn sử dụng ứng dụng iOS \"Cờ Tướng Hàn Quốc: AI & Online\" của Next Studio (\"Ứng dụng\"). Thỏa thuận cấp phép người dùng cuối tiêu chuẩn (EULA) của Apple cũng được áp dụng."
+   ],
+   [
+    "Dịch vụ",
+    "Ứng dụng cung cấp chơi với AI, chơi trực tuyến, hướng dẫn, thế cờ chiếu bí, phân tích ván cờ và nhận xét của huấn luyện viên. Tính năng trực tuyến và nhận xét AI phụ thuộc máy chủ và dịch vụ bên thứ ba nên có thể tạm gián đoạn khi bảo trì hoặc gặp sự cố. Phân tích và nhận xét của AI chỉ để tham khảo và không phải lúc nào cũng chính xác."
+   ],
+   [
+    "Mua hàng và gói đăng ký",
+    "Janggi Premium (gói tháng, gói năm, trọn đời) cùng các gói lượt, gỡ quảng cáo và gói chủ đề được thanh toán qua Apple. Gói đăng ký tự động gia hạn trừ khi bị hủy ít nhất 24 giờ trước khi kết thúc kỳ hiện tại, và có thể quản lý hoặc hủy trong cài đặt tài khoản App Store. Hoàn tiền theo chính sách của Apple. Lượt được lưu trong tài khoản và mỗi lần dùng trừ một lượt."
+   ],
+   [
+    "Hành vi người dùng",
+    "Không xúc phạm người chơi khác, không dùng biệt danh thù ghét, khiêu dâm hay quảng cáo, không thao túng điểm xếp hạng bằng công cụ gian lận, nhiều tài khoản hay cố ý thua, và không phá hoại dịch vụ. Vi phạm có thể dẫn đến đặt lại biệt danh, hạn chế tính năng trực tuyến hoặc khóa tài khoản."
+   ],
+   [
+    "Nội dung và quyền",
+    "Ứng dụng, thiết kế, AI, câu đố và văn bản thuộc về Next Studio. Bạn có thể tự do dùng biên bản các ván của mình; khi bật chia sẻ để huấn luyện AI, bạn đồng ý cho dùng ván cờ đã ẩn danh để cải thiện AI."
+   ],
+   [
+    "Giới hạn trách nhiệm",
+    "Trong phạm vi pháp luật cho phép, Ứng dụng được cung cấp theo hiện trạng và chúng tôi không chịu trách nhiệm về thiệt hại gián tiếp do gián đoạn dịch vụ hay mất dữ liệu. Áp dụng pháp luật Hàn Quốc."
+   ],
+   [
+    "Thay đổi và liên hệ",
+    "Thay đổi được đăng trên trang này kèm ngày mới. Liên hệ: dhalska2@gmail.com."
+   ]
+  ],
+  "support": [
+   [
+    "Tôi chưa biết luật, có chơi được không?",
+    "Mở thẻ Học > Học Janggi. Hướng dẫn 14 bước cho bạn tự đi quân, từ cách đi của từng quân đến chiếu tướng, chiếu bí và bikjang. Nếu biết cờ tướng, bạn sẽ làm quen rất nhanh."
+   ],
+   [
+    "Chọn sức mạnh AI thế nào?",
+    "Nhấn \"Đấu với AI\" và chọn từ 18 cấp đến 9 đẳng. Ứng dụng nhớ bên chơi, cách xếp quân và cấp độ bạn chọn lần trước."
+   ],
+   [
+    "Bikjang và tính điểm thế nào?",
+    "Nếu hai tướng đối mặt qua trọn một nước, ván cờ được phân định theo điểm quân còn lại (Xe 13, Pháo 7, Mã 5, Tượng 3, Sĩ 3, Tốt 2, Han được cộng 1,5). Có thể đổi thành hòa trong Cài đặt."
+   ],
+   [
+    "Thời gian khi chơi trực tuyến?",
+    "Ván thời gian thực là 15 phút cộng byo-yomi 3 × 30 giây. Người chơi miễn phí có thể chơi 3 ván không đồng bộ cùng lúc; Premium không giới hạn."
+   ],
+   [
+    "Khôi phục giao dịch mua thế nào?",
+    "Nhấn \"Khôi phục giao dịch mua\" ở cuối cửa hàng. Hủy gói đăng ký trong cài đặt tài khoản App Store > Đăng ký."
+   ],
+   [
+    "Chuyển sang thiết bị khác thế nào?",
+    "Đăng nhập bằng Apple trong Cài đặt để tiếp tục điểm xếp hạng, thành tích, ván cờ, cài đặt và ván đấu với AI chưa xong trên thiết bị khác."
+   ],
+   [
+    "Gặp sự cố",
+    "Gửi email đến dhalska2@gmail.com kèm phiên bản ứng dụng, mẫu thiết bị và mô tả sự cố."
+   ]
+  ],
+  "delete-account": [
+   [
+    "Xóa trong ứng dụng",
+    "Cài đặt > Tài khoản > \"Xóa dữ liệu Janggi\" sẽ xóa dữ liệu máy chủ của trò chơi này (điểm xếp hạng, ván trực tuyến, biên bản ván cờ, tiến trình, mã thông báo đẩy) và dữ liệu trên thiết bị này. Các ván trực tuyến đang diễn ra được tính là đầu hàng."
+   ],
+   [
+    "Những gì không bị xóa",
+    "Hồ sơ mua hàng và gói đăng ký do Apple quản lý, và hồ sơ giao dịch thanh toán theo yêu cầu pháp luật có thể được lưu trong thời hạn quy định. Dữ liệu của các trò chơi Next Studio khác trên cùng tài khoản không bị xóa."
+   ],
+   [
+    "Yêu cầu qua email",
+    "Nếu không dùng được ứng dụng, hãy gửi email đến dhalska2@gmail.com với tiêu đề \"Xóa dữ liệu Janggi\". Chúng tôi xử lý trong thời gian hợp lý sau khi xác minh."
+   ],
+   [
+    "Hủy gói đăng ký",
+    "Xóa dữ liệu không tự hủy gói đăng ký Apple. Hãy hủy trong cài đặt tài khoản App Store > Đăng ký."
+   ]
+  ]
+ },
+ "zh_Hant": {
+  "nav": [
+   "首頁",
+   "隱私政策",
+   "使用條款",
+   "幫助與支援",
+   "刪除資料"
+  ],
+  "tag": "與像人一樣下棋的AI來一盤韓國象棋 —— 學棋、對弈、覆盤。",
+  "intro": "韓國象棋：像人一樣的AI與線上對戰 · 官方支援與政策 · Next Studio",
+  "date": "生效日期：2026年10月3日",
+  "contact": "聯絡我們",
+  "skip": "跳到正文",
+  "features": [
+   "從18級到9段，像人一樣下棋的AI",
+   "實時、非同步、好友線上對戰與排行榜",
+   "親手走棋的教程與397道殺棋習題",
+   "覆盤分析與教練點評",
+   "高階版訂閱或永久版"
+  ],
+  "privacy": [
+   [
+    "運營者與適用範圍",
+    "本政策適用於Next Studio（大韓民國個人開發者）釋出的iOS應用\"韓國象棋：像人一樣的AI與線上對戰\"（Bundle ID com.osj.janggi）。聯絡方式：dhalska2@gmail.com。"
+   ],
+   [
+    "賬戶與雲端進度",
+    "為免註冊即可使用，應用會自動建立匿名賬戶。你的進度（等級分、成就、簽到、已解習題、提示券、設定、未完成的人機對局、近期棋譜）以該賬戶儲存在伺服器上，避免丟失。使用Apple登入為可選項；Apple會提供一個識別符號，以及在你允許時提供電子郵件地址（可能是隱藏的轉發地址），僅用於在多臺裝置上識別你的賬戶。"
+   ],
+   [
+    "線上對戰與排行榜",
+    "線上對弈時，你的暱稱、國家/地區、等級分以及對局著法與結果會儲存在伺服器上，並顯示給對手和排行榜。你可以舉報其他玩家；舉報內容（被舉報者、原因、時間）會被保留以稽核違規行為。被舉報的暱稱可能由Anthropic的Claude AI稽核，只傳送暱稱文字。"
+   ],
+   [
+    "提供棋譜用於AI訓練",
+    "當設定中的\"提供棋譜用於AI訓練\"開啟時，已結束的人機對局著法與結果會以匿名賬戶ID傳送到伺服器，用於訓練更像人的AI。不包含姓名或聯絡方式，可隨時在設定中關閉。"
+   ],
+   [
+    "AI教練點評",
+    "高階版使用者請求教練點評時，該局的引擎分析摘要（陣營、結果、準確度、關鍵著法與更好的著法）會傳送到Anthropic的Claude API以生成點評。不傳送賬戶資訊或暱稱；生成的點評會儲存在伺服器上以便再次檢視。"
+   ],
+   [
+    "購買與訂閱",
+    "購買（提示券與覆盤券、去廣告、主題包、永久版）及高階版訂閱均透過Apple付款。我們不會收到付款資訊，只儲存交易ID、商品與訂閱狀態，用於發放與恢復購買內容。"
+   ],
+   [
+    "通知",
+    "僅在你允許通知時，我們會儲存推送令牌（Firebase Cloud Messaging）與應用語言，用於通知輪到你走棋、匹配成功或對局結束。可在應用或iOS設定中關閉。"
+   ],
+   [
+    "廣告",
+    "Google AdMob會在對局開始前、結束後以及獎勵廣告中展示非個性化廣告。應用不會跨其他公司的應用或網站追蹤你，也不請求廣告識別符號。但AdMob可能為投放廣告、頻次控制與防作弊而處理裝置資訊與大致位置（基於IP）。獎勵透過Google簽名的伺服器端驗證發放。"
+   ],
+   [
+    "錯誤報告",
+    "Firebase Crashlytics會收集崩潰與錯誤報告（裝置型號、系統與應用版本、技術日誌、隨機安裝ID）以修復問題，不包含付款資訊。"
+   ],
+   [
+    "服務提供商與儲存位置",
+    "Supabase（資料庫、登入）、Apple（Apple登入、付款）、Google（AdMob、Firebase通知與錯誤報告）與Anthropic（教練點評、暱稱稽核）按各自的隱私政策處理資料，伺服器可能位於你所在國家/地區以外。本網站由GitHub Pages提供，不使用任何分析或廣告指令碼。"
+   ],
+   [
+    "儲存與刪除",
+    "伺服器資料在賬戶存在期間儲存。在應用中透過 設定 > 刪除韓國象棋資料，或傳送郵件請求，本遊戲的伺服器資料會在合理期限內刪除或匿名化。刪除應用只會刪除裝置上儲存的資料。"
+   ],
+   [
+    "你的權利、兒童、變更",
+    "你可傳送郵件至dhalska2@gmail.com要求查閱、更正或刪除你的資料。本應用不面向13歲以下兒童，也不會在知情的情況下收集其資訊。本政策變更時會在本頁面以新日期釋出。"
+   ]
+  ],
+  "terms": [
+   [
+    "適用範圍",
+    "本條款適用於你使用Next Studio的iOS應用\"韓國象棋：像人一樣的AI與線上對戰\"（\"本應用\"）。Apple標準終端使用者許可協議（EULA）同樣適用。"
+   ],
+   [
+    "服務內容",
+    "本應用提供人機對弈、線上對戰、教程、殺棋習題、覆盤分析與教練點評。線上功能與AI教練點評依賴伺服器與第三方服務，可能因維護或故障暫時中斷。AI分析與點評僅供參考，並不總是準確。"
+   ],
+   [
+    "購買與訂閱",
+    "高階版（月度與年度訂閱、永久版）以及券包、去廣告與主題包透過Apple付款。訂閱會自動續期，除非在當前週期結束前至少24小時取消，可在App Store賬戶設定中管理或取消。退款遵循Apple的政策。券儲存在賬戶中，每次使用扣除1張。"
+   ],
+   [
+    "使用者行為",
+    "不得辱罵其他玩家，不得使用仇恨、色情或廣告性質的暱稱，不得透過作弊工具、多個賬戶或故意輸棋操縱等級分，不得干擾服務。違規可能導致暱稱重置、線上功能受限或賬戶停用。"
+   ],
+   [
+    "內容與權利",
+    "本應用及其設計、AI、習題與文字的權利歸Next Studio所有。你可自由使用自己對局的棋譜；開啟AI訓練共享即表示同意將匿名化棋譜用於改進AI。"
+   ],
+   [
+    "責任限制",
+    "在法律允許的範圍內，本應用按現狀提供，對服務中斷或資料丟失造成的間接損失不承擔責任。適用大韓民國法律。"
+   ],
+   [
+    "變更與聯絡",
+    "條款變更時會在本頁面以新日期釋出。聯絡方式：dhalska2@gmail.com。"
+   ]
+  ],
+  "support": [
+   [
+    "不懂規則也能開始嗎？",
+    "在底部\"學習\"標籤 > \"學習韓國象棋\"中，14步教程讓你親手走棋，從各棋子走法學到將軍、將死與照面。會下中國象棋的話會很快上手。"
+   ],
+   [
+    "如何選擇AI強度？",
+    "點選\"開始人機對弈\"，可從18級到9段中選擇。應用會記住你上次選擇的陣營、佈陣與等級。"
+   ],
+   [
+    "照面與計分如何判定？",
+    "兩將相對經過一整手後，按剩餘棋子計分（車13、炮7、馬5、象3、士3、卒2，漢方另加1.5分）。可在設定中改為和棋。"
+   ],
+   [
+    "線上對戰的用時？",
+    "實時對戰為15分鐘加讀秒30秒×3次。免費使用者可同時進行3局非同步對戰，高階版不限。"
+   ],
+   [
+    "如何恢復購買？",
+    "點選商店頁面底部的\"恢復購買\"。取消訂閱請前往App Store賬戶設定 > 訂閱。"
+   ],
+   [
+    "如何換到其他裝置？",
+    "在設定中使用Apple登入，即可在其他裝置上繼續你的等級分、成就、棋譜、設定與未完成的人機對局。"
+   ],
+   [
+    "遇到問題",
+    "請將應用版本、裝置型號與問題描述傳送至dhalska2@gmail.com。"
+   ]
+  ],
+  "delete-account": [
+   [
+    "在應用中刪除",
+    "設定 > 賬戶 > \"刪除韓國象棋資料\"會刪除本遊戲的伺服器記錄（等級分、線上對局、棋譜、進度、推送令牌）以及本裝置上的記錄。進行中的線上對局按認輸處理。"
+   ],
+   [
+    "不會被刪除的內容",
+    "購買與訂閱記錄由Apple管理，法律要求的付款交易記錄可能按規定期限儲存。同一賬戶下其他Next Studio遊戲的資料不會被刪除。"
+   ],
+   [
+    "透過郵件請求",
+    "如無法使用應用，請傳送郵件至dhalska2@gmail.com，標題註明\"刪除韓國象棋資料\"。核實後會在合理期限內處理。"
+   ],
+   [
+    "取消訂閱",
+    "刪除資料不會自動取消Apple訂閱。請在App Store賬戶設定 > 訂閱中取消。"
+   ]
+  ]
+ }
+}
