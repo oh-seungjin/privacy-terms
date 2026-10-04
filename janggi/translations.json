@@ -9,12 +9,12 @@
   ],
   "tag": "사람처럼 두는 AI와 장기 한판 — 배우고, 두고, 복기하세요.",
   "intro": "장기 한판: 사람 같은 AI & Online 공식 지원·정책 · 넥스트 스튜디오",
-  "date": "시행·개정일: 2026년 10월 3일",
+  "date": "시행·개정일: 2026년 10월 4일",
   "contact": "문의",
   "skip": "본문 바로가기",
   "features": [
    "18급부터 9단까지 사람처럼 두는 AI",
-   "실시간·비동기·친구 온라인 대전과 랭킹",
+   "실시간·비동기·친구 온라인 대전, 주간 아레나·월간 시즌과 랭킹",
    "직접 말을 움직이는 튜토리얼과 외통수 퀴즈 388문제",
    "복기 분석과 코치 총평",
    "장기 프리미엄 구독·평생 이용권"
@@ -30,7 +30,11 @@
    ],
    [
     "온라인 대전과 랭킹",
-    "온라인으로 대국하면 닉네임, 국가, 레이팅과 대국의 수·결과가 서버에 저장되고 상대와 랭킹에 표시됩니다. 다른 플레이어를 신고할 수 있으며, 신고 내용(신고된 플레이어, 사유, 시각)은 규칙 위반을 검토하기 위해 보관합니다. 신고된 닉네임은 부적절한지 판단하기 위해 Anthropic의 Claude AI로 검토할 수 있으며, 이때 닉네임 문자열만 전송합니다."
+    "온라인으로 대국하면 닉네임, 국가, 레이팅과 대국의 수·결과가 서버에 저장되고 상대와 랭킹에 표시됩니다. 다른 플레이어를 신고할 수 있으며, 신고 내용(신고된 플레이어, 사유, 시각)은 규칙 위반을 검토하기 위해 보관합니다. 신고된 닉네임은 부적절한지 판단하기 위해 Anthropic의 Claude AI로 검토할 수 있으며, 이때 닉네임 문자열만 전송합니다. 친구 기능을 쓰면 친구 코드, 친구 목록, 대국 신청이 저장됩니다. 다른 플레이어는 내 프로필 카드(닉네임, 국가, 레이팅, 전적, 나와의 전적, 시즌·아레나 입상 칭호)를 볼 수 있고 진행 중인 온라인 대국을 관전할 수 있습니다(설정에서 관전 허용을 끌 수 있습니다). 차단한 플레이어 목록도 저장됩니다. 끝난 온라인 대국은 복기를 위해 내 기보에 저장되고, 월간 시즌·주간 아레나 순위, 레이팅 기록과 일일 미션 진행도가 서버에 기록됩니다."
+   ],
+   [
+    "공정한 대국",
+    "부정행위를 막기 위해 끝난 온라인 대국의 수순을 엔진으로 점검할 수 있으며, 정확도 같은 점검 결과는 서버에 저장됩니다. 점검 결과는 검토를 위한 참고 자료이며 자동으로 제재하지 않습니다. 시간제 대국을 반복해서 포기하면 일정 시간 동안 시간제 대국과 아레나 참가가 제한됩니다."
    ],
    [
     "AI 학습용 기보 제공",
@@ -46,7 +50,7 @@
    ],
    [
     "알림",
-    "알림을 허용한 경우에만 내 차례, 대국 성사, 대국 종료를 알려 드리기 위해 푸시 토큰(Firebase Cloud Messaging)과 앱 언어를 저장합니다. 앱이나 iOS 설정에서 끌 수 있습니다."
+    "알림을 허용한 경우에만 내 차례, 대국 성사, 대국 종료를 알려 드리기 위해 푸시 토큰(Firebase Cloud Messaging)과 앱 언어를 저장합니다. 앱이나 iOS 설정에서 끌 수 있습니다. 주간 아레나 시작 전과 시즌·아레나 결과 알림도 포함됩니다."
    ],
    [
     "광고",
@@ -76,7 +80,7 @@
    ],
    [
     "서비스",
-    "앱은 AI 대국, 온라인 대전, 튜토리얼, 외통수 퀴즈, 복기 분석과 코치 총평을 제공합니다. 온라인 기능과 AI 코치 총평은 서버와 외부 서비스에 의존하므로 점검이나 장애로 일시 중단될 수 있습니다. AI 분석과 총평은 참고용이며 항상 정확하지는 않습니다."
+    "앱은 AI 대국, 온라인 대전, 튜토리얼, 외통수 퀴즈, 복기 분석과 코치 총평을 제공합니다. 온라인 기능과 AI 코치 총평은 서버와 외부 서비스에 의존하므로 점검이나 장애로 일시 중단될 수 있습니다. AI 분석과 총평은 참고용이며 항상 정확하지는 않습니다. 주간 아레나와 월간 시즌, 일일 미션의 순위와 보상은 서버가 정한 규칙에 따라 자동으로 계산·지급됩니다."
    ],
    [
     "구매와 구독",
@@ -84,7 +88,7 @@
    ],
    [
     "이용자 행동",
-    "다른 플레이어를 모욕하거나 혐오·성적·광고성 닉네임을 쓰거나, 부정 도구·여러 계정·의도적 패배로 레이팅을 조작하거나, 서비스를 방해해서는 안 됩니다. 위반 시 닉네임 초기화, 온라인 기능 제한 또는 계정 정지가 있을 수 있습니다."
+    "다른 플레이어를 모욕하거나 혐오·성적·광고성 닉네임을 쓰거나, 부정 도구·여러 계정·의도적 패배로 레이팅을 조작하거나, 서비스를 방해해서는 안 됩니다. 위반 시 닉네임 초기화, 온라인 기능 제한 또는 계정 정지가 있을 수 있습니다. 시간제 대국을 반복해서 포기하면 일정 시간 동안 시간제 대국과 아레나 참가가 제한됩니다."
    ],
    [
     "콘텐츠와 권리",
@@ -158,12 +162,12 @@
   ],
   "tag": "Play janggi against an AI that plays like a person — learn, play, review.",
   "intro": "Janggi: Human-like AI & Online — official support and policies · Next Studio",
-  "date": "Effective date: October 3, 2026",
+  "date": "Effective date: October 4, 2026",
   "contact": "Contact",
   "skip": "Skip to content",
   "features": [
    "Human-like AI from 18 kyu to 9 dan",
-   "Realtime, correspondence and friend games online, with a leaderboard",
+   "Realtime, correspondence and friend games online, weekly arena, monthly seasons and a leaderboard",
    "A hands-on tutorial and 388 mate puzzles",
    "Game review and coach summary",
    "Janggi Premium subscription or lifetime purchase"
@@ -179,7 +183,11 @@
    ],
    [
     "Online games and leaderboard",
-    "When you play online, your nickname, country, rating and the moves and results of your games are stored on the server and shown to opponents and on the leaderboard. You can report other players; reports (who, why, when) are kept to review rule violations. Reported nicknames may be checked by Anthropic's Claude AI; only the nickname text is sent."
+    "When you play online, your nickname, country, rating and the moves and results of your games are stored on the server and shown to opponents and on the leaderboard. You can report other players; reports (who, why, when) are kept to review rule violations. Reported nicknames may be checked by Anthropic's Claude AI; only the nickname text is sent. If you use friends, your friend code, friends list and challenges are stored. Other players can see your profile card (nickname, country, rating, record, your record against them, season and arena titles) and can watch your online games in progress (you can turn watching off in Settings). Your list of blocked players is stored too. Finished online games are saved in your game records for review, and season and arena standings, rating history and daily mission progress are kept on the server."
+   ],
+   [
+    "Fair play",
+    "To prevent cheating, the moves of finished online games may be checked by an engine and the results (such as accuracy) are stored on the server. The results are only a reference for review and never penalise anyone automatically. If you repeatedly abandon timed games, timed games and the arena are paused for a while."
    ],
    [
     "Game records for AI training",
@@ -195,7 +203,7 @@
    ],
    [
     "Notifications",
-    "Only if you allow notifications, we store a push token (Firebase Cloud Messaging) and the app language to tell you when it is your move, a game is found or a game ends. You can turn this off in the app or in iOS Settings."
+    "Only if you allow notifications, we store a push token (Firebase Cloud Messaging) and the app language to tell you when it is your move, a game is found or a game ends. You can turn this off in the app or in iOS Settings. This includes a reminder before the weekly arena and season and arena results."
    ],
    [
     "Ads",
@@ -225,7 +233,7 @@
    ],
    [
     "The service",
-    "The App offers AI games, online play, a tutorial, mate puzzles, game review and coach summaries. Online features and AI coach summaries depend on servers and third-party services and may be interrupted for maintenance or outages. AI analysis and summaries are for guidance and are not always accurate."
+    "The App offers AI games, online play, a tutorial, mate puzzles, game review and coach summaries. Online features and AI coach summaries depend on servers and third-party services and may be interrupted for maintenance or outages. AI analysis and summaries are for guidance and are not always accurate. Rankings and rewards of the weekly arena, monthly seasons and daily missions are calculated and granted automatically by rules set on the server."
    ],
    [
     "Purchases and subscriptions",
@@ -233,7 +241,7 @@
    ],
    [
     "Conduct",
-    "Do not insult other players, use hateful, sexual or advertising nicknames, manipulate ratings with cheating tools, multiple accounts or intentional losses, or disrupt the service. Violations may lead to a nickname reset, limits on online features or account suspension."
+    "Do not insult other players, use hateful, sexual or advertising nicknames, manipulate ratings with cheating tools, multiple accounts or intentional losses, or disrupt the service. Violations may lead to a nickname reset, limits on online features or account suspension. If you repeatedly abandon timed games, timed games and the arena are paused for a while."
    ],
    [
     "Content and rights",
@@ -307,12 +315,12 @@
   ],
   "tag": "与像人一样下棋的AI来一盘韩国象棋 —— 学棋、对弈、复盘。",
   "intro": "韩国象棋：像人一样的AI与在线对战 · 官方支持与政策 · Next Studio",
-  "date": "生效日期：2026年10月3日",
+  "date": "生效日期：2026年10月4日",
   "contact": "联系我们",
   "skip": "跳到正文",
   "features": [
    "从18级到9段，像人一样下棋的AI",
-   "实时、异步、好友在线对战与排行榜",
+   "实时、异步、好友在线对战，每周竞技场、每月赛季与排行榜",
    "亲手走棋的教程与388道杀棋习题",
    "复盘分析与教练点评",
    "高级版订阅或永久版"
@@ -328,7 +336,11 @@
    ],
    [
     "在线对战与排行榜",
-    "在线对弈时，你的昵称、国家/地区、等级分以及对局着法与结果会保存在服务器上，并显示给对手和排行榜。你可以举报其他玩家；举报内容（被举报者、原因、时间）会被保留以审核违规行为。被举报的昵称可能由Anthropic的Claude AI审核，只发送昵称文本。"
+    "在线对弈时，你的昵称、国家/地区、等级分以及对局着法与结果会保存在服务器上，并显示给对手和排行榜。你可以举报其他玩家；举报内容（被举报者、原因、时间）会被保留以审核违规行为。被举报的昵称可能由Anthropic的Claude AI审核，只发送昵称文本。如果使用好友功能，会保存好友码、好友列表和对局邀请。其他玩家可以看到你的个人资料卡（昵称、国家、等级分、战绩、与你的对战记录、赛季和竞技场称号），并可观战你正在进行的在线对局（可在设置中关闭观战）。你屏蔽的玩家列表也会保存。结束的在线对局会保存到你的棋谱中供复盘，每月赛季、每周竞技场排名、等级分记录和每日任务进度记录在服务器上。"
+   ],
+   [
+    "公平对局",
+    "为防止作弊，可能会用引擎检查已结束在线对局的着法，检查结果（如准确度）会保存在服务器上。检查结果仅供审查参考，不会自动处罚。如果反复放弃计时对局，计时对局和竞技场会暂时受限。"
    ],
    [
     "提供棋谱用于AI训练",
@@ -344,7 +356,7 @@
    ],
    [
     "通知",
-    "仅在你允许通知时，我们会保存推送令牌（Firebase Cloud Messaging）与应用语言，用于通知轮到你走棋、匹配成功或对局结束。可在应用或iOS设置中关闭。"
+    "仅在你允许通知时，我们会保存推送令牌（Firebase Cloud Messaging）与应用语言，用于通知轮到你走棋、匹配成功或对局结束。可在应用或iOS设置中关闭。包括每周竞技场开始前的提醒以及赛季和竞技场结果通知。"
    ],
    [
     "广告",
@@ -374,7 +386,7 @@
    ],
    [
     "服务内容",
-    "本应用提供人机对弈、在线对战、教程、杀棋习题、复盘分析与教练点评。在线功能与AI教练点评依赖服务器与第三方服务，可能因维护或故障暂时中断。AI分析与点评仅供参考，并不总是准确。"
+    "本应用提供人机对弈、在线对战、教程、杀棋习题、复盘分析与教练点评。在线功能与AI教练点评依赖服务器与第三方服务，可能因维护或故障暂时中断。AI分析与点评仅供参考，并不总是准确。每周竞技场、每月赛季和每日任务的排名与奖励由服务器按既定规则自动计算并发放。"
    ],
    [
     "购买与订阅",
@@ -382,7 +394,7 @@
    ],
    [
     "用户行为",
-    "不得辱骂其他玩家，不得使用仇恨、色情或广告性质的昵称，不得通过作弊工具、多个账户或故意输棋操纵等级分，不得干扰服务。违规可能导致昵称重置、在线功能受限或账户停用。"
+    "不得辱骂其他玩家，不得使用仇恨、色情或广告性质的昵称，不得通过作弊工具、多个账户或故意输棋操纵等级分，不得干扰服务。违规可能导致昵称重置、在线功能受限或账户停用。反复放弃计时对局的，计时对局和竞技场会暂时受限。"
    ],
    [
     "内容与权利",
@@ -456,12 +468,12 @@
   ],
   "tag": "Chơi Janggi với AI đánh như người thật — học, chơi, phân tích.",
   "intro": "Cờ Tướng Hàn Quốc: AI & Online — hỗ trợ và chính sách chính thức · Next Studio",
-  "date": "Ngày hiệu lực: 3 tháng 10 năm 2026",
+  "date": "Ngày hiệu lực: 4 tháng 10 năm 2026",
   "contact": "Liên hệ",
   "skip": "Đến nội dung chính",
   "features": [
    "AI giống người từ 18 cấp đến 9 đẳng",
-   "Chơi trực tuyến thời gian thực, không đồng bộ, với bạn bè và bảng xếp hạng",
+   "Chơi trực tuyến thời gian thực, không đồng bộ, với bạn bè, đấu trường tuần, mùa giải tháng và bảng xếp hạng",
    "Hướng dẫn tự đi quân và 388 thế cờ chiếu bí",
    "Phân tích ván cờ và nhận xét của huấn luyện viên",
    "Gói Janggi Premium hoặc trọn đời"
@@ -477,7 +489,11 @@
    ],
    [
     "Chơi trực tuyến và bảng xếp hạng",
-    "Khi chơi trực tuyến, biệt danh, quốc gia, điểm xếp hạng cùng nước đi và kết quả ván cờ được lưu trên máy chủ và hiển thị cho đối thủ và trên bảng xếp hạng. Bạn có thể báo cáo người chơi khác; nội dung báo cáo (ai, lý do, thời điểm) được lưu để xem xét vi phạm. Biệt danh bị báo cáo có thể được kiểm tra bằng Claude AI của Anthropic; chỉ gửi văn bản biệt danh."
+    "Khi chơi trực tuyến, biệt danh, quốc gia, điểm xếp hạng cùng nước đi và kết quả ván cờ được lưu trên máy chủ và hiển thị cho đối thủ và trên bảng xếp hạng. Bạn có thể báo cáo người chơi khác; nội dung báo cáo (ai, lý do, thời điểm) được lưu để xem xét vi phạm. Biệt danh bị báo cáo có thể được kiểm tra bằng Claude AI của Anthropic; chỉ gửi văn bản biệt danh. Nếu dùng tính năng bạn bè, mã bạn bè, danh sách bạn bè và lời thách đấu được lưu. Người chơi khác có thể xem thẻ hồ sơ của bạn (biệt danh, quốc gia, điểm, thành tích, thành tích với bạn, danh hiệu mùa giải và đấu trường) và xem trực tiếp ván trực tuyến đang diễn ra (có thể tắt trong Cài đặt). Danh sách người chơi bạn đã chặn cũng được lưu. Ván trực tuyến đã kết thúc được lưu vào kỳ phổ của bạn để phân tích, còn xếp hạng mùa giải, đấu trường tuần, lịch sử điểm và tiến độ nhiệm vụ hằng ngày được ghi trên máy chủ."
+   ],
+   [
+    "Chơi công bằng",
+    "Để ngăn gian lận, các nước đi của ván trực tuyến đã kết thúc có thể được máy kiểm tra và kết quả (như độ chính xác) được lưu trên máy chủ. Kết quả chỉ để tham khảo khi xem xét và không tự động xử phạt ai. Nếu bạn liên tục bỏ ván có tính giờ, các ván có tính giờ và đấu trường sẽ bị tạm dừng một thời gian."
    ],
    [
     "Chia sẻ ván cờ để huấn luyện AI",
@@ -493,7 +509,7 @@
    ],
    [
     "Thông báo",
-    "Chỉ khi bạn cho phép thông báo, chúng tôi lưu mã thông báo đẩy (Firebase Cloud Messaging) và ngôn ngữ ứng dụng để báo đến lượt bạn, đã tìm được ván hoặc ván đã kết thúc. Bạn có thể tắt trong ứng dụng hoặc Cài đặt iOS."
+    "Chỉ khi bạn cho phép thông báo, chúng tôi lưu mã thông báo đẩy (Firebase Cloud Messaging) và ngôn ngữ ứng dụng để báo đến lượt bạn, đã tìm được ván hoặc ván đã kết thúc. Bạn có thể tắt trong ứng dụng hoặc Cài đặt iOS. Bao gồm nhắc nhở trước đấu trường tuần và thông báo kết quả mùa giải, đấu trường."
    ],
    [
     "Quảng cáo",
@@ -523,7 +539,7 @@
    ],
    [
     "Dịch vụ",
-    "Ứng dụng cung cấp chơi với AI, chơi trực tuyến, hướng dẫn, thế cờ chiếu bí, phân tích ván cờ và nhận xét của huấn luyện viên. Tính năng trực tuyến và nhận xét AI phụ thuộc máy chủ và dịch vụ bên thứ ba nên có thể tạm gián đoạn khi bảo trì hoặc gặp sự cố. Phân tích và nhận xét của AI chỉ để tham khảo và không phải lúc nào cũng chính xác."
+    "Ứng dụng cung cấp chơi với AI, chơi trực tuyến, hướng dẫn, thế cờ chiếu bí, phân tích ván cờ và nhận xét của huấn luyện viên. Tính năng trực tuyến và nhận xét AI phụ thuộc máy chủ và dịch vụ bên thứ ba nên có thể tạm gián đoạn khi bảo trì hoặc gặp sự cố. Phân tích và nhận xét của AI chỉ để tham khảo và không phải lúc nào cũng chính xác. Xếp hạng và phần thưởng của đấu trường tuần, mùa giải tháng và nhiệm vụ hằng ngày được máy chủ tự động tính và trao theo quy tắc đã đặt."
    ],
    [
     "Mua hàng và gói đăng ký",
@@ -531,7 +547,7 @@
    ],
    [
     "Hành vi người dùng",
-    "Không xúc phạm người chơi khác, không dùng biệt danh thù ghét, khiêu dâm hay quảng cáo, không thao túng điểm xếp hạng bằng công cụ gian lận, nhiều tài khoản hay cố ý thua, và không phá hoại dịch vụ. Vi phạm có thể dẫn đến đặt lại biệt danh, hạn chế tính năng trực tuyến hoặc khóa tài khoản."
+    "Không xúc phạm người chơi khác, không dùng biệt danh thù ghét, khiêu dâm hay quảng cáo, không thao túng điểm xếp hạng bằng công cụ gian lận, nhiều tài khoản hay cố ý thua, và không phá hoại dịch vụ. Vi phạm có thể dẫn đến đặt lại biệt danh, hạn chế tính năng trực tuyến hoặc khóa tài khoản. Nếu liên tục bỏ ván có tính giờ, các ván có tính giờ và đấu trường sẽ bị tạm dừng một thời gian."
    ],
    [
     "Nội dung và quyền",
@@ -605,12 +621,12 @@
   ],
   "tag": "與像人一樣下棋的AI來一盤韓國象棋 —— 學棋、對弈、覆盤。",
   "intro": "韓國象棋：像人一樣的AI與線上對戰 · 官方支援與政策 · Next Studio",
-  "date": "生效日期：2026年10月3日",
+  "date": "生效日期：2026年10月4日",
   "contact": "聯絡我們",
   "skip": "跳到正文",
   "features": [
    "從18級到9段，像人一樣下棋的AI",
-   "實時、非同步、好友線上對戰與排行榜",
+   "實時、非同步、好友線上對戰，每週競技場、每月賽季與排行榜",
    "親手走棋的教程與388道殺棋習題",
    "覆盤分析與教練點評",
    "高階版訂閱或永久版"
@@ -626,7 +642,11 @@
    ],
    [
     "線上對戰與排行榜",
-    "線上對弈時，你的暱稱、國家/地區、等級分以及對局著法與結果會儲存在伺服器上，並顯示給對手和排行榜。你可以舉報其他玩家；舉報內容（被舉報者、原因、時間）會被保留以稽核違規行為。被舉報的暱稱可能由Anthropic的Claude AI稽核，只傳送暱稱文字。"
+    "線上對弈時，你的暱稱、國家/地區、等級分以及對局著法與結果會儲存在伺服器上，並顯示給對手和排行榜。你可以舉報其他玩家；舉報內容（被舉報者、原因、時間）會被保留以稽核違規行為。被舉報的暱稱可能由Anthropic的Claude AI稽核，只傳送暱稱文字。如果使用好友功能，會儲存好友碼、好友列表和對局邀請。其他玩家可以看到你的個人資料卡（暱稱、國家、等級分、戰績、與你的對戰記錄、賽季和競技場稱號），並可觀戰你正在進行的線上對局（可在設定中關閉觀戰）。你封鎖的玩家列表也會儲存。結束的線上對局會儲存到你的棋譜中供復盤，每月賽季、每週競技場排名、等級分記錄和每日任務進度記錄在伺服器上。"
+   ],
+   [
+    "公平對局",
+    "為防止作弊，可能會用引擎檢查已結束線上對局的著法，檢查結果（如準確度）會儲存在伺服器上。檢查結果僅供審查參考，不會自動處罰。如果反覆放棄計時對局，計時對局和競技場會暫時受限。"
    ],
    [
     "提供棋譜用於AI訓練",
@@ -642,7 +662,7 @@
    ],
    [
     "通知",
-    "僅在你允許通知時，我們會儲存推送令牌（Firebase Cloud Messaging）與應用語言，用於通知輪到你走棋、匹配成功或對局結束。可在應用或iOS設定中關閉。"
+    "僅在你允許通知時，我們會儲存推送令牌（Firebase Cloud Messaging）與應用語言，用於通知輪到你走棋、匹配成功或對局結束。可在應用或iOS設定中關閉。包括每週競技場開始前的提醒以及賽季和競技場結果通知。"
    ],
    [
     "廣告",
@@ -672,7 +692,7 @@
    ],
    [
     "服務內容",
-    "本應用提供人機對弈、線上對戰、教程、殺棋習題、覆盤分析與教練點評。線上功能與AI教練點評依賴伺服器與第三方服務，可能因維護或故障暫時中斷。AI分析與點評僅供參考，並不總是準確。"
+    "本應用提供人機對弈、線上對戰、教程、殺棋習題、覆盤分析與教練點評。線上功能與AI教練點評依賴伺服器與第三方服務，可能因維護或故障暫時中斷。AI分析與點評僅供參考，並不總是準確。每週競技場、每月賽季和每日任務的排名與獎勵由伺服器按既定規則自動計算並發放。"
    ],
    [
     "購買與訂閱",
@@ -680,7 +700,7 @@
    ],
    [
     "使用者行為",
-    "不得辱罵其他玩家，不得使用仇恨、色情或廣告性質的暱稱，不得透過作弊工具、多個賬戶或故意輸棋操縱等級分，不得干擾服務。違規可能導致暱稱重置、線上功能受限或賬戶停用。"
+    "不得辱罵其他玩家，不得使用仇恨、色情或廣告性質的暱稱，不得透過作弊工具、多個賬戶或故意輸棋操縱等級分，不得干擾服務。違規可能導致暱稱重置、線上功能受限或賬戶停用。反覆放棄計時對局的，計時對局和競技場會暫時受限。"
    ],
    [
     "內容與權利",
