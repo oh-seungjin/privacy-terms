@@ -30,7 +30,7 @@
    ],
    [
     "AI games",
-    "The AI runs on your device. Moves of AI games are not sent to us. Saved games, solved problems and settings stay on the device unless you sign in and the app syncs them to your account."
+    "The AI runs on your device. By default, the moves and result of finished AI games are sent without your name or contact details, under your anonymous account ID, only to calibrate the level ranks of the AI; you can turn this off at any time in Settings (\"Share AI games anonymously\"). Saved games, solved problems and settings stay on the device unless you sign in and the app syncs them to your account."
    ],
    [
     "Online games",
@@ -175,7 +175,7 @@
    ],
    [
     "AI 대국",
-    "AI는 기기에서 동작합니다. AI 대국의 착수는 저희에게 전송되지 않습니다. 저장한 대국, 푼 문제, 설정은 기기에 남으며, 로그인하면 계정에 동기화될 수 있습니다."
+    "AI는 기기에서 동작합니다. 기본적으로 끝난 AI 대국의 착수와 결과가 이름·연락처 없이 익명 계정 ID로 전송되며, AI 레벨의 급수를 맞추는 데만 쓰입니다. 설정의 \"AI 대국 기보 익명 제공\"에서 언제든 끌 수 있습니다. 저장한 대국, 푼 문제, 설정은 기기에 남으며, 로그인하면 계정에 동기화될 수 있습니다."
    ],
    [
     "온라인 대국",
@@ -320,7 +320,7 @@
    ],
    [
     "AI対局",
-    "AIは端末上で動作します。AI対局の着手は当方に送信されません。保存した棋譜、解いた問題、設定は端末に残り、サインインすると同期される場合があります。"
+    "AIは端末上で動作します。初期設定では、終了したAI対局の着手と結果が、名前や連絡先を含まず匿名アカウントIDで送信され、AIのレベルの級位を合わせる目的にのみ使われます。設定の「AI対局の棋譜を匿名で提供」でいつでもオフにできます。保存した棋譜、解いた問題、設定は端末に残り、サインインすると同期される場合があります。"
    ],
    [
     "オンライン対局",
@@ -465,7 +465,7 @@
    ],
    [
     "AI 对局",
-    "AI 在你的设备上运行。AI 对局的着法不会发送给我们。保存的棋谱、已解的题目和设置保留在设备上；登录后可能会同步到你的账号。"
+    "AI 在你的设备上运行。默认情况下，已结束的 AI 对局的着法和结果会在不含姓名和联系方式的前提下，以匿名账号 ID 发送，仅用于校准 AI 等级的段级位。你可以随时在设置中的“匿名分享 AI 对局棋谱”里关闭。保存的棋谱、已解的题目和设置保留在设备上；登录后可能会同步到你的账号。"
    ],
    [
     "在线对局",

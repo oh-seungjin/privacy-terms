@@ -15,7 +15,7 @@ T['en'] = dict(
  privacy=[
   ('Operator and scope', 'This policy covers the iOS app "Baduk" (bundle ID com.osj.baduk) published by Next Studio, an individual developer in the Republic of Korea. Contact: dhalska2@gmail.com.'),
   ('Account and cloud data', 'So you can play without signing up, the app creates an anonymous account. Hint and undo balances, daily free uses, check-ins, mission and achievement rewards, purchase status and, when you play online, your rating are stored on the server under this account. Sign in with Apple is optional; Apple shares an identifier and, if you allow it, an email address (possibly a private relay address), used only to recognise your account across devices.'),
-  ('AI games', 'The AI runs on your device. Moves of AI games are not sent to us. Saved games, solved problems and settings stay on the device unless you sign in and the app syncs them to your account.'),
+  ('AI games', 'The AI runs on your device. By default, the moves and result of finished AI games are sent without your name or contact details, under your anonymous account ID, only to calibrate the level ranks of the AI; you can turn this off at any time in Settings ("Share AI games anonymously"). Saved games, solved problems and settings stay on the device unless you sign in and the app syncs them to your account.'),
   ('Online games', 'When you play online, your nickname, country, rating and the moves and results of your games are stored on the server and shown to opponents and on the leaderboard. You can report and block players; reports (who, why, when) are kept to review rule violations.'),
   ('Purchases and subscriptions', 'Baduk Pro (monthly, yearly, lifetime) and hint and undo packs are paid through Apple. We never receive payment details; we store only the transaction ID, product and subscription status to deliver and restore what you bought.'),
   ('Ads', 'Google AdMob shows rewarded ads. The app does not track you across other companies\' apps or websites. AdMob may process device information and approximate location (from IP) for ad delivery, frequency capping and fraud prevention. Rewards are granted only after Google\'s signed server-side verification.'),
@@ -57,7 +57,7 @@ T['ko'] = dict(
  privacy=[
   ('운영자와 적용 범위', '이 방침은 대한민국 개인 개발자 넥스트 스튜디오가 배포하는 iOS 앱 "바둑"(번들 ID com.osj.baduk)에 적용됩니다. 문의: dhalska2@gmail.com.'),
   ('계정과 클라우드 데이터', '가입 없이 플레이할 수 있도록 앱이 익명 계정을 만듭니다. 힌트·무르기 잔액, 일일 무료 사용 횟수, 출석·미션·업적 보상, 구매 상태와 온라인 대국 시 레이팅이 이 계정으로 서버에 저장됩니다. Apple로 로그인은 선택 사항이며, Apple이 식별자와 (허용 시) 이메일 주소(비공개 릴레이 주소일 수 있음)를 전달하고 기기 간 계정 확인에만 씁니다.'),
-  ('AI 대국', 'AI는 기기에서 동작합니다. AI 대국의 착수는 저희에게 전송되지 않습니다. 저장한 대국, 푼 문제, 설정은 기기에 남으며, 로그인하면 계정에 동기화될 수 있습니다.'),
+  ('AI 대국', 'AI는 기기에서 동작합니다. 기본적으로 끝난 AI 대국의 착수와 결과가 이름·연락처 없이 익명 계정 ID로 전송되며, AI 레벨의 급수를 맞추는 데만 쓰입니다. 설정의 "AI 대국 기보 익명 제공"에서 언제든 끌 수 있습니다. 저장한 대국, 푼 문제, 설정은 기기에 남으며, 로그인하면 계정에 동기화될 수 있습니다.'),
   ('온라인 대국', '온라인으로 대국하면 닉네임, 국가, 레이팅과 대국의 착수·결과가 서버에 저장되어 상대와 순위표에 표시됩니다. 다른 플레이어를 신고하고 차단할 수 있으며, 신고(누가·왜·언제)는 규칙 위반 검토를 위해 보관됩니다.'),
   ('구매와 구독', '바둑 Pro(월간·연간·평생)와 힌트·무르기 묶음은 Apple을 통해 결제됩니다. 결제 정보는 받지 않으며, 구매 내역을 지급·복원하기 위해 거래 ID, 상품, 구독 상태만 저장합니다.'),
   ('광고', 'Google AdMob이 보상형 광고를 보여 줍니다. 앱은 다른 회사의 앱·웹사이트에서 사용자를 추적하지 않습니다. AdMob은 광고 제공, 노출 빈도 제한, 부정 방지를 위해 기기 정보와 (IP 기반) 대략적 위치를 처리할 수 있습니다. 보상은 Google의 서명된 서버 검증을 마친 뒤에만 지급됩니다.'),
@@ -99,7 +99,7 @@ T['ja'] = dict(
  privacy=[
   ('運営者と適用範囲', '本ポリシーは、韓国の個人開発者 Next Studio が提供するiOSアプリ「囲碁」(バンドルID com.osj.baduk)に適用されます。連絡先: dhalska2@gmail.com。'),
   ('アカウントとクラウドデータ', '登録なしで遊べるよう、アプリは匿名アカウントを作成します。ヒント・待ったの残数、1日の無料回数、チェックイン・ミッション・実績の報酬、購入状況、オンライン対局時のレーティングがこのアカウントでサーバーに保存されます。Appleでサインインは任意で、Appleが識別子と(許可した場合)メールアドレス(非公開リレーの場合あり)を共有し、端末間でのアカウント確認にのみ使います。'),
-  ('AI対局', 'AIは端末上で動作します。AI対局の着手は当方に送信されません。保存した棋譜、解いた問題、設定は端末に残り、サインインすると同期される場合があります。'),
+  ('AI対局', 'AIは端末上で動作します。初期設定では、終了したAI対局の着手と結果が、名前や連絡先を含まず匿名アカウントIDで送信され、AIのレベルの級位を合わせる目的にのみ使われます。設定の「AI対局の棋譜を匿名で提供」でいつでもオフにできます。保存した棋譜、解いた問題、設定は端末に残り、サインインすると同期される場合があります。'),
   ('オンライン対局', 'オンラインで対局すると、ニックネーム、国、レーティング、着手と結果がサーバーに保存され、対戦相手とランキングに表示されます。プレイヤーの通報とブロックができ、通報(誰が・なぜ・いつ)は違反の確認のために保管されます。'),
   ('購入と購読', '囲碁 Pro(月額・年額・買い切り)とヒント・待ったのパックはAppleを通じて決済されます。決済情報は受け取らず、購入内容の付与と復元のため取引ID、商品、購読状態のみ保存します。'),
   ('広告', 'Google AdMobがリワード広告を表示します。アプリは他社のアプリやウェブサイトをまたいで追跡しません。AdMobは広告配信、表示頻度の制限、不正防止のため、端末情報と(IPによる)おおよその位置情報を処理することがあります。報酬はGoogleの署名付きサーバー検証の後にのみ付与されます。'),
@@ -141,7 +141,7 @@ T['zh'] = dict(
  privacy=[
   ('运营者与适用范围', '本政策适用于由韩国个人开发者 Next Studio 发布的 iOS 应用“围棋”（Bundle ID com.osj.baduk）。联系邮箱：dhalska2@gmail.com。'),
   ('账号与云端数据', '为了无需注册即可游玩，应用会创建匿名账号。提示和悔棋余额、每日免费次数、签到、任务与成就奖励、购买状态，以及在线对局时的等级分，会以该账号保存在服务器上。使用 Apple 登录是可选的；Apple 会提供一个标识符以及（若你允许）电子邮件地址（可能是私密中转地址），仅用于在多台设备间识别你的账号。'),
-  ('AI 对局', 'AI 在你的设备上运行。AI 对局的着法不会发送给我们。保存的棋谱、已解的题目和设置保留在设备上；登录后可能会同步到你的账号。'),
+  ('AI 对局', 'AI 在你的设备上运行。默认情况下，已结束的 AI 对局的着法和结果会在不含姓名和联系方式的前提下，以匿名账号 ID 发送，仅用于校准 AI 等级的段级位。你可以随时在设置中的“匿名分享 AI 对局棋谱”里关闭。保存的棋谱、已解的题目和设置保留在设备上；登录后可能会同步到你的账号。'),
   ('在线对局', '在线对局时，你的昵称、国家、等级分以及对局的着法和结果会保存在服务器上，并向对手和排行榜展示。你可以举报和屏蔽玩家；举报（谁、为什么、何时）会被保留以审查违规行为。'),
   ('购买与订阅', '围棋 Pro（月度、年度、永久）以及提示和悔棋包通过 Apple 支付。我们不会收到支付信息，仅保存交易 ID、商品和订阅状态，用于发放和恢复你购买的内容。'),
   ('广告', 'Google AdMob 展示激励广告。应用不会跨其他公司的应用或网站追踪你。AdMob 可能为投放广告、频次限制和防欺诈而处理设备信息和大致位置（基于 IP）。只有在通过 Google 签名的服务器验证后才会发放奖励。'),
