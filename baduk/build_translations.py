@@ -11,7 +11,7 @@ T['en'] = dict(
  nav=NAV['en'], tag='Play Go against an AI that plays like a person — learn, solve, review.',
  intro='Baduk: Human-like AI Go — official support and policies · Next Studio',
  date='Effective date: October 4, 2026', contact='Contact', skip='Skip to content',
- features=['Human-like AI from 25 kyu to 9 dan, running on your device', 'Thousands of life-and-death problems, lessons, classic games and joseki', 'Online games with a rating and leaderboard', 'Daily check-in, missions and achievements', 'Baduk Pro subscription or lifetime purchase'],
+ features=['Human-like AI from 20 kyu to 3 dan, running on your device', 'Thousands of life-and-death problems, lessons, classic games and joseki', 'Online games with a rating and leaderboard', 'Daily check-in, missions and achievements', 'Baduk Pro subscription or lifetime purchase'],
  privacy=[
   ('Operator and scope', 'This policy covers the iOS app "Baduk" (bundle ID com.osj.baduk) published by Next Studio, an individual developer in the Republic of Korea. Contact: dhalska2@gmail.com.'),
   ('Account and cloud data', 'So you can play without signing up, the app creates an anonymous account. Hint and undo balances, daily free uses, check-ins, mission and achievement rewards, purchase status and, when you play online, your rating are stored on the server under this account. Sign in with Apple is optional; Apple shares an identifier and, if you allow it, an email address (possibly a private relay address), used only to recognise your account across devices.'),
@@ -36,7 +36,7 @@ T['en'] = dict(
  ],
  support=[
   ('I am new to Go. Can I still start?', 'Open Learn > Learn Go. The lessons let you place stones yourself, from liberties and capture to life and death and scoring. A 9x9 board is the best place to start.'),
-  ('How do I choose the AI\'s strength?', 'Tap a game mode, then pick a level from 25 kyu to 9 dan. The app remembers your last setup.'),
+  ('How do I choose the AI\'s strength?', 'Tap a game mode, then pick a level from 20 kyu to 3 dan. The app remembers your last setup.'),
   ('How do hints and undos work?', 'You start with 3 free hints and 3 free undos. More come from achievements, watching an ad (1 each) or packs in the shop. Pro has no limits. Balances are kept on the server.'),
   ('How do the daily limits work?', 'Free players can open a few problems, one lesson and one classic game per day, counted by the server\'s date. Opened content can be opened again. Pro has no limits.'),
   ('How do I restore purchases?', 'Tap "Restore purchases" in the shop or the Pro screen. Cancel a subscription in App Store account settings > Subscriptions.'),
@@ -53,7 +53,7 @@ T['ko'] = dict(
  nav=NAV['ko'], tag='사람처럼 두는 AI와 바둑을 두고, 배우고, 문제를 풀고, 복기하세요.',
  intro='바둑: 사람 같은 AI 바둑 — 공식 지원 및 정책 · 넥스트 스튜디오',
  date='시행일: 2026년 10월 4일', contact='문의', skip='본문으로 건너뛰기',
- features=['25급부터 9단까지, 기기에서 직접 동작하는 사람 같은 AI', '수천 개의 사활 문제, 레슨, 고전 명국, 정석', '레이팅과 순위가 있는 온라인 대국', '출석, 미션, 업적', '바둑 Pro 구독 또는 평생 이용권'],
+ features=['20급부터 3단까지, 기기에서 직접 동작하는 사람 같은 AI', '수천 개의 사활 문제, 레슨, 고전 명국, 정석', '레이팅과 순위가 있는 온라인 대국', '출석, 미션, 업적', '바둑 Pro 구독 또는 평생 이용권'],
  privacy=[
   ('운영자와 적용 범위', '이 방침은 대한민국 개인 개발자 넥스트 스튜디오가 배포하는 iOS 앱 "바둑"(번들 ID com.osj.baduk)에 적용됩니다. 문의: dhalska2@gmail.com.'),
   ('계정과 클라우드 데이터', '가입 없이 플레이할 수 있도록 앱이 익명 계정을 만듭니다. 힌트·무르기 잔액, 일일 무료 사용 횟수, 출석·미션·업적 보상, 구매 상태와 온라인 대국 시 레이팅이 이 계정으로 서버에 저장됩니다. Apple로 로그인은 선택 사항이며, Apple이 식별자와 (허용 시) 이메일 주소(비공개 릴레이 주소일 수 있음)를 전달하고 기기 간 계정 확인에만 씁니다.'),
@@ -78,7 +78,7 @@ T['ko'] = dict(
  ],
  support=[
   ('바둑을 처음 해요. 시작할 수 있나요?', '학습 > 바둑 배우기를 여세요. 활로와 따냄부터 사활, 계가까지 직접 돌을 놓으며 배웁니다. 9줄 바둑판에서 시작하는 것이 좋아요.'),
-  ('AI 실력은 어떻게 고르나요?', '대국 모드를 누른 뒤 25급부터 9단까지 레벨을 고르세요. 마지막 설정은 기억해 둡니다.'),
+  ('AI 실력은 어떻게 고르나요?', '대국 모드를 누른 뒤 20급부터 3단까지 레벨을 고르세요. 마지막 설정은 기억해 둡니다.'),
   ('힌트와 무르기는 어떻게 되나요?', '처음에 힌트 3개와 무르기 3개를 드립니다. 더 받으려면 업적 보상, 광고 시청(각 1개), 상점의 묶음을 이용하세요. Pro는 제한이 없습니다. 잔액은 서버에 보관됩니다.'),
   ('일일 제한은 어떻게 되나요?', '무료 이용자는 하루에 문제 몇 개, 레슨 1개, 고전 명국 1판을 열 수 있고 서버 날짜로 셉니다. 이미 연 콘텐츠는 다시 열 수 있습니다. Pro는 제한이 없습니다.'),
   ('구매를 복원하려면?', '상점 또는 Pro 화면의 "구매 복원"을 누르세요. 구독 해지는 App Store 계정 설정 > 구독에서 합니다.'),
@@ -95,7 +95,7 @@ T['ja'] = dict(
  nav=NAV['ja'], tag='人のように打つAIと碁を打ち、学び、詰碁を解き、検討しましょう。',
  intro='囲碁: 人間らしいAI碁 — 公式サポートとポリシー · Next Studio',
  date='施行日: 2026年10月4日', contact='お問い合わせ', skip='本文へスキップ',
- features=['25級から9段まで、端末上で動く人間らしいAI', '数千の詰碁、レッスン、古典棋譜、定石', 'レーティングとランキングのあるオンライン対局', 'チェックイン、ミッション、実績', '囲碁 Pro の購読または買い切り'],
+ features=['20級から3段まで、端末上で動く人間らしいAI', '数千の詰碁、レッスン、古典棋譜、定石', 'レーティングとランキングのあるオンライン対局', 'チェックイン、ミッション、実績', '囲碁 Pro の購読または買い切り'],
  privacy=[
   ('運営者と適用範囲', '本ポリシーは、韓国の個人開発者 Next Studio が提供するiOSアプリ「囲碁」(バンドルID com.osj.baduk)に適用されます。連絡先: dhalska2@gmail.com。'),
   ('アカウントとクラウドデータ', '登録なしで遊べるよう、アプリは匿名アカウントを作成します。ヒント・待ったの残数、1日の無料回数、チェックイン・ミッション・実績の報酬、購入状況、オンライン対局時のレーティングがこのアカウントでサーバーに保存されます。Appleでサインインは任意で、Appleが識別子と(許可した場合)メールアドレス(非公開リレーの場合あり)を共有し、端末間でのアカウント確認にのみ使います。'),
@@ -120,7 +120,7 @@ T['ja'] = dict(
  ],
  support=[
   ('囲碁は初めてです。始められますか?', '学習 > 囲碁を学ぶ を開いてください。呼吸点と取りから、詰碁、数え方まで、自分で石を置いて学べます。まずは9路盤がおすすめです。'),
-  ('AIの強さはどう選びますか?', '対局モードをタップし、25級から9段までのレベルを選びます。前回の設定は記憶されます。'),
+  ('AIの強さはどう選びますか?', '対局モードをタップし、20級から3段までのレベルを選びます。前回の設定は記憶されます。'),
   ('ヒントと待ったはどうなりますか?', '最初にヒント3つと待った3つを差し上げます。さらに、実績の報酬、広告の視聴(各1つ)、ショップのパックで入手できます。Proは無制限です。残数はサーバーに保管されます。'),
   ('1日の制限は?', '無料の方は1日に問題いくつか、レッスン1つ、古典棋譜1局を開け、サーバーの日付で数えます。一度開いた内容は再び開けます。Proは無制限です。'),
   ('購入を復元するには?', 'ショップまたはProの画面で「購入を復元」をタップしてください。購読の解約はApp Storeのアカウント設定 > サブスクリプションで行います。'),
@@ -137,7 +137,7 @@ T['zh'] = dict(
  nav=NAV['zh'], tag='与像人一样下棋的AI对弈，学习、做题、复盘。',
  intro='围棋：拟人AI围棋 — 官方支持与政策 · Next Studio',
  date='生效日期：2026年10月4日', contact='联系我们', skip='跳到正文',
- features=['从25级到9段、在设备上运行的拟人AI', '数千道死活题、课程、经典棋谱和定式', '带等级分和排行榜的在线对局', '每日签到、任务和成就', '围棋 Pro 订阅或永久购买'],
+ features=['从20级到3段、在设备上运行的拟人AI', '数千道死活题、课程、经典棋谱和定式', '带等级分和排行榜的在线对局', '每日签到、任务和成就', '围棋 Pro 订阅或永久购买'],
  privacy=[
   ('运营者与适用范围', '本政策适用于由韩国个人开发者 Next Studio 发布的 iOS 应用“围棋”（Bundle ID com.osj.baduk）。联系邮箱：dhalska2@gmail.com。'),
   ('账号与云端数据', '为了无需注册即可游玩，应用会创建匿名账号。提示和悔棋余额、每日免费次数、签到、任务与成就奖励、购买状态，以及在线对局时的等级分，会以该账号保存在服务器上。使用 Apple 登录是可选的；Apple 会提供一个标识符以及（若你允许）电子邮件地址（可能是私密中转地址），仅用于在多台设备间识别你的账号。'),
@@ -162,7 +162,7 @@ T['zh'] = dict(
  ],
  support=[
   ('我是围棋新手，能开始吗？', '打开 学习 > 学围棋。从气和提子，到死活、数子，都可以自己落子学习。建议从9路棋盘开始。'),
-  ('如何选择 AI 的强度？', '点击对局模式，然后选择 25 级到 9 段之间的等级。应用会记住你上次的设置。'),
+  ('如何选择 AI 的强度？', '点击对局模式，然后选择 20 级到 3 段之间的等级。应用会记住你上次的设置。'),
   ('提示和悔棋如何计算？', '开始时赠送 3 次提示和 3 次悔棋。更多可通过成就奖励、观看广告（各 1 次）或商店的组合包获得。Pro 不受限制。余额保存在服务器上。'),
   ('每日限制如何计算？', '免费用户每天可打开若干题目、1 节课程和 1 局经典棋谱，按服务器日期计算。已打开过的内容可再次打开。Pro 不受限制。'),
   ('如何恢复购买？', '在商店或 Pro 页面点击“恢复购买”。订阅请在 App Store 账号设置 > 订阅中取消。'),

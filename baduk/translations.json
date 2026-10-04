@@ -13,7 +13,7 @@
   "contact": "Contact",
   "skip": "Skip to content",
   "features": [
-   "Human-like AI from 25 kyu to 9 dan, running on your device",
+   "Human-like AI from 20 kyu to 3 dan, running on your device",
    "Thousands of life-and-death problems, lessons, classic games and joseki",
    "Online games with a rating and leaderboard",
    "Daily check-in, missions and achievements",
@@ -102,7 +102,7 @@
    ],
    [
     "How do I choose the AI's strength?",
-    "Tap a game mode, then pick a level from 25 kyu to 9 dan. The app remembers your last setup."
+    "Tap a game mode, then pick a level from 20 kyu to 3 dan. The app remembers your last setup."
    ],
    [
     "How do hints and undos work?",
@@ -158,7 +158,7 @@
   "contact": "문의",
   "skip": "본문으로 건너뛰기",
   "features": [
-   "25급부터 9단까지, 기기에서 직접 동작하는 사람 같은 AI",
+   "20급부터 3단까지, 기기에서 직접 동작하는 사람 같은 AI",
    "수천 개의 사활 문제, 레슨, 고전 명국, 정석",
    "레이팅과 순위가 있는 온라인 대국",
    "출석, 미션, 업적",
@@ -247,7 +247,7 @@
    ],
    [
     "AI 실력은 어떻게 고르나요?",
-    "대국 모드를 누른 뒤 25급부터 9단까지 레벨을 고르세요. 마지막 설정은 기억해 둡니다."
+    "대국 모드를 누른 뒤 20급부터 3단까지 레벨을 고르세요. 마지막 설정은 기억해 둡니다."
    ],
    [
     "힌트와 무르기는 어떻게 되나요?",
@@ -303,7 +303,7 @@
   "contact": "お問い合わせ",
   "skip": "本文へスキップ",
   "features": [
-   "25級から9段まで、端末上で動く人間らしいAI",
+   "20級から3段まで、端末上で動く人間らしいAI",
    "数千の詰碁、レッスン、古典棋譜、定石",
    "レーティングとランキングのあるオンライン対局",
    "チェックイン、ミッション、実績",
@@ -392,7 +392,7 @@
    ],
    [
     "AIの強さはどう選びますか?",
-    "対局モードをタップし、25級から9段までのレベルを選びます。前回の設定は記憶されます。"
+    "対局モードをタップし、20級から3段までのレベルを選びます。前回の設定は記憶されます。"
    ],
    [
     "ヒントと待ったはどうなりますか?",
@@ -448,7 +448,7 @@
   "contact": "联系我们",
   "skip": "跳到正文",
   "features": [
-   "从25级到9段、在设备上运行的拟人AI",
+   "从20级到3段、在设备上运行的拟人AI",
    "数千道死活题、课程、经典棋谱和定式",
    "带等级分和排行榜的在线对局",
    "每日签到、任务和成就",
@@ -537,7 +537,7 @@
    ],
    [
     "如何选择 AI 的强度？",
-    "点击对局模式，然后选择 25 级到 9 段之间的等级。应用会记住你上次的设置。"
+    "点击对局模式，然后选择 20 级到 3 段之间的等级。应用会记住你上次的设置。"
    ],
    [
     "提示和悔棋如何计算？",
