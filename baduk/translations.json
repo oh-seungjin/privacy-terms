@@ -42,7 +42,7 @@
    ],
    [
     "Ads",
-    "Google AdMob shows rewarded ads. The app does not track you across other companies' apps or websites. AdMob may process device information and approximate location (from IP) for ad delivery, frequency capping and fraud prevention. Rewards are granted only after Google's signed server-side verification."
+    "Google AdMob shows rewarded ads and, for users without Pro, a short interstitial ad after an AI game (at most once every 3 minutes). The app does not track you across other companies' apps or websites. AdMob may process device information and approximate location (from IP) for ad delivery, frequency capping and fraud prevention. Rewards are granted only after Google's signed server-side verification."
    ],
    [
     "Notifications",
@@ -187,7 +187,7 @@
    ],
    [
     "광고",
-    "Google AdMob이 보상형 광고를 보여 줍니다. 앱은 다른 회사의 앱·웹사이트에서 사용자를 추적하지 않습니다. AdMob은 광고 제공, 노출 빈도 제한, 부정 방지를 위해 기기 정보와 (IP 기반) 대략적 위치를 처리할 수 있습니다. 보상은 Google의 서명된 서버 검증을 마친 뒤에만 지급됩니다."
+    "Google AdMob이 보상형 광고와, Pro가 아닌 사용자에게는 AI 대국이 끝난 뒤의 전면 광고(3분에 1회 이하)를 보여 줍니다. 앱은 다른 회사의 앱·웹사이트에서 사용자를 추적하지 않습니다. AdMob은 광고 제공, 노출 빈도 제한, 부정 방지를 위해 기기 정보와 (IP 기반) 대략적 위치를 처리할 수 있습니다. 보상은 Google의 서명된 서버 검증을 마친 뒤에만 지급됩니다."
    ],
    [
     "알림",
@@ -332,7 +332,7 @@
    ],
    [
     "広告",
-    "Google AdMobがリワード広告を表示します。アプリは他社のアプリやウェブサイトをまたいで追跡しません。AdMobは広告配信、表示頻度の制限、不正防止のため、端末情報と(IPによる)おおよその位置情報を処理することがあります。報酬はGoogleの署名付きサーバー検証の後にのみ付与されます。"
+    "Google AdMobがリワード広告と、Proでない方にはAI対局終了後のインタースティシャル広告(3分に1回まで)を表示します。アプリは他社のアプリやウェブサイトをまたいで追跡しません。AdMobは広告配信、表示頻度の制限、不正防止のため、端末情報と(IPによる)おおよその位置情報を処理することがあります。報酬はGoogleの署名付きサーバー検証の後にのみ付与されます。"
    ],
    [
     "通知",
@@ -477,7 +477,7 @@
    ],
    [
     "广告",
-    "Google AdMob 展示激励广告。应用不会跨其他公司的应用或网站追踪你。AdMob 可能为投放广告、频次限制和防欺诈而处理设备信息和大致位置（基于 IP）。只有在通过 Google 签名的服务器验证后才会发放奖励。"
+    "Google AdMob 展示激励广告，并对未订阅 Pro 的用户在 AI 对局结束后展示插页广告（最多每 3 分钟一次）。应用不会跨其他公司的应用或网站追踪你。AdMob 可能为投放广告、频次限制和防欺诈而处理设备信息和大致位置（基于 IP）。只有在通过 Google 签名的服务器验证后才会发放奖励。"
    ],
    [
     "通知",
