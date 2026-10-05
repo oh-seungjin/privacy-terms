@@ -10,7 +10,7 @@ T = {}
 T['en'] = dict(
  nav=NAV['en'], tag='Play Go against an AI that plays like a person — learn, solve, review.',
  intro='Baduk: Human-like AI Go — official support and policies · Next Studio',
- date='Effective date: October 4, 2026', contact='Contact', skip='Skip to content',
+ date='Effective date: October 5, 2026', contact='Contact', skip='Skip to content',
  features=['Human-like AI from 20 kyu to 3 dan, running on your device', 'Thousands of life-and-death problems, lessons, classic games and joseki', 'Online games with a rating and leaderboard', 'Daily check-in, missions and achievements', 'Baduk Pro subscription or lifetime purchase'],
  privacy=[
   ('Operator and scope', 'This policy covers the iOS and Android app "Baduk" (bundle ID com.osj.baduk) published by Next Studio, an individual developer in the Republic of Korea. Contact: dhalska2@gmail.com.'),
@@ -22,7 +22,7 @@ T['en'] = dict(
   ('Notifications', 'Only if you allow notifications, we store a push token (Firebase Cloud Messaging) and the app language to tell you when a game is found or it is your move, and for the daily study reminder you set. You can turn this off in the app or in iOS Settings.'),
   ('Crash reports', 'Firebase Crashlytics collects crash and error reports (device model, OS and app version, technical logs, a random installation ID) to fix problems. No payment information is included.'),
   ('Service providers and location', 'Supabase (database, sign-in), Apple (Sign in with Apple, payments) and Google (AdMob, Firebase notifications and crash reports) process data under their own privacy policies, and servers may be outside your country. This site is served by GitHub Pages and uses no analytics or ad scripts.'),
-  ('Retention and deletion', 'Server data is kept while your account exists. Use Settings > Delete Baduk data in the app, the data is deleted immediately; if you email us instead, within a reasonable time after we verify the request. Deleting the app removes only the data stored on the device.'),
+  ('Retention and deletion', 'Server data is kept while your account exists. Use Settings > Delete Baduk data in the app, the data is deleted immediately; if you email us instead, within a reasonable time after we verify the request. Deleting the app removes only the data stored on the device. Finished online games (moves and result) stay in your opponents\' game history; after deletion they are no longer linked to your nickname, country or rating, only to an anonymous account ID.'),
   ('Your rights, children, changes', 'Email dhalska2@gmail.com to access, correct or delete your data. The app is not directed at children under 13 and does not knowingly collect their information. Changes to this policy are posted on this page with a new date.'),
  ],
  terms=[
@@ -44,15 +44,15 @@ T['en'] = dict(
   ('Something is wrong', 'Email dhalska2@gmail.com with the app version, device model and what happened.'),
  ],
  delete=[
-  ('Delete in the app', 'Settings > "Delete Baduk data" removes this game\'s server records (balances, rewards, check-ins, online games and rating, push token) and the records on this device. You are signed out afterwards.'),
-  ('What is not deleted', 'Purchase and subscription records are managed by Apple, and payment transaction records required by law may be kept for the required period. Data of other Next Studio games on the same account is not deleted.'),
+  ('Delete in the app', 'Settings > "Delete Baduk data" removes this game\'s server records (balances, rewards, check-ins, online rating, push token) and the records on this device. You are signed out afterwards.'),
+  ('What is not deleted', 'Purchase and subscription records are managed by Apple, and payment transaction records required by law may be kept for the required period. Data of other Next Studio games on the same account is not deleted. Finished online games (moves and result) stay in your opponents\' game history; after deletion they are no longer linked to your nickname, country or rating, only to an anonymous account ID.'),
   ('Request by email', 'If you cannot use the app, email dhalska2@gmail.com with the subject "Delete Baduk data". We process it within a reasonable time after verifying the request.'),
   ('Cancel your subscription', 'Deleting data does not cancel an Apple subscription. Cancel it in App Store account settings > Subscriptions.'),
  ])
 T['ko'] = dict(
  nav=NAV['ko'], tag='사람처럼 두는 AI와 바둑을 두고, 배우고, 문제를 풀고, 복기하세요.',
  intro='바둑: 사람 같은 AI 바둑 — 공식 지원 및 정책 · 넥스트 스튜디오',
- date='시행일: 2026년 10월 4일', contact='문의', skip='본문으로 건너뛰기',
+ date='시행일: 2026년 10월 5일', contact='문의', skip='본문으로 건너뛰기',
  features=['20급부터 3단까지, 기기에서 직접 동작하는 사람 같은 AI', '수천 개의 사활 문제, 레슨, 고전 명국, 정석', '레이팅과 순위가 있는 온라인 대국', '출석, 미션, 업적', '바둑 Pro 구독 또는 평생 이용권'],
  privacy=[
   ('운영자와 적용 범위', '이 방침은 대한민국 개인 개발자 넥스트 스튜디오가 배포하는 iOS·Android 앱 "바둑"(번들 ID com.osj.baduk)에 적용됩니다. 문의: dhalska2@gmail.com.'),
@@ -64,7 +64,7 @@ T['ko'] = dict(
   ('알림', '알림을 허용한 경우에만 대국 성사·내 차례 알림과 설정한 학습 알림을 위해 푸시 토큰(Firebase Cloud Messaging)과 앱 언어를 저장합니다. 앱 또는 iOS 설정에서 끌 수 있습니다.'),
   ('오류 보고', 'Firebase Crashlytics가 문제 해결을 위해 오류 보고(기기 모델, OS·앱 버전, 기술 로그, 임의의 설치 ID)를 수집합니다. 결제 정보는 포함되지 않습니다.'),
   ('서비스 제공자와 위치', 'Supabase(데이터베이스, 로그인), Apple(Apple로 로그인, 결제), Google(AdMob, Firebase 알림·오류 보고)이 각자의 개인정보 방침에 따라 데이터를 처리하며 서버는 국외에 있을 수 있습니다. 이 사이트는 GitHub Pages로 제공되며 분석·광고 스크립트를 쓰지 않습니다.'),
-  ('보관과 삭제', '서버 데이터는 계정이 있는 동안 보관됩니다. 앱의 설정 > 바둑 데이터 삭제를 쓰거나 즉시 삭제됩니다. 이메일로 요청하면 요청을 확인한 뒤 합리적인 기간 안에 삭제합니다. 앱을 지우면 기기에 저장된 데이터만 삭제됩니다.'),
+  ('보관과 삭제', '서버 데이터는 계정이 있는 동안 보관됩니다. 앱의 설정 > 바둑 데이터 삭제를 쓰거나 즉시 삭제됩니다. 이메일로 요청하면 요청을 확인한 뒤 합리적인 기간 안에 삭제합니다. 앱을 지우면 기기에 저장된 데이터만 삭제됩니다. 끝난 온라인 대국(착수와 결과)은 상대방의 대국 기록으로 남습니다. 삭제 후에는 닉네임·국가·레이팅과 연결되지 않고 익명 계정 ID에만 연결됩니다.'),
   ('이용자의 권리, 아동, 변경', '열람·정정·삭제는 dhalska2@gmail.com으로 요청하세요. 앱은 만 13세 미만 아동을 대상으로 하지 않으며 아동의 정보를 알면서 수집하지 않습니다. 방침이 바뀌면 이 페이지에 새 날짜로 게시합니다.'),
  ],
  terms=[
@@ -86,15 +86,15 @@ T['ko'] = dict(
   ('문제가 있어요', '앱 버전, 기기 모델, 상황을 적어 dhalska2@gmail.com으로 보내 주세요.'),
  ],
  delete=[
-  ('앱에서 삭제', '설정 > "바둑 데이터 삭제"는 이 게임의 서버 기록(잔액, 보상, 출석, 온라인 대국과 레이팅, 푸시 토큰)과 기기의 기록을 삭제합니다. 삭제 후 로그아웃됩니다.'),
-  ('삭제되지 않는 것', '구매·구독 내역은 Apple이 관리하며, 법에서 정한 결제 거래 기록은 정해진 기간 보관될 수 있습니다. 같은 계정의 다른 넥스트 스튜디오 게임 데이터는 삭제되지 않습니다.'),
+  ('앱에서 삭제', '설정 > "바둑 데이터 삭제"는 이 게임의 서버 기록(잔액, 보상, 출석, 온라인 레이팅, 푸시 토큰)과 기기의 기록을 삭제합니다. 삭제 후 로그아웃됩니다.'),
+  ('삭제되지 않는 것', '구매·구독 내역은 Apple이 관리하며, 법에서 정한 결제 거래 기록은 정해진 기간 보관될 수 있습니다. 같은 계정의 다른 넥스트 스튜디오 게임 데이터는 삭제되지 않습니다. 끝난 온라인 대국(착수와 결과)은 상대방의 대국 기록으로 남습니다. 삭제 후에는 닉네임·국가·레이팅과 연결되지 않고 익명 계정 ID에만 연결됩니다.'),
   ('이메일로 요청', '앱을 쓸 수 없다면 제목을 "바둑 데이터 삭제"로 하여 dhalska2@gmail.com으로 보내 주세요. 요청을 확인한 뒤 합리적인 기간 안에 처리합니다.'),
   ('구독 해지', '데이터를 삭제해도 Apple 구독은 해지되지 않습니다. App Store 계정 설정 > 구독에서 해지하세요.'),
  ])
 T['ja'] = dict(
  nav=NAV['ja'], tag='人のように打つAIと碁を打ち、学び、詰碁を解き、検討しましょう。',
  intro='囲碁: 人間らしいAI碁 — 公式サポートとポリシー · Next Studio',
- date='施行日: 2026年10月4日', contact='お問い合わせ', skip='本文へスキップ',
+ date='施行日: 2026年10月5日', contact='お問い合わせ', skip='本文へスキップ',
  features=['20級から3段まで、端末上で動く人間らしいAI', '数千の詰碁、レッスン、古典棋譜、定石', 'レーティングとランキングのあるオンライン対局', 'チェックイン、ミッション、実績', '囲碁 Pro の購読または買い切り'],
  privacy=[
   ('運営者と適用範囲', '本ポリシーは、韓国の個人開発者 Next Studio が提供するiOS・Android アプリ「囲碁」(バンドルID com.osj.baduk)に適用されます。連絡先: dhalska2@gmail.com。'),
@@ -106,7 +106,7 @@ T['ja'] = dict(
   ('通知', '通知を許可した場合のみ、対局成立・自分の番の通知と設定した学習リマインダーのために、プッシュトークン(Firebase Cloud Messaging)とアプリの言語を保存します。アプリまたはiOSの設定でオフにできます。'),
   ('クラッシュレポート', 'Firebase Crashlyticsが問題修正のためクラッシュ・エラーレポート(端末モデル、OS・アプリのバージョン、技術ログ、ランダムなインストールID)を収集します。決済情報は含まれません。'),
   ('サービス提供者と所在地', 'Supabase(データベース、サインイン)、Apple(Appleでサインイン、決済)、Google(AdMob、Firebase通知・クラッシュレポート)が各社のポリシーに従いデータを処理し、サーバーは国外にある場合があります。このサイトはGitHub Pagesで配信され、解析や広告のスクリプトは使いません。'),
-  ('保管と削除', 'サーバーのデータはアカウントが存在する間保管されます。アプリの設定 > 囲碁データを削除、を使うと即時に削除されます。メールで依頼した場合は、確認後、妥当な期間内に削除します。アプリを削除しても端末内のデータのみ消えます。'),
+  ('保管と削除', 'サーバーのデータはアカウントが存在する間保管されます。アプリの設定 > 囲碁データを削除、を使うと即時に削除されます。メールで依頼した場合は、確認後、妥当な期間内に削除します。アプリを削除しても端末内のデータのみ消えます。 終了したオンライン対局(着手と結果)は相手の対局履歴として残ります。削除後はニックネーム・国・レーティングとは結び付かず、匿名のアカウントIDにのみ紐づきます。'),
   ('ユーザーの権利、子ども、変更', '閲覧・訂正・削除は dhalska2@gmail.com までご連絡ください。本アプリは13歳未満の子どもを対象とせず、その情報を意図して収集しません。ポリシーの変更は新しい日付でこのページに掲載します。'),
  ],
  terms=[
@@ -128,15 +128,15 @@ T['ja'] = dict(
   ('問題が起きました', 'アプリのバージョン、端末モデル、状況を dhalska2@gmail.com までお送りください。'),
  ],
  delete=[
-  ('アプリ内で削除', '設定 >「囲碁データを削除」で、このゲームのサーバー記録(残数、報酬、チェックイン、オンライン対局とレーティング、プッシュトークン)と端末内の記録を削除します。削除後はサインアウトされます。'),
-  ('削除されないもの', '購入・購読の記録はAppleが管理し、法令で定められた決済取引記録は所定の期間保管されることがあります。同じアカウントの他の Next Studio ゲームのデータは削除されません。'),
+  ('アプリ内で削除', '設定 >「囲碁データを削除」で、このゲームのサーバー記録(残数、報酬、チェックイン、オンラインのレーティング、プッシュトークン)と端末内の記録を削除します。削除後はサインアウトされます。'),
+  ('削除されないもの', '購入・購読の記録はAppleが管理し、法令で定められた決済取引記録は所定の期間保管されることがあります。同じアカウントの他の Next Studio ゲームのデータは削除されません。 終了したオンライン対局(着手と結果)は相手の対局履歴として残ります。削除後はニックネーム・国・レーティングとは結び付かず、匿名のアカウントIDにのみ紐づきます。'),
   ('メールで依頼', 'アプリを使えない場合は、件名を「囲碁データ削除」として dhalska2@gmail.com までお送りください。依頼を確認後、妥当な期間内に処理します。'),
   ('購読の解約', 'データを削除してもApple購読は解約されません。App Storeのアカウント設定 > サブスクリプションで解約してください。'),
  ])
 T['zh'] = dict(
  nav=NAV['zh'], tag='与像人一样下棋的AI对弈，学习、做题、复盘。',
  intro='围棋：拟人AI围棋 — 官方支持与政策 · Next Studio',
- date='生效日期：2026年10月4日', contact='联系我们', skip='跳到正文',
+ date='生效日期：2026年10月5日', contact='联系我们', skip='跳到正文',
  features=['从20级到3段、在设备上运行的拟人AI', '数千道死活题、课程、经典棋谱和定式', '带等级分和排行榜的在线对局', '每日签到、任务和成就', '围棋 Pro 订阅或永久购买'],
  privacy=[
   ('运营者与适用范围', '本政策适用于由韩国个人开发者 Next Studio 发布的 iOS 和 Android 应用“围棋”（Bundle ID com.osj.baduk）。联系邮箱：dhalska2@gmail.com。'),
@@ -148,7 +148,7 @@ T['zh'] = dict(
   ('通知', '仅在你允许通知时，我们才会保存推送令牌（Firebase Cloud Messaging）和应用语言，用于在对局匹配成功或轮到你时提醒，以及你设置的每日学习提醒。你可以在应用或 iOS 设置中关闭。'),
   ('崩溃报告', 'Firebase Crashlytics 为修复问题收集崩溃和错误报告（设备型号、系统和应用版本、技术日志、随机安装 ID），不包含支付信息。'),
   ('服务提供商与所在地', 'Supabase（数据库、登录）、Apple（Apple 登录、支付）和 Google（AdMob、Firebase 通知和崩溃报告）按各自的隐私政策处理数据，服务器可能位于你所在国家之外。本网站由 GitHub Pages 提供，不使用分析或广告脚本。'),
-  ('保留与删除', '服务器数据在账号存续期间保留。在应用中使用 设置 > 删除围棋数据，数据会立即删除；若通过邮件申请，我们将在核实后于合理期限内删除。删除应用只会清除设备上的数据。'),
+  ('保留与删除', '服务器数据在账号存续期间保留。在应用中使用 设置 > 删除围棋数据，数据会立即删除；若通过邮件申请，我们将在核实后于合理期限内删除。删除应用只会清除设备上的数据。 已结束的在线对局（着法和结果）会作为对手的对局记录保留；删除后不再与你的昵称、国家或等级分关联，仅关联匿名账号 ID。'),
   ('你的权利、儿童与变更', '如需查阅、更正或删除数据，请发邮件至 dhalska2@gmail.com。本应用不面向13岁以下儿童，也不会故意收集其信息。政策变更将以新日期发布在本页。'),
  ],
  terms=[
@@ -170,8 +170,8 @@ T['zh'] = dict(
   ('遇到问题', '请将应用版本、设备型号和问题经过发送到 dhalska2@gmail.com。'),
  ],
  delete=[
-  ('在应用内删除', '设置 > “删除围棋数据”会删除本游戏的服务器记录（余额、奖励、签到、在线对局和等级分、推送令牌）以及设备上的记录。删除后会退出登录。'),
-  ('不会删除的内容', '购买和订阅记录由 Apple 管理，法律要求的支付交易记录可能会在规定期限内保留。同一账号下 Next Studio 其他游戏的数据不会被删除。'),
+  ('在应用内删除', '设置 > “删除围棋数据”会删除本游戏的服务器记录（余额、奖励、签到、在线等级分、推送令牌）以及设备上的记录。删除后会退出登录。'),
+  ('不会删除的内容', '购买和订阅记录由 Apple 管理，法律要求的支付交易记录可能会在规定期限内保留。同一账号下 Next Studio 其他游戏的数据不会被删除。 已结束的在线对局（着法和结果）会作为对手的对局记录保留；删除后不再与你的昵称、国家或等级分关联，仅关联匿名账号 ID。'),
   ('邮件申请', '如果无法使用应用，请以“删除围棋数据”为主题发邮件至 dhalska2@gmail.com。我们会在核实请求后于合理期限内处理。'),
   ('取消订阅', '删除数据不会取消 Apple 订阅。请在 App Store 账号设置 > 订阅中取消。'),
  ])

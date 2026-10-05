@@ -9,7 +9,7 @@
   ],
   "tag": "Play Go against an AI that plays like a person — learn, solve, review.",
   "intro": "Baduk: Human-like AI Go — official support and policies · Next Studio",
-  "date": "Effective date: October 4, 2026",
+  "date": "Effective date: October 5, 2026",
   "contact": "Contact",
   "skip": "Skip to content",
   "features": [
@@ -58,7 +58,7 @@
    ],
    [
     "Retention and deletion",
-    "Server data is kept while your account exists. Use Settings > Delete Baduk data in the app, the data is deleted immediately; if you email us instead, within a reasonable time after we verify the request. Deleting the app removes only the data stored on the device."
+    "Server data is kept while your account exists. Use Settings > Delete Baduk data in the app, the data is deleted immediately; if you email us instead, within a reasonable time after we verify the request. Deleting the app removes only the data stored on the device. Finished online games (moves and result) stay in your opponents' game history; after deletion they are no longer linked to your nickname, country or rating, only to an anonymous account ID."
    ],
    [
     "Your rights, children, changes",
@@ -128,11 +128,11 @@
   "delete-account": [
    [
     "Delete in the app",
-    "Settings > \"Delete Baduk data\" removes this game's server records (balances, rewards, check-ins, online games and rating, push token) and the records on this device. You are signed out afterwards."
+    "Settings > \"Delete Baduk data\" removes this game's server records (balances, rewards, check-ins, online rating, push token) and the records on this device. You are signed out afterwards."
    ],
    [
     "What is not deleted",
-    "Purchase and subscription records are managed by Apple, and payment transaction records required by law may be kept for the required period. Data of other Next Studio games on the same account is not deleted."
+    "Purchase and subscription records are managed by Apple, and payment transaction records required by law may be kept for the required period. Data of other Next Studio games on the same account is not deleted. Finished online games (moves and result) stay in your opponents' game history; after deletion they are no longer linked to your nickname, country or rating, only to an anonymous account ID."
    ],
    [
     "Request by email",
@@ -154,7 +154,7 @@
   ],
   "tag": "사람처럼 두는 AI와 바둑을 두고, 배우고, 문제를 풀고, 복기하세요.",
   "intro": "바둑: 사람 같은 AI 바둑 — 공식 지원 및 정책 · 넥스트 스튜디오",
-  "date": "시행일: 2026년 10월 4일",
+  "date": "시행일: 2026년 10월 5일",
   "contact": "문의",
   "skip": "본문으로 건너뛰기",
   "features": [
@@ -203,7 +203,7 @@
    ],
    [
     "보관과 삭제",
-    "서버 데이터는 계정이 있는 동안 보관됩니다. 앱의 설정 > 바둑 데이터 삭제를 쓰거나 즉시 삭제됩니다. 이메일로 요청하면 요청을 확인한 뒤 합리적인 기간 안에 삭제합니다. 앱을 지우면 기기에 저장된 데이터만 삭제됩니다."
+    "서버 데이터는 계정이 있는 동안 보관됩니다. 앱의 설정 > 바둑 데이터 삭제를 쓰거나 즉시 삭제됩니다. 이메일로 요청하면 요청을 확인한 뒤 합리적인 기간 안에 삭제합니다. 앱을 지우면 기기에 저장된 데이터만 삭제됩니다. 끝난 온라인 대국(착수와 결과)은 상대방의 대국 기록으로 남습니다. 삭제 후에는 닉네임·국가·레이팅과 연결되지 않고 익명 계정 ID에만 연결됩니다."
    ],
    [
     "이용자의 권리, 아동, 변경",
@@ -273,11 +273,11 @@
   "delete-account": [
    [
     "앱에서 삭제",
-    "설정 > \"바둑 데이터 삭제\"는 이 게임의 서버 기록(잔액, 보상, 출석, 온라인 대국과 레이팅, 푸시 토큰)과 기기의 기록을 삭제합니다. 삭제 후 로그아웃됩니다."
+    "설정 > \"바둑 데이터 삭제\"는 이 게임의 서버 기록(잔액, 보상, 출석, 온라인 레이팅, 푸시 토큰)과 기기의 기록을 삭제합니다. 삭제 후 로그아웃됩니다."
    ],
    [
     "삭제되지 않는 것",
-    "구매·구독 내역은 Apple이 관리하며, 법에서 정한 결제 거래 기록은 정해진 기간 보관될 수 있습니다. 같은 계정의 다른 넥스트 스튜디오 게임 데이터는 삭제되지 않습니다."
+    "구매·구독 내역은 Apple이 관리하며, 법에서 정한 결제 거래 기록은 정해진 기간 보관될 수 있습니다. 같은 계정의 다른 넥스트 스튜디오 게임 데이터는 삭제되지 않습니다. 끝난 온라인 대국(착수와 결과)은 상대방의 대국 기록으로 남습니다. 삭제 후에는 닉네임·국가·레이팅과 연결되지 않고 익명 계정 ID에만 연결됩니다."
    ],
    [
     "이메일로 요청",
@@ -299,7 +299,7 @@
   ],
   "tag": "人のように打つAIと碁を打ち、学び、詰碁を解き、検討しましょう。",
   "intro": "囲碁: 人間らしいAI碁 — 公式サポートとポリシー · Next Studio",
-  "date": "施行日: 2026年10月4日",
+  "date": "施行日: 2026年10月5日",
   "contact": "お問い合わせ",
   "skip": "本文へスキップ",
   "features": [
@@ -348,7 +348,7 @@
    ],
    [
     "保管と削除",
-    "サーバーのデータはアカウントが存在する間保管されます。アプリの設定 > 囲碁データを削除、を使うと即時に削除されます。メールで依頼した場合は、確認後、妥当な期間内に削除します。アプリを削除しても端末内のデータのみ消えます。"
+    "サーバーのデータはアカウントが存在する間保管されます。アプリの設定 > 囲碁データを削除、を使うと即時に削除されます。メールで依頼した場合は、確認後、妥当な期間内に削除します。アプリを削除しても端末内のデータのみ消えます。 終了したオンライン対局(着手と結果)は相手の対局履歴として残ります。削除後はニックネーム・国・レーティングとは結び付かず、匿名のアカウントIDにのみ紐づきます。"
    ],
    [
     "ユーザーの権利、子ども、変更",
@@ -418,11 +418,11 @@
   "delete-account": [
    [
     "アプリ内で削除",
-    "設定 >「囲碁データを削除」で、このゲームのサーバー記録(残数、報酬、チェックイン、オンライン対局とレーティング、プッシュトークン)と端末内の記録を削除します。削除後はサインアウトされます。"
+    "設定 >「囲碁データを削除」で、このゲームのサーバー記録(残数、報酬、チェックイン、オンラインのレーティング、プッシュトークン)と端末内の記録を削除します。削除後はサインアウトされます。"
    ],
    [
     "削除されないもの",
-    "購入・購読の記録はAppleが管理し、法令で定められた決済取引記録は所定の期間保管されることがあります。同じアカウントの他の Next Studio ゲームのデータは削除されません。"
+    "購入・購読の記録はAppleが管理し、法令で定められた決済取引記録は所定の期間保管されることがあります。同じアカウントの他の Next Studio ゲームのデータは削除されません。 終了したオンライン対局(着手と結果)は相手の対局履歴として残ります。削除後はニックネーム・国・レーティングとは結び付かず、匿名のアカウントIDにのみ紐づきます。"
    ],
    [
     "メールで依頼",
@@ -444,7 +444,7 @@
   ],
   "tag": "与像人一样下棋的AI对弈，学习、做题、复盘。",
   "intro": "围棋：拟人AI围棋 — 官方支持与政策 · Next Studio",
-  "date": "生效日期：2026年10月4日",
+  "date": "生效日期：2026年10月5日",
   "contact": "联系我们",
   "skip": "跳到正文",
   "features": [
@@ -493,7 +493,7 @@
    ],
    [
     "保留与删除",
-    "服务器数据在账号存续期间保留。在应用中使用 设置 > 删除围棋数据，数据会立即删除；若通过邮件申请，我们将在核实后于合理期限内删除。删除应用只会清除设备上的数据。"
+    "服务器数据在账号存续期间保留。在应用中使用 设置 > 删除围棋数据，数据会立即删除；若通过邮件申请，我们将在核实后于合理期限内删除。删除应用只会清除设备上的数据。 已结束的在线对局（着法和结果）会作为对手的对局记录保留；删除后不再与你的昵称、国家或等级分关联，仅关联匿名账号 ID。"
    ],
    [
     "你的权利、儿童与变更",
@@ -563,11 +563,11 @@
   "delete-account": [
    [
     "在应用内删除",
-    "设置 > “删除围棋数据”会删除本游戏的服务器记录（余额、奖励、签到、在线对局和等级分、推送令牌）以及设备上的记录。删除后会退出登录。"
+    "设置 > “删除围棋数据”会删除本游戏的服务器记录（余额、奖励、签到、在线等级分、推送令牌）以及设备上的记录。删除后会退出登录。"
    ],
    [
     "不会删除的内容",
-    "购买和订阅记录由 Apple 管理，法律要求的支付交易记录可能会在规定期限内保留。同一账号下 Next Studio 其他游戏的数据不会被删除。"
+    "购买和订阅记录由 Apple 管理，法律要求的支付交易记录可能会在规定期限内保留。同一账号下 Next Studio 其他游戏的数据不会被删除。 已结束的在线对局（着法和结果）会作为对手的对局记录保留；删除后不再与你的昵称、国家或等级分关联，仅关联匿名账号 ID。"
    ],
    [
     "邮件申请",
