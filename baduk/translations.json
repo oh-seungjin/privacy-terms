@@ -22,7 +22,7 @@
   "privacy": [
    [
     "Operator and scope",
-    "This policy covers the iOS app \"Baduk\" (bundle ID com.osj.baduk) published by Next Studio, an individual developer in the Republic of Korea. Contact: dhalska2@gmail.com."
+    "This policy covers the iOS and Android app \"Baduk\" (bundle ID com.osj.baduk) published by Next Studio, an individual developer in the Republic of Korea. Contact: dhalska2@gmail.com."
    ],
    [
     "Account and cloud data",
@@ -58,7 +58,7 @@
    ],
    [
     "Retention and deletion",
-    "Server data is kept while your account exists. Use Settings > Delete Baduk data in the app, or email us, and this game's server data is deleted within a reasonable time. Deleting the app removes only the data stored on the device."
+    "Server data is kept while your account exists. Use Settings > Delete Baduk data in the app, the data is deleted immediately; if you email us instead, within a reasonable time after we verify the request. Deleting the app removes only the data stored on the device."
    ],
    [
     "Your rights, children, changes",
@@ -68,7 +68,7 @@
   "terms": [
    [
     "Scope",
-    "These terms govern your use of Next Studio's iOS app \"Baduk\" (the \"App\"). Apple's Standard End User License Agreement (EULA) also applies."
+    "These terms govern your use of Next Studio's iOS and Android app \"Baduk\" (the \"App\"). Apple's Standard End User License Agreement (EULA) also applies."
    ],
    [
     "The service",
@@ -80,7 +80,7 @@
    ],
    [
     "Conduct",
-    "Do not insult other players, use hateful, sexual or advertising nicknames, manipulate ratings with cheating tools, multiple accounts or intentional losses, or disrupt the service. Violations may lead to a nickname reset, limits on online features or account suspension."
+    "Do not insult other players, use hateful, sexual or advertising nicknames, manipulate ratings with cheating tools, multiple accounts or intentional losses, or disrupt the service. We have no tolerance for objectionable content or abusive players. Players can report or block others in a game; reports are reviewed within 24 hours, and violations lead to a nickname reset, limits on online features or account suspension."
    ],
    [
     "Content and rights",
@@ -167,7 +167,7 @@
   "privacy": [
    [
     "운영자와 적용 범위",
-    "이 방침은 대한민국 개인 개발자 넥스트 스튜디오가 배포하는 iOS 앱 \"바둑\"(번들 ID com.osj.baduk)에 적용됩니다. 문의: dhalska2@gmail.com."
+    "이 방침은 대한민국 개인 개발자 넥스트 스튜디오가 배포하는 iOS·Android 앱 \"바둑\"(번들 ID com.osj.baduk)에 적용됩니다. 문의: dhalska2@gmail.com."
    ],
    [
     "계정과 클라우드 데이터",
@@ -203,7 +203,7 @@
    ],
    [
     "보관과 삭제",
-    "서버 데이터는 계정이 있는 동안 보관됩니다. 앱의 설정 > 바둑 데이터 삭제를 쓰거나 이메일로 요청하면 이 게임의 서버 데이터를 합리적인 기간 안에 삭제합니다. 앱을 지우면 기기에 저장된 데이터만 삭제됩니다."
+    "서버 데이터는 계정이 있는 동안 보관됩니다. 앱의 설정 > 바둑 데이터 삭제를 쓰거나 즉시 삭제됩니다. 이메일로 요청하면 요청을 확인한 뒤 합리적인 기간 안에 삭제합니다. 앱을 지우면 기기에 저장된 데이터만 삭제됩니다."
    ],
    [
     "이용자의 권리, 아동, 변경",
@@ -213,7 +213,7 @@
   "terms": [
    [
     "적용 범위",
-    "이 약관은 넥스트 스튜디오의 iOS 앱 \"바둑\"(이하 \"앱\")의 이용에 적용됩니다. Apple의 표준 최종 사용자 사용권 계약(EULA)도 함께 적용됩니다."
+    "이 약관은 넥스트 스튜디오의 iOS·Android 앱 \"바둑\"(이하 \"앱\")의 이용에 적용됩니다. Apple의 표준 최종 사용자 사용권 계약(EULA)도 함께 적용됩니다."
    ],
    [
     "서비스",
@@ -225,7 +225,7 @@
    ],
    [
     "이용 수칙",
-    "다른 플레이어에 대한 욕설, 혐오·선정·광고성 닉네임, 부정 도구·다중 계정·고의 패배로 레이팅을 조작하는 행위, 서비스 방해를 하지 마세요. 위반 시 닉네임 초기화, 온라인 기능 제한, 계정 정지가 있을 수 있습니다."
+    "다른 플레이어에 대한 욕설, 혐오·선정·광고성 닉네임, 부정 도구·다중 계정·고의 패배로 레이팅을 조작하는 행위, 서비스 방해를 하지 마세요. 부적절한 콘텐츠와 악성 이용자를 용납하지 않습니다. 플레이어는 대국 중에 다른 플레이어를 신고하거나 차단할 수 있고, 신고는 24시간 안에 검토하며, 위반 시 닉네임 초기화, 온라인 기능 제한, 계정 정지가 이루어집니다."
    ],
    [
     "콘텐츠와 권리",
@@ -312,7 +312,7 @@
   "privacy": [
    [
     "運営者と適用範囲",
-    "本ポリシーは、韓国の個人開発者 Next Studio が提供するiOSアプリ「囲碁」(バンドルID com.osj.baduk)に適用されます。連絡先: dhalska2@gmail.com。"
+    "本ポリシーは、韓国の個人開発者 Next Studio が提供するiOS・Android アプリ「囲碁」(バンドルID com.osj.baduk)に適用されます。連絡先: dhalska2@gmail.com。"
    ],
    [
     "アカウントとクラウドデータ",
@@ -348,7 +348,7 @@
    ],
    [
     "保管と削除",
-    "サーバーのデータはアカウントが存在する間保管されます。アプリの設定 > 囲碁データを削除、またはメールで依頼すると、このゲームのサーバーデータを妥当な期間内に削除します。アプリを削除しても端末内のデータのみ消えます。"
+    "サーバーのデータはアカウントが存在する間保管されます。アプリの設定 > 囲碁データを削除、を使うと即時に削除されます。メールで依頼した場合は、確認後、妥当な期間内に削除します。アプリを削除しても端末内のデータのみ消えます。"
    ],
    [
     "ユーザーの権利、子ども、変更",
@@ -358,7 +358,7 @@
   "terms": [
    [
     "適用範囲",
-    "本規約は Next Studio のiOSアプリ「囲碁」(以下「本アプリ」)の利用に適用されます。AppleのEULA(標準使用許諾契約)も適用されます。"
+    "本規約は Next Studio のiOS・Androidアプリ「囲碁」(以下「本アプリ」)の利用に適用されます。AppleのEULA(標準使用許諾契約)も適用されます。"
    ],
    [
     "サービス",
@@ -370,7 +370,7 @@
    ],
    [
     "禁止事項",
-    "他のプレイヤーへの中傷、憎悪的・性的・宣伝的なニックネーム、不正ツール・複数アカウント・故意の負けによるレーティング操作、サービスの妨害をしないでください。違反した場合、ニックネームの初期化、オンライン機能の制限、アカウント停止となることがあります。"
+    "他のプレイヤーへの中傷、憎悪的・性的・宣伝的なニックネーム、不正ツール・複数アカウント・故意の負けによるレーティング操作、サービスの妨害をしないでください。不適切なコンテンツや悪質な利用者は一切容認しません。プレイヤーは対局中に他のプレイヤーを通報・ブロックでき、通報は24時間以内に確認し、違反した場合はニックネームの初期化、オンライン機能の制限、アカウント停止を行います。"
    ],
    [
     "コンテンツと権利",
@@ -457,7 +457,7 @@
   "privacy": [
    [
     "运营者与适用范围",
-    "本政策适用于由韩国个人开发者 Next Studio 发布的 iOS 应用“围棋”（Bundle ID com.osj.baduk）。联系邮箱：dhalska2@gmail.com。"
+    "本政策适用于由韩国个人开发者 Next Studio 发布的 iOS 和 Android 应用“围棋”（Bundle ID com.osj.baduk）。联系邮箱：dhalska2@gmail.com。"
    ],
    [
     "账号与云端数据",
@@ -493,7 +493,7 @@
    ],
    [
     "保留与删除",
-    "服务器数据在账号存续期间保留。在应用中使用 设置 > 删除围棋数据，或发邮件联系我们，我们将在合理期限内删除本游戏的服务器数据。删除应用只会清除设备上的数据。"
+    "服务器数据在账号存续期间保留。在应用中使用 设置 > 删除围棋数据，数据会立即删除；若通过邮件申请，我们将在核实后于合理期限内删除。删除应用只会清除设备上的数据。"
    ],
    [
     "你的权利、儿童与变更",
@@ -503,7 +503,7 @@
   "terms": [
    [
     "适用范围",
-    "本条款适用于你使用 Next Studio 的 iOS 应用“围棋”（“应用”）。Apple 标准最终用户许可协议（EULA）同样适用。"
+    "本条款适用于你使用 Next Studio 的 iOS 和 Android 应用“围棋”（“应用”）。Apple 标准最终用户许可协议（EULA）同样适用。"
    ],
    [
     "服务",
@@ -515,7 +515,7 @@
    ],
    [
     "行为规范",
-    "请勿辱骂其他玩家，使用仇恨、色情或广告性质的昵称，借助作弊工具、多个账号或故意输棋操纵等级分，或干扰服务。违规可能导致昵称重置、限制在线功能或封停账号。"
+    "请勿辱骂其他玩家，使用仇恨、色情或广告性质的昵称，借助作弊工具、多个账号或故意输棋操纵等级分，或干扰服务。我们对不当内容和恶意用户零容忍。玩家可在对局中举报或屏蔽他人；举报会在 24 小时内审核，违规将导致昵称重置、限制在线功能或封停账号。"
    ],
    [
     "内容与权利",
