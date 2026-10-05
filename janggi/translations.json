@@ -42,7 +42,7 @@
    ],
    [
     "AI 코치 총평",
-    "프리미엄 이용자가 코치 총평을 요청하면, 그 대국의 엔진 분석 요약(진영, 결과, 정확도, 주요 장면의 수와 더 좋은 수)을 Anthropic의 Claude API로 보내 총평 문장을 만듭니다. 계정 정보나 닉네임은 보내지 않으며, 만들어진 총평은 다시 요청할 때 쓰도록 서버에 보관합니다."
+    "프리미엄 이용자가 코치 총평을 요청하면, 그 대국의 엔진 분석 요약(진영, 결과, 정확도, 실수 횟수, 주요 장면의 수와 더 좋은 수)을 Anthropic의 Claude API로 보내 총평 문장을 만듭니다. 계정 정보나 닉네임은 보내지 않으며, 만들어진 총평은 다시 요청할 때 쓰도록 서버에 보관합니다."
    ],
    [
     "구매와 구독",
@@ -195,7 +195,7 @@
    ],
    [
     "AI coach summary",
-    "When a Premium user asks for a coach summary, an engine-analysis summary of that game (side, result, accuracy, key moves and better moves) is sent to Anthropic's Claude API to write the summary. No account details or nickname are sent; the written summary is kept on the server so it can be shown again."
+    "When a Premium user asks for a coach summary, an engine-analysis summary of that game (side, result, accuracy, mistake counts, key moves and better moves) is sent to Anthropic's Claude API to write the summary. No account details or nickname are sent; the written summary is kept on the server so it can be shown again."
    ],
    [
     "Purchases and subscriptions",
@@ -348,7 +348,7 @@
    ],
    [
     "AI教练点评",
-    "高级版用户请求教练点评时，该局的引擎分析摘要（阵营、结果、准确度、关键着法与更好的着法）会发送到Anthropic的Claude API以生成点评。不发送账户信息或昵称；生成的点评会保存在服务器上以便再次查看。"
+    "高级版用户请求教练点评时，该局的引擎分析摘要（阵营、结果、准确度、失误次数、关键着法与更好的着法）会发送到Anthropic的Claude API以生成点评。不发送账户信息或昵称；生成的点评会保存在服务器上以便再次查看。"
    ],
    [
     "购买与订阅",
@@ -501,7 +501,7 @@
    ],
    [
     "Nhận xét của huấn luyện viên AI",
-    "Khi người dùng Premium yêu cầu nhận xét, bản tóm tắt phân tích của máy cho ván đó (bên chơi, kết quả, độ chính xác, các nước quan trọng và nước tốt hơn) được gửi đến Claude API của Anthropic để viết nhận xét. Không gửi thông tin tài khoản hay biệt danh; nhận xét được lưu trên máy chủ để xem lại."
+    "Khi người dùng Premium yêu cầu nhận xét, bản tóm tắt phân tích của máy cho ván đó (bên chơi, kết quả, độ chính xác, số lần sai lầm, các nước quan trọng và nước tốt hơn) được gửi đến Claude API của Anthropic để viết nhận xét. Không gửi thông tin tài khoản hay biệt danh; nhận xét được lưu trên máy chủ để xem lại."
    ],
    [
     "Mua hàng và gói đăng ký",
@@ -654,7 +654,7 @@
    ],
    [
     "AI教練點評",
-    "高階版使用者請求教練點評時，該局的引擎分析摘要（陣營、結果、準確度、關鍵著法與更好的著法）會傳送到Anthropic的Claude API以生成點評。不傳送賬戶資訊或暱稱；生成的點評會儲存在伺服器上以便再次檢視。"
+    "高階版使用者請求教練點評時，該局的引擎分析摘要（陣營、結果、準確度、失誤次數、關鍵著法與更好的著法）會傳送到Anthropic的Claude API以生成點評。不傳送賬戶資訊或暱稱；生成的點評會儲存在伺服器上以便再次檢視。"
    ],
    [
     "購買與訂閱",
