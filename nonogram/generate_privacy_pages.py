@@ -21,10 +21,9 @@ PAGES = {
         "sections": [
             ("1. 수집 정보와 이용 목적", [
                 "Google·Apple 로그인 이메일 및 공급자 식별자: 로그인, 계정 구분, 이메일 마스킹 표시에 사용",
-                "이용자가 선택한 국가 코드: 랭킹 국기 표시에 사용",
-                "난이도, 완료 시간, 실수·정답 수, 랭킹 도전 및 기록: 통계, 랭킹, 부정 이용 방지에 사용",
-                "상품 ID, 거래 ID, 구매 검증 상태: 번개 지급, 광고 제거, 구매 복원에 사용. 결제수단 정보는 스토어가 처리하며 회사는 저장하지 않음",
-                "FCM 토큰, 플랫폼, 언어 및 알림 설정: 번개 충전 및 순위 하락 알림에 사용",
+                "난이도, 완료 시간, 실수·정답 수 및 기록: 통계와 부정 이용 방지에 사용",
+                "상품 ID, 거래 ID, 구매 검증 상태: 힌트 지급, 광고 제거, 구매 복원에 사용. 결제수단 정보는 스토어가 처리하며 회사는 저장하지 않음",
+                "FCM 토큰, 플랫폼, 언어 및 알림 설정: 푸시 알림 전달에 사용",
                 "Google Mobile Ads 및 동의 SDK가 광고 제공, 빈도 관리, 부정행위 방지와 법정 동의를 위해 기기 식별자, IP 주소, 진단·이용 정보를 처리할 수 있음",
             ]),
             ("2. 처리 위탁 및 국외 처리", "Supabase(인증·DB), Google Firebase(푸시), Google AdMob(광고·동의), Apple·Google(로그인·결제)을 사용합니다. 정보는 각 사업자가 운영하는 국가의 서버에서 각 사업자의 정책과 적용 법령에 따라 처리될 수 있습니다."),
@@ -42,10 +41,9 @@ PAGES = {
         "sections": [
             ("1. Information we collect and why", [
                 "Google or Apple sign-in email and provider identifier: sign-in, account identification, and masked email display",
-                "Country code selected by the user: display of the ranking flag",
-                "Difficulty, completion time, mistakes, correct entries, ranked attempts, and results: statistics, rankings, and abuse prevention",
-                "Product ID, transaction ID, and purchase verification status: ticket grants, ad removal, and purchase restoration. The app stores process payment credentials; we do not store them",
-                "FCM token, platform, language, and notification settings: ticket-full and rank-drop notifications",
+                "Difficulty, completion time, mistakes, correct entries, and results: statistics and abuse prevention",
+                "Product ID, transaction ID, and purchase verification status: hint grants, ad removal, and purchase restoration. The app stores process payment credentials; we do not store them",
+                "FCM token, platform, language, and notification settings: delivery of push notifications",
                 "Google Mobile Ads and consent SDKs may process device identifiers, IP address, diagnostics, and usage information for advertising, frequency management, fraud prevention, and legal consent",
             ]),
             ("2. Service providers and international processing", "We use Supabase for authentication and databases, Google Firebase for push notifications, Google AdMob for advertising and consent, and Apple and Google for sign-in and payments. Data may be processed in countries where these providers operate, under their policies and applicable safeguards."),
@@ -63,10 +61,9 @@ PAGES = {
         "sections": [
             ("1. 収集する情報と利用目的", [
                 "Google・Appleログインのメールアドレスおよびプロバイダ識別子：ログイン、アカウント識別、メールアドレスのマスク表示",
-                "利用者が選択した国コード：ランキングでの国旗表示",
-                "難易度、クリア時間、ミス・正解数、ランキング挑戦および記録：統計、ランキング、不正利用の防止",
-                "商品ID、取引ID、購入確認状況：挑戦権の付与、広告削除、購入の復元。支払情報はストアが処理し、当社は保存しません",
-                "FCMトークン、プラットフォーム、言語、通知設定：挑戦権の満タンおよび順位低下の通知",
+                "難易度、クリア時間、ミス・正解数および記録：統計と不正利用の防止",
+                "商品ID、取引ID、購入確認状況：ヒントの付与、広告削除、購入の復元。支払情報はストアが処理し、当社は保存しません",
+                "FCMトークン、プラットフォーム、言語、通知設定：プッシュ通知の配信",
                 "Google Mobile Adsおよび同意SDKは、広告配信、頻度管理、不正防止、法的同意のため、端末識別子、IPアドレス、診断・利用情報を処理する場合があります",
             ]),
             ("2. 委託先および国外での処理", "認証・データベースにSupabase、プッシュ通知にGoogle Firebase、広告・同意にGoogle AdMob、ログイン・決済にAppleおよびGoogleを使用します。情報は、各事業者の方針と適用法令に従い、事業者が運営する国のサーバーで処理される場合があります。"),
@@ -83,11 +80,10 @@ PAGES = {
         "intro": "Next Studio致力于保护Nonogram Pulse用户的隐私，并遵守适用的隐私法律。",
         "sections": [
             ("1. 收集的信息及使用目的", [
-                "Google或Apple登录邮箱及提供商标识符：用于登录、区分账号及在排行榜中隐藏显示邮箱",
-                "用户选择的国家代码：用于显示排行榜国旗",
-                "难度、完成时间、错误与正确次数、排名挑战及记录：用于统计、排名和防止滥用",
-                "商品ID、交易ID和购买验证状态：用于发放挑战次数、移除广告和恢复购买。支付信息由应用商店处理，我们不会保存",
-                "FCM令牌、平台、语言及通知设置：用于挑战次数充满和排名下降通知",
+                "Google或Apple登录邮箱及提供商标识符：用于登录、区分账号及隐藏显示邮箱",
+                "难度、完成时间、错误与正确次数及记录：用于统计和防止滥用",
+                "商品ID、交易ID和购买验证状态：用于发放提示、移除广告和恢复购买。支付信息由应用商店处理，我们不会保存",
+                "FCM令牌、平台、语言及通知设置：用于推送通知的发送",
                 "Google Mobile Ads及同意SDK可能会为广告投放、频次管理、防欺诈和取得法定同意而处理设备标识符、IP地址、诊断及使用信息",
             ]),
             ("2. 服务提供商及跨境处理", "我们使用Supabase提供身份验证和数据库服务，使用Google Firebase发送推送通知，使用Google AdMob提供广告和同意管理，并使用Apple和Google提供登录与支付服务。信息可能根据各服务商的政策和适用保障措施，在其运营所在国家或地区处理。"),
@@ -105,10 +101,9 @@ PAGES = {
         "sections": [
             ("1. Información que recopilamos y finalidad", [
                 "Correo e identificador del proveedor de Google o Apple: inicio de sesión, identificación de la cuenta y visualización enmascarada del correo",
-                "Código de país elegido por el usuario: mostrar la bandera en la clasificación",
-                "Dificultad, tiempo, errores, aciertos, intentos y resultados: estadísticas, clasificación y prevención de abusos",
-                "ID del producto, ID de transacción y estado de verificación: entrega de intentos, eliminación de anuncios y restauración de compras. Las tiendas procesan los datos de pago; nosotros no los guardamos",
-                "Token FCM, plataforma, idioma y ajustes de notificaciones: avisos de intentos recargados y descenso de posición",
+                "Dificultad, tiempo, errores, aciertos y resultados: estadísticas y prevención de abusos",
+                "ID del producto, ID de transacción y estado de verificación: entrega de pistas, eliminación de anuncios y restauración de compras. Las tiendas procesan los datos de pago; nosotros no los guardamos",
+                "Token FCM, plataforma, idioma y ajustes de notificaciones: envío de notificaciones push",
                 "Google Mobile Ads y sus SDK de consentimiento pueden tratar identificadores del dispositivo, dirección IP y datos de diagnóstico y uso para publicidad, control de frecuencia, prevención del fraude y consentimiento legal",
             ]),
             ("2. Proveedores y tratamiento internacional", "Usamos Supabase para autenticación y bases de datos, Google Firebase para notificaciones, Google AdMob para publicidad y consentimiento, y Apple y Google para inicio de sesión y pagos. Los datos pueden tratarse en los países donde operan estos proveedores, conforme a sus políticas y garantías aplicables."),
@@ -126,10 +121,9 @@ PAGES = {
         "sections": [
             ("1. Données collectées et finalités", [
                 "Adresse e-mail et identifiant du fournisseur Google ou Apple : connexion, identification du compte et affichage masqué de l'adresse",
-                "Code pays choisi par l'utilisateur : affichage du drapeau dans le classement",
-                "Difficulté, temps, erreurs, réponses correctes, essais et résultats : statistiques, classement et prévention des abus",
-                "Identifiant du produit, de la transaction et état de vérification : attribution des essais, suppression des publicités et restauration des achats. Les boutiques traitent les données de paiement ; nous ne les conservons pas",
-                "Jeton FCM, plateforme, langue et réglages : notifications de recharge des essais et de baisse du classement",
+                "Difficulté, temps, erreurs, réponses correctes et résultats : statistiques et prévention des abus",
+                "Identifiant du produit, de la transaction et état de vérification : attribution des indices, suppression des publicités et restauration des achats. Les boutiques traitent les données de paiement ; nous ne les conservons pas",
+                "Jeton FCM, plateforme, langue et réglages : envoi des notifications push",
                 "Google Mobile Ads et les SDK de consentement peuvent traiter les identifiants de l'appareil, l'adresse IP et les données de diagnostic et d'utilisation pour la publicité, la gestion de fréquence, la prévention de la fraude et le consentement légal",
             ]),
             ("2. Prestataires et traitement international", "Nous utilisons Supabase pour l'authentification et la base de données, Google Firebase pour les notifications, Google AdMob pour la publicité et le consentement, ainsi qu'Apple et Google pour la connexion et les paiements. Les données peuvent être traitées dans les pays où ces prestataires opèrent, conformément à leurs politiques et garanties applicables."),
@@ -147,10 +141,9 @@ PAGES = {
         "sections": [
             ("1. Erhobene Daten und Zwecke", [
                 "E-Mail-Adresse und Anbieterkennung von Google oder Apple: Anmeldung, Kontozuordnung und maskierte Anzeige der E-Mail-Adresse",
-                "Vom Nutzer gewählter Ländercode: Anzeige der Flagge in der Rangliste",
-                "Schwierigkeit, Lösungszeit, Fehler, richtige Eingaben, Ranglistenversuche und Ergebnisse: Statistiken, Ranglisten und Missbrauchsschutz",
-                "Produkt-ID, Transaktions-ID und Prüfstatus: Gutschrift von Versuchen, Werbeentfernung und Wiederherstellung von Käufen. Zahlungsdaten werden vom Store verarbeitet und nicht von uns gespeichert",
-                "FCM-Token, Plattform, Sprache und Benachrichtigungseinstellungen: Hinweise bei vollen Versuchen und Rangverlust",
+                "Schwierigkeit, Lösungszeit, Fehler, richtige Eingaben und Ergebnisse: Statistiken und Missbrauchsschutz",
+                "Produkt-ID, Transaktions-ID und Prüfstatus: Gutschrift von Hinweisen, Werbeentfernung und Wiederherstellung von Käufen. Zahlungsdaten werden vom Store verarbeitet und nicht von uns gespeichert",
+                "FCM-Token, Plattform, Sprache und Benachrichtigungseinstellungen: Zustellung von Push-Mitteilungen",
                 "Google Mobile Ads und Einwilligungs-SDKs können Gerätekennungen, IP-Adresse sowie Diagnose- und Nutzungsdaten für Werbung, Häufigkeitssteuerung, Betrugsprävention und rechtliche Einwilligungen verarbeiten",
             ]),
             ("2. Dienstleister und internationale Verarbeitung", "Wir verwenden Supabase für Anmeldung und Datenbank, Google Firebase für Push-Mitteilungen, Google AdMob für Werbung und Einwilligungen sowie Apple und Google für Anmeldung und Zahlungen. Daten können in Ländern verarbeitet werden, in denen diese Anbieter tätig sind, nach deren Richtlinien und den geltenden Schutzmaßnahmen."),
@@ -168,10 +161,9 @@ PAGES = {
         "sections": [
             ("1. Informações coletadas e finalidades", [
                 "E-mail e identificador do provedor Google ou Apple: login, identificação da conta e exibição mascarada do e-mail",
-                "Código do país escolhido pelo usuário: exibição da bandeira no ranking",
-                "Dificuldade, tempo, erros, respostas corretas, tentativas e resultados: estatísticas, ranking e prevenção de abuso",
-                "ID do produto, ID da transação e status da verificação: concessão de tentativas, remoção de anúncios e restauração de compras. As lojas processam os dados de pagamento; nós não os armazenamos",
-                "Token FCM, plataforma, idioma e preferências de notificação: avisos de tentativas recarregadas e queda no ranking",
+                "Dificuldade, tempo, erros, respostas corretas e resultados: estatísticas e prevenção de abuso",
+                "ID do produto, ID da transação e status da verificação: concessão de dicas, remoção de anúncios e restauração de compras. As lojas processam os dados de pagamento; nós não os armazenamos",
+                "Token FCM, plataforma, idioma e preferências de notificação: envio de notificações push",
                 "O Google Mobile Ads e os SDKs de consentimento podem processar identificadores do dispositivo, endereço IP e dados de diagnóstico e uso para publicidade, controle de frequência, prevenção de fraude e consentimento legal",
             ]),
             ("2. Prestadores e processamento internacional", "Usamos o Supabase para autenticação e banco de dados, o Google Firebase para notificações, o Google AdMob para publicidade e consentimento e a Apple e o Google para login e pagamentos. Os dados podem ser processados nos países onde esses prestadores operam, conforme suas políticas e garantias aplicáveis."),
