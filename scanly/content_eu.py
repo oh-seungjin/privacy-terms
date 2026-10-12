@@ -6,7 +6,7 @@ DE = {
  "intro": "Papier in Sekunden als PDF scannen, dann Text durchsuchen, signieren, Formulare ausfüllen, mit Passwort schützen und zusammenführen, alles in einer App.",
  "features": ["Scannen mit automatischer Kantenerkennung und PDF-Speicherung", "PDFs zusammenführen, teilen, signieren, ausfüllen und mit Passwort schützen", "Scannen und Texterkennung laufen auf dem Gerät, Cloud-Backup ist optional"],
  "offline": "Keine Werbung und kein Tracking. Deine Dokumente bleiben auf deinem Gerät, solange du dich nicht anmeldest und das PRO-Cloud-Backup einschaltest. Die einzige Ausnahme ist die Word-/Excel-Umwandlung: Die gewählte Datei wird an unseren Umwandlungsserver gesendet und direkt nach der Umwandlung gelöscht.",
- "date": "Gültig ab 12. Oktober 2026",
+ "date": "Gültig ab 13. Oktober 2026",
  "privacy_title": "PageBeam Datenschutzerklärung",
  "privacy_intro": "PageBeam ist eine Dokumenten- und PDF-Scanner-App von Next Studio. Wenn du dich nicht anmeldest, bleiben alle Dokumente auf deinem Gerät und es wird nichts an einen Server gesendet.",
  "privacy": [
@@ -63,7 +63,7 @@ FR = {
  "intro": "Numérisez vos papiers en PDF en quelques secondes, puis recherchez le texte, signez, remplissez des formulaires, protégez par mot de passe et fusionnez, le tout dans une seule app.",
  "features": ["Numérisation avec détection automatique des bords et enregistrement en PDF", "Fusion, séparation, signature, formulaires et mot de passe pour vos PDF", "Numérisation et reconnaissance de texte sur l’appareil, sauvegarde cloud facultative"],
  "offline": "Sans publicité ni suivi. Vos documents restent sur votre appareil sauf si vous vous connectez et activez la sauvegarde cloud PRO. Seule exception : la conversion Word/Excel envoie le fichier choisi à notre serveur de conversion, qui le supprime dès la fin de la conversion.",
- "date": "En vigueur le 12 octobre 2026",
+ "date": "En vigueur le 13 octobre 2026",
  "privacy_title": "Politique de confidentialité de PageBeam",
  "privacy_intro": "PageBeam est une app de numérisation de documents et de PDF proposée par Next Studio. Si vous ne vous connectez pas, tous vos documents restent sur votre appareil et rien n’est envoyé à un serveur.",
  "privacy": [
@@ -120,7 +120,7 @@ ES = {
  "intro": "Escanea papel como PDF en segundos y luego busca el texto, firma, rellena formularios, protege con contraseña y une documentos, todo en una sola app.",
  "features": ["Escaneo con detección automática de bordes y guardado en PDF", "Unir, dividir, firmar, rellenar formularios y proteger PDF con contraseña", "El escaneo y el reconocimiento de texto se hacen en tu dispositivo; la copia en la nube es opcional"],
  "offline": "Sin anuncios ni seguimiento. Tus documentos permanecen en tu dispositivo salvo que inicies sesión y actives la copia en la nube PRO. La única excepción es la conversión de Word/Excel: el archivo elegido se envía a nuestro servidor de conversión y se elimina justo al terminar.",
- "date": "En vigor desde el 12 de octubre de 2026",
+ "date": "En vigor desde el 13 de octubre de 2026",
  "privacy_title": "Política de privacidad de PageBeam",
  "privacy_intro": "PageBeam es una app de escaneo de documentos y PDF de Next Studio. Si no inicias sesión, todos tus documentos permanecen en tu dispositivo y no se envía nada a ningún servidor.",
  "privacy": [
@@ -177,7 +177,7 @@ PT = {
  "intro": "Digitalize papéis em PDF em segundos e depois pesquise o texto, assine, preencha formulários, proteja com senha e una documentos, tudo em um só app.",
  "features": ["Digitalização com detecção automática de bordas e salvamento em PDF", "Una, divida, assine, preencha formulários e proteja PDFs com senha", "A digitalização e o reconhecimento de texto acontecem no aparelho; o backup na nuvem é opcional"],
  "offline": "Sem anúncios e sem rastreamento. Seus documentos ficam no seu aparelho, a menos que você entre na conta e ative o backup na nuvem PRO. A única exceção é a conversão de Word/Excel: o arquivo escolhido é enviado ao nosso servidor de conversão e excluído logo após a conversão.",
- "date": "Em vigor desde 12 de outubro de 2026",
+ "date": "Em vigor desde 13 de outubro de 2026",
  "privacy_title": "Política de Privacidade do PageBeam",
  "privacy_intro": "O PageBeam é um app de digitalização de documentos e PDF da Next Studio. Se você não entrar na conta, todos os seus documentos ficam no seu aparelho e nada é enviado a um servidor.",
  "privacy": [

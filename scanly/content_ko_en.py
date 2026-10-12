@@ -6,7 +6,7 @@ KO = {
  "intro": "종이 문서를 몇 초 만에 PDF로 스캔하고, 글자 검색·서명·양식 작성·암호 설정·합치기까지 한 앱에서 끝내세요.",
  "features": ["가장자리 자동 인식 스캔과 PDF 저장", "PDF 합치기·나누기·서명·양식 작성·암호 설정", "스캔과 글자 인식은 기기 안에서 처리, 클라우드 백업은 선택"],
  "offline": "광고와 추적이 없고, 문서는 기본적으로 내 기기에만 저장됩니다. 로그인하고 PRO 클라우드 백업을 켠 경우에만 서버에 저장됩니다. 단, Word·Excel 변환은 선택한 파일을 변환 서버로 보내며 변환 직후 삭제합니다.",
- "date": "시행일: 2026년 10월 12일",
+ "date": "시행일: 2026년 10월 13일",
  "privacy_title": "PageBeam 개인정보처리방침",
  "privacy_intro": "PageBeam은 Next Studio가 제공하는 문서·PDF 스캐너 앱입니다. 로그인하지 않으면 모든 문서가 내 기기에만 저장되고 서버로 전송되지 않습니다.",
  "privacy": [
@@ -63,7 +63,7 @@ EN = {
  "intro": "Scan paper into PDF in seconds, then search the text, sign, fill forms, password-protect and merge, all in one app.",
  "features": ["Auto edge detection scanning and PDF saving", "Merge, split, sign, fill forms and password-protect PDFs", "Scanning and text recognition happen on your device; cloud backup is optional"],
  "offline": "No ads and no tracking. Your documents stay on your device unless you sign in and turn on PRO cloud backup. The one exception is Word and Excel conversion: the file you choose is sent to our conversion server and deleted right after conversion.",
- "date": "Effective October 12, 2026",
+ "date": "Effective October 13, 2026",
  "privacy_title": "PageBeam Privacy Policy",
  "privacy_intro": "PageBeam is a document and PDF scanner app provided by Next Studio. If you do not sign in, all your documents stay on your device and nothing is sent to a server.",
  "privacy": [
