@@ -176,6 +176,126 @@ PAGES = {
     },
 }
 
+
+# Data minimization and Android diagnostics disclosure, 2026-10-14.
+PRIVACY_UPDATE = {'ko': ['시행일: 2026년 10월 14일',
+        'Google 로그인 과정에서 공급자가 이름과 프로필 사진 URL을 인증 서비스에 전달할 수 있습니다. 노노그램은 이를 게임 기능이나 랭킹에 사용하지 않으며 사진 원본을 별도로 '
+        '다운로드하거나 저장하지 않습니다. 노노그램만 사용하는 계정의 해당 정보는 로그인 후 계정 동기화가 성공하면 정리합니다. 다른 Next Studio 게임에도 연결된 공용 계정 정보는 다른 '
+        '게임의 이용에 영향을 주지 않도록 유지될 수 있습니다.',
+        'Android 출시 버전은 Firebase Crashlytics를 통해 오류·비정상 종료 기록, 스택 추적, 앱 상태, 기기·OS·앱 버전 및 설치 식별자를 처리하여 오류를 분석하고 '
+        '안정성을 개선합니다. 이름·이메일·사진 URL을 Crashlytics 사용자 식별자로 설정하지 않습니다. 앱 내 오류 보고 끄기 설정은 제공하지 않습니다.',
+        'Firebase는 푸시 알림과 오류 진단을 위해 설치 식별자 및 기기·앱 정보를 처리합니다. 앱 내 삭제는 노노그램의 진행·기록·푸시 등록·구매 권한을 삭제하며 공용 로그인 계정은 '
+        '유지합니다. 공용 계정 전체 삭제는 이메일로 요청할 수 있습니다. 외부 제공자의 진단·보안 로그는 각 서비스의 보존·삭제 정책에 따릅니다. 게임 진행과 기록은 노노그램 데이터 삭제 시까지 '
+        '보관하며, 결제·분쟁 기록은 관련 법령상 필요한 기간 동안 보관할 수 있습니다.'],
+ 'en': ['Effective October 14, 2026',
+        'During Google sign-in, the provider may send your name and profile photo URL to the authentication '
+        'service. Nonogram does not use them for gameplay or rankings and does not separately download or store '
+        'the original photo. For accounts used only for Nonogram, these fields are cleared when post-login '
+        'account synchronization succeeds. Shared account information linked to other Next Studio games may '
+        'remain to avoid affecting those games.',
+        'Android release builds use Firebase Crashlytics to process errors, crash records, stack traces, app '
+        'state, device, OS and app versions, and installation identifiers to diagnose errors and improve '
+        'stability. We do not set your name, email or photo URL as a Crashlytics user identifier. There is no '
+        'in-app switch to disable crash reporting.',
+        'Firebase processes installation identifiers and device/app information for push notifications and crash '
+        'diagnostics. In-app deletion removes Nonogram progress, results, push registrations and purchase '
+        'entitlements while retaining the shared sign-in account. You may request deletion of the entire shared '
+        'account by email. Provider diagnostic and security logs follow the respective services’ retention and '
+        'deletion policies. Gameplay progress and results are retained until Nonogram data deletion; payment and '
+        'dispute records may be retained for legally required periods.'],
+ 'ja': ['施行日：2026年10月14日',
+        'Googleログイン時、提供元が氏名とプロフィール写真URLを認証サービスに送信する場合があります。ノノグラムはゲームやランキングに使用せず、写真原本を別途ダウンロード・保存しません。ノノグラムのみを使用するアカウントでは、ログイン後のアカウント同期が成功するとこれらの情報を削除します。他のNext '
+        'Studioゲームにも接続された共通アカウント情報は、他のゲームへの影響を避けるため保持される場合があります。',
+        'Androidリリース版ではFirebase '
+        'Crashlyticsでエラー、クラッシュ記録、スタックトレース、アプリ状態、端末・OS・アプリのバージョン、インストール識別子を処理し、障害分析と安定性向上に使用します。氏名・メール・写真URLをCrashlyticsのユーザー識別子には設定しません。アプリ内に障害報告を無効にする設定はありません。',
+        'Firebaseは通知と障害診断のためインストール識別子と端末・アプリ情報を処理します。アプリ内削除ではノノグラムの進行・記録・通知登録・購入権利を削除し、共通ログインアカウントは保持します。共通アカウント全体の削除はメールで請求できます。提供元の診断・セキュリティログは各サービスの保有・削除方針に従います。 '
+        'ゲーム進行と記録はノノグラムのデータ削除まで保有し、決済・紛争記録は法令上必要な期間保管する場合があります。'],
+ 'zh-Hans': ['生效日期：2026年10月14日',
+             'Google登录时，提供商可能向认证服务发送姓名和个人资料照片URL。数织不将其用于游戏或排名，也不会单独下载或保存照片原件。仅使用数织的账号在登录后的账号同步成功时清除这些信息。也关联其他Next '
+             'Studio游戏的共享账号信息可能保留，以免影响其他游戏。',
+             'Android发布版本使用Firebase '
+             'Crashlytics处理错误、崩溃记录、堆栈、应用状态、设备、操作系统和应用版本及安装标识符，用于分析错误和改善稳定性。我们不将姓名、邮箱或照片URL设为Crashlytics用户标识符。应用内没有关闭崩溃报告的开关。',
+             'Firebase为推送和错误诊断处理安装标识符以及设备和应用信息。应用内删除会移除数织进度、记录、推送注册和购买权益，但保留共享登录账号。可通过邮件申请删除整个共享账号。服务商的诊断和安全日志遵循各自的保留与删除政策。 '
+             '游戏进度与记录保留至数织数据删除；支付与争议记录可能按法律要求保留。'],
+ 'es': ['Vigente desde el 14 de octubre de 2026',
+        'Al iniciar sesión con Google, el proveedor puede enviar el nombre y la URL de la foto de perfil al '
+        'servicio de autenticación. Nonogram no los usa para jugar ni para clasificaciones, y no descarga ni '
+        'guarda por separado la foto original. En cuentas usadas solo para Nonogram, estos campos se eliminan '
+        'cuando se completa la sincronización posterior al inicio de sesión. Los datos de cuentas compartidas con '
+        'otros juegos de Next Studio pueden conservarse para no afectar esos juegos.',
+        'Las versiones Android de producción usan Firebase Crashlytics para procesar errores, fallos, trazas de '
+        'pila, estado de la app, versiones del dispositivo, sistema y app e identificadores de instalación para '
+        'diagnosticar errores y mejorar la estabilidad. No usamos nombre, correo ni URL de foto como '
+        'identificador de usuario de Crashlytics. No hay un ajuste en la app para desactivar estos informes.',
+        'Firebase procesa identificadores de instalación e información del dispositivo y app para notificaciones '
+        'y diagnóstico. La eliminación desde la app borra el progreso, resultados, registros de notificaciones y '
+        'derechos de compra de Nonogram, conservando la cuenta compartida de acceso. Puede solicitar por correo '
+        'su eliminación completa. Los registros de diagnóstico y seguridad de los proveedores siguen sus '
+        'políticas de conservación y eliminación. El progreso y los resultados se conservan hasta la eliminación '
+        'de los datos de Nonogram; los registros de pagos y disputas pueden conservarse durante los plazos '
+        'legales.'],
+ 'fr': ['Date d’effet : 14 octobre 2026',
+        'Lors de la connexion Google, le fournisseur peut transmettre le nom et l’URL de la photo de profil au '
+        'service d’authentification. Nonogram ne les utilise ni pour jouer ni pour les classements et ne '
+        'télécharge ni ne conserve séparément la photo originale. Pour les comptes utilisés uniquement avec '
+        'Nonogram, ces champs sont supprimés après une synchronisation de compte réussie suivant la connexion. '
+        'Les informations des comptes partagés avec d’autres jeux Next Studio peuvent être conservées pour ne pas '
+        'affecter ces jeux.',
+        'Les versions Android de production utilisent Firebase Crashlytics pour traiter les erreurs, plantages, '
+        'traces de pile, état de l’application, versions de l’appareil, du système et de l’application et '
+        'identifiants d’installation afin d’analyser les erreurs et d’améliorer la stabilité. Le nom, l’adresse '
+        'e-mail et l’URL de photo ne sont pas utilisés comme identifiant utilisateur Crashlytics. Aucun réglage '
+        'dans l’application ne désactive ces rapports.',
+        'Firebase traite les identifiants d’installation et les informations sur l’appareil et l’application pour '
+        'les notifications et le diagnostic. La suppression dans l’application efface la progression, les '
+        'résultats, les inscriptions aux notifications et les droits d’achat de Nonogram, mais conserve le compte '
+        'de connexion partagé. Sa suppression complète peut être demandée par e-mail. Les journaux de diagnostic '
+        'et de sécurité des fournisseurs suivent leurs politiques de conservation et de suppression. La '
+        'progression et les résultats sont conservés jusqu’à la suppression des données Nonogram ; les dossiers '
+        'de paiement et de litige peuvent être conservés pendant les durées légales.'],
+ 'de': ['Gültig ab 14. Oktober 2026',
+        'Bei der Google-Anmeldung kann der Anbieter Namen und Profilfoto-URL an den Authentifizierungsdienst '
+        'senden. Nonogram verwendet sie weder für das Spiel noch für Ranglisten und lädt oder speichert das '
+        'Originalfoto nicht gesondert. Bei ausschließlich für Nonogram verwendeten Konten werden diese Felder '
+        'nach erfolgreicher Kontosynchronisierung im Anschluss an die Anmeldung entfernt. Daten gemeinsamer '
+        'Konten mit anderen Next Studio-Spielen können erhalten bleiben, damit diese Spiele nicht beeinträchtigt '
+        'werden.',
+        'Android-Produktionsversionen verwenden Firebase Crashlytics zur Verarbeitung von Fehlern, Abstürzen, '
+        'Stacktraces, App-Zustand, Geräte-, Betriebssystem- und App-Versionen sowie Installationskennungen zur '
+        'Fehleranalyse und Verbesserung der Stabilität. Name, E-Mail und Foto-URL werden nicht als '
+        'Crashlytics-Nutzerkennung verwendet. In der App gibt es keinen Schalter zum Abschalten der '
+        'Absturzberichte.',
+        'Firebase verarbeitet Installationskennungen und Geräte-/App-Informationen für Benachrichtigungen und '
+        'Fehlerdiagnosen. Das Löschen in der App entfernt Nonogram-Fortschritt, Ergebnisse, '
+        'Benachrichtigungsregistrierungen und Kaufberechtigungen; das gemeinsame Anmeldekonto bleibt bestehen. '
+        'Seine vollständige Löschung kann per E-Mail beantragt werden. Diagnose- und Sicherheitsprotokolle der '
+        'Anbieter unterliegen deren Aufbewahrungs- und Löschrichtlinien. Spielfortschritt und Ergebnisse bleiben '
+        'bis zur Löschung der Nonogram-Daten gespeichert; Zahlungs- und Streitfalldaten können für gesetzlich '
+        'vorgeschriebene Fristen aufbewahrt werden.'],
+ 'pt-BR': ['Vigente a partir de 14 de outubro de 2026',
+           'Ao entrar com Google, o provedor pode enviar o nome e a URL da foto do perfil ao serviço de '
+           'autenticação. Nonogram não os utiliza no jogo ou em classificações e não baixa nem armazena '
+           'separadamente a foto original. Em contas usadas apenas no Nonogram, esses campos são removidos após a '
+           'sincronização bem-sucedida da conta depois do login. Dados de contas compartilhadas com outros jogos '
+           'Next Studio podem permanecer para não afetar esses jogos.',
+           'As versões Android de produção usam Firebase Crashlytics para processar erros, falhas, rastreamentos '
+           'de pilha, estado do app, versões do dispositivo, sistema e app e identificadores de instalação para '
+           'diagnosticar erros e melhorar a estabilidade. Não usamos nome, e-mail ou URL da foto como '
+           'identificador de usuário do Crashlytics. O app não oferece uma opção para desativar esses relatórios.',
+           'Firebase processa identificadores de instalação e informações do dispositivo e app para notificações '
+           'e diagnóstico. A exclusão no app remove o progresso, resultados, registros de notificações e direitos '
+           'de compra do Nonogram, mantendo a conta de login compartilhada. É possível solicitar sua exclusão '
+           'completa por e-mail. Os registros de diagnóstico e segurança dos provedores seguem suas respectivas '
+           'políticas de retenção e exclusão. O progresso e os resultados são mantidos até a exclusão dos dados '
+           'do Nonogram; registros de pagamentos e disputas podem ser mantidos pelos prazos legais.']}
+for code, (effective, profile, crash, retention) in PRIVACY_UPDATE.items():
+    PAGES[code]["effective"] = effective
+    PAGES[code]["sections"][0][1].extend([profile, crash])
+    heading, _ = PAGES[code]["sections"][2]
+    PAGES[code]["sections"][2] = (heading, retention)
+    provider_heading, provider_text = PAGES[code]["sections"][1]
+    PAGES[code]["sections"][1] = (provider_heading, provider_text.replace("Google Firebase", "Google Firebase (FCM, Crashlytics)"))
+
 STYLE = """
 :root{color-scheme:light;--navy:#34263f;--blue:#ff665c;--cloud:#fff8f3;--line:#dbe4ef}
 *{box-sizing:border-box}body{margin:0;background:linear-gradient(180deg,#fff0ea 0,#fff 360px);font:16px/1.75 system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;color:var(--navy)}.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
