@@ -9,7 +9,7 @@
     ],
     "tag": "체스를 두고, 배우고, 성장하세요.",
     "intro": "체스 공식 지원 및 정책 · 넥스트 스튜디오",
-    "date": "시행 / 수정: 2026년 9월 29일",
+    "date": "시행 / 수정: 2026년 10월 14일",
     "contact": "문의",
     "skip": "본문으로",
     "features": [
@@ -27,7 +27,7 @@
       ],
       [
         "기기 내 저장 데이터",
-        "전적, 업적, 풀었던 퍼즐 목록, 레슨/드릴 진행도, 데일리 챌린지 스트릭, 설정(보드 테마·기물 스타일·언어·효과음) 등은 기본적으로 기기 안에만 저장됩니다. 코치 음성 해설은 기기 내장 음성 합성 기능으로만 재생되며 음성을 녹음하거나 외부로 전송하지 않습니다."
+        "전적, 업적, 풀었던 퍼즐 목록, 레슨/드릴 진행도, 데일리 챌린지 스트릭, 설정(보드 테마·기물 스타일·언어·효과음) 등은 기본적으로 기기 안에만 저장됩니다. 코치 음성 해설은 기기 내장 음성 합성 기능으로만 재생되며 음성을 녹음하거나 외부로 전송하지 않습니다. 대국 분석에서 저장한 내 실수, 약점 집계, 스캔 훈련 결과도 기기 안에만 저장됩니다."
       ],
       [
         "계정과 온라인 대전",
@@ -39,15 +39,19 @@
       ],
       [
         "진행상황 동기화",
-        "Apple로 로그인한 경우에만, 기기 간 이용 연속성을 위해 전적, 업적, 퍼즐 완료 기록, 레슨/드릴 완료 기록, 데일리 챌린지 기록, 퍼즐 러시 최고 점수를 서버에 저장하고 다른 기기와 병합·동기화합니다. 익명 상태로만 플레이하면 이 동기화는 발생하지 않습니다."
+        "Apple로 로그인한 경우에만, 기기 간 이용 연속성을 위해 전적, 업적, 퍼즐 완료 기록, 레슨/드릴 완료 기록, 데일리 챌린지 기록, 퍼즐 러시 최고 점수를 서버에 저장하고 다른 기기와 병합·동기화합니다. 익명 상태로만 플레이하면 이 동기화는 발생하지 않습니다. 구독자는 종료된 대국(수 기록만)도 어느 기기에서나 다시 볼 수 있도록 서버에 보관됩니다."
+      ],
+      [
+        "유저 미션",
+        "체크메이트 미션을 게시하면 포지션, 수 개수, 공개 제작자 이름(닉네임 또는 자동 생성 이름), 다른 이용자가 남긴 평가와 좋아요가 서버에 저장되어 다른 이용자에게 보입니다. 미션은 철회할 수 있으며, 계정을 삭제하면 내 미션·평가·신고가 함께 삭제됩니다. 미션이나 제작자에 대해 보낸 신고와 숨김은 콘텐츠 관리를 위해 계정과 함께 저장되며 다른 이용자에게 보이지 않습니다. 미션에는 자유 텍스트·이미지·댓글이 없습니다. 오늘 사용한 무료 훈련 횟수도 서버에서 집계합니다."
       ],
       [
         "광고와 개인정보 선택",
-        "무료로 제공되는 화면에 Google AdMob 광고가 표시될 수 있습니다. AdMob은 광고 게재·측정을 위해 광고 식별자, 기기 정보, 대략적 위치(IP 기반)를 수집할 수 있습니다. iOS의 앱 추적 투명성(ATT) 설정에서 맞춤 광고를 거부할 수 있습니다. 앱 내 구매로 광고를 제거할 수 있습니다."
+        "무료로 제공되는 화면에 Google AdMob 광고가 표시될 수 있습니다. 앱은 비개인 맞춤 광고만 요청하며 앱 추적 투명성(ATT) 팝업을 띄우지 않고, 다른 회사의 앱·웹사이트를 가로질러 이용자를 추적하지 않습니다. AdMob은 광고 게재·측정을 위해 기기 정보와 대략적 위치(IP 기반)를 수집할 수 있습니다. 앱 내 구매로 광고를 제거할 수 있습니다."
       ],
       [
         "서버 데이터 보유와 국외 처리",
-        "계정·구매·온라인 대전·진행상황 데이터는 Supabase(데이터베이스·인증 서비스 제공업체)의 서버에 저장됩니다. 서버는 해외에 위치할 수 있으며, 해당 지역의 법령에 따라 처리됩니다. Apple(App Store 결제)과 Google(AdMob)도 각자의 개인정보처리방침에 따라 데이터를 처리합니다."
+        "계정·구매·온라인 대전·진행상황 데이터는 Supabase(데이터베이스·인증 서비스 제공업체)의 서버에 저장됩니다. 서버는 해외에 위치할 수 있으며, 해당 지역의 법령에 따라 처리됩니다. Apple(App Store 결제)과 Google(AdMob)도 각자의 개인정보처리방침에 따라 데이터를 처리합니다. 충돌 보고(Firebase Crashlytics)는 앱 문제를 고치는 데에만 쓰이며 광고에 사용되지 않습니다."
       ],
       [
         "문의와 웹사이트 제공업체",
@@ -115,7 +119,7 @@
     ],
     "tag": "Play, learn, and grow at chess.",
     "intro": "Chess official support & policies · Next Studio",
-    "date": "Effective / Updated: September 29, 2026",
+    "date": "Effective / Updated: October 14, 2026",
     "contact": "Contact",
     "skip": "Skip to content",
     "features": [
@@ -133,7 +137,7 @@
       ],
       [
         "On-device data",
-        "Stats, achievements, the list of solved puzzles, lesson/drill progress, the daily-challenge streak, and settings (board theme, piece style, language, sound) are stored on your device by default. The coach voice narration uses only your device's built-in speech synthesis — it never records audio or sends it anywhere."
+        "Stats, achievements, the list of solved puzzles, lesson/drill progress, the daily-challenge streak, and settings (board theme, piece style, language, sound) are stored on your device by default. The coach voice narration uses only your device's built-in speech synthesis — it never records audio or sends it anywhere. Your saved mistakes from Game Analysis, the counts of your weak spots and your scan-drill results are also kept only on your device."
       ],
       [
         "Accounts and online play",
@@ -145,15 +149,19 @@
       ],
       [
         "Progress sync",
-        "Only when you're signed in with Apple, your stats, achievements, solved-puzzle record, lesson/drill completion, daily-challenge record, and Puzzle Rush best score are stored on our server and merged/synced across your devices for continuity. This sync never happens while you're only playing anonymously."
+        "Only when you're signed in with Apple, your stats, achievements, solved-puzzle record, lesson/drill completion, daily-challenge record, and Puzzle Rush best score are stored on our server and merged/synced across your devices for continuity. This sync never happens while you're only playing anonymously. If you are a subscriber, your finished games (moves only) are also kept on our server so you can replay them on any device."
+      ],
+      [
+        "Community missions",
+        "If you publish a checkmate mission, the position, the number of moves, your public creator name (your nickname, or a generated handle) and the ratings and likes other players give it are stored on our server and shown to other players. You can withdraw a mission; deleting your account removes your missions, ratings and reports. Reports and hides you send about a mission or creator are stored with your account to moderate content and are not shown to others. Missions contain no free text, images or comments. The number of free drills you used today is also counted on our server."
       ],
       [
         "Ads and privacy choices",
-        "Screens available for free may show Google AdMob ads. AdMob may collect an advertising identifier, device information, and an approximate (IP-based) location for ad delivery and measurement. You can decline personalized ads via iOS App Tracking Transparency, or remove ads with an in-app purchase."
+        "Screens available for free may show Google AdMob ads. The app requests only non-personalized ads and does not show an App Tracking Transparency prompt; it does not track you across other companies' apps or websites. AdMob may still collect device information and an approximate (IP-based) location for ad delivery and measurement. You can remove ads with an in-app purchase."
       ],
       [
         "Server retention and cross-border processing",
-        "Account, purchase, online-play, and progress data are stored on servers operated by Supabase (our database/authentication provider). These servers may be located abroad and are processed under the laws applicable there. Apple (App Store billing) and Google (AdMob) each process data under their own privacy policies."
+        "Account, purchase, online-play, and progress data are stored on servers operated by Supabase (our database/authentication provider). These servers may be located abroad and are processed under the laws applicable there. Apple (App Store billing) and Google (AdMob) each process data under their own privacy policies. Crash reports (Firebase Crashlytics) are collected only to fix problems in the app and are not used for advertising."
       ],
       [
         "Contact and website vendor",
@@ -221,7 +229,7 @@
     ],
     "tag": "Schach spielen, lernen, wachsen.",
     "intro": "Chess – offizieller Support & Richtlinien · Next Studio",
-    "date": "Gültig / Aktualisiert: 29. September 2026",
+    "date": "Gültig / Aktualisiert: 14. Oktober 2026",
     "contact": "Kontakt",
     "skip": "Zum Inhalt springen",
     "features": [
@@ -239,7 +247,7 @@
       ],
       [
         "Daten auf dem Gerät",
-        "Statistiken, Erfolge, die Liste gelöster Rätsel, Lektions-/Übungsfortschritt, die Serie beim Tages-Rätsel und Einstellungen (Brett-Theme, Figurenstil, Sprache, Ton) werden standardmäßig nur auf deinem Gerät gespeichert. Die gesprochene Coach-Erklärung nutzt ausschließlich die integrierte Sprachsynthese deines Geräts – es wird nichts aufgenommen oder übertragen."
+        "Statistiken, Erfolge, die Liste gelöster Rätsel, Lektions-/Übungsfortschritt, die Serie beim Tages-Rätsel und Einstellungen (Brett-Theme, Figurenstil, Sprache, Ton) werden standardmäßig nur auf deinem Gerät gespeichert. Die gesprochene Coach-Erklärung nutzt ausschließlich die integrierte Sprachsynthese deines Geräts – es wird nichts aufgenommen oder übertragen. Deine in der Partieanalyse gespeicherten Fehler, die Zählung deiner Schwächen und deine Scan-Ergebnisse bleiben ebenfalls nur auf deinem Gerät."
       ],
       [
         "Konten und Online-Spiel",
@@ -251,15 +259,19 @@
       ],
       [
         "Fortschritts-Synchronisierung",
-        "Nur wenn du dich mit Apple anmeldest, speichern wir deine Statistiken, Erfolge, gelösten Rätsel, abgeschlossenen Lektionen/Übungen, Tages-Rätsel-Serie und deinen Puzzle-Rush-Bestwert auf unserem Server und gleichen sie geräteübergreifend ab. Solange du nur anonym spielst, findet diese Synchronisierung nicht statt."
+        "Nur wenn du dich mit Apple anmeldest, speichern wir deine Statistiken, Erfolge, gelösten Rätsel, abgeschlossenen Lektionen/Übungen, Tages-Rätsel-Serie und deinen Puzzle-Rush-Bestwert auf unserem Server und gleichen sie geräteübergreifend ab. Solange du nur anonym spielst, findet diese Synchronisierung nicht statt. Als Abonnent werden außerdem deine beendeten Partien (nur die Züge) auf unserem Server gespeichert, damit du sie auf jedem Gerät wieder ansehen kannst."
+      ],
+      [
+        "Community-Missionen",
+        "Wenn du eine Mattmission veröffentlichst, werden die Stellung, die Zugzahl, dein öffentlicher Erstellername (dein Nickname oder ein erzeugter Name) sowie Bewertungen und Likes anderer Spieler auf unserem Server gespeichert und anderen Spielern angezeigt. Du kannst eine Mission zurückziehen; die Löschung deines Kontos entfernt deine Missionen, Bewertungen und Meldungen. Meldungen und das Ausblenden einer Mission oder eines Erstellers werden zur Moderation mit deinem Konto gespeichert und anderen nicht angezeigt. Missionen enthalten keinen freien Text, keine Bilder und keine Kommentare. Die Zahl deiner heutigen kostenlosen Übungen wird ebenfalls auf unserem Server gezählt."
       ],
       [
         "Werbung und Datenschutz-Auswahl",
-        "Kostenlos verfügbare Bildschirme können Google-AdMob-Werbung zeigen. AdMob kann eine Werbekennung, Geräteinformationen und einen (IP-basierten) ungefähren Standort für Anzeige und Messung erfassen. Über die App-Tracking-Transparenz von iOS kannst du personalisierte Werbung ablehnen, oder du entfernst Werbung per In-App-Kauf."
+        "In kostenlos verfügbaren Bildschirmen kann Google-AdMob-Werbung erscheinen. Die App fordert nur nicht personalisierte Werbung an, zeigt keine App-Tracking-Transparency-Abfrage und verfolgt dich nicht über Apps oder Websites anderer Unternehmen. AdMob kann dennoch Geräteinformationen und einen ungefähren (IP-basierten) Standort für Auslieferung und Messung erfassen. Mit einem In-App-Kauf kannst du die Werbung entfernen."
       ],
       [
         "Serverspeicherung und grenzüberschreitende Verarbeitung",
-        "Konto-, Kauf-, Online-Spiel- und Fortschrittsdaten werden auf Servern von Supabase (unserem Datenbank-/Authentifizierungsanbieter) gespeichert. Diese Server können sich im Ausland befinden und unterliegen dem dort geltenden Recht. Apple (App-Store-Abrechnung) und Google (AdMob) verarbeiten Daten jeweils nach ihren eigenen Datenschutzrichtlinien."
+        "Konto-, Kauf-, Online-Spiel- und Fortschrittsdaten werden auf Servern von Supabase (unserem Datenbank-/Authentifizierungsanbieter) gespeichert. Diese Server können sich im Ausland befinden und unterliegen dem dort geltenden Recht. Apple (App-Store-Abrechnung) und Google (AdMob) verarbeiten Daten jeweils nach ihren eigenen Datenschutzrichtlinien. Absturzberichte (Firebase Crashlytics) dienen nur der Fehlerbehebung in der App und werden nicht für Werbung genutzt."
       ],
       [
         "Kontakt und Website-Anbieter",
@@ -327,7 +339,7 @@
     ],
     "tag": "Juega, aprende y mejora en el ajedrez.",
     "intro": "Soporte y políticas oficiales de Chess · Next Studio",
-    "date": "Vigente / Actualizado: 29 de septiembre de 2026",
+    "date": "En vigor / Actualizado: 14 de octubre de 2026",
     "contact": "Contacto",
     "skip": "Ir al contenido",
     "features": [
@@ -345,7 +357,7 @@
       ],
       [
         "Datos en el dispositivo",
-        "Las estadísticas, logros, la lista de puzles resueltos, el progreso de lecciones/ejercicios, la racha del reto diario y los ajustes (tema del tablero, estilo de piezas, idioma, sonido) se guardan por defecto solo en tu dispositivo. La narración de voz del coach usa únicamente la síntesis de voz integrada de tu dispositivo: no se grava ni se envía audio a ningún lugar."
+        "Las estadísticas, logros, la lista de puzles resueltos, el progreso de lecciones/ejercicios, la racha del reto diario y los ajustes (tema del tablero, estilo de piezas, idioma, sonido) se guardan por defecto solo en tu dispositivo. La narración de voz del coach usa únicamente la síntesis de voz integrada de tu dispositivo: no se grava ni se envía audio a ningún lugar. Tus errores guardados del análisis de partida, el recuento de tus puntos débiles y los resultados de tus ejercicios de escaneo también se guardan solo en tu dispositivo."
       ],
       [
         "Cuentas y juego online",
@@ -357,15 +369,19 @@
       ],
       [
         "Sincronización de progreso",
-        "Solo si inicias sesión con Apple, guardamos tus estadísticas, logros, puzles resueltos, lecciones/ejercicios completados, racha del reto diario y tu mejor puntuación de Puzzle Rush en nuestro servidor, y los combinamos/sincronizamos entre tus dispositivos. Esta sincronización no ocurre si solo juegas de forma anónima."
+        "Solo si inicias sesión con Apple, guardamos tus estadísticas, logros, puzles resueltos, lecciones/ejercicios completados, racha del reto diario y tu mejor puntuación de Puzzle Rush en nuestro servidor, y los combinamos/sincronizamos entre tus dispositivos. Esta sincronización no ocurre si solo juegas de forma anónima. Si eres suscriptor, tus partidas terminadas (solo las jugadas) también se guardan en nuestro servidor para que puedas revisarlas en cualquier dispositivo."
+      ],
+      [
+        "Misiones de la comunidad",
+        "Si publicas una misión de jaque mate, la posición, el número de jugadas, tu nombre público de creador (tu apodo o uno generado) y las valoraciones y los «me gusta» de otros jugadores se guardan en nuestro servidor y se muestran a otros jugadores. Puedes retirar una misión; al eliminar tu cuenta se eliminan tus misiones, valoraciones e informes. Los informes y ocultaciones sobre una misión o un creador se guardan con tu cuenta para moderar el contenido y no se muestran a otros. Las misiones no contienen texto libre, imágenes ni comentarios. El número de ejercicios gratuitos que usaste hoy también se cuenta en nuestro servidor."
       ],
       [
         "Anuncios y opciones de privacidad",
-        "Las pantallas disponibles gratis pueden mostrar anuncios de Google AdMob. AdMob puede recopilar un identificador publicitario, información del dispositivo y una ubicación aproximada (por IP) para la entrega y medición de anuncios. Puedes rechazar los anuncios personalizados mediante App Tracking Transparency de iOS, o quitar los anuncios con una compra dentro de la app."
+        "Las pantallas gratuitas pueden mostrar anuncios de Google AdMob. La app solo solicita anuncios no personalizados, no muestra la ventana de App Tracking Transparency y no te rastrea entre apps o sitios web de otras empresas. AdMob aún puede recopilar información del dispositivo y una ubicación aproximada (basada en IP) para mostrar y medir anuncios. Puedes quitar los anuncios con una compra dentro de la app."
       ],
       [
         "Conservación en el servidor y tratamiento transfronterizo",
-        "Los datos de cuenta, compras, juego online y progreso se guardan en servidores operados por Supabase (nuestro proveedor de base de datos/autenticación). Estos servidores pueden estar en el extranjero y se procesan según las leyes de ese lugar. Apple (cobro del App Store) y Google (AdMob) procesan datos según sus propias políticas de privacidad."
+        "Los datos de cuenta, compras, juego online y progreso se guardan en servidores operados por Supabase (nuestro proveedor de base de datos/autenticación). Estos servidores pueden estar en el extranjero y se procesan según las leyes de ese lugar. Apple (cobro del App Store) y Google (AdMob) procesan datos según sus propias políticas de privacidad. Los informes de fallos (Firebase Crashlytics) se recopilan solo para corregir problemas de la app y no se usan para publicidad."
       ],
       [
         "Contacto y proveedor del sitio web",
@@ -433,7 +449,7 @@
     ],
     "tag": "Jouez, apprenez et progressez aux échecs.",
     "intro": "Assistance et politiques officielles de Chess · Next Studio",
-    "date": "En vigueur / Mis à jour : 29 septembre 2026",
+    "date": "En vigueur / Mis à jour : 14 octobre 2026",
     "contact": "Contact",
     "skip": "Aller au contenu",
     "features": [
@@ -451,7 +467,7 @@
       ],
       [
         "Données sur l'appareil",
-        "Les statistiques, succès, la liste des puzzles résolus, la progression des leçons/exercices, la série du défi quotidien et les réglages (thème du plateau, style des pièces, langue, son) sont, par défaut, stockés uniquement sur votre appareil. La narration vocale du coach utilise uniquement la synthèse vocale intégrée à votre appareil : aucun enregistrement ni envoi d'audio."
+        "Les statistiques, succès, la liste des puzzles résolus, la progression des leçons/exercices, la série du défi quotidien et les réglages (thème du plateau, style des pièces, langue, son) sont, par défaut, stockés uniquement sur votre appareil. La narration vocale du coach utilise uniquement la synthèse vocale intégrée à votre appareil : aucun enregistrement ni envoi d'audio. Vos erreurs enregistrées depuis l'analyse de partie, le décompte de vos points faibles et vos résultats d'exercices de balayage restent également uniquement sur votre appareil."
       ],
       [
         "Comptes et jeu en ligne",
@@ -463,15 +479,19 @@
       ],
       [
         "Synchronisation de la progression",
-        "Seulement si vous êtes connecté avec Apple, vos statistiques, succès, puzzles résolus, leçons/exercices terminés, série du défi quotidien et meilleur score au Puzzle Rush sont stockés sur notre serveur et fusionnés/synchronisés entre vos appareils. Cette synchronisation n'a jamais lieu si vous jouez uniquement de façon anonyme."
+        "Seulement si vous êtes connecté avec Apple, vos statistiques, succès, puzzles résolus, leçons/exercices terminés, série du défi quotidien et meilleur score au Puzzle Rush sont stockés sur notre serveur et fusionnés/synchronisés entre vos appareils. Cette synchronisation n'a jamais lieu si vous jouez uniquement de façon anonyme. Si vous êtes abonné, vos parties terminées (coups uniquement) sont aussi conservées sur notre serveur afin que vous puissiez les revoir sur n'importe quel appareil."
+      ],
+      [
+        "Missions de la communauté",
+        "Si vous publiez une mission de mat, la position, le nombre de coups, votre nom public de créateur (votre pseudo ou un nom généré) ainsi que les notes et les mentions « j'aime » des autres joueurs sont stockés sur notre serveur et affichés aux autres joueurs. Vous pouvez retirer une mission ; la suppression de votre compte supprime vos missions, notes et signalements. Les signalements et masquages concernant une mission ou un créateur sont enregistrés avec votre compte pour la modération et ne sont pas affichés aux autres. Les missions ne contiennent ni texte libre, ni image, ni commentaire. Le nombre d'exercices gratuits utilisés aujourd'hui est aussi compté sur notre serveur."
       ],
       [
         "Publicité et choix de confidentialité",
-        "Les écrans disponibles gratuitement peuvent afficher des publicités Google AdMob. AdMob peut collecter un identifiant publicitaire, des informations sur l'appareil et une localisation approximative (via IP) pour la diffusion et la mesure des annonces. Vous pouvez refuser les publicités personnalisées via l'App Tracking Transparency d'iOS, ou supprimer les publicités par un achat intégré."
+        "Les écrans gratuits peuvent afficher des publicités Google AdMob. L'application ne demande que des publicités non personnalisées, n'affiche pas la fenêtre App Tracking Transparency et ne vous suit pas à travers les applications ou sites d'autres entreprises. AdMob peut néanmoins collecter des informations sur l'appareil et une position approximative (basée sur l'IP) pour la diffusion et la mesure. Vous pouvez supprimer les publicités par un achat intégré."
       ],
       [
         "Conservation serveur et traitement transfrontalier",
-        "Les données de compte, d'achat, de jeu en ligne et de progression sont stockées sur des serveurs exploités par Supabase (notre fournisseur de base de données/authentification). Ces serveurs peuvent être situés à l'étranger et sont traités selon les lois applicables là-bas. Apple (facturation App Store) et Google (AdMob) traitent chacun les données selon leurs propres politiques de confidentialité."
+        "Les données de compte, d'achat, de jeu en ligne et de progression sont stockées sur des serveurs exploités par Supabase (notre fournisseur de base de données/authentification). Ces serveurs peuvent être situés à l'étranger et sont traités selon les lois applicables là-bas. Apple (facturation App Store) et Google (AdMob) traitent chacun les données selon leurs propres politiques de confidentialité. Les rapports de plantage (Firebase Crashlytics) sont collectés uniquement pour corriger les problèmes de l'application et ne servent pas à la publicité."
       ],
       [
         "Contact et prestataire du site",
@@ -539,7 +559,7 @@
     ],
     "tag": "शतरंज खेलें, सीखें और आगे बढ़ें।",
     "intro": "Chess आधिकारिक सहायता और नीतियां · Next Studio",
-    "date": "प्रभावी / अपडेट किया गया: 29 सितंबर 2026",
+    "date": "प्रभावी / अद्यतन: 14 अक्टूबर 2026",
     "contact": "संपर्क",
     "skip": "सामग्री पर जाएं",
     "features": [
@@ -557,7 +577,7 @@
       ],
       [
         "डिवाइस पर मौजूद डेटा",
-        "आँकड़े, अचीवमेंट्स, हल की गई पहेलियों की सूची, पाठ/अभ्यास प्रोग्रेस, डेली चैलेंज स्ट्रीक, और सेटिंग्स (बोर्ड थीम, मोहरा स्टाइल, भाषा, साउंड) डिफ़ॉल्ट रूप से सिर्फ़ आपके डिवाइस पर सेव होते हैं। कोच की आवाज़ वाली व्याख्या केवल आपके डिवाइस की बिल्ट-इन स्पीच सिंथेसिस से चलती है — कोई ऑडियो कभी रिकॉर्ड या भेजा नहीं जाता।"
+        "आँकड़े, अचीवमेंट्स, हल की गई पहेलियों की सूची, पाठ/अभ्यास प्रोग्रेस, डेली चैलेंज स्ट्रीक, और सेटिंग्स (बोर्ड थीम, मोहरा स्टाइल, भाषा, साउंड) डिफ़ॉल्ट रूप से सिर्फ़ आपके डिवाइस पर सेव होते हैं। कोच की आवाज़ वाली व्याख्या केवल आपके डिवाइस की बिल्ट-इन स्पीच सिंथेसिस से चलती है — कोई ऑडियो कभी रिकॉर्ड या भेजा नहीं जाता। गेम विश्लेषण से सहेजी गई आपकी गलतियाँ, कमज़ोरियों की गिनती और स्कैन अभ्यास के परिणाम भी केवल आपके डिवाइस पर रखे जाते हैं।"
       ],
       [
         "अकाउंट और ऑनलाइन खेल",
@@ -569,15 +589,19 @@
       ],
       [
         "प्रोग्रेस सिंक",
-        "सिर्फ़ जब आप Apple से साइन इन करते हैं, तब आपके आँकड़े, अचीवमेंट्स, हल की गई पहेलियों का रिकॉर्ड, पूरे किए गए पाठ/अभ्यास, डेली चैलेंज रिकॉर्ड, और Puzzle Rush का बेस्ट स्कोर हमारे सर्वर पर सेव होते हैं और आपके डिवाइसों के बीच मर्ज/सिंक होते हैं। जब तक आप सिर्फ़ एनोनिमस तरीके से खेलते हैं, यह सिंक नहीं होता।"
+        "सिर्फ़ जब आप Apple से साइन इन करते हैं, तब आपके आँकड़े, अचीवमेंट्स, हल की गई पहेलियों का रिकॉर्ड, पूरे किए गए पाठ/अभ्यास, डेली चैलेंज रिकॉर्ड, और Puzzle Rush का बेस्ट स्कोर हमारे सर्वर पर सेव होते हैं और आपके डिवाइसों के बीच मर्ज/सिंक होते हैं। जब तक आप सिर्फ़ एनोनिमस तरीके से खेलते हैं, यह सिंक नहीं होता। यदि आप सब्सक्राइबर हैं, तो आपके पूरे हुए खेल (केवल चालें) हमारे सर्वर पर भी रखे जाते हैं ताकि आप उन्हें किसी भी डिवाइस पर दोबारा देख सकें।"
+      ],
+      [
+        "समुदाय मिशन",
+        "यदि आप कोई शह-मात मिशन प्रकाशित करते हैं, तो उसकी स्थिति, चालों की संख्या, आपका सार्वजनिक निर्माता नाम (आपका उपनाम या स्वतः बना नाम) तथा अन्य खिलाड़ियों की रेटिंग और पसंद हमारे सर्वर पर संग्रहीत होती हैं और अन्य खिलाड़ियों को दिखती हैं। आप मिशन वापस ले सकते हैं; खाता हटाने पर आपके मिशन, रेटिंग और रिपोर्ट हट जाते हैं। किसी मिशन या निर्माता के बारे में भेजी गई रिपोर्ट और छिपाना सामग्री की निगरानी के लिए आपके खाते के साथ रखे जाते हैं और दूसरों को नहीं दिखते। मिशनों में कोई मुक्त पाठ, चित्र या टिप्पणी नहीं होती। आज उपयोग किए गए मुफ़्त अभ्यासों की संख्या भी हमारे सर्वर पर गिनी जाती है।"
       ],
       [
         "विज्ञापन और प्राइवेसी विकल्प",
-        "फ़्री में मिलने वाली स्क्रीन पर Google AdMob के विज्ञापन दिख सकते हैं। AdMob विज्ञापन दिखाने और मापने के लिए एक एडवरटाइजिंग आइडेंटिफ़ायर, डिवाइस जानकारी, और अनुमानित (IP आधारित) लोकेशन इकट्ठा कर सकता है। आप iOS की App Tracking Transparency से पर्सनलाइज़्ड विज्ञापन मना कर सकते हैं, या इन-ऐप खरीदारी से विज्ञापन हटा सकते हैं।"
+        "मुफ़्त स्क्रीन पर Google AdMob विज्ञापन दिख सकते हैं। ऐप केवल गैर-वैयक्तिकृत विज्ञापन माँगता है, App Tracking Transparency का संदेश नहीं दिखाता और अन्य कंपनियों के ऐप या वेबसाइट पर आपको ट्रैक नहीं करता। फिर भी AdMob विज्ञापन दिखाने और मापने के लिए डिवाइस की जानकारी और अनुमानित (IP-आधारित) स्थान एकत्र कर सकता है। आप इन-ऐप खरीद से विज्ञापन हटा सकते हैं।"
       ],
       [
         "सर्वर पर स्टोरेज और सीमा-पार प्रोसेसिंग",
-        "अकाउंट, खरीदारी, ऑनलाइन खेल और प्रोग्रेस का डेटा Supabase (हमारा डेटाबेस/ऑथेंटिकेशन प्रोवाइडर) द्वारा चलाए जा रहे सर्वर पर सेव होता है। ये सर्वर विदेश में हो सकते हैं और वहां के कानूनों के तहत प्रोसेस होते हैं। Apple (App Store बिलिंग) और Google (AdMob) अपनी-अपनी प्राइवेसी पॉलिसी के तहत डेटा प्रोसेस करते हैं।"
+        "अकाउंट, खरीदारी, ऑनलाइन खेल और प्रोग्रेस का डेटा Supabase (हमारा डेटाबेस/ऑथेंटिकेशन प्रोवाइडर) द्वारा चलाए जा रहे सर्वर पर सेव होता है। ये सर्वर विदेश में हो सकते हैं और वहां के कानूनों के तहत प्रोसेस होते हैं। Apple (App Store बिलिंग) और Google (AdMob) अपनी-अपनी प्राइवेसी पॉलिसी के तहत डेटा प्रोसेस करते हैं। क्रैश रिपोर्ट (Firebase Crashlytics) केवल ऐप की समस्याएँ ठीक करने के लिए एकत्र की जाती हैं और विज्ञापन के लिए उपयोग नहीं होतीं।"
       ],
       [
         "संपर्क और वेबसाइट प्रोवाइडर",
@@ -645,7 +669,7 @@
     ],
     "tag": "Main, belajar, dan berkembang di catur.",
     "intro": "Dukungan & kebijakan resmi Chess · Next Studio",
-    "date": "Berlaku / Diperbarui: 29 September 2026",
+    "date": "Berlaku / Diperbarui: 14 Oktober 2026",
     "contact": "Kontak",
     "skip": "Lompat ke konten",
     "features": [
@@ -663,7 +687,7 @@
       ],
       [
         "Data di perangkat",
-        "Statistik, pencapaian, daftar puzzle yang terpecahkan, progres pelajaran/latihan, rentetan tantangan harian, dan pengaturan (tema papan, gaya bidak, bahasa, suara) secara default hanya disimpan di perangkatmu. Narasi suara pelatih hanya menggunakan sintesis suara bawaan perangkatmu — audio tidak pernah direkam atau dikirim ke mana pun."
+        "Statistik, pencapaian, daftar puzzle yang terpecahkan, progres pelajaran/latihan, rentetan tantangan harian, dan pengaturan (tema papan, gaya bidak, bahasa, suara) secara default hanya disimpan di perangkatmu. Narasi suara pelatih hanya menggunakan sintesis suara bawaan perangkatmu — audio tidak pernah direkam atau dikirim ke mana pun. Kesalahan tersimpan dari analisis partai, hitungan titik lemahmu, dan hasil latihan pemindaian juga hanya disimpan di perangkatmu."
       ],
       [
         "Akun dan permainan online",
@@ -675,15 +699,19 @@
       ],
       [
         "Sinkronisasi progres",
-        "Hanya jika kamu masuk dengan Apple, statistik, pencapaian, catatan puzzle terpecahkan, pelajaran/latihan yang selesai, catatan tantangan harian, dan skor terbaik Puzzle Rush disimpan di server kami serta digabungkan/disinkronkan di seluruh perangkatmu. Sinkronisasi ini tidak terjadi selama kamu hanya bermain secara anonim."
+        "Hanya jika kamu masuk dengan Apple, statistik, pencapaian, catatan puzzle terpecahkan, pelajaran/latihan yang selesai, catatan tantangan harian, dan skor terbaik Puzzle Rush disimpan di server kami serta digabungkan/disinkronkan di seluruh perangkatmu. Sinkronisasi ini tidak terjadi selama kamu hanya bermain secara anonim. Jika kamu pelanggan, game yang sudah selesai (hanya langkah) juga disimpan di server kami agar bisa diputar ulang di perangkat mana pun."
+      ],
+      [
+        "Misi komunitas",
+        "Jika kamu menerbitkan misi skakmat, posisi, jumlah langkah, nama kreator publikmu (nama panggilan atau nama yang dibuat otomatis), serta penilaian dan suka dari pemain lain disimpan di server kami dan ditampilkan kepada pemain lain. Kamu dapat menarik misi; menghapus akun menghapus misi, penilaian, dan laporanmu. Laporan dan penyembunyian tentang misi atau kreator disimpan bersama akunmu untuk moderasi dan tidak ditampilkan kepada orang lain. Misi tidak berisi teks bebas, gambar, atau komentar. Jumlah latihan gratis yang kamu pakai hari ini juga dihitung di server kami."
       ],
       [
         "Iklan dan pilihan privasi",
-        "Layar yang tersedia gratis dapat menampilkan iklan Google AdMob. AdMob dapat mengumpulkan ID iklan, informasi perangkat, dan lokasi perkiraan (berbasis IP) untuk penayangan dan pengukuran iklan. Kamu bisa menolak iklan personalisasi lewat App Tracking Transparency iOS, atau menghapus iklan dengan pembelian dalam aplikasi."
+        "Layar yang tersedia gratis dapat menampilkan iklan Google AdMob. Aplikasi hanya meminta iklan non-personalisasi, tidak menampilkan permintaan App Tracking Transparency, dan tidak melacakmu di aplikasi atau situs web perusahaan lain. AdMob tetap dapat mengumpulkan informasi perangkat dan perkiraan lokasi (berbasis IP) untuk penayangan dan pengukuran iklan. Kamu dapat menghapus iklan dengan pembelian dalam aplikasi."
       ],
       [
         "Penyimpanan server dan pemrosesan lintas batas",
-        "Data akun, pembelian, permainan online, dan progres disimpan di server yang dioperasikan oleh Supabase (penyedia basis data/autentikasi kami). Server ini bisa berada di luar negeri dan diproses sesuai hukum yang berlaku di sana. Apple (penagihan App Store) dan Google (AdMob) masing-masing memproses data sesuai kebijakan privasi mereka sendiri."
+        "Data akun, pembelian, permainan online, dan progres disimpan di server yang dioperasikan oleh Supabase (penyedia basis data/autentikasi kami). Server ini bisa berada di luar negeri dan diproses sesuai hukum yang berlaku di sana. Apple (penagihan App Store) dan Google (AdMob) masing-masing memproses data sesuai kebijakan privasi mereka sendiri. Laporan crash (Firebase Crashlytics) dikumpulkan hanya untuk memperbaiki masalah aplikasi dan tidak digunakan untuk iklan."
       ],
       [
         "Kontak dan penyedia situs web",
@@ -751,7 +779,7 @@
     ],
     "tag": "Jogue, aprenda e evolua no xadrez.",
     "intro": "Suporte e políticas oficiais do Chess · Next Studio",
-    "date": "Vigente / Atualizado: 29 de setembro de 2026",
+    "date": "Em vigor / Atualizado: 14 de outubro de 2026",
     "contact": "Contato",
     "skip": "Ir para o conteúdo",
     "features": [
@@ -769,7 +797,7 @@
       ],
       [
         "Dados no dispositivo",
-        "Estatísticas, conquistas, a lista de puzzles resolvidos, o progresso de lições/exercícios, a sequência do desafio diário e as configurações (tema do tabuleiro, estilo de peças, idioma, som) são guardados por padrão apenas no seu dispositivo. A narração de voz do coach usa somente a síntese de voz nativa do seu dispositivo — nada de áudio é gravado ou enviado."
+        "Estatísticas, conquistas, a lista de puzzles resolvidos, o progresso de lições/exercícios, a sequência do desafio diário e as configurações (tema do tabuleiro, estilo de peças, idioma, som) são guardados por padrão apenas no seu dispositivo. A narração de voz do coach usa somente a síntese de voz nativa do seu dispositivo — nada de áudio é gravado ou enviado. Seus erros salvos da análise da partida, a contagem dos seus pontos fracos e os resultados dos exercícios de varredura também ficam apenas no seu dispositivo."
       ],
       [
         "Contas e jogo online",
@@ -781,15 +809,19 @@
       ],
       [
         "Sincronização de progresso",
-        "Somente se você entrar com a Apple, suas estatísticas, conquistas, puzzles resolvidos, lições/exercícios concluídos, sequência do desafio diário e melhor pontuação no Puzzle Rush são salvos em nosso servidor e combinados/sincronizados entre seus dispositivos. Essa sincronização não ocorre enquanto você joga apenas de forma anônima."
+        "Somente se você entrar com a Apple, suas estatísticas, conquistas, puzzles resolvidos, lições/exercícios concluídos, sequência do desafio diário e melhor pontuação no Puzzle Rush são salvos em nosso servidor e combinados/sincronizados entre seus dispositivos. Essa sincronização não ocorre enquanto você joga apenas de forma anônima. Se você é assinante, suas partidas encerradas (apenas os lances) também ficam guardadas em nosso servidor para que você possa revê-las em qualquer dispositivo."
+      ],
+      [
+        "Missões da comunidade",
+        "Se você publicar uma missão de xeque-mate, a posição, o número de lances, seu nome público de criador (seu apelido ou um nome gerado) e as avaliações e curtidas de outros jogadores são armazenados em nosso servidor e exibidos a outros jogadores. Você pode retirar uma missão; ao excluir sua conta, suas missões, avaliações e denúncias são removidas. Denúncias e ocultações sobre uma missão ou criador são guardadas com sua conta para moderar o conteúdo e não são exibidas a outros. As missões não têm texto livre, imagens nem comentários. A quantidade de exercícios gratuitos usados hoje também é contada em nosso servidor."
       ],
       [
         "Anúncios e escolhas de privacidade",
-        "Telas disponíveis gratuitamente podem exibir anúncios do Google AdMob. O AdMob pode coletar um identificador de publicidade, informações do dispositivo e localização aproximada (por IP) para exibição e medição de anúncios. Você pode recusar anúncios personalizados pelo App Tracking Transparency do iOS, ou remover os anúncios com uma compra no app."
+        "Telas gratuitas podem exibir anúncios do Google AdMob. O app solicita apenas anúncios não personalizados, não exibe o aviso do App Tracking Transparency e não rastreia você entre apps ou sites de outras empresas. O AdMob ainda pode coletar informações do dispositivo e uma localização aproximada (baseada em IP) para veicular e medir anúncios. Você pode remover os anúncios com uma compra no app."
       ],
       [
         "Retenção no servidor e processamento internacional",
-        "Dados de conta, compras, jogo online e progresso são guardados em servidores operados pela Supabase (nosso provedor de banco de dados/autenticação). Esses servidores podem estar no exterior e são processados sob as leis locais aplicáveis. Apple (cobrança da App Store) e Google (AdMob) processam dados conforme suas próprias políticas de privacidade."
+        "Dados de conta, compras, jogo online e progresso são guardados em servidores operados pela Supabase (nosso provedor de banco de dados/autenticação). Esses servidores podem estar no exterior e são processados sob as leis locais aplicáveis. Apple (cobrança da App Store) e Google (AdMob) processam dados conforme suas próprias políticas de privacidade. Relatórios de falhas (Firebase Crashlytics) são coletados apenas para corrigir problemas do app e não são usados para publicidade."
       ],
       [
         "Contato e provedor do site",
@@ -857,7 +889,7 @@
     ],
     "tag": "Играй, учись и расти в шахматах.",
     "intro": "Официальная поддержка и политики Chess · Next Studio",
-    "date": "Действует / Обновлено: 29 сентября 2026 г.",
+    "date": "Действует / Обновлено: 14 октября 2026 г.",
     "contact": "Контакты",
     "skip": "Перейти к содержимому",
     "features": [
@@ -875,7 +907,7 @@
       ],
       [
         "Данные на устройстве",
-        "Статистика, достижения, список решённых пазлов, прогресс уроков/упражнений, серия ежедневного вызова и настройки (тема доски, стиль фигур, язык, звук) по умолчанию хранятся только на вашем устройстве. Голосовые пояснения тренера используют только встроенный синтез речи устройства — аудио никогда не записывается и не отправляется."
+        "Статистика, достижения, список решённых пазлов, прогресс уроков/упражнений, серия ежедневного вызова и настройки (тема доски, стиль фигур, язык, звук) по умолчанию хранятся только на вашем устройстве. Голосовые пояснения тренера используют только встроенный синтез речи устройства — аудио никогда не записывается и не отправляется. Сохранённые из анализа партии ошибки, подсчёт слабых мест и результаты упражнений-сканов также хранятся только на вашем устройстве."
       ],
       [
         "Аккаунты и онлайн-игра",
@@ -887,15 +919,19 @@
       ],
       [
         "Синхронизация прогресса",
-        "Только если вы вошли через Apple, ваша статистика, достижения, решённые пазлы, завершённые уроки/упражнения, серия ежедневного вызова и лучший результат в Puzzle Rush сохраняются на нашем сервере и объединяются/синхронизируются между устройствами. Эта синхронизация не происходит, если вы играете только анонимно."
+        "Только если вы вошли через Apple, ваша статистика, достижения, решённые пазлы, завершённые уроки/упражнения, серия ежедневного вызова и лучший результат в Puzzle Rush сохраняются на нашем сервере и объединяются/синхронизируются между устройствами. Эта синхронизация не происходит, если вы играете только анонимно. Если вы подписчик, ваши завершённые партии (только ходы) также хранятся на нашем сервере, чтобы вы могли пересматривать их на любом устройстве."
+      ],
+      [
+        "Миссии сообщества",
+        "Если вы публикуете матовую миссию, позиция, число ходов, ваше публичное имя автора (никнейм или созданное имя), а также оценки и лайки других игроков хранятся на нашем сервере и показываются другим игрокам. Миссию можно отозвать; при удалении аккаунта удаляются ваши миссии, оценки и жалобы. Жалобы и скрытие миссии или автора сохраняются с вашим аккаунтом для модерации и другим не показываются. В миссиях нет свободного текста, изображений и комментариев. Число использованных сегодня бесплатных упражнений также считается на нашем сервере."
       ],
       [
         "Реклама и выбор конфиденциальности",
-        "На бесплатных экранах может показываться реклама Google AdMob. AdMob может собирать рекламный идентификатор, информацию об устройстве и приблизительное (по IP) местоположение для показа и измерения рекламы. Вы можете отключить персонализированную рекламу через App Tracking Transparency iOS или убрать рекламу покупкой в приложении."
+        "На бесплатных экранах может показываться реклама Google AdMob. Приложение запрашивает только неперсонализированную рекламу, не показывает запрос App Tracking Transparency и не отслеживает вас в приложениях и на сайтах других компаний. AdMob всё же может собирать сведения об устройстве и приблизительное местоположение (по IP) для показа и измерения рекламы. Рекламу можно убрать встроенной покупкой."
       ],
       [
         "Хранение на сервере и трансграничная обработка",
-        "Данные аккаунта, покупок, онлайн-игры и прогресса хранятся на серверах Supabase (нашего провайдера базы данных/аутентификации). Эти серверы могут находиться за границей и обрабатываются по законам соответствующей юрисдикции. Apple (оплата через App Store) и Google (AdMob) обрабатывают данные согласно своим собственным политикам конфиденциальности."
+        "Данные аккаунта, покупок, онлайн-игры и прогресса хранятся на серверах Supabase (нашего провайдера базы данных/аутентификации). Эти серверы могут находиться за границей и обрабатываются по законам соответствующей юрисдикции. Apple (оплата через App Store) и Google (AdMob) обрабатывают данные согласно своим собственным политикам конфиденциальности. Отчёты о сбоях (Firebase Crashlytics) собираются только для исправления проблем приложения и не используются для рекламы."
       ],
       [
         "Контакты и провайдер сайта",
@@ -963,7 +999,7 @@
     ],
     "tag": "Satranç oyna, öğren, gelişimini sürdür.",
     "intro": "Chess resmi destek ve politikalar · Next Studio",
-    "date": "Geçerli / Güncellendi: 29 Eylül 2026",
+    "date": "Yürürlük / Güncelleme: 14 Ekim 2026",
     "contact": "İletişim",
     "skip": "İçeriğe geç",
     "features": [
@@ -981,7 +1017,7 @@
       ],
       [
         "Cihaz üzerindeki veriler",
-        "İstatistikler, başarımlar, çözülen bulmacaların listesi, ders/alıştırma ilerlemesi, günlük görev serisi ve ayarlar (tahta teması, taş stili, dil, ses) varsayılan olarak yalnızca cihazında saklanır. Koç sesli anlatımı yalnızca cihazının yerleşik ses sentezini kullanır — ses hiçbir zaman kaydedilmez veya gönderilmez."
+        "İstatistikler, başarımlar, çözülen bulmacaların listesi, ders/alıştırma ilerlemesi, günlük görev serisi ve ayarlar (tahta teması, taş stili, dil, ses) varsayılan olarak yalnızca cihazında saklanır. Koç sesli anlatımı yalnızca cihazının yerleşik ses sentezini kullanır — ses hiçbir zaman kaydedilmez veya gönderilmez. Oyun analizinden kaydettiğiniz hatalar, zayıf noktalarınızın sayımı ve tarama alıştırması sonuçlarınız da yalnızca cihazınızda tutulur."
       ],
       [
         "Hesaplar ve çevrimiçi oyun",
@@ -993,15 +1029,19 @@
       ],
       [
         "İlerleme senkronizasyonu",
-        "Yalnızca Apple ile giriş yaptığında, istatistiklerin, başarımların, çözülen bulmaca kaydın, tamamlanan ders/alıştırmaların, günlük görev kaydın ve Puzzle Rush en iyi skorun sunucumuzda saklanır ve cihazların arasında birleştirilip senkronize edilir. Sadece anonim oynadığın sürece bu senkronizasyon gerçekleşmez."
+        "Yalnızca Apple ile giriş yaptığında, istatistiklerin, başarımların, çözülen bulmaca kaydın, tamamlanan ders/alıştırmaların, günlük görev kaydın ve Puzzle Rush en iyi skorun sunucumuzda saklanır ve cihazların arasında birleştirilip senkronize edilir. Sadece anonim oynadığın sürece bu senkronizasyon gerçekleşmez. Abone iseniz bitmiş oyunlarınız (yalnızca hamleler) her cihazda yeniden izleyebilmeniz için sunucumuzda da saklanır."
+      ],
+      [
+        "Topluluk görevleri",
+        "Bir mat görevi yayınlarsanız konum, hamle sayısı, herkese açık oluşturucu adınız (takma adınız veya üretilen bir ad) ile diğer oyuncuların verdiği puan ve beğeniler sunucumuzda saklanır ve diğer oyunculara gösterilir. Bir görevi geri çekebilirsiniz; hesabınızı silmek görevlerinizi, puanlarınızı ve bildirimlerinizi kaldırır. Bir görev veya oluşturucu hakkındaki bildirim ve gizlemeler içerik denetimi için hesabınızla birlikte saklanır ve başkalarına gösterilmez. Görevlerde serbest metin, görsel veya yorum yoktur. Bugün kullandığınız ücretsiz alıştırma sayısı da sunucumuzda sayılır."
       ],
       [
         "Reklamlar ve gizlilik seçenekleri",
-        "Ücretsiz kullanılabilen ekranlarda Google AdMob reklamları gösterilebilir. AdMob, reklam sunumu ve ölçümü için bir reklam kimliği, cihaz bilgisi ve yaklaşık (IP tabanlı) konum toplayabilir. iOS Uygulama İzleme Şeffaflığı üzerinden kişiselleştirilmiş reklamları reddedebilir veya uygulama içi satın alımla reklamları kaldırabilirsin."
+        "Ücretsiz ekranlarda Google AdMob reklamları gösterilebilir. Uygulama yalnızca kişiselleştirilmemiş reklam ister, App Tracking Transparency istemi göstermez ve sizi diğer şirketlerin uygulama veya sitelerinde izlemez. AdMob yine de reklam gösterimi ve ölçümü için cihaz bilgisi ve yaklaşık (IP tabanlı) konum toplayabilir. Reklamları uygulama içi satın alma ile kaldırabilirsiniz."
       ],
       [
         "Sunucuda saklama ve sınır ötesi işleme",
-        "Hesap, satın alım, çevrimiçi oyun ve ilerleme verileri, veritabanı/kimlik doğrulama sağlayıcımız Supabase tarafından işletilen sunucularda saklanır. Bu sunucular yurt dışında olabilir ve orada geçerli yasalara göre işlenir. Apple (App Store faturalandırması) ve Google (AdMob) verileri kendi gizlilik politikalarına göre işler."
+        "Hesap, satın alım, çevrimiçi oyun ve ilerleme verileri, veritabanı/kimlik doğrulama sağlayıcımız Supabase tarafından işletilen sunucularda saklanır. Bu sunucular yurt dışında olabilir ve orada geçerli yasalara göre işlenir. Apple (App Store faturalandırması) ve Google (AdMob) verileri kendi gizlilik politikalarına göre işler. Çökme raporları (Firebase Crashlytics) yalnızca uygulama sorunlarını düzeltmek için toplanır ve reklam için kullanılmaz."
       ],
       [
         "İletişim ve web sitesi sağlayıcısı",
