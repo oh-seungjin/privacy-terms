@@ -4,8 +4,8 @@ from html import escape
 ROOT = Path(__file__).parent
 BASE = "https://oh-seungjin.github.io/privacy-terms/classic-card-game"
 EMAIL = "dhalska2@gmail.com"
-DATE_EN = "September 27, 2026"
-DATE_KO = "2026년 9월 27일"
+DATE_EN = "October 16, 2026"
+DATE_KO = "2026년 10월 16일"
 
 PAGES = {
     "en": {
@@ -17,8 +17,8 @@ PAGES = {
             ("2. Information stored on your device", "The app stores an active game, elapsed time, game settings, language, sound and haptic choices, and local activity records. Local data remains until it is cleared or the app is deleted. Device and cloud backups are controlled by your platform provider."),
             ("3. Supabase account and game data", "The app creates an anonymous Supabase user ID by default. If you choose Apple or Google sign-in, account identifiers, email when supplied by the provider, authentication records, country code, synced preferences and progress, ranked tickets, ranked attempt seeds, ordered gameplay action logs, verified clear times, and leaderboard records may be stored. Ranked action logs are used to validate results and prevent cheating."),
             ("4. Advertising", "The mobile app uses Google AdMob for interstitial and optional rewarded ads. Google may process IP address, approximate location derived from IP, device or advertising identifiers, ad views and interactions, diagnostics, fraud signals, and consent choices. The app does not request precise location. Regional consent controls are provided where required. On iOS, advertising tracking requiring the identifier for advertisers is used only after App Tracking Transparency permission."),
-            ("5. Purchases", "If in-app products are offered and you make a purchase, Apple and our verification service may process product and transaction identifiers, purchase environment, verification status, and resulting entitlement or balance. We do not receive payment card details. Availability and displayed products depend on the released build and store configuration."),
-            ("6. Analytics, crashes, and notifications", "The current app does not use Firebase Analytics or a separate crash-reporting SDK and does not send push notifications. We will revise this policy before enabling materially different collection."),
+            ("5. Purchases", "If you make an in-app purchase, Apple or Google Play and our verification service process product and transaction identifiers, purchase tokens, purchase environment, verification and refund status, and resulting entitlements. We do not receive payment card details. Availability and displayed products depend on the released build and store configuration."),
+            ("6. Analytics, crashes, and notifications", "The Android release uses Firebase Crashlytics to collect crash logs, stack traces, relevant app state, device metadata, and installation identifiers for stability diagnosis. Crashlytics collection is disabled in development builds. The app does not include Firebase Analytics and does not send push notifications. We will revise this policy before enabling materially different collection."),
             ("7. Purposes and legal basis", "We process information to save and restore game state, authenticate accounts, operate verified rankings, deliver and verify optional ad rewards, verify purchases, prevent abuse, provide support, comply with legal obligations, and improve service reliability. The legal basis depends on the feature and applicable law, including contract performance, consent, legitimate interests, and legal obligations."),
             ("8. Sharing and international processing", "Service providers may process data only for their services: Supabase for authentication and storage; Apple and Google for sign-in, store services, consent, and advertising; GitHub Pages for this website; and Gmail for support inquiries. Their servers may be outside South Korea. This website contains no advertising or analytics scripts, but GitHub may process IP addresses and access logs for hosting and security."),
             ("9. Retention and deletion", "Game account data is retained while needed to provide restoration, ranking, entitlement, security, and legal functions. Completed ranked results may remain until game data deletion. Purchase records involved in disputes or legal duties may be retained as required. Support email is retained only as needed to resolve the inquiry. Store transaction records held by Apple or Google are controlled by those providers."),
@@ -37,7 +37,7 @@ PAGES = {
             ("1. How to play", "Build each foundation by suit from Ace through King. On the tableau, place cards in descending rank with alternating colors. Move complete face-up runs, draw from the stock, and reveal face-down cards. In ranked mode, use only manual moves; hints, undo, auto-move, and resume are disabled."),
             ("2. Saves and ranked games", "Casual games save on the device. Sign-in can sync supported progress and enables ranked submission. Ranked attempts consume one ticket when claimed; leaving does not refund it. Tickets refill up to the limit shown in the app. A clear appears on the leaderboard only after the server verifies the full ordered action log."),
             ("3. Ads and rewards", "If an ad fails to load, check your connection and try later. A rewarded-ad view alone does not guarantee a reward: the signed server callback must be verified. Never tap live ads for testing. Privacy choices can be reviewed from the app when the consent provider makes them available."),
-            ("4. Purchases and restoration", "Purchase availability depends on platform and store configuration. Use the in-app restore option for restorable App Store purchases. For billing, cancellation, or refunds, use your store's support process. Never email card details or store passwords."),
+            ("4. Purchases and restoration", "Purchase availability depends on platform and store configuration. Use the in-app restore option for restorable App Store or Google Play purchases. For billing, cancellation, or refunds, use your store's support process. Never email card details or store passwords."),
             ("5. Report a problem", f"Email <a href=\"mailto:{EMAIL}?subject=Classic%20Solitaire%20Support\">{EMAIL}</a> with the app name, app version, device and OS, language, sign-in status, steps to reproduce, and a screenshot with personal information hidden. Do not send passwords, authentication codes, receipts containing unnecessary personal data, or card details."),
         ]),
         "delete-account": ("Delete Game Data", "How to remove local and Classic Solitaire server data.", [
@@ -56,8 +56,8 @@ PAGES = {
             ("2. 기기에 저장되는 정보", "진행 중인 게임, 경과 시간, 게임 설정, 언어, 소리·진동 선택과 로컬 활동 기록을 기기에 저장합니다. 로컬 정보는 앱 저장공간을 지우거나 앱을 삭제할 때까지 남을 수 있으며 기기·클라우드 백업은 플랫폼 사업자가 관리합니다."),
             ("3. Supabase 계정과 게임 데이터", "앱은 기본적으로 익명 Supabase 사용자 ID를 만듭니다. Apple 또는 Google 로그인을 선택하면 제공자가 전달한 계정 식별자와 이메일, 인증 기록, 국가 코드, 동기화 설정과 진행 상황, 랭크 도전권, 랭크 시드, 순서가 있는 행동 로그, 검증된 클리어 시간과 리더보드 기록을 저장할 수 있습니다. 랭크 행동 로그는 결과 검증과 부정행위 방지에 사용합니다."),
             ("4. 광고", "모바일 앱은 Google AdMob 전면 광고와 선택형 보상 광고를 사용합니다. Google은 IP 주소, IP로 추정한 대략적 위치, 기기·광고 식별자, 광고 조회·상호작용, 진단·부정행위 방지 신호와 동의 선택을 처리할 수 있습니다. 정확한 위치 권한은 요청하지 않습니다. 필요한 지역에는 동의 선택을 제공하며, iOS 광고 식별자를 이용한 추적은 앱 추적 투명성(ATT)에 동의한 경우에만 수행합니다."),
-            ("5. 인앱결제", "출시 빌드에서 인앱 상품을 제공하고 사용자가 구매하면 Apple과 검증 서버가 상품·거래 식별자, 구매 환경, 검증 상태와 지급된 권한·잔액을 처리할 수 있습니다. 결제 카드 정보는 당사가 받지 않습니다. 판매 상품과 이용 가능 여부는 출시 빌드 및 스토어 설정에 따릅니다."),
-            ("6. 분석·오류 보고·알림", "현재 앱은 Firebase Analytics나 별도 Crashlytics SDK를 사용하지 않고 푸시 알림을 보내지 않습니다. 실질적으로 다른 수집 기능을 활성화하기 전에 이 방침을 수정합니다."),
+            ("5. 인앱결제", "인앱 상품을 구매하면 Apple 또는 Google Play와 검증 서버가 상품·거래 식별자, 구매 토큰, 구매 환경, 검증·환불 상태와 지급된 권한을 처리합니다. 결제 카드 정보는 당사가 받지 않습니다. 판매 상품과 이용 가능 여부는 출시 빌드 및 스토어 설정에 따릅니다."),
+            ("6. 분석·오류 보고·알림", "Android 출시 빌드는 Firebase Crashlytics를 사용해 안정성 진단 목적으로 충돌 로그, 스택 추적, 관련 앱 상태, 기기 메타데이터와 설치 식별자를 수집합니다. 개발 빌드에서는 Crashlytics 수집을 끕니다. Firebase Analytics는 포함하지 않고 푸시 알림도 보내지 않습니다. 실질적으로 다른 수집 기능을 활성화하기 전에 이 방침을 수정합니다."),
             ("7. 처리 목적과 근거", "게임 저장·복구, 계정 인증, 검증된 랭킹 운영, 선택형 광고 보상 확인, 구매 검증, 부정 이용 방지, 고객지원, 법적 의무 준수와 서비스 안정성 확보를 위해 정보를 처리합니다. 구체적 법적 근거는 기능과 적용 법률에 따라 계약 이행, 동의, 정당한 이익 또는 법적 의무가 될 수 있습니다."),
             ("8. 제공업체와 국외 처리", "Supabase는 인증·저장, Apple과 Google은 로그인·스토어·동의·광고, GitHub Pages는 이 웹사이트 호스팅, Gmail은 문의 처리를 위해 정보를 처리할 수 있으며 서버가 대한민국 밖에 있을 수 있습니다. 이 웹페이지에는 광고·분석 스크립트나 입력 폼이 없지만 GitHub는 호스팅과 보안을 위해 IP 주소와 접속 로그를 처리할 수 있습니다."),
             ("9. 보관과 삭제", "계정 복구, 랭킹, 권한, 보안과 법적 기능 제공에 필요한 기간 게임 데이터를 보관합니다. 완료된 랭크 결과는 게임 데이터 삭제 시까지 남을 수 있습니다. 거래 분쟁·법적 의무가 있는 구매 기록은 필요한 기간 보관할 수 있고 문의 메일은 해결에 필요한 기간만 보관합니다. Apple·Google이 보유한 스토어 거래 기록은 각 사업자가 관리합니다."),
@@ -76,7 +76,7 @@ PAGES = {
             ("1. 게임 방법", "foundation에는 무늬별로 A부터 K까지 쌓습니다. tableau에는 색을 번갈아 내림차순으로 놓고, 앞면으로 연결된 묶음을 이동하며, 스톡에서 카드를 뽑아 뒷면 카드를 모두 공개합니다. 랭크에서는 수동 이동만 허용되고 힌트·되돌리기·자동 이동·이어하기는 사용할 수 없습니다."),
             ("2. 저장과 랭크", "일반 게임은 기기에 저장됩니다. 로그인하면 지원되는 진행 상황을 동기화하고 랭크 기록을 제출할 수 있습니다. 랭크 시도 발급 시 도전권 1개가 차감되고 중도 이탈 시 반환되지 않습니다. 도전권은 앱에 표시된 최대치까지 충전되며 전체 행동 로그를 서버가 검증한 기록만 리더보드에 표시됩니다."),
             ("3. 광고와 보상", "광고가 로드되지 않으면 네트워크를 확인하고 나중에 다시 시도하세요. 보상 광고를 봤다는 사실만으로 보상이 확정되지 않으며 서명된 서버 콜백 검증을 통과해야 합니다. 테스트 목적으로 실제 광고를 누르지 마세요. 동의 제공자가 허용하는 경우 앱에서 광고 개인정보 선택을 다시 확인할 수 있습니다."),
-            ("4. 구매와 복원", "구매 가능 여부는 플랫폼과 스토어 설정에 따릅니다. 복원 가능한 App Store 구매는 앱의 구매 복원 기능을 사용하세요. 결제·취소·환불은 해당 스토어 지원 절차를 이용하고 카드 정보나 스토어 비밀번호를 이메일로 보내지 마세요."),
+            ("4. 구매와 복원", "구매 가능 여부는 플랫폼과 스토어 설정에 따릅니다. 복원 가능한 App Store 또는 Google Play 구매는 앱의 구매 복원 기능을 사용하세요. 결제·취소·환불은 해당 스토어 지원 절차를 이용하고 카드 정보나 스토어 비밀번호를 이메일로 보내지 마세요."),
             ("5. 문제 신고", f"<a href=\"mailto:{EMAIL}?subject=Classic%20Solitaire%20Support\">{EMAIL}</a>로 앱 이름, 앱 버전, 기기·OS, 언어, 로그인 상태, 재현 단계와 개인정보를 가린 화면을 보내주세요. 비밀번호·인증 코드·불필요한 개인정보가 포함된 영수증·카드 정보는 보내지 마세요."),
         ]),
         "delete-account": ("게임 데이터 삭제", "기기 및 클래식 솔리테어 서버 데이터를 삭제하는 방법입니다.", [
