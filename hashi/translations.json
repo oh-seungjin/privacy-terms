@@ -9,7 +9,7 @@
     ],
     "tag": "Connect islands. Find your calm.",
     "intro": "Official Hashi support and policies · Next Studio",
-    "date": "Effective / updated September 16, 2026",
+    "date": "Effective / updated October 17, 2026",
     "contact": "Contact",
     "skip": "Skip to content",
     "privacy": [
@@ -31,7 +31,7 @@
       ],
       [
         "Accounts and purchases",
-        "Supabase processes email, account ID, authentication/access records, product and transaction IDs, purchase environment, entitlements, paid-hint balance, spend request ID, puzzle ID and time for authentication, verification, recovery and prevention of duplicate charges to hint balances. We do not collect payment-card details. The database region is Seoul, South Korea; Supabase and its subprocessors may provide authentication and operational support from other countries, including the US. Apple handles payment and transaction verification. Where required, processing relies on contract performance, legitimate interests in security and fraud prevention, legal obligations, or consent for optional features."
+        "Supabase processes email, account ID, authentication/access records, product and transaction IDs, purchase environment, entitlements, paid-hint balance, spend request ID, puzzle ID and time for authentication, verification, recovery and prevention of duplicate charges to hint balances. We do not collect payment-card details. The database region is Seoul, South Korea; Supabase and its subprocessors may provide authentication and operational support from other countries, including the US. Apple handles payment and transaction verification. Where required, processing relies on contract performance, legitimate interests in security and fraud prevention, legal obligations, or consent for optional features. On Android, Google Play handles payment. When you buy or restore, the app sends the Google Play purchase token and product ID to our server, which verifies them with the Google Play Developer API, stores the product ID and a one-way SHA-256 hash of the token (not the token itself), credits the purchase once, and then acknowledges or consumes it with Google Play. Google Play notifications and refund/cancellation checks may update your entitlements and hint balance."
       ],
       [
         "Server retention and international processing",
@@ -107,7 +107,7 @@
     ],
     "tag": "섬을 잇고, 여유를 찾으세요.",
     "intro": "하시 공식 지원 및 정책 · 넥스트 스튜디오",
-    "date": "시행 / 수정: 2026년 9월 16일",
+    "date": "시행 / 수정: 2026년 10월 17일",
     "contact": "문의",
     "skip": "본문으로",
     "privacy": [
@@ -129,7 +129,7 @@
       ],
       [
         "계정과 구매",
-        "구매 계정을 사용하면 이메일, 계정 ID, 인증·접속 기록, 상품·거래 ID, 구매 환경, 구매 권한, 유료 힌트 잔액과 사용 요청 ID·퍼즐 ID·시각을 Supabase에 처리하여 인증, 구매 검증·복구와 중복 차감을 방지합니다. 결제 카드 정보는 수집하지 않습니다. DB 지역은 한국 서울이며, Supabase 및 하위 처리업체의 인증·운영 지원은 미국 등 국외에서 이루어질 수 있습니다. Apple은 결제와 거래 검증을 처리합니다. 해당 기능 제공은 계약 이행, 보안·부정 이용 방지는 정당한 이익, 필수 기록은 법적 의무, 선택 기능은 필요한 경우 동의를 근거로 합니다."
+        "구매 계정을 사용하면 이메일, 계정 ID, 인증·접속 기록, 상품·거래 ID, 구매 환경, 구매 권한, 유료 힌트 잔액과 사용 요청 ID·퍼즐 ID·시각을 Supabase에 처리하여 인증, 구매 검증·복구와 중복 차감을 방지합니다. 결제 카드 정보는 수집하지 않습니다. DB 지역은 한국 서울이며, Supabase 및 하위 처리업체의 인증·운영 지원은 미국 등 국외에서 이루어질 수 있습니다. Apple은 결제와 거래 검증을 처리합니다. 해당 기능 제공은 계약 이행, 보안·부정 이용 방지는 정당한 이익, 필수 기록은 법적 의무, 선택 기능은 필요한 경우 동의를 근거로 합니다. Android에서는 Google Play가 결제를 처리합니다. 구매·복원 시 앱이 Google Play 구매 토큰과 상품 ID를 서버로 보내고, 서버는 Google Play Developer API로 검증한 뒤 상품 ID와 토큰의 SHA-256 단방향 해시(토큰 원문은 저장하지 않음)를 기록하여 한 번만 지급하고 Google Play에 승인(acknowledge) 또는 소비(consume)를 요청합니다. Google Play 알림과 환불·취소 확인으로 구매 권한과 힌트 잔액이 조정될 수 있습니다."
       ],
       [
         "서버 데이터 보유와 국외 처리",
@@ -205,7 +205,7 @@
     ],
     "tag": "島をつないで、ひと息。",
     "intro": "Hashi 公式サポート・ポリシー · Next Studio",
-    "date": "施行・更新日：2026年9月16日",
+    "date": "施行・更新日：2026年10月17日",
     "contact": "お問い合わせ",
     "skip": "本文へ",
     "privacy": [
@@ -227,7 +227,7 @@
       ],
       [
         "アカウントと購入",
-        "Supabase がメール、アカウント ID、認証・アクセス記録、商品・取引 ID、購入環境、購入権利、有料ヒント残高、使用リクエスト ID・パズル ID・時刻を処理し、認証・検証・復元と重複消費の防止に使用します。カード情報は収集しません。DB は韓国ソウルに置かれますが、Supabase と再委託先の認証・運用支援は米国など国外でも行われる場合があります。Apple が決済と取引検証を処理します。必要な法的根拠は契約履行、セキュリティ・不正防止の正当な利益、法的義務、任意機能に必要な同意です。"
+        "Supabase がメール、アカウント ID、認証・アクセス記録、商品・取引 ID、購入環境、購入権利、有料ヒント残高、使用リクエスト ID・パズル ID・時刻を処理し、認証・検証・復元と重複消費の防止に使用します。カード情報は収集しません。DB は韓国ソウルに置かれますが、Supabase と再委託先の認証・運用支援は米国など国外でも行われる場合があります。Apple が決済と取引検証を処理します。必要な法的根拠は契約履行、セキュリティ・不正防止の正当な利益、法的義務、任意機能に必要な同意です。 Android では Google Play が決済を処理します。購入・復元時にアプリが Google Play の購入トークンと商品 ID をサーバーへ送信し、サーバーは Google Play Developer API で検証して、商品 ID とトークンの SHA-256 一方向ハッシュ（トークン自体は保存しません）を記録し、1 回だけ付与したうえで Google Play に承認（acknowledge）または消費（consume）を要求します。Google Play の通知や返金・キャンセルの確認により、購入権利とヒント残高が調整される場合があります。"
       ],
       [
         "サーバーでの保有と国外処理",
@@ -303,7 +303,7 @@
     ],
     "tag": "连接岛屿，享受片刻宁静。",
     "intro": "Hashi 官方支持与政策 · Next Studio",
-    "date": "生效／更新日期：2026年9月16日",
+    "date": "生效／更新日期：2026年10月17日",
     "contact": "联系我们",
     "skip": "跳至正文",
     "privacy": [
@@ -325,7 +325,7 @@
       ],
       [
         "账号与购买",
-        "Supabase 会处理邮箱、账号 ID、认证和访问记录、商品及交易 ID、购买环境、已购权益、付费提示余额、使用请求 ID、关卡 ID 和时间，用于认证、购买验证与恢复、防止提示重复扣除。我们不收集银行卡信息。数据库区域为韩国首尔；Supabase 及其分包处理者可能从美国等其他国家提供认证和运维支持。Apple 负责支付及交易验证。需要法律依据时，处理基于履行合同、安全和反欺诈的合法利益、法定义务或可选功能所需的同意。"
+        "Supabase 会处理邮箱、账号 ID、认证和访问记录、商品及交易 ID、购买环境、已购权益、付费提示余额、使用请求 ID、关卡 ID 和时间，用于认证、购买验证与恢复、防止提示重复扣除。我们不收集银行卡信息。数据库区域为韩国首尔；Supabase 及其分包处理者可能从美国等其他国家提供认证和运维支持。Apple 负责支付及交易验证。需要法律依据时，处理基于履行合同、安全和反欺诈的合法利益、法定义务或可选功能所需的同意。 在 Android 上，由 Google Play 处理支付。购买或恢复时，应用会将 Google Play 购买令牌和商品 ID 发送到我们的服务器，服务器通过 Google Play Developer API 验证后，记录商品 ID 和令牌的 SHA-256 单向哈希（不保存令牌原文），仅发放一次，并向 Google Play 确认（acknowledge）或消耗（consume）该购买。Google Play 通知以及退款/取消核查可能会调整您的购买权益和提示余额。"
       ],
       [
         "服务器保留与跨境处理",
@@ -401,7 +401,7 @@
     ],
     "tag": "Conecta islas. Encuentra la calma.",
     "intro": "Asistencia y políticas oficiales de Hashi · Next Studio",
-    "date": "Vigente / actualizado: 16 de septiembre de 2026",
+    "date": "Vigente / actualizado: 17 de octubre de 2026",
     "contact": "Contacto",
     "skip": "Ir al contenido",
     "privacy": [
@@ -423,7 +423,7 @@
       ],
       [
         "Cuentas y compras",
-        "Supabase trata correo, ID de cuenta, registros de autenticación y acceso, IDs de producto y transacción, entorno de compra, derechos adquiridos, saldo de pistas pagadas, ID de solicitud de uso, ID de puzle y hora para autenticar, verificar, recuperar compras y evitar descuentos duplicados de pistas. No recopilamos datos de tarjetas. La base de datos está en Seúl, Corea del Sur; Supabase y sus subencargados pueden prestar apoyo de autenticación y operación desde otros países, incluido EE. UU. Apple procesa pagos y verifica transacciones. Cuando se exige una base jurídica, se aplica la ejecución del contrato, el interés legítimo en seguridad y prevención del fraude, obligaciones legales o el consentimiento para funciones opcionales."
+        "Supabase trata correo, ID de cuenta, registros de autenticación y acceso, IDs de producto y transacción, entorno de compra, derechos adquiridos, saldo de pistas pagadas, ID de solicitud de uso, ID de puzle y hora para autenticar, verificar, recuperar compras y evitar descuentos duplicados de pistas. No recopilamos datos de tarjetas. La base de datos está en Seúl, Corea del Sur; Supabase y sus subencargados pueden prestar apoyo de autenticación y operación desde otros países, incluido EE. UU. Apple procesa pagos y verifica transacciones. Cuando se exige una base jurídica, se aplica la ejecución del contrato, el interés legítimo en seguridad y prevención del fraude, obligaciones legales o el consentimiento para funciones opcionales. En Android, Google Play procesa el pago. Al comprar o restaurar, la app envía a nuestro servidor el token de compra de Google Play y el ID del producto; el servidor los verifica con la API Google Play Developer, guarda el ID del producto y un hash SHA-256 unidireccional del token (no el token), acredita la compra una sola vez y la confirma (acknowledge) o consume en Google Play. Las notificaciones de Google Play y las comprobaciones de reembolso o cancelación pueden ajustar tus derechos y el saldo de pistas."
       ],
       [
         "Conservación en servidor y transferencias",
@@ -499,7 +499,7 @@
     ],
     "tag": "Reliez les îles, prenez une pause.",
     "intro": "Assistance et politiques officielles de Hashi · Next Studio",
-    "date": "Entrée en vigueur / mise à jour : 16 septembre 2026",
+    "date": "Entrée en vigueur / mise à jour : 17 octobre 2026",
     "contact": "Contact",
     "skip": "Aller au contenu",
     "privacy": [
@@ -521,7 +521,7 @@
       ],
       [
         "Comptes et achats",
-        "Supabase traite l’e-mail, l’identifiant du compte, les journaux d’authentification et d’accès, les identifiants de produit et de transaction, l’environnement d’achat, les droits acquis, le solde d’indices payants, l’identifiant de demande d’utilisation, le puzzle et l’heure pour authentifier, vérifier, restaurer et éviter les débits d’indices en double. Nous ne collectons pas les données de carte bancaire. La base est à Séoul, en Corée du Sud ; Supabase et ses sous-traitants peuvent fournir l’assistance d’authentification et d’exploitation depuis d’autres pays, dont les États-Unis. Apple traite les paiements et vérifie les transactions. Les bases juridiques requises sont l’exécution du contrat, l’intérêt légitime de sécurité et de lutte contre la fraude, les obligations légales ou le consentement aux fonctions facultatives."
+        "Supabase traite l’e-mail, l’identifiant du compte, les journaux d’authentification et d’accès, les identifiants de produit et de transaction, l’environnement d’achat, les droits acquis, le solde d’indices payants, l’identifiant de demande d’utilisation, le puzzle et l’heure pour authentifier, vérifier, restaurer et éviter les débits d’indices en double. Nous ne collectons pas les données de carte bancaire. La base est à Séoul, en Corée du Sud ; Supabase et ses sous-traitants peuvent fournir l’assistance d’authentification et d’exploitation depuis d’autres pays, dont les États-Unis. Apple traite les paiements et vérifie les transactions. Les bases juridiques requises sont l’exécution du contrat, l’intérêt légitime de sécurité et de lutte contre la fraude, les obligations légales ou le consentement aux fonctions facultatives. Sur Android, Google Play traite le paiement. Lors d’un achat ou d’une restauration, l’application envoie à notre serveur le jeton d’achat Google Play et l’identifiant du produit ; le serveur les vérifie avec l’API Google Play Developer, enregistre l’identifiant du produit et un hachage SHA-256 à sens unique du jeton (pas le jeton lui-même), crédite l’achat une seule fois, puis le confirme (acknowledge) ou le consomme auprès de Google Play. Les notifications Google Play et les contrôles de remboursement ou d’annulation peuvent ajuster vos droits et votre solde d’indices."
       ],
       [
         "Conservation sur serveur et transferts",
@@ -597,7 +597,7 @@
     ],
     "tag": "Inseln verbinden. Ruhe finden.",
     "intro": "Offizielle Hilfe und Richtlinien für Hashi · Next Studio",
-    "date": "Gültig / aktualisiert am 16. September 2026",
+    "date": "Gültig / aktualisiert am 17. Oktober 2026",
     "contact": "Kontakt",
     "skip": "Zum Inhalt",
     "privacy": [
@@ -619,7 +619,7 @@
       ],
       [
         "Konten und Käufe",
-        "Supabase verarbeitet E-Mail, Konto-ID, Authentifizierungs- und Zugriffsprotokolle, Produkt- und Transaktions-IDs, Kaufumgebung, Berechtigungen, Guthaben gekaufter Hinweise sowie Anfrage-ID, Rätsel-ID und Zeitpunkt des Verbrauchs. Dies dient Anmeldung, Prüfung, Wiederherstellung und dem Schutz vor doppeltem Hinweisabzug. Wir erheben keine Kartendaten. Die Datenbank liegt in Seoul, Südkorea; Supabase und Unterauftragsverarbeiter können Authentifizierungs- und Betriebsleistungen auch aus anderen Ländern einschließlich der USA erbringen. Apple verarbeitet Zahlungen und prüft Transaktionen. Soweit erforderlich, sind die Rechtsgrundlagen Vertragserfüllung, berechtigte Interessen an Sicherheit und Betrugsabwehr, gesetzliche Pflichten oder Einwilligung für freiwillige Funktionen."
+        "Supabase verarbeitet E-Mail, Konto-ID, Authentifizierungs- und Zugriffsprotokolle, Produkt- und Transaktions-IDs, Kaufumgebung, Berechtigungen, Guthaben gekaufter Hinweise sowie Anfrage-ID, Rätsel-ID und Zeitpunkt des Verbrauchs. Dies dient Anmeldung, Prüfung, Wiederherstellung und dem Schutz vor doppeltem Hinweisabzug. Wir erheben keine Kartendaten. Die Datenbank liegt in Seoul, Südkorea; Supabase und Unterauftragsverarbeiter können Authentifizierungs- und Betriebsleistungen auch aus anderen Ländern einschließlich der USA erbringen. Apple verarbeitet Zahlungen und prüft Transaktionen. Soweit erforderlich, sind die Rechtsgrundlagen Vertragserfüllung, berechtigte Interessen an Sicherheit und Betrugsabwehr, gesetzliche Pflichten oder Einwilligung für freiwillige Funktionen. Unter Android wickelt Google Play die Zahlung ab. Beim Kauf oder bei der Wiederherstellung sendet die App das Google-Play-Kauftoken und die Produkt-ID an unseren Server; dieser prüft sie mit der Google Play Developer API, speichert die Produkt-ID und einen einseitigen SHA-256-Hash des Tokens (nicht das Token selbst), schreibt den Kauf nur einmal gut und bestätigt (acknowledge) oder verbraucht (consume) ihn bei Google Play. Google-Play-Benachrichtigungen sowie Erstattungs- und Stornoprüfungen können deine Berechtigungen und das Hinweis-Guthaben anpassen."
       ],
       [
         "Serverspeicherung und internationale Verarbeitung",
@@ -695,7 +695,7 @@
     ],
     "tag": "Conecte ilhas. Encontre sua calma.",
     "intro": "Suporte e políticas oficiais do Hashi · Next Studio",
-    "date": "Vigente / atualizado em 16 de setembro de 2026",
+    "date": "Vigente / atualizado em 17 de outubro de 2026",
     "contact": "Contato",
     "skip": "Ir ao conteúdo",
     "privacy": [
@@ -717,7 +717,7 @@
       ],
       [
         "Contas e compras",
-        "O Supabase trata e-mail, ID da conta, registros de autenticação e acesso, IDs de produto e transação, ambiente de compra, direitos adquiridos, saldo de dicas pagas, ID da solicitação de uso, ID do puzzle e horário para autenticar, verificar, recuperar compras e evitar descontos duplicados de dicas. Não coletamos dados de cartão. O banco fica em Seul, Coreia do Sul; o Supabase e seus suboperadores podem prestar suporte de autenticação e operação a partir de outros países, incluindo os EUA. A Apple processa pagamentos e verifica transações. Quando exigidas, as bases legais são execução de contrato, legítimo interesse em segurança e prevenção a fraudes, obrigações legais ou consentimento para funções opcionais."
+        "O Supabase trata e-mail, ID da conta, registros de autenticação e acesso, IDs de produto e transação, ambiente de compra, direitos adquiridos, saldo de dicas pagas, ID da solicitação de uso, ID do puzzle e horário para autenticar, verificar, recuperar compras e evitar descontos duplicados de dicas. Não coletamos dados de cartão. O banco fica em Seul, Coreia do Sul; o Supabase e seus suboperadores podem prestar suporte de autenticação e operação a partir de outros países, incluindo os EUA. A Apple processa pagamentos e verifica transações. Quando exigidas, as bases legais são execução de contrato, legítimo interesse em segurança e prevenção a fraudes, obrigações legais ou consentimento para funções opcionais. No Android, o Google Play processa o pagamento. Ao comprar ou restaurar, o app envia ao nosso servidor o token de compra do Google Play e o ID do produto; o servidor os verifica com a Google Play Developer API, armazena o ID do produto e um hash SHA-256 unidirecional do token (não o token), credita a compra uma única vez e a confirma (acknowledge) ou consome no Google Play. Notificações do Google Play e verificações de reembolso ou cancelamento podem ajustar seus direitos e o saldo de dicas."
       ],
       [
         "Retenção no servidor e transferências",
