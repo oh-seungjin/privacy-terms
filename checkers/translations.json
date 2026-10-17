@@ -9,7 +9,7 @@
   ],
   "tag": "열세 가지 규칙으로 즐기는 클래식 체커 — 두고, 풀고, 올라가세요.",
   "intro": "체커 공식 지원·정책 · 넥스트 스튜디오",
-  "date": "시행·개정일: 2026년 10월 4일",
+  "date": "시행·개정일: 2026년 10월 17일",
   "contact": "문의",
   "skip": "본문 바로가기",
   "features": [
@@ -18,16 +18,16 @@
    "인터넷 없이 Wi-Fi·블루투스로 가까운 기기와 근처 대결",
    "실시간·비동기 온라인 대전, 친구 코드, 토너먼트, 랭킹",
    "퍼즐 · 일일 미션 · 대국 분석 · PDN 가져오기/내보내기 · 보드 에디터",
-   "프리미엄 구독"
+   "프리미엄 구독 (iOS)"
   ],
   "privacy": [
    [
     "운영자와 적용 범위",
-    "이 방침은 넥스트 스튜디오(대한민국 개인 개발자)가 배포하는 iOS 앱 \"체커\"(번들 ID com.osj.checkers)에 적용됩니다. 문의: dhalska2@gmail.com."
+    "이 방침은 넥스트 스튜디오(대한민국 개인 개발자)가 배포하는 iOS·Android 앱 \"체커\"(iOS 번들 ID 및 Android 패키지 com.osj.checkers)에 적용됩니다. 문의: dhalska2@gmail.com."
    ],
    [
     "계정과 진행 상황",
-    "가입 없이 쓸 수 있도록 앱이 익명 계정을 자동으로 만듭니다. 진행 상황(통계, 업적, 푼 퍼즐, 미션, 설정, 끝나지 않은 대국)은 잃어버리지 않도록 이 계정 기준으로 서버에 저장됩니다. 코인, 힌트·되돌리기 수량, 보유 스킨, 출석 보너스, 일일 무료 횟수, 업적·미션 보상 수령 내역은 서버가 지급·차감하고 기록하며, 앱은 서버가 돌려준 값만 표시합니다. 보상형 광고는 AdMob 서버 검증을 마친 경우에만 한 번씩 인정되며, 이를 위해 계정 식별자와 일회용 토큰이 서버에 전달됩니다. Apple 로그인은 선택 사항이며, Apple이 식별자와 허용한 경우 이메일 주소(비공개 릴레이 주소일 수 있음)를 공유합니다. 이는 여러 기기에서 계정을 알아보는 데만 씁니다. 기존 계정으로 로그인하면 익명 계정의 진행 상황이 그 계정에 병합됩니다."
+    "가입 없이 이용할 수 있으며, 앱이 익명 계정을 자동으로 만듭니다. 진행 상황(통계, 업적, 푼 퍼즐, 미션, 설정, 끝나지 않은 대국)은 잃어버리지 않도록 이 계정에 연결해 서버에 저장합니다. 코인, 힌트, 되돌리기, 보유 스킨, 출석 보너스, 일일 무료 횟수, 받은 업적·미션 보상은 서버가 지급·차감·기록하며 앱은 서버가 돌려준 값만 보여 줍니다. 보상형 광고는 AdMob 서버 검증을 마친 경우에만 한 번 인정되며, 이를 위해 계정 식별자와 일회용 토큰이 서버로 전달됩니다. 로그인은 선택입니다. iOS에서는 Apple로 로그인할 수 있으며 Apple이 식별자와, 허용한 경우 이메일 주소(비공개 릴레이 주소일 수 있음)를 전달합니다. Android에서는 Google 로그인을 쓸 수 있으며 Google 계정 식별자와 이메일 주소만 받고 이름이나 프로필 사진은 요청하지 않습니다. 이 정보는 계정을 만들거나 연결하고 여러 기기에서 알아보는 데만 씁니다. 기존 계정에 로그인하면 익명 계정의 진행 상황이 그 계정으로 합쳐집니다."
    ],
    [
     "온라인 대전, 랭킹, 관전",
@@ -43,7 +43,7 @@
    ],
    [
     "근처 대결(Wi-Fi·블루투스)",
-    "근처 대결은 같은 Wi-Fi 또는 블루투스 LE로 가까운 기기와 인터넷 없이 직접 대국하는 기능입니다. Wi-Fi에서는 로컬 네트워크에서 Bonjour(mDNS)로 방을 알리고 찾으며, 블루투스에서는 광고·검색으로 상대를 찾습니다. 방을 열면 내 닉네임이 주변 기기에 보입니다. 연결되면 닉네임, 아바타, 규칙, 수, 항복·무승부 제안, 이모지 반응을 상대 기기로 직접 보내며, 이 내용은 우리 서버로 전송되지 않습니다. 위치 정보는 사용하지 않습니다. iOS는 처음 쓸 때 블루투스와 로컬 네트워크 접근을 묻고, 허용하지 않아도 다른 기능은 그대로 쓸 수 있으며 iOS 설정에서 바꿀 수 있습니다. 근처 대결은 레이팅, 통계, 미션, 코인 보상에 반영되지 않습니다. 다만 끝난 대국은 모드 \"근처 대결\"의 게임 기록으로 기기에 저장되고, 위 게임 기록 동기화 대상에 포함되어 서버에도 올라갑니다(상대 닉네임 포함). 근처 대결에는 신고·차단 기능이 없습니다."
+    "근처 대결은 같은 Wi-Fi 또는 블루투스 LE로 가까운 기기와 인터넷 없이 직접 대국하는 기능입니다. Wi-Fi에서는 로컬 네트워크에서 Bonjour(mDNS)로 방을 알리고 찾으며, 블루투스에서는 광고·검색으로 상대를 찾습니다. 방을 열면 내 닉네임이 주변 기기에 보입니다. 연결되면 닉네임, 아바타, 규칙, 수, 항복·무승부 제안, 이모지 반응을 상대 기기로 직접 보내며, 이 내용은 우리 서버로 전송되지 않습니다. 위치 정보는 사용하지 않습니다. iOS는 처음 쓸 때 블루투스와 로컬 네트워크 접근을 묻고, 허용하지 않아도 다른 기능은 그대로 쓸 수 있으며 iOS 설정에서 바꿀 수 있습니다. 근처 대결은 레이팅, 통계, 미션, 코인 보상에 반영되지 않습니다. 다만 끝난 대국은 모드 \"근처 대결\"의 게임 기록으로 기기에 저장되고, 위 게임 기록 동기화 대상에 포함되어 서버에도 올라갑니다(상대 닉네임 포함). 근처 대결에는 신고·차단 기능이 없습니다. Android 12 이상에서는 블루투스를 위해 \"근처 기기\" 권한을 요청하며, Android 11 이하에서는 시스템이 블루투스 검색에 위치 권한을 요구하지만 앱은 위치를 읽거나 수집하지 않습니다."
    ],
    [
     "기기 안에서 처리되는 기능",
@@ -51,27 +51,27 @@
    ],
    [
     "구매와 구독",
-    "구매(광고 제거, 테마 팩, 힌트·되돌리기 묶음)와 프리미엄 구독은 Apple이 결제합니다. 결제 정보는 받지 않으며, 구매한 것을 지급·복원하기 위해 거래 ID, 상품, 구독 상태만 저장합니다."
+    "구매는 스토어가 결제하며 카드 등 결제 정보는 저희가 받지 않습니다. iOS에서는 인앱 구매(광고 제거, 테마 팩, 힌트·되돌리기 팩)와 프리미엄 구독을 Apple이 결제하고, 구매한 것을 지급·복원하기 위해 거래 ID, 상품, 구독 상태를 저장합니다. Android에서는 Google Play 결제를 쓰며 일회성 상품(광고 제거, 스킨 팩, 번들, 힌트 팩, 되돌리기 팩)만 판매하고 구독은 없습니다. 앱이 구매 토큰을 서버로 보내면 서버가 Google(Google Play Developer API)에 확인하고, 토큰의 SHA-256 해시와 상품 ID, 상태, 시간만 구매 원장에 저장한 뒤 상품을 지급합니다. 환불·취소된 구매는 Google의 취소된 구매(voided purchases) API와 Google Play 실시간 개발자 알림으로 나중에 대조해 상품을 회수합니다."
    ],
    [
     "알림",
-    "알림을 켠 경우에만 내 차례나 대국 종료를 알려 드리기 위해 푸시 토큰(Firebase Cloud Messaging)을 저장합니다. 앱이나 iOS 설정에서 끌 수 있습니다."
+    "알림을 켠 경우에만(Android 13 이상에서는 알림 권한을 허용한 경우) 푸시 토큰(Firebase Cloud Messaging)을 언어, 시간대, 게임별 알림 설정과 함께 저장해 내 차례가 되었거나 대국이 끝났을 때 알려 드립니다. 앱 또는 iOS·Android 시스템 설정에서 끌 수 있습니다."
    ],
    [
     "광고",
-    "Google AdMob이 비맞춤 광고를 보여 줍니다. 필요한 지역(예: EEA·영국)에서는 광고 전에 Google 동의 양식(UMP)이 표시되며, 설정에서 선택을 바꿀 수 있습니다. 앱은 추적 허용 요청(ATT)을 표시하지 않고, 다른 회사의 앱·웹사이트에 걸쳐 사용자를 추적하지 않으며, 광고 식별자 접근을 요청하지 않습니다. 다만 AdMob은 광고 전달, 노출 빈도 제한, 부정 방지를 위해 기기 정보와 대략적인 위치(IP 기반)를 처리할 수 있습니다. 광고는 인앱 구매로 제거할 수 있습니다."
+    "Google AdMob이 개인 맞춤이 아닌 광고를 보여 줍니다. 필요한 지역(예: EEA, 영국)에서는 광고 전에 Google 동의 양식(UMP)이 표시되고 설정에서 선택을 바꿀 수 있습니다. 앱은 앱 추적 투명성(ATT) 팝업을 띄우지 않으며 다른 회사의 앱·웹사이트에서 사용자를 추적하지 않습니다. iOS에서는 광고 식별자 접근을 요청하지 않습니다. Android에서는 광고를 위해 광고 ID(AD_ID) 권한을 선언하며, 광고는 계속 개인 맞춤이 아니고 광고 ID는 Android 설정에서 재설정·삭제할 수 있습니다. AdMob은 광고 게재, 노출 빈도 제한, 측정, 부정 이용 방지를 위해 기기 정보, 가능한 경우 광고 ID, 대략적인(IP 기반) 위치를 처리할 수 있습니다. 광고는 인앱 구매로 없앨 수 있습니다."
    ],
    [
     "오류 보고",
-    "Firebase Crashlytics가 문제를 고치기 위해 비정상 종료·오류 보고(기기 모델, OS·앱 버전, 기술 로그, 임의 설치 ID)를 수집합니다. 결제 정보는 포함되지 않습니다."
+    "개발 빌드가 아닌 출시(release) 빌드에서만 Firebase Crashlytics가 문제 해결을 위해 비정상 종료·오류 보고(기기 모델, OS·앱 버전, 스택 트레이스와 기술 로그, 무작위 설치 ID)를 수집합니다. 이 보고에는 결제 정보가 없습니다."
    ],
    [
     "서비스 제공자와 저장 위치",
-    "Supabase(데이터베이스·로그인), Apple(Apple 로그인·결제), Google(AdMob 광고, Firebase 알림·오류 보고)은 각자의 개인정보처리방침에 따라 데이터를 처리하며, 서버가 국외에 있을 수 있습니다. 이 페이지는 GitHub Pages에서 제공되며 분석·광고 스크립트를 쓰지 않습니다."
+    "Supabase(데이터베이스·로그인), Apple(Apple로 로그인, App Store 결제), Google(Google 로그인, Google Play 결제, AdMob 광고, Firebase 알림·오류 보고)이 각자의 개인정보 방침에 따라 데이터를 처리하며, 서버는 거주 국가 밖에 있을 수 있습니다. 이 페이지는 GitHub Pages에서 제공되며 분석·광고 스크립트를 쓰지 않습니다."
    ],
    [
     "보관과 삭제",
-    "서버 데이터는 계정이 있는 동안 보관합니다. 앱에서 계정을 삭제하거나 이메일로 요청하면 합리적인 기간 안에 삭제하거나 익명화합니다. 앱을 지우면 기기에 저장된 데이터만 지워집니다."
+    "서버 데이터는 계정이 있는 동안 보관됩니다. 앱(설정 > 계정)에서 계정을 삭제하거나 데이터 삭제 페이지에서 삭제를 요청하면 합리적인 기간 안에 삭제 또는 익명화됩니다. 예외로 최소한의 구매 기록(구매 토큰의 해시, 상품 ID, 상태, 시간이며 이름·이메일은 없음)은 환불 뒤 같은 상품이 중복 지급되는 것을 막고 회계·법령상 의무를 지키기 위해 삭제 후 최대 5년간 보관될 수 있습니다. 앱을 지우면 기기에 저장된 데이터만 사라집니다."
    ],
    [
     "이용자 권리, 아동, 변경",
@@ -81,11 +81,11 @@
   "terms": [
    [
     "서비스",
-    "체커는 컴퓨터 대전, 한 기기 2인 대국, 실시간·비동기 온라인 대전, 친구 코드와 도전, 토너먼트, 랭킹, Wi-Fi·블루투스 근처 대결, 규칙 변형 13종, 퍼즐, 일일 미션, 대국 분석을 제공합니다. 프리미엄 구독은 광고와 일일 제한을 없애고 모든 스킨과 무제한 힌트·되돌리기를 포함합니다."
+    "체커는 컴퓨터 대전, 한 기기 2인 대국, 실시간·비동기 온라인 대전, 친구 코드와 도전, 토너먼트, 랭킹, Wi-Fi·블루투스 근처 대결, 규칙 변형 13종, 퍼즐, 일일 미션, 대국 분석을 제공합니다. 프리미엄 구독은 광고와 일일 제한을 없애고 모든 스킨과 무제한 힌트·되돌리기를 포함합니다. 프리미엄 구독은 iOS에서만 제공됩니다."
    ],
    [
     "구매와 구독",
-    "결제는 Apple을 통해 이뤄집니다. 구독은 현재 기간 종료 최소 24시간 전에 해지하지 않으면 자동으로 갱신되며, Apple ID 설정에서 관리·해지할 수 있습니다. 환불은 Apple 정책을 따릅니다. 코인과 아이템은 현금 가치가 없고 교환할 수 없습니다. Apple 표준 EULA도 적용됩니다."
+    "결제는 스토어를 통해 이뤄집니다(iOS는 Apple, Android는 Google Play). iOS의 프리미엄 구독은 현재 기간 종료 최소 24시간 전에 해지하지 않으면 자동으로 갱신되며 Apple ID 설정에서 관리·해지할 수 있습니다. Android는 일회성 구매만 제공하고 구독은 없습니다. 환불은 Apple 또는 Google Play 정책을 따르며, 환불·취소된 상품은 회수될 수 있습니다. 코인과 아이템은 현금 가치가 없고 교환할 수 없습니다. iOS에서는 Apple 표준 EULA도 적용됩니다."
    ],
    [
     "공정한 플레이와 행동",
@@ -111,29 +111,37 @@
    ],
    [
     "근처 대결 문제 해결",
-    "두 기기 모두 게임 시작에서 근처 대결을 고르고, 한쪽이 방을 열고 다른 쪽이 참가합니다. Wi-Fi는 같은 네트워크여야 하고, 블루투스는 켜져 있어야 합니다. 연결되지 않으면 iOS 설정 > 체커에서 블루투스와 로컬 네트워크가 허용되어 있는지 확인하고 두 기기를 가까이 두세요."
+    "두 기기 모두 게임 시작에서 근처 대결을 고르고, 한쪽이 방을 열고 다른 쪽이 참가합니다. Wi-Fi는 같은 네트워크여야 하고, 블루투스는 켜져 있어야 합니다. 연결되지 않으면 iOS 설정 > 체커에서 블루투스와 로컬 네트워크가 허용되어 있는지 확인하고 두 기기를 가까이 두세요. Android에서는 설정 > 앱 > 체커 > 권한에서 근처 기기가 허용되어 있는지 확인하세요."
    ],
    [
     "진행 상황, 구매, 동기화",
-    "진행 상황은 계정에 자동 저장됩니다. 상점의 구매 복원으로 구매한 것을 되찾고, 설정에서 Apple로 로그인하면 다른 기기에서 이어서 할 수 있습니다."
+    "진행 상황은 계정에 자동 저장됩니다. 상점의 구매 복원으로 구매한 것을 되찾고, 설정에서 로그인(iOS는 Apple, Android는 Google)하면 다른 기기에서 이어서 할 수 있습니다."
    ],
    [
     "문의 방법",
-    "메일 제목에 \"체커\"를 넣고 앱 버전, 기기와 iOS 버전, 문제가 생긴 순서를 알려 주세요. 구매 문제는 Apple 영수증이 있으면 더 빨리 답해 드릴 수 있습니다."
+    "메일 제목에 \"체커\"를 넣고 앱 버전, 기기와 iOS 또는 Android 버전, 문제가 생긴 순서를 알려 주세요. 구매 문제는 Apple 영수증이나 Google Play 주문 번호가 있으면 더 빨리 답해 드릴 수 있습니다."
    ]
   ],
   "delete-account": [
    [
     "앱에서 삭제",
-    "Apple로 로그인한 경우: 설정 > 계정 > 계정 삭제. 진행 상황, 랭킹, 닉네임, 구매 권한, 코인, 남은 유료 힌트·되돌리기, 친구와 친구 코드, 도전 내역, 서버에 동기화된 게임 기록, 토너먼트 참가 기록, 푸시 토큰이 영구 삭제되고 진행 중인 온라인 대국은 종료됩니다. App Store 결제는 환불되지 않습니다."
+    "설정 > 계정 > 계정 삭제를 누르세요(Apple 또는 Google로 다시 확인을 요청할 수 있습니다). 진행 상황, 랭킹, 닉네임, 구매 권한, 코인, 남은 유료 힌트·되돌리기, 친구와 친구 코드, 도전 기록, 서버에 동기화된 대국 기록, 토너먼트 참가 기록, 푸시 토큰이 영구 삭제되고 진행 중인 온라인 대국은 종료됩니다. App Store나 Google Play 결제는 환불되지 않습니다."
    ],
    [
-    "이메일로 요청",
-    "Apple 로그인 없이 쓰는 경우 제목을 \"체커 데이터 삭제\"로 하여 dhalska2@gmail.com로 계정을 확인할 수 있는 정보(예: 닉네임)를 보내 주세요. 합리적인 기간 안에 서버 데이터를 삭제합니다."
+    "웹에서 요청(앱 설치 불필요)",
+    "앱을 설치하지 않아도 삭제를 요청할 수 있습니다. 제목을 \"체커 데이터 삭제\"로 하여 dhalska2@gmail.com로 메일을 보내고, 앱 이름(체커, com.osj.checkers)과 개발사(넥스트 스튜디오 / Next Studio)를 적어 주세요. 로그인 방식(Apple, Google, 익명)과 아래 정보도 알려 주세요. 회신으로 확인한 뒤 합리적인 기간 안에, 보통 30일 이내에 서버의 체커 데이터를 삭제합니다."
+   ],
+   [
+    "본인 확인 방법",
+    "로그인한 계정이라면 그 Apple 또는 Google 계정의 이메일 주소로 보내시거나 그 주소를 알려 주세요. 익명 계정이라면 계정 주인만 앱에서 볼 수 있는 정보(닉네임, 친구 코드, 국가, 레이팅)를 알려 주세요. 비밀번호, 일회용 코드, 카드 번호는 절대 요청하지 않습니다. 요청을 계정과 맞춰 볼 수 없으면 회신으로 추가 정보를 요청드립니다."
+   ],
+   [
+    "삭제되는 정보와 보관되는 정보",
+    "삭제: \"앱에서 삭제\"에 적힌 모든 정보. 보관: 최소한의 구매 기록(구매 토큰의 해시, 상품 ID, 상태, 시간이며 이름·이메일은 없음)을 환불 뒤 중복 지급 방지와 회계·법령상 의무를 위해 최대 5년간 보관합니다. 로그인 계정은 넥스트 스튜디오의 다른 게임과 공용일 수 있어 이 요청은 체커 데이터만 삭제합니다. 계정 전체 삭제를 원하면 메일에 적어 주세요."
    ],
    [
     "기기의 데이터",
-    "기기에 저장된 데이터(게임 기록 사본 등)는 앱을 삭제(\"앱 정리하기\"가 아닌 \"앱 삭제\")하면 지워집니다. 근처 대결에서 상대 기기로 전달된 닉네임과 수는 상대 기기에 남을 수 있어 우리가 지울 수 없습니다."
+    "기기에 저장된 데이터(대국 기록의 로컬 사본 등)는 앱을 삭제하면 사라집니다(iOS는 \"앱 오프로드\"가 아닌 \"앱 삭제\"). 근처 대결 중 상대 기기로 전달된 닉네임과 수는 그 기기에 남을 수 있으며 저희가 삭제할 수 없습니다."
    ]
   ]
  },
@@ -147,7 +155,7 @@
   ],
   "tag": "Classic checkers in 13 rule variants — play, solve and climb.",
   "intro": "Checkers official support & policies · Next Studio",
-  "date": "Effective / Updated: October 4, 2026",
+  "date": "Effective / Updated: October 17, 2026",
   "contact": "Contact",
   "skip": "Skip to content",
   "features": [
@@ -156,16 +164,16 @@
    "Nearby play over Wi-Fi or Bluetooth, no internet needed",
    "Live and async online play, friend codes, tournaments and rankings",
    "Puzzles · daily missions · game analysis · PDN import/export · board editor",
-   "Premium subscription"
+   "Premium subscription (iOS)"
   ],
   "privacy": [
    [
     "Operator and scope",
-    "This policy applies to the iOS app \"Checkers\" (bundle ID com.osj.checkers), published by Next Studio, an individual developer based in South Korea. Contact: dhalska2@gmail.com."
+    "This policy applies to the iOS and Android app \"Checkers\" (iOS bundle ID and Android package com.osj.checkers), published by Next Studio, an individual developer based in South Korea. Contact: dhalska2@gmail.com."
    ],
    [
     "Account and progress",
-    "No sign-up is needed: the app automatically creates an anonymous account. Your progress (stats, achievements, solved puzzles, missions, settings and an unfinished game) is saved on our server against that account so it is not lost. Coins, hints, undos, owned skins, attendance bonuses, daily free uses and claimed achievement and mission rewards are granted, deducted and recorded by the server; the app only shows the values the server returns. A rewarded ad counts once and only after AdMob server-side verification, for which your account identifier and a one-time token are passed to our server. Signing in with Apple is optional; Apple shares an identifier and, if you allow it, an email address (which may be a private relay address), used only to recognise your account on your devices. When you sign in to an existing account, the progress of the anonymous account is merged into it."
+    "No sign-up is needed: the app automatically creates an anonymous account. Your progress (stats, achievements, solved puzzles, missions, settings and an unfinished game) is saved on our server against that account so it is not lost. Coins, hints, undos, owned skins, attendance bonuses, daily free uses and claimed achievement and mission rewards are granted, deducted and recorded by the server; the app only shows the values the server returns. A rewarded ad counts once and only after AdMob server-side verification, for which your account identifier and a one-time token are passed to our server. Signing in is optional. On iOS you can use Sign in with Apple: Apple shares an identifier and, if you allow it, an email address (which may be a private relay address). On Android you can use Google Sign-In: we receive only your Google account identifier and email address, and we do not request your name or profile photo. These are used only to create or link your account and recognise it on your devices. When you sign in to an existing account, the progress of the anonymous account is merged into it."
    ],
    [
     "Online play, rankings and spectating",
@@ -181,7 +189,7 @@
    ],
    [
     "Nearby play (Wi-Fi and Bluetooth)",
-    "Nearby play lets you play a device close to you directly, without internet, over the same Wi-Fi or Bluetooth LE. On Wi-Fi the room is announced and found on the local network with Bonjour (mDNS); on Bluetooth the opponent is found by advertising and scanning. While you host, your nickname is visible to nearby devices. Once connected, your nickname, avatar, rules, moves, resign and draw offers and emoji reactions go straight to the other device and are not sent to our servers. The app does not use your location. iOS asks for Bluetooth and local network access the first time; the rest of the app works if you decline, and you can change it in iOS Settings. Nearby games do not count toward rating, stats, missions or coin rewards. However, a finished game is saved on your device as a game record with the mode “nearby” and is included in the game record sync above, so it is also uploaded to our server (with the opponent’s nickname). Nearby play has no report or block function."
+    "Nearby play lets you play a device close to you directly, without internet, over the same Wi-Fi or Bluetooth LE. On Wi-Fi the room is announced and found on the local network with Bonjour (mDNS); on Bluetooth the opponent is found by advertising and scanning. While you host, your nickname is visible to nearby devices. Once connected, your nickname, avatar, rules, moves, resign and draw offers and emoji reactions go straight to the other device and are not sent to our servers. The app does not use your location. iOS asks for Bluetooth and local network access the first time; the rest of the app works if you decline, and you can change it in iOS Settings. Nearby games do not count toward rating, stats, missions or coin rewards. However, a finished game is saved on your device as a game record with the mode “nearby” and is included in the game record sync above, so it is also uploaded to our server (with the opponent’s nickname). Nearby play has no report or block function. On Android 12 and later the app asks for the \"Nearby devices\" permission for Bluetooth; on Android 11 and earlier the system requires the location permission for Bluetooth scanning, but the app does not read or collect your location."
    ],
    [
     "Features processed on your device",
@@ -189,27 +197,27 @@
    ],
    [
     "Purchases and subscriptions",
-    "Purchases (remove ads, theme pack, hint and undo packs) and the Premium subscription are billed by Apple. We never receive your payment details; we store the transaction ID, product and subscription status to grant and restore what you bought."
+    "Purchases are billed by the store, and we never receive your card or other payment details. On iOS, in-app purchases (remove ads, theme pack, hint and undo packs) and the Premium subscription are billed by Apple; we store the transaction ID, product and subscription status to grant and restore what you bought. On Android, purchases go through Google Play Billing and only one-time items are offered (remove ads, skin pack, bundle, hint packs and undo packs); there are no subscriptions on Android. The app sends the purchase token to our server, which checks it with Google (Google Play Developer API), stores only a SHA-256 hash of the token with the product ID, status and time in a purchase ledger, and grants the item. Refunded or cancelled purchases are reconciled later through Google's voided purchases API and Google Play real-time developer notifications, and the item is taken back."
    ],
    [
     "Notifications",
-    "Only if you turn on notifications is a push token (Firebase Cloud Messaging) stored, to tell you when it is your turn or a game has ended. You can turn this off in the app or in iOS Settings."
+    "Only if you turn on notifications (on Android 13 and later, by allowing the notification permission) is a push token (Firebase Cloud Messaging) stored together with your language, time zone and per-game notification settings, to tell you when it is your turn or a game has ended. You can turn this off in the app or in the system settings of iOS or Android."
    ],
    [
     "Ads",
-    "Google AdMob shows non-personalized ads. Where required (for example the EEA and UK), a Google consent form (UMP) is shown before ads and you can change your choice in Settings. The app does not show an App Tracking Transparency prompt, does not track you across other companies’ apps or websites and does not ask for access to the advertising identifier. AdMob may still process device information and an approximate (IP-based) location to deliver ads, limit how often they appear and prevent fraud. Ads can be removed with an in-app purchase."
+    "Google AdMob shows non-personalized ads. Where required (for example the EEA and UK), a Google consent form (UMP) is shown before ads and you can change your choice in Settings. The app does not show an App Tracking Transparency prompt and does not track you across other companies' apps or websites. On iOS it does not ask for access to the advertising identifier. On Android the app declares the advertising ID (AD_ID) permission for ads; ads stay non-personalized, and you can reset or delete the advertising ID in Android settings. AdMob may still process device information, the advertising ID where available and an approximate (IP-based) location to deliver ads, limit how often they appear, measure them and prevent fraud. Ads can be removed with an in-app purchase."
    ],
    [
     "Crash reports",
-    "Firebase Crashlytics collects crash and error reports (device model, OS and app version, technical logs and a random installation ID) so we can fix problems. These reports contain no payment details."
+    "In release builds only (not in development builds), Firebase Crashlytics collects crash and error reports (device model, OS and app version, stack traces and technical logs, and a random installation ID) so we can fix problems. These reports contain no payment details."
    ],
    [
     "Service providers and storage",
-    "Supabase (database and sign-in), Apple (Sign in with Apple and payments) and Google (AdMob ads, Firebase notifications and crash reports) process data under their own privacy policies; their servers may be located outside your country. These pages are hosted on GitHub Pages and use no analytics or advertising scripts."
+    "Supabase (database and sign-in), Apple (Sign in with Apple and App Store payments) and Google (Google Sign-In, Google Play billing, AdMob ads, Firebase notifications and crash reports) process data under their own privacy policies; their servers may be located outside your country. These pages are hosted on GitHub Pages and use no analytics or advertising scripts."
    ],
    [
     "Retention and deletion",
-    "Server data is kept while your account exists. When you delete your account in the app or ask us by email, it is deleted or anonymized within a reasonable time. Deleting the app removes only the data stored on the device."
+    "Server data is kept while your account exists. When you delete your account in the app (Settings > Account) or request deletion on the Delete Data page, it is deleted or anonymized within a reasonable time. Exception: a minimal purchase record (the hash of the purchase token, product ID, status and time, with no name or email) may be kept for up to 5 years after deletion to prevent items from being granted twice after a refund and to meet accounting and legal duties. Deleting the app removes only the data stored on the device."
    ],
    [
     "Your rights, children and changes",
@@ -219,11 +227,11 @@
   "terms": [
    [
     "Service",
-    "Checkers offers computer play, two players on one device, live and async online play, friend codes and challenges, tournaments, rankings, nearby play over Wi-Fi or Bluetooth, 13 rule variants, puzzles, daily missions and game analysis. The Premium subscription removes ads and daily limits and includes all skins and unlimited hints and undos."
+    "Checkers offers computer play, two players on one device, live and async online play, friend codes and challenges, tournaments, rankings, nearby play over Wi-Fi or Bluetooth, 13 rule variants, puzzles, daily missions and game analysis. The Premium subscription removes ads and daily limits and includes all skins and unlimited hints and undos. The Premium subscription is offered on iOS only."
    ],
    [
     "Purchases and subscriptions",
-    "Payments are made through Apple. Subscriptions renew automatically unless cancelled at least 24 hours before the end of the current period; manage or cancel them in your Apple ID settings. Refunds follow Apple's policies. Coins and items have no cash value and cannot be exchanged. The Apple Standard EULA also applies."
+    "Payments are made through the store: Apple on iOS and Google Play on Android. On iOS, Premium subscriptions renew automatically unless cancelled at least 24 hours before the end of the current period; manage or cancel them in your Apple ID settings. Android offers one-time purchases only and no subscriptions. Refunds follow the policies of Apple or Google Play, and an item that was refunded or cancelled may be taken back. Coins and items have no cash value and cannot be exchanged. On iOS the Apple Standard EULA also applies."
    ],
    [
     "Fair play and conduct",
@@ -249,29 +257,37 @@
    ],
    [
     "Troubleshooting nearby play",
-    "On both devices choose nearby play under Start game; one hosts and the other joins. Wi-Fi needs the same network, and Bluetooth must be on. If they cannot connect, check in iOS Settings > Checkers that Bluetooth and Local Network are allowed, and keep the devices close."
+    "On both devices choose nearby play under Start game; one hosts and the other joins. Wi-Fi needs the same network, and Bluetooth must be on. If they cannot connect, check in iOS Settings > Checkers that Bluetooth and Local Network are allowed, and keep the devices close. On Android, check in Settings > Apps > Checkers > Permissions that Nearby devices is allowed."
    ],
    [
     "Progress, purchases and sync",
-    "Progress is saved to your account automatically. Use Restore Purchases in the Shop to get your purchases back, and sign in with Apple in Settings to continue on another device."
+    "Progress is saved to your account automatically. Use Restore Purchases in the Shop to get your purchases back, and sign in in Settings (Apple on iOS, Google on Android) to continue on another device."
    ],
    [
     "Contacting us",
-    "Put \"Checkers\" in the email subject and tell us the app version, your device and iOS version, and the steps that led to the problem. For purchase issues, the Apple receipt helps us answer faster."
+    "Put \"Checkers\" in the email subject and tell us the app version, your device and its iOS or Android version, and the steps that led to the problem. For purchase issues, the Apple receipt or Google Play order number helps us answer faster."
    ]
   ],
   "delete-account": [
    [
     "Delete in the app",
-    "If you signed in with Apple: Settings > Account > Delete account. Your progress, ranking, nickname, purchase entitlements, coins, remaining paid hints and undos, friends and friend code, challenge history, game records synced to the server, tournament entries and push token are permanently deleted, and online games in progress are ended. App Store payments are not refunded."
+    "Open Settings > Account > Delete account (you may be asked to confirm with Apple or Google). Your progress, ranking, nickname, purchase entitlements, coins, remaining paid hints and undos, friends and friend code, challenge history, game records synced to the server, tournament entries and push token are permanently deleted, and online games in progress are ended. Payments to the App Store or Google Play are not refunded."
    ],
    [
-    "Request by email",
-    "Without Apple sign-in, email dhalska2@gmail.com with the subject \"Checkers Data Deletion\" and details that identify your account (for example your nickname). We delete the server data within a reasonable time."
+    "Request on the web (no app needed)",
+    "You can request deletion without installing the app. Email dhalska2@gmail.com with the subject \"Checkers Data Deletion\", naming the app (Checkers, com.osj.checkers) and the developer (Next Studio). Tell us how you signed in (Apple, Google or anonymous) and the details below. We confirm by reply and delete the Checkers data on our server within a reasonable time, normally within 30 days."
+   ],
+   [
+    "How we verify who you are",
+    "If you signed in, send the request from the email address of that Apple or Google account, or tell us that address. For an anonymous account, give details only the account holder can see in the app (nickname, friend code, country and rating). We never ask for passwords, one-time codes or card numbers. If we cannot match the request to an account, we will reply and ask for more details."
+   ],
+   [
+    "What is deleted and what is kept",
+    "Deleted: everything listed under \"Delete in the app\". Kept: a minimal purchase record (hash of the purchase token, product ID, status and time, without name or email) for up to 5 years to prevent duplicate grants after refunds and to meet accounting and legal duties. Your sign-in account may be shared with other Next Studio games; this request removes only Checkers data, so tell us in the email if you want the whole account removed."
    ],
    [
     "Data on the device",
-    "Data stored on the device (such as local copies of game records) is removed when you delete the app (“Delete App”, not “Offload App”). The nickname and moves sent to another device during nearby play may remain on that device and we cannot delete them."
+    "Data stored on the device (such as local copies of game records) is removed when you uninstall the app (on iOS \"Delete App\", not \"Offload App\"). The nickname and moves sent to another device during nearby play may remain on that device and we cannot delete them."
    ]
   ]
  },
@@ -285,7 +301,7 @@
   ],
   "tag": "13のルールで遊ぶクラシックなチェッカー — 指して、解いて、上を目指そう。",
   "intro": "チェッカー公式サポート・ポリシー · Next Studio",
-  "date": "施行・改定日：2026年10月4日",
+  "date": "施行・改定日：2026年10月17日",
   "contact": "お問い合わせ",
   "skip": "本文へ移動",
   "features": [
@@ -294,16 +310,16 @@
    "インターネット不要のWi-Fi・Bluetooth近距離対戦",
    "リアルタイム・非同期オンライン対戦、フレンドコード、トーナメント、ランキング",
    "パズル · デイリーミッション · 対局解析 · PDN入出力 · 盤面エディタ",
-   "プレミアムサブスクリプション"
+   "プレミアムサブスクリプション（iOS）"
   ],
   "privacy": [
    [
     "運営者と適用範囲",
-    "本ポリシーは、Next Studio（韓国の個人開発者）が配信するiOSアプリ「チェッカー」（バンドルID com.osj.checkers）に適用されます。お問い合わせ：dhalska2@gmail.com。"
+    "本ポリシーは、Next Studio（韓国の個人開発者）が配信するiOS／Androidアプリ「チェッカー」（iOSのバンドルIDおよびAndroidのパッケージ com.osj.checkers）に適用されます。お問い合わせ：dhalska2@gmail.com。"
    ],
    [
     "アカウントと進行状況",
-    "登録なしで使えるよう、アプリが匿名アカウントを自動で作成します。進行状況（統計、実績、解いたパズル、ミッション、設定、未完の対局）は失われないよう、このアカウントに紐づけてサーバーに保存されます。コイン、ヒント・取り消しの数、所持スキン、ログインボーナス、1日の無料回数、実績・ミッション報酬の受け取り履歴はサーバーが付与・消費・記録し、アプリはサーバーが返した値だけを表示します。リワード広告はAdMobのサーバー検証を終えたものだけが1回ずつ認められ、そのためアカウント識別子と使い捨てトークンがサーバーに送られます。Appleでサインインは任意で、Appleは識別子と、許可した場合はメールアドレス（非公開リレーアドレスの場合あり）を共有します。これは端末間でアカウントを識別するためにのみ使います。既存のアカウントにサインインすると、匿名アカウントの進行状況がそのアカウントに統合されます。"
+    "登録なしで利用でき、アプリが匿名アカウントを自動で作成します。進行状況（統計、実績、解いたパズル、ミッション、設定、未完了の対局）は失われないよう、このアカウントに紐づけてサーバーに保存されます。コイン、ヒント、待った、所有スキン、出席ボーナス、1日の無料回数、受け取った実績・ミッション報酬はサーバーが付与・消費・記録し、アプリはサーバーが返した値を表示するだけです。リワード広告はAdMobのサーバー側検証が済んだ場合にのみ1回として扱われ、そのためにアカウント識別子と使い捨てトークンがサーバーに送られます。サインインは任意です。iOSではAppleでサインインでき、Appleが識別子と（許可した場合は）メールアドレス（非公開リレーアドレスの場合あり）を共有します。AndroidではGoogleログインを使え、受け取るのはGoogleアカウント識別子とメールアドレスのみで、氏名やプロフィール写真は求めません。これらはアカウントの作成・連携と、複数の端末での本人確認にのみ使います。既存のアカウントにサインインすると、匿名アカウントの進行状況がそのアカウントに統合されます。"
    ],
    [
     "オンライン対戦、ランキング、観戦",
@@ -319,7 +335,7 @@
    ],
    [
     "近距離対戦（Wi-Fi・Bluetooth）",
-    "近距離対戦は、同じWi-FiまたはBluetooth LEで近くの端末とインターネットなしで直接対局する機能です。Wi-Fiではローカルネットワーク上でBonjour（mDNS）により部屋を告知・検索し、Bluetoothでは広告とスキャンで相手を探します。部屋を開いている間、ニックネームが周囲の端末に見えます。接続後は、ニックネーム、アバター、ルール、手、投了・引き分け提案、絵文字リアクションが相手の端末に直接送られ、当社のサーバーには送信されません。位置情報は使いません。iOSは初回にBluetoothとローカルネットワークへのアクセスを尋ねます。許可しなくてもほかの機能は使え、iOSの設定で変更できます。近距離対戦はレーティング、統計、ミッション、コイン報酬に反映されません。ただし終了した対局はモード「近距離」の対局記録として端末に保存され、上記の対局記録の同期の対象となってサーバーにもアップロードされます（相手のニックネームを含む）。近距離対戦には通報・ブロック機能はありません。"
+    "近距離対戦は、同じWi-FiまたはBluetooth LEで近くの端末とインターネットなしで直接対局する機能です。Wi-Fiではローカルネットワーク上でBonjour（mDNS）により部屋を告知・検索し、Bluetoothでは広告とスキャンで相手を探します。部屋を開いている間、ニックネームが周囲の端末に見えます。接続後は、ニックネーム、アバター、ルール、手、投了・引き分け提案、絵文字リアクションが相手の端末に直接送られ、当社のサーバーには送信されません。位置情報は使いません。iOSは初回にBluetoothとローカルネットワークへのアクセスを尋ねます。許可しなくてもほかの機能は使え、iOSの設定で変更できます。近距離対戦はレーティング、統計、ミッション、コイン報酬に反映されません。ただし終了した対局はモード「近距離」の対局記録として端末に保存され、上記の対局記録の同期の対象となってサーバーにもアップロードされます（相手のニックネームを含む）。近距離対戦には通報・ブロック機能はありません。 Android 12以降ではBluetooth用に「付近のデバイス」権限を求めます。Android 11以前ではBluetoothスキャンのためにOSが位置情報権限を要求しますが、アプリは位置情報を読み取りも収集もしません。"
    ],
    [
     "端末内で処理される機能",
@@ -327,27 +343,27 @@
    ],
    [
     "購入とサブスクリプション",
-    "購入（広告削除、テーマパック、ヒント・やり直しパック）とプレミアムサブスクリプションはAppleが決済します。支払い情報は受け取らず、購入したものを付与・復元するため取引ID、商品、サブスクリプションの状態のみ保存します。"
+    "購入はストアが決済し、カード等の支払い情報を当方が受け取ることはありません。iOSではアプリ内課金（広告削除、テーマパック、ヒント・待ったパック）とプレミアムサブスクリプションをAppleが決済し、購入内容の付与・復元のため取引ID、商品、サブスクリプションの状態を保存します。AndroidではGoogle Play課金を使い、買い切り商品（広告削除、スキンパック、バンドル、ヒントパック、待ったパック）のみを提供し、サブスクリプションはありません。アプリが購入トークンをサーバーに送ると、サーバーがGoogle（Google Play Developer API）で確認し、トークンのSHA-256ハッシュと商品ID、状態、時刻のみを購入台帳に保存して商品を付与します。返金・キャンセルされた購入は、Googleの取り消された購入（voided purchases）APIとGoogle Playのリアルタイム開発者通知で後から照合し、商品を取り消します。"
    ],
    [
     "通知",
-    "通知をオンにした場合のみ、自分の手番や対局終了をお知らせするためプッシュトークン（Firebase Cloud Messaging）を保存します。アプリまたはiOSの設定でオフにできます。"
+    "通知をオンにした場合のみ（Android 13以降は通知権限を許可した場合）、プッシュトークン（Firebase Cloud Messaging）を言語、タイムゾーン、ゲームごとの通知設定とともに保存し、自分の番や対局終了をお知らせします。アプリまたはiOS・Androidのシステム設定でオフにできます。"
    ],
    [
     "広告",
-    "Google AdMobがパーソナライズされていない広告を表示します。必要な地域（EEA・英国など）では広告の前にGoogleの同意フォーム（UMP）が表示され、設定で選択を変更できます。アプリはApp Tracking Transparencyの確認を表示せず、他社のアプリやウェブサイトをまたいでユーザーを追跡せず、広告識別子へのアクセスを求めません。ただしAdMobは広告配信、表示頻度の制限、不正防止のため端末情報とおおよその位置（IPベース）を処理する場合があります。広告はアプリ内購入で削除できます。"
+    "Google AdMobがパーソナライズされていない広告を表示します。必要な地域（例：EEA、英国）では広告の前にGoogleの同意フォーム（UMP）が表示され、設定で選択を変更できます。アプリはApp Tracking Transparencyのプロンプトを表示せず、他社のアプリやウェブサイトをまたいで追跡しません。iOSでは広告識別子へのアクセスを求めません。Androidでは広告のため広告ID（AD_ID）権限を宣言しますが、広告は引き続きパーソナライズされず、広告IDはAndroidの設定でリセット・削除できます。AdMobは広告の配信、表示頻度の制限、計測、不正防止のため、端末情報、利用可能な場合は広告ID、おおよその（IPベースの）位置情報を処理することがあります。広告はアプリ内課金で削除できます。"
    ],
    [
     "クラッシュレポート",
-    "Firebase Crashlyticsが問題の修正のためにクラッシュ・エラーレポート（端末モデル、OS・アプリのバージョン、技術ログ、ランダムなインストールID）を収集します。支払い情報は含まれません。"
+    "開発用ビルドではなくリリースビルドでのみ、Firebase Crashlyticsが問題修正のためクラッシュ・エラーレポート（端末モデル、OSとアプリのバージョン、スタックトレースと技術ログ、ランダムなインストールID）を収集します。これらのレポートに支払い情報は含まれません。"
    ],
    [
     "サービス提供者と保存場所",
-    "Supabase（データベース・サインイン）、Apple（Appleでサインイン・決済）、Google（AdMob広告、Firebase通知・クラッシュレポート）はそれぞれのプライバシーポリシーに従ってデータを処理し、サーバーは国外にある場合があります。このページはGitHub Pagesで提供され、解析・広告スクリプトは使用していません。"
+    "Supabase（データベースとサインイン）、Apple（Appleでサインイン、App Store決済）、Google（Googleログイン、Google Play課金、AdMob広告、Firebase通知・クラッシュレポート）が、それぞれのプライバシーポリシーに従ってデータを処理します。サーバーはお住まいの国の外にある場合があります。本ページはGitHub Pagesで提供され、解析・広告スクリプトは使用していません。"
    ],
    [
     "保存と削除",
-    "サーバーのデータはアカウントが存在する間保存します。アプリでアカウントを削除するかメールで依頼すると、合理的な期間内に削除または匿名化します。アプリを削除すると端末に保存されたデータのみ消去されます。"
+    "サーバーのデータはアカウントが存在する間保管されます。アプリ（設定 > アカウント）でアカウントを削除するか、データ削除ページで削除を依頼すると、合理的な期間内に削除または匿名化されます。例外として、最小限の購入記録（購入トークンのハッシュ、商品ID、状態、時刻。氏名・メールは含まない）は、返金後の二重付与を防ぎ会計・法令上の義務を果たすため、削除後最長5年間保管されることがあります。アプリを削除すると端末内のデータのみが消えます。"
    ],
    [
     "利用者の権利、子ども、変更",
@@ -357,11 +373,11 @@
   "terms": [
    [
     "サービス",
-    "チェッカーは、コンピューター対戦、1台で2人対戦、リアルタイム・非同期オンライン対戦、フレンドコードとチャレンジ、トーナメント、ランキング、Wi-Fi・Bluetoothの近距離対戦、13のルール、パズル、デイリーミッション、対局解析を提供します。プレミアムサブスクリプションは広告と1日の制限をなくし、すべてのスキンと無制限のヒント・取り消しを含みます。"
+    "チェッカーは、コンピューター対戦、1台で2人対戦、リアルタイム・非同期オンライン対戦、フレンドコードとチャレンジ、トーナメント、ランキング、Wi-Fi・Bluetoothの近距離対戦、13のルール、パズル、デイリーミッション、対局解析を提供します。プレミアムサブスクリプションは広告と1日の制限をなくし、すべてのスキンと無制限のヒント・取り消しを含みます。 プレミアムサブスクリプションはiOSのみで提供されます。"
    ],
    [
     "購入とサブスクリプション",
-    "支払いはAppleを通じて行われます。サブスクリプションは現在の期間終了の24時間前までに解約しない限り自動更新され、Apple IDの設定で管理・解約できます。返金はAppleのポリシーに従います。コインとアイテムに現金価値はなく、交換できません。Apple標準EULAも適用されます。"
+    "決済はストア（iOSはApple、AndroidはGoogle Play）を通じて行われます。iOSのプレミアムサブスクリプションは、現在の期間が終了する24時間前までに解約しない限り自動更新され、Apple IDの設定で管理・解約できます。Androidでは買い切りのみで、サブスクリプションはありません。返金はAppleまたはGoogle Playのポリシーに従い、返金・キャンセルされた商品は取り消されることがあります。コインとアイテムに現金価値はなく、交換できません。iOSではAppleの標準EULAも適用されます。"
    ],
    [
     "公正なプレイと行動",
@@ -387,29 +403,37 @@
    ],
    [
     "近距離対戦のトラブル対処",
-    "両方の端末でゲーム開始から近距離対戦を選び、一方が部屋を開き、もう一方が参加します。Wi-Fiは同じネットワークが必要で、Bluetoothはオンにしておく必要があります。つながらない場合は、iOS設定 > チェッカーでBluetoothとローカルネットワークが許可されているか確認し、端末を近づけてください。"
+    "両方の端末でゲーム開始から近距離対戦を選び、一方が部屋を開き、もう一方が参加します。Wi-Fiは同じネットワークが必要で、Bluetoothはオンにしておく必要があります。つながらない場合は、iOS設定 > チェッカーでBluetoothとローカルネットワークが許可されているか確認し、端末を近づけてください。 Androidでは、設定 > アプリ > チェッカー > 権限で「付近のデバイス」が許可されているか確認してください。"
    ],
    [
     "進行状況、購入、同期",
-    "進行状況はアカウントに自動保存されます。ショップの「購入を復元」で購入したものを戻し、設定でAppleでサインインすると別の端末で続きができます。"
+    "進行状況はアカウントに自動保存されます。ショップの購入の復元で購入したものを取り戻せ、設定でサインイン（iOSはApple、AndroidはGoogle）すると別の端末で続きから遊べます。"
    ],
    [
     "お問い合わせ方法",
-    "メールの件名に「チェッカー」と入れ、アプリのバージョン、端末とiOSのバージョン、問題が起きた手順をお知らせください。購入の問題はAppleの領収書があると早く回答できます。"
+    "メールの件名に「チェッカー」を入れ、アプリのバージョン、端末とiOSまたはAndroidのバージョン、問題が起きた手順をお知らせください。購入の問題はAppleのレシートまたはGoogle Playの注文番号があると早くお答えできます。"
    ]
   ],
   "delete-account": [
    [
     "アプリで削除",
-    "Appleでサインインしている場合：設定 > アカウント > アカウント削除。進行状況、ランキング、ニックネーム、購入の権利、コイン、残りの有料ヒント・取り消し、フレンドとフレンドコード、チャレンジ履歴、サーバーに同期された対局記録、トーナメント参加記録、プッシュトークンが完全に削除され、進行中のオンライン対局は終了します。App Storeの支払いは返金されません。"
+    "設定 > アカウント > アカウントを削除 を選びます（AppleまたはGoogleでの再確認を求める場合があります）。進行状況、ランキング、ニックネーム、購入の権利、コイン、残りの有料ヒント・待った、フレンドとフレンドコード、チャレンジ履歴、サーバーに同期した対局記録、トーナメントの参加記録、プッシュトークンが完全に削除され、進行中のオンライン対局は終了します。App StoreまたはGoogle Playでの支払いは返金されません。"
    ],
    [
-    "メールで依頼",
-    "Appleでサインインせずに使っている場合は、件名を「チェッカー データ削除」としてdhalska2@gmail.comへアカウントを確認できる情報（例：ニックネーム）をお送りください。合理的な期間内にサーバーのデータを削除します。"
+    "ウェブから依頼（アプリのインストール不要）",
+    "アプリをインストールしなくても削除を依頼できます。件名を「チェッカー データ削除」としてdhalska2@gmail.comへメールし、アプリ名（チェッカー、com.osj.checkers）と開発者（Next Studio／넥스트 스튜디오）を記載してください。サインイン方法（Apple、Google、匿名）と下記の情報もお知らせください。返信で確認のうえ、合理的な期間内に、通常は30日以内にサーバー上のチェッカーのデータを削除します。"
+   ],
+   [
+    "本人確認の方法",
+    "サインインしている場合は、そのAppleまたはGoogleアカウントのメールアドレスから送るか、そのアドレスをお知らせください。匿名アカウントの場合は、アカウントの持ち主だけがアプリで確認できる情報（ニックネーム、フレンドコード、国、レーティング）をお知らせください。パスワード、ワンタイムコード、カード番号は一切求めません。依頼をアカウントと照合できない場合は、返信で追加情報をお願いします。"
+   ],
+   [
+    "削除される情報と保管される情報",
+    "削除：「アプリで削除」に記載したすべての情報。保管：最小限の購入記録（購入トークンのハッシュ、商品ID、状態、時刻。氏名・メールは含まない）を、返金後の二重付与の防止と会計・法令上の義務のため最長5年間保管します。サインインアカウントはNext Studioの他のゲームと共通の場合があるため、この依頼で削除するのはチェッカーのデータのみです。アカウント全体の削除をご希望の場合はメールに書いてください。"
    ],
    [
     "端末のデータ",
-    "端末に保存されたデータ（対局記録のコピーなど）は、アプリを削除（「Appを取り除く」ではなく「Appを削除」）すると消えます。近距離対戦で相手の端末に送られたニックネームと手は相手の端末に残る場合があり、当社では削除できません。"
+    "端末に保存されたデータ（対局記録のローカルコピーなど）は、アプリを削除すると消えます（iOSでは「Appを取り除く」ではなく「Appを削除」）。近くの人との対戦中に相手の端末へ送られたニックネームと手は、その端末に残ることがあり、当方では削除できません。"
    ]
   ]
  },
@@ -423,7 +447,7 @@
   ],
   "tag": "十三种规则的经典跳棋 — 对弈、解题、不断攀升。",
   "intro": "跳棋官方支持与政策 · Next Studio",
-  "date": "生效/修订日期：2026年10月4日",
+  "date": "生效/修订日期：2026年10月17日",
   "contact": "联系我们",
   "skip": "跳到正文",
   "features": [
@@ -432,16 +456,16 @@
    "无需联网，通过 Wi-Fi 或蓝牙进行附近对战",
    "实时与异步在线对战、好友码、锦标赛和排行榜",
    "残局 · 每日任务 · 对局分析 · PDN 导入导出 · 棋盘编辑器",
-   "高级订阅"
+   "高级订阅（仅 iOS）"
   ],
   "privacy": [
    [
     "运营者与适用范围",
-    "本政策适用于由 Next Studio（韩国个人开发者）发布的 iOS 应用“跳棋”（Bundle ID com.osj.checkers）。联系方式：dhalska2@gmail.com。"
+    "本政策适用于由 Next Studio（韩国个人开发者）发布的 iOS 和 Android 应用“跳棋”（iOS Bundle ID 及 Android 包名 com.osj.checkers）。联系方式：dhalska2@gmail.com。"
    ],
    [
     "账号与进度",
-    "无需注册：应用会自动创建匿名账号。你的进度（统计、成就、已解残局、任务、设置和未完成的对局）会按此账号保存在我们的服务器上，以免丢失。金币、提示和悔棋数量、已拥有的皮肤、签到奖励、每日免费次数以及已领取的成就和任务奖励均由服务器发放、扣除并记录，应用只显示服务器返回的数值。激励广告只有通过 AdMob 服务器验证后才会计入且仅一次，为此你的账号标识和一次性令牌会传给我们的服务器。使用 Apple 登录为可选项；Apple 会共享一个标识符，以及在你允许时共享电子邮件地址（可能是隐私中继地址），仅用于在你的多台设备上识别账号。登录已有账号时，匿名账号的进度会合并到该账号。"
+    "无需注册即可使用，应用会自动创建匿名账户。你的进度（统计、成就、已解谜题、任务、设置和未完成的对局）会关联该账户保存在我们的服务器上，以免丢失。金币、提示、悔棋、已拥有的皮肤、签到奖励、每日免费次数以及已领取的成就和任务奖励均由服务器发放、扣除并记录，应用只显示服务器返回的数值。激励广告只有在通过 AdMob 服务器端验证后才会计一次，为此你的账户标识符和一次性令牌会传给我们的服务器。登录是可选的。在 iOS 上可使用 Apple 登录：Apple 会共享一个标识符，以及（经你允许的）电子邮箱地址（可能是隐私中继地址）。在 Android 上可使用 Google 登录：我们只接收你的 Google 账户标识符和电子邮箱地址，不会请求你的姓名或头像。这些信息仅用于创建或关联账户，并在你的多台设备上识别该账户。登录到已有账户时，匿名账户的进度会合并到该账户中。"
    ],
    [
     "在线对战、排行榜与观战",
@@ -457,7 +481,7 @@
    ],
    [
     "附近对战（Wi-Fi 与蓝牙）",
-    "附近对战让你无需联网，通过同一 Wi-Fi 或蓝牙 LE 与附近的设备直接对局。在 Wi-Fi 上，房间通过 Bonjour（mDNS）在本地网络中发布和查找；在蓝牙上，通过广播和扫描寻找对手。你创建房间期间，昵称会被附近设备看到。连接后，你的昵称、头像、规则、着法、认输和和棋提议以及表情回应会直接发送给对方设备，不会发送到我们的服务器。应用不使用你的位置信息。iOS 首次使用时会询问蓝牙和本地网络权限；拒绝后应用其余功能仍可使用，也可在 iOS 设置中更改。附近对战不计入等级分、统计、任务或金币奖励。但已结束的对局会以“附近”模式的对局记录保存在设备上，并属于上述对局记录同步的范围，因此也会上传到我们的服务器（包含对手昵称）。附近对战没有举报或屏蔽功能。"
+    "附近对战让你无需联网，通过同一 Wi-Fi 或蓝牙 LE 与附近的设备直接对局。在 Wi-Fi 上，房间通过 Bonjour（mDNS）在本地网络中发布和查找；在蓝牙上，通过广播和扫描寻找对手。你创建房间期间，昵称会被附近设备看到。连接后，你的昵称、头像、规则、着法、认输和和棋提议以及表情回应会直接发送给对方设备，不会发送到我们的服务器。应用不使用你的位置信息。iOS 首次使用时会询问蓝牙和本地网络权限；拒绝后应用其余功能仍可使用，也可在 iOS 设置中更改。附近对战不计入等级分、统计、任务或金币奖励。但已结束的对局会以“附近”模式的对局记录保存在设备上，并属于上述对局记录同步的范围，因此也会上传到我们的服务器（包含对手昵称）。附近对战没有举报或屏蔽功能。 在 Android 12 及更高版本上，应用会为蓝牙请求“附近的设备”权限；在 Android 11 及更低版本上，系统要求为蓝牙扫描授予位置权限，但应用不会读取或收集你的位置。"
    ],
    [
     "在设备上处理的功能",
@@ -465,27 +489,27 @@
    ],
    [
     "购买与订阅",
-    "购买（去广告、主题包、提示和悔棋包）和高级版订阅由 Apple 收费。我们不会收到你的支付信息，只保存交易 ID、商品和订阅状态，用于发放和恢复你购买的内容。"
+    "购买由应用商店结算，我们不会收到你的银行卡或其他支付信息。在 iOS 上，应用内购买（去广告、主题包、提示和悔棋包）及高级订阅由 Apple 结算，我们保存交易 ID、商品和订阅状态，用于发放和恢复你购买的内容。在 Android 上，购买通过 Google Play 结算，仅提供一次性商品（去广告、皮肤包、组合包、提示包和悔棋包），Android 上没有订阅。应用将购买令牌发送到我们的服务器，服务器通过 Google（Google Play Developer API）验证，只在购买台账中保存令牌的 SHA-256 哈希以及商品 ID、状态和时间，然后发放商品。已退款或取消的购买，之后会通过 Google 的已作废购买（voided purchases）API 和 Google Play 实时开发者通知进行核对，并收回商品。"
    ],
    [
     "通知",
-    "仅在你开启通知时，我们才会保存推送令牌（Firebase Cloud Messaging），用于提醒轮到你下棋或对局结束。你可以在应用或 iOS 设置中关闭。"
+    "仅当你开启通知时（Android 13 及更高版本需允许通知权限），才会保存推送令牌（Firebase Cloud Messaging）以及你的语言、时区和各游戏的通知设置，用于在轮到你或对局结束时提醒你。你可以在应用内或 iOS、Android 系统设置中关闭。"
    ],
    [
     "广告",
-    "Google AdMob 展示非个性化广告。在需要的地区（如 EEA 和英国），展示广告前会显示 Google 同意表单（UMP），你可以在设置中更改选择。应用不会显示 App 跟踪透明度提示，不会跨其他公司的应用或网站跟踪你，也不请求访问广告标识符。不过 AdMob 仍可能处理设备信息和大致位置（基于 IP），用于投放广告、限制展示频率和防止欺诈。可通过应用内购买移除广告。"
+    "Google AdMob 展示非个性化广告。在需要的地区（如 EEA 和英国），展示广告前会出现 Google 同意表单（UMP），你可以在设置中更改选择。应用不会弹出 App Tracking Transparency 提示，也不会跨其他公司的应用或网站追踪你。在 iOS 上不会请求访问广告标识符。在 Android 上，应用为投放广告声明了广告 ID（AD_ID）权限；广告仍为非个性化，你可以在 Android 设置中重置或删除广告 ID。AdMob 仍可能处理设备信息、（如有）广告 ID 以及大致（基于 IP）的位置，用于投放广告、限制展示频率、衡量效果和防止欺诈。可通过应用内购买去除广告。"
    ],
    [
     "崩溃报告",
-    "Firebase Crashlytics 会收集崩溃和错误报告（设备型号、系统和应用版本、技术日志及随机安装 ID），以便我们修复问题。报告中不含支付信息。"
+    "仅在正式发布（release）版本中（开发版本不收集），Firebase Crashlytics 会收集崩溃和错误报告（设备型号、系统和应用版本、堆栈跟踪和技术日志，以及随机安装 ID），以便我们修复问题。这些报告不包含支付信息。"
    ],
    [
     "服务提供商与存储",
-    "Supabase（数据库与登录）、Apple（Apple 登录与支付）和 Google（AdMob 广告、Firebase 通知与崩溃报告）按照各自的隐私政策处理数据，其服务器可能位于你所在国家/地区之外。本页面托管于 GitHub Pages，不使用分析或广告脚本。"
+    "Supabase（数据库和登录）、Apple（Apple 登录和 App Store 支付）以及 Google（Google 登录、Google Play 结算、AdMob 广告、Firebase 通知和崩溃报告）按各自的隐私政策处理数据；其服务器可能位于你所在国家或地区之外。本网站托管于 GitHub Pages，不使用分析或广告脚本。"
    ],
    [
     "保留与删除",
-    "服务器数据在你的账户存在期间保留。你在应用内删除账户或通过邮件申请后，我们会在合理期限内删除或匿名化。删除应用只会清除设备上的数据。"
+    "服务器数据在账户存在期间保留。当你在应用中（设置 > 账户）删除账户，或通过“删除数据”页面申请删除时，数据会在合理期限内被删除或匿名化。例外：最少量的购买记录（购买令牌的哈希、商品 ID、状态和时间，不含姓名或邮箱）为防止退款后重复发放商品并履行会计和法律义务，删除后最多保留 5 年。卸载应用只会删除设备上存储的数据。"
    ],
    [
     "你的权利、儿童与变更",
@@ -495,11 +519,11 @@
   "terms": [
    [
     "服务",
-    "跳棋提供电脑对战、一台设备双人对战、实时与异步在线对战、好友码与挑战、锦标赛、排行榜、Wi-Fi 或蓝牙附近对战、13 种规则、残局、每日任务和对局分析。高级订阅去除广告和每日限制，并包含所有皮肤以及无限提示和悔棋。"
+    "跳棋提供电脑对战、一台设备双人对战、实时与异步在线对战、好友码与挑战、锦标赛、排行榜、Wi-Fi 或蓝牙附近对战、13 种规则、残局、每日任务和对局分析。高级订阅去除广告和每日限制，并包含所有皮肤以及无限提示和悔棋。 高级订阅仅在 iOS 上提供。"
    ],
    [
     "购买与订阅",
-    "付款通过 Apple 进行。订阅会自动续订，除非在当前周期结束前至少 24 小时取消；可在 Apple ID 设置中管理或取消。退款遵循 Apple 的政策。金币和道具没有现金价值，不可兑换。Apple 标准 EULA 同样适用。"
+    "付款通过应用商店完成：iOS 为 Apple，Android 为 Google Play。iOS 上的高级订阅会自动续订，除非在当前周期结束前至少 24 小时取消；可在 Apple ID 设置中管理或取消。Android 仅提供一次性购买，没有订阅。退款遵循 Apple 或 Google Play 的政策，已退款或取消的商品可能被收回。金币和道具没有现金价值，不可兑换。在 iOS 上，Apple 标准 EULA 同样适用。"
    ],
    [
     "公平游戏与行为准则",
@@ -525,29 +549,37 @@
    ],
    [
     "附近对战故障排除",
-    "两台设备都在开始游戏中选择附近对战，一台创建房间，另一台加入。Wi-Fi 需要同一网络，蓝牙必须开启。如果无法连接，请在 iOS 设置 > 跳棋 中确认已允许蓝牙和本地网络，并让两台设备靠近。"
+    "两台设备都在开始游戏中选择附近对战，一台创建房间，另一台加入。Wi-Fi 需要同一网络，蓝牙必须开启。如果无法连接，请在 iOS 设置 > 跳棋 中确认已允许蓝牙和本地网络，并让两台设备靠近。 在 Android 上，请在“设置 > 应用 > 跳棋 > 权限”中确认已允许“附近的设备”。"
    ],
    [
     "进度、购买与同步",
-    "进度会自动保存到你的账户。在商店中使用“恢复购买”找回已购内容；在设置中使用 Apple 登录即可在其他设备上继续。"
+    "进度会自动保存到你的账户。在商店中使用“恢复购买”找回已购内容；在设置中登录（iOS 用 Apple，Android 用 Google）即可在其他设备上继续。"
    ],
    [
     "联系我们",
-    "请在邮件主题中写上“跳棋”，并告诉我们应用版本、设备和 iOS 版本以及出现问题的步骤。购买问题如附上 Apple 收据，我们能更快答复。"
+    "请在邮件主题中写上“跳棋”，并告知应用版本、设备及其 iOS 或 Android 版本，以及出现问题的操作步骤。购买问题如能提供 Apple 收据或 Google Play 订单号，我们可以更快回复。"
    ]
   ],
   "delete-account": [
    [
     "在应用中删除",
-    "如果你使用 Apple 登录：设置 > 账号 > 删除账号。你的进度、排名、昵称、购买权益、金币、剩余的付费提示和悔棋、好友和好友码、挑战记录、已同步到服务器的对局记录、锦标赛参赛记录以及推送令牌将被永久删除，进行中的在线对局会结束。App Store 的付款不予退款。"
+    "打开“设置 > 账户 > 删除账户”（可能需要通过 Apple 或 Google 再次确认）。你的进度、排名、昵称、购买权益、金币、剩余的付费提示和悔棋、好友和好友码、挑战记录、已同步到服务器的对局记录、锦标赛参赛记录和推送令牌将被永久删除，进行中的在线对局会被终止。通过 App Store 或 Google Play 支付的款项不予退还。"
    ],
    [
-    "通过邮件申请",
-    "未使用 Apple 登录时，请以“跳棋数据删除”为主题发送邮件至 dhalska2@gmail.com，并附上可识别账户的信息（例如昵称）。我们会在合理期限内删除服务器数据。"
+    "通过网页申请（无需安装应用）",
+    "无需安装应用也可以申请删除。请以“跳棋数据删除”为主题发送邮件至 dhalska2@gmail.com，并写明应用名称（跳棋，com.osj.checkers）和开发者（Next Studio / 넥스트 스튜디오）。请告知你的登录方式（Apple、Google 或匿名）以及下述信息。我们会回复确认，并在合理期限内（通常 30 天内）删除服务器上的跳棋数据。"
+   ],
+   [
+    "我们如何核实你的身份",
+    "如果你已登录，请使用该 Apple 或 Google 账户的邮箱地址发送申请，或在邮件中告知该地址。匿名账户请提供只有账户持有人能在应用中看到的信息（昵称、好友码、国家和等级分）。我们绝不会索要密码、一次性验证码或银行卡号。如果无法将申请与账户匹配，我们会回复并请你补充信息。"
+   ],
+   [
+    "删除哪些、保留哪些",
+    "删除：“在应用中删除”中列出的全部内容。保留：最少量的购买记录（购买令牌的哈希、商品 ID、状态和时间，不含姓名或邮箱），最多保留 5 年，用于防止退款后重复发放，并履行会计和法律义务。你的登录账户可能与 Next Studio 的其他游戏共用；本申请只删除跳棋的数据，如需删除整个账户，请在邮件中说明。"
    ],
    [
     "设备上的数据",
-    "保存在设备上的数据（如对局记录的本地副本）会在你删除应用（“删除 App”，而非“卸载 App”）时清除。附近对战中发送到对方设备的昵称和着法可能保留在对方设备上，我们无法删除。"
+    "设备上存储的数据（如对局记录的本地副本）会在卸载应用时删除（iOS 上是“删除 App”，而不是“卸载 App”）。近距离对战时发送到对方设备的昵称和着法可能仍保留在对方设备上，我们无法删除。"
    ]
   ]
  },
@@ -561,7 +593,7 @@
   ],
   "tag": "Klassische Dame mit 13 Regelvarianten – spielen, lösen, aufsteigen.",
   "intro": "Offizieller Support & Richtlinien für Dame · Next Studio",
-  "date": "Gültig / aktualisiert: 4. Oktober 2026",
+  "date": "Gültig / aktualisiert: 17. Oktober 2026",
   "contact": "Kontakt",
   "skip": "Zum Inhalt springen",
   "features": [
@@ -570,16 +602,16 @@
    "Spielen in der Nähe per WLAN oder Bluetooth, ohne Internet",
    "Live- und Fernpartien online, Freundescodes, Turniere und Ranglisten",
    "Aufgaben · tägliche Missionen · Partieanalyse · PDN-Import/-Export · BrettEditor",
-   "Premium-Abo"
+   "Premium-Abo (iOS)"
   ],
   "privacy": [
    [
     "Anbieter und Geltungsbereich",
-    "Diese Erklärung gilt für die iOS-App „Dame“ (Bundle-ID com.osj.checkers) von Next Studio, einem Einzelentwickler aus Südkorea. Kontakt: dhalska2@gmail.com."
+    "Diese Erklärung gilt für die iOS- und Android-App „Dame“ (iOS-Bundle-ID und Android-Paketname com.osj.checkers) von Next Studio, einem Einzelentwickler aus Südkorea. Kontakt: dhalska2@gmail.com."
    ],
    [
     "Konto und Fortschritt",
-    "Eine Registrierung ist nicht nötig: Die App legt automatisch ein anonymes Konto an. Dein Fortschritt (Statistiken, Erfolge, gelöste Aufgaben, Missionen, Einstellungen und eine unvollendete Partie) wird mit diesem Konto auf unserem Server gespeichert, damit nichts verloren geht. Münzen, Hinweise, Zugrücknahmen, gekaufte Designs, Anwesenheitsboni, tägliche Gratisnutzungen und abgeholte Erfolgs- und Missionsbelohnungen werden vom Server vergeben, abgezogen und protokolliert; die App zeigt nur die vom Server gelieferten Werte an. Eine Belohnungswerbung zählt nur einmal und erst nach der serverseitigen Prüfung durch AdMob; dafür werden deine Konto-Kennung und ein Einmal-Token an unseren Server übermittelt. Die Anmeldung mit Apple ist freiwillig; Apple teilt eine Kennung und, wenn du zustimmst, eine E-Mail-Adresse (ggf. eine private Weiterleitungsadresse), die nur dazu dient, dein Konto auf deinen Geräten zu erkennen. Meldest du dich bei einem bestehenden Konto an, wird der Fortschritt des anonymen Kontos dort zusammengeführt."
+    "Eine Registrierung ist nicht nötig: Die App legt automatisch ein anonymes Konto an. Dein Fortschritt (Statistiken, Erfolge, gelöste Rätsel, Missionen, Einstellungen und eine unfertige Partie) wird mit diesem Konto auf unserem Server gespeichert, damit er nicht verloren geht. Münzen, Tipps, Züge zurücknehmen, gekaufte Skins, Anwesenheitsboni, tägliche Gratisnutzungen und abgeholte Erfolgs- und Missionsbelohnungen werden vom Server vergeben, abgezogen und erfasst; die App zeigt nur die Werte an, die der Server zurückgibt. Eine Belohnungswerbung zählt nur einmal und erst nach der serverseitigen AdMob-Verifizierung; dafür werden deine Konto-Kennung und ein Einmal-Token an unseren Server übermittelt. Die Anmeldung ist optional. Unter iOS kannst du „Mit Apple anmelden“ nutzen: Apple teilt eine Kennung und, wenn du es erlaubst, eine E-Mail-Adresse (ggf. eine private Relay-Adresse). Unter Android kannst du die Google-Anmeldung nutzen: Wir erhalten nur die Kennung deines Google-Kontos und deine E-Mail-Adresse und fragen weder deinen Namen noch dein Profilfoto ab. Sie dienen nur dazu, dein Konto anzulegen oder zu verknüpfen und auf deinen Geräten wiederzuerkennen. Meldest du dich bei einem bestehenden Konto an, wird der Fortschritt des anonymen Kontos darin zusammengeführt."
    ],
    [
     "Online-Spiel, Ranglisten und Zuschauen",
@@ -595,7 +627,7 @@
    ],
    [
     "Spielen in der Nähe (WLAN und Bluetooth)",
-    "Beim Spielen in der Nähe spielst du ohne Internet direkt mit einem Gerät in deiner Nähe, über dasselbe WLAN oder Bluetooth LE. Im WLAN wird der Raum im lokalen Netzwerk per Bonjour (mDNS) angekündigt und gefunden; per Bluetooth wird der Gegner durch Ankündigen und Suchen gefunden. Solange du den Raum hostest, ist dein Spitzname für Geräte in der Nähe sichtbar. Nach der Verbindung gehen Spitzname, Avatar, Regeln, Züge, Aufgabe- und Remisangebote sowie Emoji-Reaktionen direkt an das andere Gerät und werden nicht an unsere Server gesendet. Die App nutzt deinen Standort nicht. iOS fragt beim ersten Mal nach Bluetooth- und Lokales-Netzwerk-Zugriff; lehnst du ab, funktioniert der Rest der App weiter, und du kannst es in den iOS-Einstellungen ändern. Nahpartien zählen nicht für Wertung, Statistiken, Missionen oder Münzbelohnungen. Eine beendete Partie wird jedoch als Partieverlauf mit dem Modus „nearby“ auf deinem Gerät gespeichert und gehört zur obigen Synchronisierung, wird also auch auf unseren Server hochgeladen (mit dem Spitznamen des Gegners). Beim Spielen in der Nähe gibt es keine Melde- oder Blockierfunktion."
+    "Beim Spielen in der Nähe spielst du ohne Internet direkt mit einem Gerät in deiner Nähe, über dasselbe WLAN oder Bluetooth LE. Im WLAN wird der Raum im lokalen Netzwerk per Bonjour (mDNS) angekündigt und gefunden; per Bluetooth wird der Gegner durch Ankündigen und Suchen gefunden. Solange du den Raum hostest, ist dein Spitzname für Geräte in der Nähe sichtbar. Nach der Verbindung gehen Spitzname, Avatar, Regeln, Züge, Aufgabe- und Remisangebote sowie Emoji-Reaktionen direkt an das andere Gerät und werden nicht an unsere Server gesendet. Die App nutzt deinen Standort nicht. iOS fragt beim ersten Mal nach Bluetooth- und Lokales-Netzwerk-Zugriff; lehnst du ab, funktioniert der Rest der App weiter, und du kannst es in den iOS-Einstellungen ändern. Nahpartien zählen nicht für Wertung, Statistiken, Missionen oder Münzbelohnungen. Eine beendete Partie wird jedoch als Partieverlauf mit dem Modus „nearby“ auf deinem Gerät gespeichert und gehört zur obigen Synchronisierung, wird also auch auf unseren Server hochgeladen (mit dem Spitznamen des Gegners). Beim Spielen in der Nähe gibt es keine Melde- oder Blockierfunktion. Ab Android 12 fragt die App für Bluetooth die Berechtigung „Geräte in der Nähe“ ab; unter Android 11 und früher verlangt das System für das Bluetooth-Scannen die Standortberechtigung, die App liest oder erfasst deinen Standort jedoch nicht."
    ],
    [
     "Auf dem Gerät verarbeitete Funktionen",
@@ -603,27 +635,27 @@
    ],
    [
     "Käufe und Abos",
-    "Käufe (Werbung entfernen, Themenpaket, Tipp- und Rückgängig-Pakete) und das Premium-Abo rechnet Apple ab. Wir erhalten keine Zahlungsdaten; wir speichern Transaktions-ID, Produkt und Abostatus, um Käufe freizuschalten und wiederherzustellen."
+    "Käufe werden vom Store abgerechnet; deine Karten- oder sonstigen Zahlungsdaten erhalten wir nie. Unter iOS rechnet Apple In-App-Käufe (Werbung entfernen, Themenpaket, Tipp- und Rücknahme-Pakete) und das Premium-Abo ab; wir speichern Transaktions-ID, Produkt und Abostatus, um das Gekaufte zu vergeben und wiederherzustellen. Unter Android laufen Käufe über Google Play Billing, und es gibt nur Einmalkäufe (Werbung entfernen, Skin-Paket, Bundle, Tipp-Pakete und Rücknahme-Pakete); Abos gibt es unter Android nicht. Die App sendet das Kauf-Token an unseren Server, der es bei Google (Google Play Developer API) prüft, nur einen SHA-256-Hash des Tokens mit Produkt-ID, Status und Zeit in einem Kaufprotokoll speichert und den Artikel vergibt. Erstattete oder stornierte Käufe werden später über die Voided-Purchases-API von Google und die Echtzeit-Entwicklerbenachrichtigungen von Google Play abgeglichen, und der Artikel wird entzogen."
    ],
    [
     "Mitteilungen",
-    "Nur wenn du Mitteilungen aktivierst, wird ein Push-Token (Firebase Cloud Messaging) gespeichert, um dir mitzuteilen, dass du am Zug bist oder eine Partie beendet ist. Du kannst das in der App oder in den iOS-Einstellungen abschalten."
+    "Nur wenn du Benachrichtigungen aktivierst (ab Android 13 durch Erteilen der Benachrichtigungsberechtigung), wird ein Push-Token (Firebase Cloud Messaging) zusammen mit deiner Sprache, Zeitzone und den Benachrichtigungseinstellungen je Spiel gespeichert, um dich zu informieren, wenn du am Zug bist oder eine Partie beendet ist. Du kannst das in der App oder in den Systemeinstellungen von iOS bzw. Android abschalten."
    ],
    [
     "Werbung",
-    "Google AdMob zeigt nicht personalisierte Werbung. Wo erforderlich (z. B. EWR und Vereinigtes Königreich), erscheint vor der Werbung ein Google-Einwilligungsformular (UMP), und du kannst deine Wahl in den Einstellungen ändern. Die App zeigt keine App-Tracking-Transparenz-Abfrage, verfolgt dich nicht über Apps oder Websites anderer Unternehmen hinweg und fragt nicht nach Zugriff auf die Werbe-ID. AdMob kann dennoch Geräteinformationen und einen ungefähren Standort (IP-basiert) verarbeiten, um Werbung auszuliefern, ihre Häufigkeit zu begrenzen und Betrug zu verhindern. Werbung lässt sich per In-App-Kauf entfernen."
+    "Google AdMob zeigt nicht personalisierte Werbung. Wo erforderlich (z. B. EWR und Vereinigtes Königreich), erscheint vor der Werbung ein Google-Einwilligungsformular (UMP), und du kannst deine Wahl in den Einstellungen ändern. Die App zeigt keine App-Tracking-Transparency-Abfrage und verfolgt dich nicht über Apps oder Websites anderer Unternehmen. Unter iOS fragt sie nicht nach der Werbe-ID. Unter Android deklariert die App für Werbung die Berechtigung für die Werbe-ID (AD_ID); die Werbung bleibt nicht personalisiert, und du kannst die Werbe-ID in den Android-Einstellungen zurücksetzen oder löschen. AdMob kann dennoch Geräteinformationen, die Werbe-ID (sofern verfügbar) und einen ungefähren (IP-basierten) Standort verarbeiten, um Werbung auszuliefern, ihre Häufigkeit zu begrenzen, sie zu messen und Betrug zu verhindern. Werbung lässt sich per In-App-Kauf entfernen."
    ],
    [
     "Absturzberichte",
-    "Firebase Crashlytics erfasst Absturz- und Fehlerberichte (Gerätemodell, iOS- und App-Version, technische Protokolle und eine zufällige Installations-ID), damit wir Probleme beheben können. Sie enthalten keine Zahlungsdaten."
+    "Nur in Release-Builds (nicht in Entwicklungs-Builds) erfasst Firebase Crashlytics Absturz- und Fehlerberichte (Gerätemodell, OS- und App-Version, Stacktraces und technische Protokolle sowie eine zufällige Installations-ID), damit wir Probleme beheben können. Diese Berichte enthalten keine Zahlungsdaten."
    ],
    [
     "Dienstleister und Speicherort",
-    "Supabase (Datenbank und Anmeldung), Apple (Mit Apple anmelden und Zahlungen) und Google (AdMob-Werbung, Firebase-Mitteilungen und Absturzberichte) verarbeiten Daten nach ihren eigenen Richtlinien; ihre Server können sich außerhalb deines Landes befinden. Diese Seiten werden über GitHub Pages bereitgestellt und nutzen keine Analyse- oder Werbeskripte."
+    "Supabase (Datenbank und Anmeldung), Apple („Mit Apple anmelden“ und App-Store-Zahlungen) und Google (Google-Anmeldung, Google Play Billing, AdMob-Werbung, Firebase-Benachrichtigungen und Absturzberichte) verarbeiten Daten nach ihren eigenen Datenschutzerklärungen; ihre Server können außerhalb deines Landes stehen. Diese Seiten werden über GitHub Pages bereitgestellt und verwenden keine Analyse- oder Werbeskripte."
    ],
    [
     "Speicherdauer und Löschung",
-    "Serverdaten werden gespeichert, solange dein Konto besteht. Löschst du dein Konto in der App oder bittest per E-Mail darum, werden sie in angemessener Frist gelöscht oder anonymisiert. Das Löschen der App entfernt nur die auf dem Gerät gespeicherten Daten."
+    "Serverdaten werden gespeichert, solange dein Konto besteht. Wenn du dein Konto in der App (Einstellungen > Konto) löschst oder auf der Seite „Daten löschen“ die Löschung beantragst, werden sie in angemessener Frist gelöscht oder anonymisiert. Ausnahme: Ein minimaler Kaufdatensatz (Hash des Kauf-Tokens, Produkt-ID, Status und Zeit, ohne Name oder E-Mail) kann nach der Löschung bis zu 5 Jahre aufbewahrt werden, um eine doppelte Vergabe nach einer Erstattung zu verhindern und Buchhaltungs- und gesetzliche Pflichten zu erfüllen. Das Löschen der App entfernt nur die auf dem Gerät gespeicherten Daten."
    ],
    [
     "Deine Rechte, Kinder und Änderungen",
@@ -633,11 +665,11 @@
   "terms": [
    [
     "Leistung",
-    "Dame bietet Spiele gegen den Computer, zu zweit an einem Gerät, Live- und Fernpartien online, Freundescodes und Herausforderungen, Turniere, Ranglisten, Spielen in der Nähe per WLAN oder Bluetooth, 13 Regelvarianten, Aufgaben, tägliche Missionen und Partieanalyse. Das Premium-Abo entfernt Werbung und Tageslimits und enthält alle Designs sowie unbegrenzt Hinweise und Zugrücknahmen."
+    "Dame bietet Spiele gegen den Computer, zu zweit an einem Gerät, Live- und Fernpartien online, Freundescodes und Herausforderungen, Turniere, Ranglisten, Spielen in der Nähe per WLAN oder Bluetooth, 13 Regelvarianten, Aufgaben, tägliche Missionen und Partieanalyse. Das Premium-Abo entfernt Werbung und Tageslimits und enthält alle Designs sowie unbegrenzt Hinweise und Zugrücknahmen. Das Premium-Abo gibt es nur unter iOS."
    ],
    [
     "Käufe und Abos",
-    "Zahlungen laufen über Apple. Abos verlängern sich automatisch, sofern sie nicht mindestens 24 Stunden vor Ende des aktuellen Zeitraums gekündigt werden; verwalten oder kündigen kannst du sie in deinen Apple-ID-Einstellungen. Erstattungen richten sich nach Apples Richtlinien. Münzen und Gegenstände haben keinen Geldwert und sind nicht umtauschbar. Es gilt zudem die Standard-EULA von Apple."
+    "Die Zahlung läuft über den Store: Apple unter iOS und Google Play unter Android. Premium-Abos unter iOS verlängern sich automatisch, wenn du nicht mindestens 24 Stunden vor Ende des laufenden Zeitraums kündigst; verwalte oder kündige sie in den Apple-ID-Einstellungen. Unter Android gibt es nur Einmalkäufe und keine Abos. Erstattungen richten sich nach den Richtlinien von Apple bzw. Google Play; erstattete oder stornierte Artikel können entzogen werden. Münzen und Gegenstände haben keinen Geldwert und können nicht umgetauscht werden. Unter iOS gilt zusätzlich das Apple Standard-EULA."
    ],
    [
     "Fairplay und Verhalten",
@@ -663,29 +695,37 @@
    ],
    [
     "Probleme beim Spielen in der Nähe",
-    "Wähle auf beiden Geräten unter Spiel starten das Spielen in der Nähe; ein Gerät hostet, das andere tritt bei. WLAN braucht dasselbe Netzwerk, Bluetooth muss eingeschaltet sein. Klappt die Verbindung nicht, prüfe in den iOS-Einstellungen > Dame, ob Bluetooth und Lokales Netzwerk erlaubt sind, und halte die Geräte nah beieinander."
+    "Wähle auf beiden Geräten unter Spiel starten das Spielen in der Nähe; ein Gerät hostet, das andere tritt bei. WLAN braucht dasselbe Netzwerk, Bluetooth muss eingeschaltet sein. Klappt die Verbindung nicht, prüfe in den iOS-Einstellungen > Dame, ob Bluetooth und Lokales Netzwerk erlaubt sind, und halte die Geräte nah beieinander. Prüfe unter Android in Einstellungen > Apps > Dame > Berechtigungen, ob „Geräte in der Nähe“ erlaubt ist."
    ],
    [
     "Fortschritt, Käufe und Synchronisierung",
-    "Der Fortschritt wird automatisch in deinem Konto gespeichert. Mit „Käufe wiederherstellen“ im Shop holst du Käufe zurück; melde dich in den Einstellungen mit Apple an, um auf einem anderen Gerät weiterzuspielen."
+    "Dein Fortschritt wird automatisch im Konto gespeichert. Mit „Käufe wiederherstellen“ im Shop holst du Gekauftes zurück; melde dich in den Einstellungen an (Apple unter iOS, Google unter Android), um auf einem anderen Gerät weiterzuspielen."
    ],
    [
     "Kontakt",
-    "Schreibe „Dame“ in den Betreff und nenne App-Version, Gerät und iOS-Version sowie die Schritte bis zum Problem. Bei Kaufproblemen hilft uns die Apple-Quittung, schneller zu antworten."
+    "Schreibe „Dame“ in den Betreff und nenne die App-Version, dein Gerät mit iOS- bzw. Android-Version und die Schritte, die zum Problem führten. Bei Kaufproblemen hilft uns der Apple-Beleg oder die Google-Play-Bestellnummer, schneller zu antworten."
    ]
   ],
   "delete-account": [
    [
     "In der App löschen",
-    "Wenn du dich mit Apple angemeldet hast: Einstellungen > Konto > Konto löschen. Fortschritt, Rangliste, Spitzname, Kaufberechtigungen, Münzen, übrige bezahlte Hinweise und Zugrücknahmen, Freunde und Freundescode, Herausforderungen, mit dem Server synchronisierte Partieverläufe, Turnierteilnahmen und Push-Token werden dauerhaft gelöscht, laufende Online-Partien werden beendet. App-Store-Zahlungen werden nicht erstattet."
+    "Öffne Einstellungen > Konto > Konto löschen (ggf. wirst du aufgefordert, dich per Apple oder Google erneut zu bestätigen). Fortschritt, Rangliste, Spitzname, Kaufansprüche, Münzen, übrige bezahlte Tipps und Rücknahmen, Freunde und Freundescode, Herausforderungsverlauf, auf den Server synchronisierte Partieaufzeichnungen, Turnierteilnahmen und Push-Token werden dauerhaft gelöscht; laufende Online-Partien werden beendet. Zahlungen im App Store oder bei Google Play werden nicht erstattet."
    ],
    [
-    "Anfrage per E-Mail",
-    "Ohne Apple-Anmeldung schreibe an dhalska2@gmail.com mit dem Betreff „Dame Datenlöschung“ und Angaben, die dein Konto identifizieren (z. B. Spitzname). Wir löschen die Serverdaten in angemessener Frist."
+    "Anfrage im Web (App nicht nötig)",
+    "Du kannst die Löschung auch ohne installierte App beantragen. Schreibe an dhalska2@gmail.com mit dem Betreff „Dame Datenlöschung“ und nenne die App (Dame / Checkers, com.osj.checkers) sowie den Entwickler (Next Studio / 넥스트 스튜디오). Teile uns mit, wie du dich angemeldet hast (Apple, Google oder anonym), und die Angaben unten. Wir bestätigen per Antwort und löschen die Dame-Daten auf unserem Server in angemessener Frist, in der Regel binnen 30 Tagen."
+   ],
+   [
+    "So prüfen wir deine Identität",
+    "Wenn du angemeldet warst, sende die Anfrage von der E-Mail-Adresse dieses Apple- oder Google-Kontos oder nenne uns diese Adresse. Bei einem anonymen Konto gib Angaben an, die nur der Kontoinhaber in der App sieht (Spitzname, Freundescode, Land und Wertung). Wir fragen nie nach Passwörtern, Einmalcodes oder Kartennummern. Lässt sich die Anfrage keinem Konto zuordnen, bitten wir per Antwort um weitere Angaben."
+   ],
+   [
+    "Was gelöscht und was aufbewahrt wird",
+    "Gelöscht: alles unter „In der App löschen“ Genannte. Aufbewahrt: ein minimaler Kaufdatensatz (Hash des Kauf-Tokens, Produkt-ID, Status und Zeit, ohne Name oder E-Mail) bis zu 5 Jahre, um doppelte Vergabe nach Erstattungen zu verhindern und Buchhaltungs- und gesetzliche Pflichten zu erfüllen. Dein Anmeldekonto kann mit anderen Spielen von Next Studio geteilt sein; diese Anfrage entfernt nur Dame-Daten. Möchtest du das gesamte Konto entfernen, schreibe es in die E-Mail."
    ],
    [
     "Daten auf dem Gerät",
-    "Auf dem Gerät gespeicherte Daten (z. B. lokale Kopien der Partieverläufe) werden entfernt, wenn du die App löschst („App löschen“, nicht „App auslagern“). Spitzname und Züge, die beim Spielen in der Nähe an ein anderes Gerät gesendet wurden, können dort bleiben, und wir können sie nicht löschen."
+    "Auf dem Gerät gespeicherte Daten (z. B. lokale Kopien von Partieaufzeichnungen) werden beim Deinstallieren der App entfernt (unter iOS „App löschen“, nicht „App auslagern“). Spitzname und Züge, die beim Spiel in der Nähe an ein anderes Gerät gesendet wurden, können dort bleiben, und wir können sie nicht löschen."
    ]
   ]
  },
@@ -699,7 +739,7 @@
   ],
   "tag": "Damas clásicas en 13 variantes de reglas: juega, resuelve y sube.",
   "intro": "Soporte y políticas oficiales de Damas · Next Studio",
-  "date": "En vigor / actualizado: 4 de octubre de 2026",
+  "date": "En vigor / actualizado: 17 de octubre de 2026",
   "contact": "Contacto",
   "skip": "Ir al contenido",
   "features": [
@@ -708,16 +748,16 @@
    "Partidas cercanas por Wi-Fi o Bluetooth, sin internet",
    "Partidas en línea en vivo y asíncronas, códigos de amigo, torneos y clasificaciones",
    "Problemas · misiones diarias · análisis de partidas · importar/exportar PDN · editor de tablero",
-   "Suscripción Premium"
+   "Suscripción Premium (iOS)"
   ],
   "privacy": [
    [
     "Responsable y alcance",
-    "Esta política se aplica a la app de iOS \"Damas\" (ID de paquete com.osj.checkers), publicada por Next Studio, desarrollador individual con sede en Corea del Sur. Contacto: dhalska2@gmail.com."
+    "Esta política se aplica a la app de iOS y Android \"Damas\" (ID de paquete de iOS y paquete de Android com.osj.checkers), publicada por Next Studio, desarrollador individual con sede en Corea del Sur. Contacto: dhalska2@gmail.com."
    ],
    [
     "Cuenta y progreso",
-    "No hace falta registrarse: la app crea automáticamente una cuenta anónima. Tu progreso (estadísticas, logros, problemas resueltos, misiones, ajustes y una partida sin terminar) se guarda en nuestro servidor con esa cuenta para que no se pierda. Las monedas, las pistas, los deshacer, los diseños que tienes, las bonificaciones de asistencia, los usos gratuitos diarios y las recompensas de logros y misiones reclamadas las concede, descuenta y registra el servidor; la app solo muestra los valores que este devuelve. Un anuncio con recompensa cuenta una sola vez y solo tras la verificación del lado del servidor de AdMob, para lo cual se envían a nuestro servidor el identificador de tu cuenta y un token de un solo uso. Iniciar sesión con Apple es opcional; Apple comparte un identificador y, si lo permites, un correo electrónico (que puede ser una dirección de retransmisión privada), que se usa solo para reconocer tu cuenta en tus dispositivos. Al iniciar sesión en una cuenta existente, el progreso de la cuenta anónima se fusiona con ella."
+    "No hace falta registrarse: la app crea automáticamente una cuenta anónima. Tu progreso (estadísticas, logros, puzles resueltos, misiones, ajustes y una partida sin terminar) se guarda en nuestro servidor vinculado a esa cuenta para que no se pierda. Las monedas, pistas, deshacer, skins en propiedad, bonos de asistencia, usos gratuitos diarios y recompensas de logros y misiones reclamadas las concede, descuenta y registra el servidor; la app solo muestra los valores que devuelve. Un anuncio recompensado cuenta una sola vez y solo tras la verificación del lado del servidor de AdMob, para la cual se envían a nuestro servidor el identificador de tu cuenta y un token de un solo uso. Iniciar sesión es opcional. En iOS puedes usar Iniciar sesión con Apple: Apple comparte un identificador y, si lo permites, una dirección de correo (que puede ser de reenvío privado). En Android puedes usar el inicio de sesión con Google: solo recibimos el identificador de tu cuenta de Google y tu correo, y no solicitamos tu nombre ni tu foto de perfil. Se usan únicamente para crear o vincular tu cuenta y reconocerla en tus dispositivos. Al iniciar sesión en una cuenta existente, el progreso de la cuenta anónima se fusiona con ella."
    ],
    [
     "Juego en línea, clasificaciones y espectadores",
@@ -733,7 +773,7 @@
    ],
    [
     "Partidas cercanas (Wi-Fi y Bluetooth)",
-    "Las partidas cercanas te permiten jugar directamente con un dispositivo próximo, sin internet, por la misma red Wi-Fi o por Bluetooth LE. En Wi-Fi la sala se anuncia y se encuentra en la red local con Bonjour (mDNS); en Bluetooth el rival se encuentra mediante anuncio y búsqueda. Mientras eres anfitrión, tu apodo es visible para los dispositivos cercanos. Una vez conectados, tu apodo, avatar, reglas, jugadas, ofertas de rendición y tablas y reacciones con emojis van directamente al otro dispositivo y no se envían a nuestros servidores. La app no usa tu ubicación. iOS pide acceso a Bluetooth y a la red local la primera vez; si lo rechazas, el resto de la app funciona y puedes cambiarlo en Ajustes de iOS. Las partidas cercanas no cuentan para la puntuación, las estadísticas, las misiones ni las recompensas de monedas. Sin embargo, una partida terminada se guarda en tu dispositivo como registro con el modo «nearby» y entra en la sincronización del historial descrita arriba, por lo que también se sube a nuestro servidor (con el apodo del rival). Las partidas cercanas no tienen función de denuncia ni de bloqueo."
+    "Las partidas cercanas te permiten jugar directamente con un dispositivo próximo, sin internet, por la misma red Wi-Fi o por Bluetooth LE. En Wi-Fi la sala se anuncia y se encuentra en la red local con Bonjour (mDNS); en Bluetooth el rival se encuentra mediante anuncio y búsqueda. Mientras eres anfitrión, tu apodo es visible para los dispositivos cercanos. Una vez conectados, tu apodo, avatar, reglas, jugadas, ofertas de rendición y tablas y reacciones con emojis van directamente al otro dispositivo y no se envían a nuestros servidores. La app no usa tu ubicación. iOS pide acceso a Bluetooth y a la red local la primera vez; si lo rechazas, el resto de la app funciona y puedes cambiarlo en Ajustes de iOS. Las partidas cercanas no cuentan para la puntuación, las estadísticas, las misiones ni las recompensas de monedas. Sin embargo, una partida terminada se guarda en tu dispositivo como registro con el modo «nearby» y entra en la sincronización del historial descrita arriba, por lo que también se sube a nuestro servidor (con el apodo del rival). Las partidas cercanas no tienen función de denuncia ni de bloqueo. En Android 12 y posteriores, la app solicita el permiso \"Dispositivos cercanos\" para Bluetooth; en Android 11 y anteriores el sistema exige el permiso de ubicación para buscar por Bluetooth, pero la app no lee ni recopila tu ubicación."
    ],
    [
     "Funciones procesadas en tu dispositivo",
@@ -741,27 +781,27 @@
    ],
    [
     "Compras y suscripciones",
-    "Las compras (quitar anuncios, paquete de temas, paquetes de pistas y deshacer) y la suscripción Premium las cobra Apple. Nunca recibimos tus datos de pago; guardamos el ID de transacción, el producto y el estado de la suscripción para entregar y restaurar lo que compraste."
+    "Las compras las cobra la tienda y nunca recibimos los datos de tu tarjeta ni otros datos de pago. En iOS, Apple cobra las compras dentro de la app (quitar anuncios, pack de temas, packs de pistas y de deshacer) y la suscripción Premium; guardamos el ID de transacción, el producto y el estado de la suscripción para conceder y restaurar lo que compraste. En Android las compras pasan por Google Play Billing y solo se ofrecen compras únicas (quitar anuncios, pack de skins, paquete, packs de pistas y de deshacer); en Android no hay suscripciones. La app envía el token de compra a nuestro servidor, que lo comprueba con Google (Google Play Developer API), guarda en un registro de compras solo un hash SHA-256 del token junto con el ID de producto, el estado y la hora, y concede el artículo. Las compras reembolsadas o canceladas se concilian después mediante la API de compras anuladas (voided purchases) de Google y las notificaciones de desarrollador en tiempo real de Google Play, y el artículo se retira."
    ],
    [
     "Notificaciones",
-    "Solo si activas las notificaciones se guarda un token push (Firebase Cloud Messaging) para avisarte cuando sea tu turno o termine una partida. Puedes desactivarlo en la app o en los Ajustes de iOS."
+    "Solo si activas las notificaciones (en Android 13 y posteriores, concediendo el permiso de notificaciones) se guarda un token push (Firebase Cloud Messaging) junto con tu idioma, tu zona horaria y los ajustes de notificación por juego, para avisarte cuando sea tu turno o termine una partida. Puedes desactivarlas en la app o en los ajustes del sistema de iOS o Android."
    ],
    [
     "Anuncios",
-    "Google AdMob muestra anuncios no personalizados. Donde se exige (por ejemplo, el EEE y el Reino Unido), antes de los anuncios se muestra un formulario de consentimiento de Google (UMP) y puedes cambiar tu elección en Ajustes. La app no muestra la solicitud de transparencia de seguimiento de apps, no te rastrea en apps ni sitios web de otras empresas y no pide acceso al identificador de publicidad. Aun así, AdMob puede procesar información del dispositivo y una ubicación aproximada (basada en la IP) para ofrecer anuncios, limitar su frecuencia y prevenir el fraude. Los anuncios se pueden quitar con una compra dentro de la app."
+    "Google AdMob muestra anuncios no personalizados. Donde se exige (por ejemplo, el EEE y el Reino Unido), antes de los anuncios aparece un formulario de consentimiento de Google (UMP) y puedes cambiar tu elección en Ajustes. La app no muestra el aviso de App Tracking Transparency y no te rastrea entre apps o sitios web de otras empresas. En iOS no solicita acceso al identificador de publicidad. En Android la app declara el permiso del ID de publicidad (AD_ID) para los anuncios; estos siguen siendo no personalizados y puedes restablecer o eliminar el ID de publicidad en los ajustes de Android. AdMob aún puede tratar información del dispositivo, el ID de publicidad cuando está disponible y una ubicación aproximada (basada en IP) para mostrar anuncios, limitar su frecuencia, medirlos y prevenir el fraude. Los anuncios se pueden quitar con una compra dentro de la app."
    ],
    [
     "Informes de fallos",
-    "Firebase Crashlytics recoge informes de fallos y errores (modelo de dispositivo, versión de iOS y de la app, registros técnicos y un ID de instalación aleatorio) para corregir problemas. No contienen datos de pago."
+    "Solo en las compilaciones de lanzamiento (no en las de desarrollo), Firebase Crashlytics recopila informes de fallos y errores (modelo del dispositivo, versión del sistema y de la app, trazas de pila y registros técnicos, y un ID de instalación aleatorio) para que podamos corregir problemas. Estos informes no contienen datos de pago."
    ],
    [
     "Proveedores y almacenamiento",
-    "Supabase (base de datos e inicio de sesión), Apple (Iniciar sesión con Apple y pagos) y Google (anuncios de AdMob, notificaciones e informes de fallos de Firebase) tratan los datos según sus propias políticas; sus servidores pueden estar fuera de tu país. Estas páginas se alojan en GitHub Pages y no usan scripts de analítica ni de publicidad."
+    "Supabase (base de datos e inicio de sesión), Apple (Iniciar sesión con Apple y pagos de la App Store) y Google (inicio de sesión con Google, Google Play Billing, anuncios de AdMob, notificaciones de Firebase e informes de fallos) tratan los datos según sus propias políticas de privacidad; sus servidores pueden estar fuera de tu país. Estas páginas se alojan en GitHub Pages y no usan scripts de analítica ni de publicidad."
    ],
    [
     "Conservación y eliminación",
-    "Los datos del servidor se conservan mientras exista tu cuenta. Si eliminas la cuenta en la app o lo pides por correo, se eliminan o anonimizan en un plazo razonable. Borrar la app solo elimina los datos guardados en el dispositivo."
+    "Los datos del servidor se conservan mientras exista tu cuenta. Cuando eliminas tu cuenta en la app (Ajustes > Cuenta) o solicitas la eliminación en la página Eliminar datos, se eliminan o anonimizan en un plazo razonable. Excepción: un registro de compra mínimo (hash del token de compra, ID de producto, estado y hora, sin nombre ni correo) puede conservarse hasta 5 años tras la eliminación para evitar que un artículo se conceda dos veces tras un reembolso y cumplir obligaciones contables y legales. Desinstalar la app solo elimina los datos guardados en el dispositivo."
    ],
    [
     "Tus derechos, menores y cambios",
@@ -771,11 +811,11 @@
   "terms": [
    [
     "Servicio",
-    "Damas ofrece partidas contra el ordenador, dos jugadores en un dispositivo, juego en línea en vivo y asíncrono, códigos de amigo y desafíos, torneos, clasificaciones, partidas cercanas por Wi-Fi o Bluetooth, 13 variantes de reglas, problemas, misiones diarias y análisis de partidas. La suscripción Premium quita los anuncios y los límites diarios e incluye todos los diseños y pistas y deshacer ilimitados."
+    "Damas ofrece partidas contra el ordenador, dos jugadores en un dispositivo, juego en línea en vivo y asíncrono, códigos de amigo y desafíos, torneos, clasificaciones, partidas cercanas por Wi-Fi o Bluetooth, 13 variantes de reglas, problemas, misiones diarias y análisis de partidas. La suscripción Premium quita los anuncios y los límites diarios e incluye todos los diseños y pistas y deshacer ilimitados. La suscripción Premium solo se ofrece en iOS."
    ],
    [
     "Compras y suscripciones",
-    "Los pagos se realizan a través de Apple. Las suscripciones se renuevan automáticamente salvo que se cancelen al menos 24 horas antes del fin del periodo actual; puedes gestionarlas o cancelarlas en los ajustes de tu ID de Apple. Los reembolsos siguen las políticas de Apple. Las monedas y objetos no tienen valor monetario ni se pueden canjear. También se aplica el EULA estándar de Apple."
+    "Los pagos se realizan a través de la tienda: Apple en iOS y Google Play en Android. Las suscripciones Premium de iOS se renuevan automáticamente salvo que se cancelen al menos 24 horas antes de que termine el periodo actual; gestiónalas o cancélalas en los ajustes de tu ID de Apple. Android ofrece solo compras únicas y no tiene suscripciones. Los reembolsos siguen las políticas de Apple o de Google Play, y un artículo reembolsado o cancelado puede retirarse. Las monedas y los artículos no tienen valor en efectivo y no se pueden canjear. En iOS también se aplica el EULA estándar de Apple."
    ],
    [
     "Juego limpio y conducta",
@@ -801,29 +841,37 @@
    ],
    [
     "Solución de problemas de partidas cercanas",
-    "En ambos dispositivos elige partida cercana en Iniciar partida; uno hace de anfitrión y el otro se une. El Wi-Fi necesita la misma red y el Bluetooth debe estar activado. Si no se conectan, comprueba en Ajustes de iOS > Damas que Bluetooth y Red local estén permitidos y acerca los dispositivos."
+    "En ambos dispositivos elige partida cercana en Iniciar partida; uno hace de anfitrión y el otro se une. El Wi-Fi necesita la misma red y el Bluetooth debe estar activado. Si no se conectan, comprueba en Ajustes de iOS > Damas que Bluetooth y Red local estén permitidos y acerca los dispositivos. En Android, comprueba en Ajustes > Apps > Damas > Permisos que \"Dispositivos cercanos\" esté permitido."
    ],
    [
     "Progreso, compras y sincronización",
-    "El progreso se guarda automáticamente en tu cuenta. Usa Restaurar compras en la Tienda para recuperar tus compras e inicia sesión con Apple en Ajustes para seguir en otro dispositivo."
+    "El progreso se guarda automáticamente en tu cuenta. Usa Restaurar compras en la Tienda para recuperar lo comprado e inicia sesión en Ajustes (Apple en iOS, Google en Android) para continuar en otro dispositivo."
    ],
    [
     "Contacto",
-    "Pon \"Damas\" en el asunto del correo e indica la versión de la app, tu dispositivo y versión de iOS, y los pasos que llevaron al problema. Para problemas de compra, el recibo de Apple nos ayuda a responder antes."
+    "Pon \"Damas\" en el asunto e indícanos la versión de la app, tu dispositivo con su versión de iOS o Android y los pasos que llevaron al problema. En problemas de compra, el recibo de Apple o el número de pedido de Google Play nos ayuda a responder más rápido."
    ]
   ],
   "delete-account": [
    [
     "Eliminar en la app",
-    "Si iniciaste sesión con Apple: Ajustes > Cuenta > Eliminar cuenta. Se eliminan de forma permanente tu progreso, clasificación, apodo, derechos de compra, monedas, pistas y deshacer de pago restantes, amigos y código de amigo, historial de desafíos, historial de partidas sincronizado con el servidor, participaciones en torneos y el token de notificaciones, y las partidas en línea en curso terminan. Los pagos de la App Store no se reembolsan."
+    "Abre Ajustes > Cuenta > Eliminar cuenta (puede pedirse una nueva confirmación con Apple o Google). Tu progreso, clasificación, apodo, derechos de compra, monedas, pistas y deshacer de pago restantes, amigos y código de amigo, historial de retos, partidas sincronizadas con el servidor, inscripciones en torneos y token push se eliminan de forma permanente, y las partidas en línea en curso terminan. Los pagos en la App Store o Google Play no se reembolsan."
    ],
    [
-    "Solicitud por correo",
-    "Sin iniciar sesión con Apple, escribe a dhalska2@gmail.com con el asunto \"Eliminación de datos de Damas\" y datos que identifiquen tu cuenta (por ejemplo, tu apodo). Eliminaremos los datos del servidor en un plazo razonable."
+    "Solicitud por la web (sin instalar la app)",
+    "Puedes solicitar la eliminación sin instalar la app. Escribe a dhalska2@gmail.com con el asunto \"Eliminación de datos de Damas\", indicando la app (Damas / Checkers, com.osj.checkers) y el desarrollador (Next Studio / 넥스트 스튜디오). Cuéntanos cómo iniciaste sesión (Apple, Google o anónimo) y los datos de abajo. Confirmamos por respuesta y eliminamos los datos de Damas del servidor en un plazo razonable, normalmente en 30 días."
+   ],
+   [
+    "Cómo verificamos tu identidad",
+    "Si iniciaste sesión, envía la solicitud desde el correo de esa cuenta de Apple o Google o indícanos esa dirección. En una cuenta anónima, aporta datos que solo el titular ve en la app (apodo, código de amigo, país y puntuación). Nunca pedimos contraseñas, códigos de un solo uso ni números de tarjeta. Si no podemos asociar la solicitud a una cuenta, te responderemos para pedirte más datos."
+   ],
+   [
+    "Qué se elimina y qué se conserva",
+    "Se elimina: todo lo indicado en \"Eliminar en la app\". Se conserva: un registro de compra mínimo (hash del token de compra, ID de producto, estado y hora, sin nombre ni correo) hasta 5 años, para evitar concesiones duplicadas tras reembolsos y cumplir obligaciones contables y legales. Tu cuenta de acceso puede compartirse con otros juegos de Next Studio; esta solicitud elimina solo los datos de Damas, así que dínoslo en el correo si quieres eliminar toda la cuenta."
    ],
    [
     "Datos en el dispositivo",
-    "Los datos guardados en el dispositivo (como copias locales del historial de partidas) se eliminan al borrar la app («Eliminar app», no «Descargar app»). El apodo y las jugadas enviados a otro dispositivo en una partida cercana pueden permanecer en él y no podemos borrarlos."
+    "Los datos guardados en el dispositivo (como copias locales de partidas) se eliminan al desinstalar la app (en iOS, \"Eliminar app\", no \"Descargar app\"). El apodo y las jugadas enviados a otro dispositivo durante el juego cercano pueden permanecer en él y no podemos eliminarlos."
    ]
   ]
  },
@@ -837,7 +885,7 @@
   ],
   "tag": "Les dames classiques en 13 variantes de règles — jouez, résolvez, progressez.",
   "intro": "Assistance et politiques officielles de Dames · Next Studio",
-  "date": "En vigueur / mis à jour : 4 octobre 2026",
+  "date": "En vigueur / mis à jour : 17 octobre 2026",
   "contact": "Contact",
   "skip": "Aller au contenu",
   "features": [
@@ -846,16 +894,16 @@
    "Parties à proximité en Wi-Fi ou Bluetooth, sans internet",
    "Parties en ligne en direct ou asynchrones, codes d’ami, tournois et classements",
    "Problèmes · missions quotidiennes · analyse de parties · import/export PDN · éditeur de plateau",
-   "Abonnement Premium"
+   "Abonnement Premium (iOS)"
   ],
   "privacy": [
    [
     "Éditeur et champ d’application",
-    "Cette politique s’applique à l’app iOS « Dames » (identifiant com.osj.checkers), publiée par Next Studio, développeur individuel basé en Corée du Sud. Contact : dhalska2@gmail.com."
+    "Cette politique s’applique à l’app iOS et Android « Dames » (identifiant iOS et nom de package Android com.osj.checkers), publiée par Next Studio, développeur individuel basé en Corée du Sud. Contact : dhalska2@gmail.com."
    ],
    [
     "Compte et progression",
-    "Aucune inscription n’est nécessaire : l’app crée automatiquement un compte anonyme. Votre progression (statistiques, succès, problèmes résolus, missions, réglages et une partie en cours) est enregistrée sur notre serveur pour ce compte afin de ne pas être perdue. Les pièces, indices, annulations, thèmes possédés, bonus de présence, utilisations gratuites quotidiennes et récompenses de succès et de missions récupérées sont accordés, déduits et enregistrés par le serveur ; l’app n’affiche que les valeurs renvoyées par le serveur. Une publicité récompensée n’est comptée qu’une fois et seulement après la vérification côté serveur d’AdMob, pour laquelle l’identifiant de votre compte et un jeton à usage unique sont transmis à notre serveur. La connexion avec Apple est facultative ; Apple partage un identifiant et, si vous l’autorisez, une adresse e-mail (éventuellement une adresse relais privée), utilisés uniquement pour reconnaître votre compte sur vos appareils. Si vous vous connectez à un compte existant, la progression du compte anonyme y est fusionnée."
+    "Aucune inscription n’est nécessaire : l’app crée automatiquement un compte anonyme. Votre progression (statistiques, succès, puzzles résolus, missions, réglages et une partie inachevée) est enregistrée sur notre serveur, rattachée à ce compte, pour ne pas être perdue. Les pièces, indices, annulations, thèmes possédés, bonus d’assiduité, usages gratuits quotidiens et récompenses de succès et de missions réclamées sont accordés, déduits et enregistrés par le serveur ; l’app affiche seulement les valeurs qu’il renvoie. Une publicité avec récompense ne compte qu’une fois et seulement après la vérification côté serveur d’AdMob, pour laquelle l’identifiant de votre compte et un jeton à usage unique sont transmis à notre serveur. La connexion est facultative. Sur iOS, vous pouvez utiliser Se connecter avec Apple : Apple partage un identifiant et, si vous l’autorisez, une adresse e-mail (éventuellement une adresse relais privée). Sur Android, vous pouvez utiliser la connexion Google : nous recevons uniquement l’identifiant de votre compte Google et votre adresse e-mail, et nous ne demandons ni votre nom ni votre photo de profil. Ces données servent uniquement à créer ou lier votre compte et à le reconnaître sur vos appareils. Lorsque vous vous connectez à un compte existant, la progression du compte anonyme y est fusionnée."
    ],
    [
     "Jeu en ligne, classements et spectateurs",
@@ -871,7 +919,7 @@
    ],
    [
     "Parties à proximité (Wi-Fi et Bluetooth)",
-    "Les parties à proximité vous permettent de jouer directement avec un appareil proche, sans internet, via le même Wi-Fi ou Bluetooth LE. En Wi-Fi, la salle est annoncée et trouvée sur le réseau local avec Bonjour (mDNS) ; en Bluetooth, l’adversaire est trouvé par annonce et recherche. Tant que vous hébergez, votre pseudo est visible des appareils proches. Une fois connectés, votre pseudo, votre avatar, les règles, les coups, les offres d’abandon et de nulle et les réactions emoji passent directement à l’autre appareil et ne sont pas envoyés à nos serveurs. L’app n’utilise pas votre position. iOS demande l’accès au Bluetooth et au réseau local la première fois ; si vous refusez, le reste de l’app fonctionne et vous pouvez changer cela dans les Réglages iOS. Les parties à proximité ne comptent pas pour le classement, les statistiques, les missions ni les récompenses en pièces. Toutefois, une partie terminée est enregistrée sur votre appareil comme historique avec le mode « nearby » et entre dans la synchronisation ci-dessus ; elle est donc aussi envoyée à notre serveur (avec le pseudo de l’adversaire). Les parties à proximité n’offrent ni signalement ni blocage."
+    "Les parties à proximité vous permettent de jouer directement avec un appareil proche, sans internet, via le même Wi-Fi ou Bluetooth LE. En Wi-Fi, la salle est annoncée et trouvée sur le réseau local avec Bonjour (mDNS) ; en Bluetooth, l’adversaire est trouvé par annonce et recherche. Tant que vous hébergez, votre pseudo est visible des appareils proches. Une fois connectés, votre pseudo, votre avatar, les règles, les coups, les offres d’abandon et de nulle et les réactions emoji passent directement à l’autre appareil et ne sont pas envoyés à nos serveurs. L’app n’utilise pas votre position. iOS demande l’accès au Bluetooth et au réseau local la première fois ; si vous refusez, le reste de l’app fonctionne et vous pouvez changer cela dans les Réglages iOS. Les parties à proximité ne comptent pas pour le classement, les statistiques, les missions ni les récompenses en pièces. Toutefois, une partie terminée est enregistrée sur votre appareil comme historique avec le mode « nearby » et entre dans la synchronisation ci-dessus ; elle est donc aussi envoyée à notre serveur (avec le pseudo de l’adversaire). Les parties à proximité n’offrent ni signalement ni blocage. Sur Android 12 et versions ultérieures, l’app demande l’autorisation « Appareils à proximité » pour le Bluetooth ; sur Android 11 et versions antérieures, le système exige l’autorisation de localisation pour la recherche Bluetooth, mais l’app ne lit ni ne collecte votre position."
    ],
    [
     "Fonctions traitées sur votre appareil",
@@ -879,27 +927,27 @@
    ],
    [
     "Achats et abonnements",
-    "Les achats (suppression des pubs, pack de thèmes, packs d’indices et d’annulations) et l’abonnement Premium sont facturés par Apple. Nous ne recevons jamais vos données de paiement ; nous conservons l’identifiant de transaction, le produit et l’état de l’abonnement pour attribuer et restaurer vos achats."
+    "Les achats sont facturés par la boutique et nous ne recevons jamais vos données de carte ni d’autres données de paiement. Sur iOS, Apple facture les achats intégrés (suppression des pubs, pack de thèmes, packs d’indices et d’annulations) et l’abonnement Premium ; nous enregistrons l’identifiant de transaction, le produit et l’état de l’abonnement pour accorder et restaurer vos achats. Sur Android, les achats passent par Google Play Billing et seuls des achats uniques sont proposés (suppression des pubs, pack de thèmes, lot, packs d’indices et d’annulations) ; il n’y a pas d’abonnement sur Android. L’app envoie le jeton d’achat à notre serveur, qui le vérifie auprès de Google (Google Play Developer API), n’enregistre dans un registre d’achats qu’un hachage SHA-256 du jeton avec l’identifiant du produit, l’état et l’heure, puis accorde l’article. Les achats remboursés ou annulés sont rapprochés plus tard grâce à l’API des achats annulés (voided purchases) de Google et aux notifications en temps réel pour les développeurs de Google Play, et l’article est retiré."
    ],
    [
     "Notifications",
-    "Uniquement si vous activez les notifications, un jeton push (Firebase Cloud Messaging) est enregistré pour vous prévenir quand c’est votre tour ou qu’une partie est terminée. Vous pouvez le désactiver dans l’app ou dans les Réglages iOS."
+    "Seulement si vous activez les notifications (sur Android 13 et versions ultérieures, en accordant l’autorisation de notification), un jeton push (Firebase Cloud Messaging) est enregistré avec votre langue, votre fuseau horaire et vos réglages de notification par jeu, pour vous prévenir quand c’est votre tour ou qu’une partie est terminée. Vous pouvez les désactiver dans l’app ou dans les réglages système d’iOS ou d’Android."
    ],
    [
     "Publicités",
-    "Google AdMob affiche des publicités non personnalisées. Là où c’est requis (par exemple l’EEE et le Royaume-Uni), un formulaire de consentement Google (UMP) s’affiche avant les publicités et vous pouvez modifier votre choix dans les Réglages. L’app n’affiche pas de demande App Tracking Transparency, ne vous suit pas sur les apps ou sites d’autres entreprises et ne demande pas l’accès à l’identifiant publicitaire. AdMob peut néanmoins traiter des informations sur l’appareil et une position approximative (selon l’IP) pour diffuser les publicités, limiter leur fréquence et prévenir la fraude. Les publicités peuvent être supprimées par un achat intégré."
+    "Google AdMob affiche des publicités non personnalisées. Là où c’est requis (par exemple l’EEE et le Royaume-Uni), un formulaire de consentement Google (UMP) s’affiche avant les publicités et vous pouvez modifier votre choix dans les Réglages. L’app n’affiche pas de demande App Tracking Transparency et ne vous suit pas à travers les apps ou sites d’autres entreprises. Sur iOS, elle ne demande pas l’accès à l’identifiant publicitaire. Sur Android, l’app déclare l’autorisation de l’ID publicitaire (AD_ID) pour les publicités ; elles restent non personnalisées et vous pouvez réinitialiser ou supprimer l’ID publicitaire dans les réglages Android. AdMob peut néanmoins traiter des informations sur l’appareil, l’ID publicitaire lorsqu’il est disponible et une position approximative (d’après l’IP) pour diffuser les publicités, limiter leur fréquence, les mesurer et prévenir la fraude. Les publicités peuvent être supprimées par un achat intégré."
    ],
    [
     "Rapports de plantage",
-    "Firebase Crashlytics collecte des rapports de plantage et d’erreur (modèle d’appareil, versions d’iOS et de l’app, journaux techniques et un identifiant d’installation aléatoire) afin de corriger les problèmes. Ils ne contiennent aucune donnée de paiement."
+    "Uniquement dans les versions de production (pas dans les versions de développement), Firebase Crashlytics collecte des rapports de plantage et d’erreur (modèle d’appareil, version du système et de l’app, traces de pile et journaux techniques, et un identifiant d’installation aléatoire) afin que nous puissions corriger les problèmes. Ces rapports ne contiennent aucune donnée de paiement."
    ],
    [
     "Prestataires et stockage",
-    "Supabase (base de données et connexion), Apple (Connexion avec Apple et paiements) et Google (publicités AdMob, notifications et rapports de plantage Firebase) traitent les données selon leurs propres politiques ; leurs serveurs peuvent se trouver hors de votre pays. Ces pages sont hébergées sur GitHub Pages et n’utilisent aucun script d’analyse ou de publicité."
+    "Supabase (base de données et connexion), Apple (Se connecter avec Apple et paiements App Store) et Google (connexion Google, Google Play Billing, publicités AdMob, notifications Firebase et rapports de plantage) traitent les données selon leurs propres politiques de confidentialité ; leurs serveurs peuvent se trouver hors de votre pays. Ces pages sont hébergées sur GitHub Pages et n’utilisent aucun script d’analyse ni de publicité."
    ],
    [
     "Conservation et suppression",
-    "Les données du serveur sont conservées tant que votre compte existe. Si vous supprimez votre compte dans l’app ou en faites la demande par e-mail, elles sont supprimées ou anonymisées dans un délai raisonnable. Supprimer l’app n’efface que les données stockées sur l’appareil."
+    "Les données du serveur sont conservées tant que votre compte existe. Lorsque vous supprimez votre compte dans l’app (Réglages > Compte) ou demandez la suppression sur la page Supprimer les données, elles sont supprimées ou anonymisées dans un délai raisonnable. Exception : un enregistrement d’achat minimal (hachage du jeton d’achat, identifiant du produit, état et heure, sans nom ni e-mail) peut être conservé jusqu’à 5 ans après la suppression pour éviter qu’un article soit accordé deux fois après un remboursement et pour respecter les obligations comptables et légales. Supprimer l’app n’efface que les données stockées sur l’appareil."
    ],
    [
     "Vos droits, enfants et modifications",
@@ -909,11 +957,11 @@
   "terms": [
    [
     "Service",
-    "Dames propose des parties contre l’ordinateur, à deux sur un appareil, en ligne en direct et asynchrones, des codes d’ami et défis, des tournois, des classements, des parties à proximité en Wi-Fi ou Bluetooth, 13 variantes de règles, des problèmes, des missions quotidiennes et l’analyse de parties. L’abonnement Premium supprime les publicités et les limites quotidiennes et inclut tous les thèmes ainsi que des indices et annulations illimités."
+    "Dames propose des parties contre l’ordinateur, à deux sur un appareil, en ligne en direct et asynchrones, des codes d’ami et défis, des tournois, des classements, des parties à proximité en Wi-Fi ou Bluetooth, 13 variantes de règles, des problèmes, des missions quotidiennes et l’analyse de parties. L’abonnement Premium supprime les publicités et les limites quotidiennes et inclut tous les thèmes ainsi que des indices et annulations illimités. L’abonnement Premium n’est proposé que sur iOS."
    ],
    [
     "Achats et abonnements",
-    "Les paiements passent par Apple. Les abonnements se renouvellent automatiquement sauf résiliation au moins 24 heures avant la fin de la période en cours ; gérez-les ou résiliez-les dans les réglages de votre identifiant Apple. Les remboursements suivent les règles d’Apple. Les pièces et objets n’ont aucune valeur monétaire et ne peuvent pas être échangés. Le CLUF standard d’Apple s’applique également."
+    "Les paiements passent par la boutique : Apple sur iOS et Google Play sur Android. Sur iOS, les abonnements Premium se renouvellent automatiquement sauf annulation au moins 24 heures avant la fin de la période en cours ; gérez-les ou annulez-les dans les réglages de votre identifiant Apple. Android propose uniquement des achats uniques, sans abonnement. Les remboursements suivent les politiques d’Apple ou de Google Play, et un article remboursé ou annulé peut être retiré. Les pièces et objets n’ont aucune valeur monétaire et ne sont pas échangeables. Sur iOS, le contrat de licence standard d’Apple s’applique aussi."
    ],
    [
     "Fair-play et conduite",
@@ -939,29 +987,37 @@
    ],
    [
     "Dépannage des parties à proximité",
-    "Sur les deux appareils, choisissez la partie à proximité dans Démarrer une partie ; l’un héberge et l’autre rejoint. Le Wi-Fi nécessite le même réseau et le Bluetooth doit être activé. Si la connexion échoue, vérifiez dans Réglages iOS > Dames que le Bluetooth et le Réseau local sont autorisés, et rapprochez les appareils."
+    "Sur les deux appareils, choisissez la partie à proximité dans Démarrer une partie ; l’un héberge et l’autre rejoint. Le Wi-Fi nécessite le même réseau et le Bluetooth doit être activé. Si la connexion échoue, vérifiez dans Réglages iOS > Dames que le Bluetooth et le Réseau local sont autorisés, et rapprochez les appareils. Sur Android, vérifiez dans Paramètres > Applications > Dames > Autorisations que « Appareils à proximité » est autorisé."
    ],
    [
     "Progression, achats et synchronisation",
-    "La progression est enregistrée automatiquement sur votre compte. Utilisez Restaurer les achats dans la Boutique pour récupérer vos achats et connectez-vous avec Apple dans les Réglages pour continuer sur un autre appareil."
+    "La progression est enregistrée automatiquement dans votre compte. Utilisez Restaurer les achats dans la Boutique pour retrouver vos achats, et connectez-vous dans les Réglages (Apple sur iOS, Google sur Android) pour continuer sur un autre appareil."
    ],
    [
     "Nous contacter",
-    "Indiquez « Dames » dans l’objet de l’e-mail ainsi que la version de l’app, votre appareil et votre version d’iOS, et les étapes ayant mené au problème. Pour un problème d’achat, le reçu Apple nous aide à répondre plus vite."
+    "Mettez « Dames » dans l’objet et indiquez la version de l’app, votre appareil avec sa version d’iOS ou d’Android et les étapes qui ont mené au problème. Pour un problème d’achat, le reçu Apple ou le numéro de commande Google Play nous aide à répondre plus vite."
    ]
   ],
   "delete-account": [
    [
     "Supprimer dans l’app",
-    "Si vous vous êtes connecté avec Apple : Réglages > Compte > Supprimer le compte. Votre progression, classement, pseudo, droits d’achat, pièces, indices et annulations payants restants, amis et code d’ami, historique des défis, historique des parties synchronisé avec le serveur, participations aux tournois et jeton de notification sont supprimés définitivement, et les parties en ligne en cours prennent fin. Les paiements App Store ne sont pas remboursés."
+    "Ouvrez Réglages > Compte > Supprimer le compte (une nouvelle confirmation via Apple ou Google peut être demandée). Votre progression, classement, pseudo, droits d’achat, pièces, indices et annulations payants restants, amis et code ami, historique des défis, parties synchronisées avec le serveur, inscriptions aux tournois et jeton push sont supprimés définitivement, et les parties en ligne en cours sont terminées. Les paiements effectués sur l’App Store ou Google Play ne sont pas remboursés."
    ],
    [
-    "Demande par e-mail",
-    "Sans connexion Apple, écrivez à dhalska2@gmail.com avec l’objet « Suppression des données Dames » et des informations permettant d’identifier votre compte (par exemple votre pseudo). Nous supprimons les données du serveur dans un délai raisonnable."
+    "Demande sur le web (sans installer l’app)",
+    "Vous pouvez demander la suppression sans installer l’app. Écrivez à dhalska2@gmail.com avec l’objet « Suppression des données Dames », en indiquant l’app (Dames / Checkers, com.osj.checkers) et le développeur (Next Studio / 넥스트 스튜디오). Indiquez comment vous vous êtes connecté (Apple, Google ou anonyme) et les informations ci-dessous. Nous confirmons par réponse et supprimons les données de Dames sur notre serveur dans un délai raisonnable, normalement sous 30 jours."
+   ],
+   [
+    "Comment nous vérifions votre identité",
+    "Si vous étiez connecté, envoyez la demande depuis l’adresse e-mail de ce compte Apple ou Google, ou communiquez-nous cette adresse. Pour un compte anonyme, donnez des informations que seul le titulaire voit dans l’app (pseudo, code ami, pays et classement). Nous ne demandons jamais de mot de passe, de code à usage unique ni de numéro de carte. Si nous ne pouvons pas associer la demande à un compte, nous vous répondrons pour demander des précisions."
+   ],
+   [
+    "Ce qui est supprimé et ce qui est conservé",
+    "Supprimé : tout ce qui figure sous « Supprimer dans l’app ». Conservé : un enregistrement d’achat minimal (hachage du jeton d’achat, identifiant du produit, état et heure, sans nom ni e-mail) jusqu’à 5 ans, pour éviter les attributions en double après remboursement et respecter les obligations comptables et légales. Votre compte de connexion peut être partagé avec d’autres jeux de Next Studio ; cette demande ne supprime que les données de Dames, précisez-le dans l’e-mail si vous voulez supprimer tout le compte."
    ],
    [
     "Données sur l’appareil",
-    "Les données stockées sur l’appareil (comme les copies locales de l’historique des parties) sont supprimées quand vous supprimez l’app (« Supprimer l’app », pas « Désinstaller l’app »). Le pseudo et les coups envoyés à un autre appareil lors d’une partie à proximité peuvent y rester et nous ne pouvons pas les supprimer."
+    "Les données stockées sur l’appareil (comme les copies locales des parties) sont supprimées lorsque vous désinstallez l’app (sur iOS « Supprimer l’app », pas « Délester l’app »). Le pseudo et les coups envoyés à un autre appareil pendant le jeu à proximité peuvent y rester et nous ne pouvons pas les supprimer."
    ]
   ]
  },
@@ -975,7 +1031,7 @@
   ],
   "tag": "13 नियम-प्रकारों में क्लासिक चेकर्स — खेलें, हल करें, ऊपर चढ़ें।",
   "intro": "चेकर्स की आधिकारिक सहायता और नीतियाँ · Next Studio",
-  "date": "प्रभावी / अद्यतन: 4 अक्टूबर 2026",
+  "date": "प्रभावी / अद्यतन: 17 अक्टूबर 2026",
   "contact": "संपर्क",
   "skip": "मुख्य सामग्री पर जाएँ",
   "features": [
@@ -984,16 +1040,16 @@
    "बिना इंटरनेट Wi-Fi या ब्लूटूथ से पास के डिवाइस के साथ खेलें",
    "लाइव और एसिंक ऑनलाइन खेल, फ्रेंड कोड, टूर्नामेंट और रैंकिंग",
    "पहेलियाँ · दैनिक मिशन · खेल विश्लेषण · PDN आयात/निर्यात · बोर्ड एडिटर",
-   "प्रीमियम सदस्यता"
+   "प्रीमियम सदस्यता (केवल iOS)"
   ],
   "privacy": [
    [
     "संचालक और दायरा",
-    "यह नीति iOS ऐप \"चेकर्स\" (बंडल ID com.osj.checkers) पर लागू होती है, जिसे दक्षिण कोरिया स्थित एकल डेवलपर Next Studio प्रकाशित करता है। संपर्क: dhalska2@gmail.com।"
+    "यह नीति iOS और Android ऐप \"चेकर्स\" (iOS बंडल ID और Android पैकेज com.osj.checkers) पर लागू होती है, जिसे दक्षिण कोरिया स्थित एकल डेवलपर Next Studio प्रकाशित करता है। संपर्क: dhalska2@gmail.com।"
    ],
    [
     "खाता और प्रगति",
-    "साइन-अप ज़रूरी नहीं: ऐप अपने-आप एक अनाम खाता बनाता है। आपकी प्रगति (आँकड़े, उपलब्धियाँ, हल की गई पहेलियाँ, मिशन, सेटिंग और अधूरा खेल) खोने से बचाने के लिए इसी खाते के आधार पर हमारे सर्वर पर सहेजी जाती है। सिक्के, हिंट, अंडू की संख्या, आपके स्किन, उपस्थिति बोनस, दैनिक मुफ़्त उपयोग और ली गई उपलब्धि व मिशन पुरस्कार सर्वर द्वारा दिए, घटाए और दर्ज किए जाते हैं; ऐप केवल वही मान दिखाता है जो सर्वर लौटाता है। इनाम वाला विज्ञापन केवल AdMob के सर्वर-साइड सत्यापन के बाद और एक ही बार गिना जाता है, जिसके लिए आपके खाते की पहचान और एक बार वाला टोकन हमारे सर्वर को भेजा जाता है। Apple से साइन इन वैकल्पिक है; Apple एक पहचानकर्ता और, आपकी अनुमति हो तो, ईमेल पता (निजी रिले पता हो सकता है) साझा करता है, जिसका उपयोग केवल आपके डिवाइसों पर खाते की पहचान के लिए होता है। किसी मौजूदा खाते में साइन इन करने पर अनाम खाते की प्रगति उसमें मिला दी जाती है।"
+    "साइन-अप ज़रूरी नहीं है: ऐप अपने आप एक अनाम खाता बना देता है। आपकी प्रगति (आँकड़े, उपलब्धियाँ, हल की गई पहेलियाँ, मिशन, सेटिंग और अधूरा खेल) खो न जाए, इसलिए उसी खाते से जोड़कर हमारे सर्वर पर सहेजी जाती है। सिक्के, संकेत, पूर्ववत, खरीदी स्किन, उपस्थिति बोनस, रोज़ के मुफ़्त उपयोग और ली गई उपलब्धि व मिशन पुरस्कार सर्वर देता, घटाता और दर्ज करता है; ऐप केवल सर्वर के लौटाए मान दिखाता है। पुरस्कृत विज्ञापन एक ही बार गिना जाता है और केवल AdMob की सर्वर-साइड पुष्टि के बाद, जिसके लिए आपके खाते की पहचान और एक बार वाला टोकन हमारे सर्वर को भेजा जाता है। साइन इन वैकल्पिक है। iOS पर आप Apple से साइन इन कर सकते हैं: Apple एक पहचानकर्ता और, आपकी अनुमति हो तो, ईमेल पता (निजी रिले पता हो सकता है) साझा करता है। Android पर आप Google साइन-इन कर सकते हैं: हमें केवल आपके Google खाते का पहचानकर्ता और ईमेल पता मिलता है; हम आपका नाम या प्रोफ़ाइल फ़ोटो नहीं माँगते। इनका उपयोग केवल खाता बनाने या जोड़ने और आपके उपकरणों पर उसे पहचानने के लिए होता है। मौजूदा खाते में साइन इन करने पर अनाम खाते की प्रगति उसमें मिला दी जाती है।"
    ],
    [
     "ऑनलाइन खेल, रैंकिंग और दर्शक",
@@ -1009,7 +1065,7 @@
    ],
    [
     "पास का खेल (Wi-Fi और ब्लूटूथ)",
-    "पास का खेल आपको बिना इंटरनेट, उसी Wi-Fi या ब्लूटूथ LE पर पास के डिवाइस के साथ सीधे खेलने देता है। Wi-Fi पर कमरा स्थानीय नेटवर्क में Bonjour (mDNS) से घोषित और खोजा जाता है; ब्लूटूथ पर प्रतिद्वंद्वी विज्ञापन और स्कैन से मिलता है। आप जब तक कमरा चलाते हैं, आपका उपनाम पास के डिवाइसों को दिखता है। जुड़ने के बाद आपका उपनाम, अवतार, नियम, चालें, हार मानने और ड्रॉ के प्रस्ताव तथा इमोजी प्रतिक्रियाएँ सीधे दूसरे डिवाइस को जाती हैं और हमारे सर्वर को नहीं भेजी जातीं। ऐप आपके स्थान का उपयोग नहीं करता। iOS पहली बार ब्लूटूथ और स्थानीय नेटवर्क की अनुमति पूछता है; मना करने पर भी बाकी ऐप चलता है, और आप iOS सेटिंग में बदल सकते हैं। पास के खेल रेटिंग, आँकड़ों, मिशनों या सिक्का पुरस्कारों में नहीं गिने जाते। हालाँकि, पूरा हुआ खेल मोड “nearby” वाले रिकॉर्ड के रूप में आपके डिवाइस पर सहेजा जाता है और ऊपर के खेल रिकॉर्ड सिंक में शामिल होता है, इसलिए वह हमारे सर्वर पर भी अपलोड होता है (प्रतिद्वंद्वी के उपनाम सहित)। पास के खेल में रिपोर्ट या ब्लॉक की सुविधा नहीं है।"
+    "पास का खेल आपको बिना इंटरनेट, उसी Wi-Fi या ब्लूटूथ LE पर पास के डिवाइस के साथ सीधे खेलने देता है। Wi-Fi पर कमरा स्थानीय नेटवर्क में Bonjour (mDNS) से घोषित और खोजा जाता है; ब्लूटूथ पर प्रतिद्वंद्वी विज्ञापन और स्कैन से मिलता है। आप जब तक कमरा चलाते हैं, आपका उपनाम पास के डिवाइसों को दिखता है। जुड़ने के बाद आपका उपनाम, अवतार, नियम, चालें, हार मानने और ड्रॉ के प्रस्ताव तथा इमोजी प्रतिक्रियाएँ सीधे दूसरे डिवाइस को जाती हैं और हमारे सर्वर को नहीं भेजी जातीं। ऐप आपके स्थान का उपयोग नहीं करता। iOS पहली बार ब्लूटूथ और स्थानीय नेटवर्क की अनुमति पूछता है; मना करने पर भी बाकी ऐप चलता है, और आप iOS सेटिंग में बदल सकते हैं। पास के खेल रेटिंग, आँकड़ों, मिशनों या सिक्का पुरस्कारों में नहीं गिने जाते। हालाँकि, पूरा हुआ खेल मोड “nearby” वाले रिकॉर्ड के रूप में आपके डिवाइस पर सहेजा जाता है और ऊपर के खेल रिकॉर्ड सिंक में शामिल होता है, इसलिए वह हमारे सर्वर पर भी अपलोड होता है (प्रतिद्वंद्वी के उपनाम सहित)। पास के खेल में रिपोर्ट या ब्लॉक की सुविधा नहीं है। Android 12 और बाद में ऐप ब्लूटूथ के लिए \"आस-पास के डिवाइस\" अनुमति माँगता है; Android 11 और पहले सिस्टम ब्लूटूथ स्कैन के लिए स्थान अनुमति माँगता है, पर ऐप आपका स्थान न पढ़ता है, न एकत्र करता है।"
    ],
    [
     "आपके डिवाइस पर प्रोसेस होने वाली सुविधाएँ",
@@ -1017,27 +1073,27 @@
    ],
    [
     "खरीदारी और सदस्यता",
-    "खरीदारी (विज्ञापन हटाना, थीम पैक, संकेत और पूर्ववत पैक) और प्रीमियम सदस्यता का भुगतान Apple लेता है। हमें आपकी भुगतान जानकारी कभी नहीं मिलती; खरीदी गई चीज़ें देने और बहाल करने के लिए हम लेनदेन ID, उत्पाद और सदस्यता की स्थिति सहेजते हैं।"
+    "खरीद का भुगतान स्टोर संभालता है और हमें आपके कार्ड या अन्य भुगतान विवरण कभी नहीं मिलते। iOS पर ऐप-में खरीद (विज्ञापन हटाना, थीम पैक, संकेत व पूर्ववत पैक) और प्रीमियम सदस्यता का बिल Apple बनाता है; आपने जो खरीदा उसे देने और बहाल करने के लिए हम लेन-देन ID, उत्पाद और सदस्यता की स्थिति सहेजते हैं। Android पर खरीद Google Play Billing से होती है और केवल एक बार की खरीद उपलब्ध है (विज्ञापन हटाना, स्किन पैक, बंडल, संकेत पैक और पूर्ववत पैक); Android पर सदस्यता नहीं है। ऐप खरीद टोकन हमारे सर्वर को भेजता है, जो उसे Google (Google Play Developer API) से जाँचता है, खरीद बही में केवल टोकन का SHA-256 हैश, उत्पाद ID, स्थिति और समय सहेजता है और वस्तु देता है। रिफ़ंड या रद्द की गई खरीद का बाद में Google के voided purchases API और Google Play के रीयल-टाइम डेवलपर नोटिफ़िकेशन से मिलान होता है और वस्तु वापस ले ली जाती है।"
    ],
    [
     "सूचनाएँ",
-    "केवल सूचनाएँ चालू करने पर ही पुश टोकन (Firebase Cloud Messaging) सहेजा जाता है, ताकि आपकी बारी आने या मैच खत्म होने पर बताया जा सके। इसे ऐप या iOS सेटिंग्स में बंद किया जा सकता है।"
+    "केवल तभी जब आप सूचनाएँ चालू करें (Android 13 और बाद में सूचना अनुमति देकर), एक पुश टोकन (Firebase Cloud Messaging) आपकी भाषा, समय क्षेत्र और प्रति-खेल सूचना सेटिंग के साथ सहेजा जाता है, ताकि आपकी बारी आने या खेल खत्म होने पर बताया जा सके। आप इसे ऐप में या iOS/Android की सिस्टम सेटिंग में बंद कर सकते हैं।"
    ],
    [
     "विज्ञापन",
-    "Google AdMob गैर-वैयक्तिकृत विज्ञापन दिखाता है। जहाँ आवश्यक हो (जैसे EEA और यूके), विज्ञापनों से पहले Google सहमति फ़ॉर्म (UMP) दिखता है और आप सेटिंग में अपना चुनाव बदल सकते हैं। ऐप App Tracking Transparency का अनुरोध नहीं दिखाता, अन्य कंपनियों के ऐप या वेबसाइटों में आपको ट्रैक नहीं करता और विज्ञापन पहचानकर्ता तक पहुँच नहीं माँगता। फिर भी AdMob विज्ञापन देने, उनकी आवृत्ति सीमित करने और धोखाधड़ी रोकने के लिए डिवाइस जानकारी और अनुमानित (IP-आधारित) स्थान प्रोसेस कर सकता है। ऐप में खरीदारी से विज्ञापन हटाए जा सकते हैं।"
+    "Google AdMob गैर-वैयक्तिकृत विज्ञापन दिखाता है। जहाँ आवश्यक है (जैसे EEA और यूके), विज्ञापनों से पहले Google सहमति फ़ॉर्म (UMP) दिखता है और आप सेटिंग में अपनी पसंद बदल सकते हैं। ऐप App Tracking Transparency संकेत नहीं दिखाता और अन्य कंपनियों के ऐप या वेबसाइटों पर आपको ट्रैक नहीं करता। iOS पर यह विज्ञापन पहचानकर्ता की पहुँच नहीं माँगता। Android पर ऐप विज्ञापनों के लिए विज्ञापन ID (AD_ID) अनुमति घोषित करता है; विज्ञापन फिर भी गैर-वैयक्तिकृत रहते हैं, और आप Android सेटिंग में विज्ञापन ID रीसेट या हटा सकते हैं। AdMob फिर भी विज्ञापन दिखाने, उनकी आवृत्ति सीमित करने, मापने और धोखाधड़ी रोकने के लिए डिवाइस जानकारी, उपलब्ध होने पर विज्ञापन ID और अनुमानित (IP-आधारित) स्थान प्रोसेस कर सकता है। विज्ञापन ऐप-में खरीद से हटाए जा सकते हैं।"
    ],
    [
     "क्रैश रिपोर्ट",
-    "समस्याएँ ठीक करने के लिए Firebase Crashlytics क्रैश और त्रुटि रिपोर्ट (डिवाइस मॉडल, iOS और ऐप संस्करण, तकनीकी लॉग और एक यादृच्छिक इंस्टॉलेशन ID) एकत्र करता है। इनमें भुगतान जानकारी नहीं होती।"
+    "केवल रिलीज़ बिल्ड में (डेवलपमेंट बिल्ड में नहीं) Firebase Crashlytics समस्याएँ ठीक करने के लिए क्रैश और त्रुटि रिपोर्ट (डिवाइस मॉडल, OS और ऐप संस्करण, स्टैक ट्रेस व तकनीकी लॉग, और एक यादृच्छिक इंस्टॉलेशन ID) एकत्र करता है। इन रिपोर्टों में भुगतान विवरण नहीं होते।"
    ],
    [
     "सेवा प्रदाता और भंडारण",
-    "Supabase (डेटाबेस और साइन इन), Apple (Apple से साइन इन और भुगतान) और Google (AdMob विज्ञापन, Firebase सूचनाएँ और क्रैश रिपोर्ट) अपनी-अपनी नीतियों के अनुसार डेटा संसाधित करते हैं; उनके सर्वर आपके देश से बाहर हो सकते हैं। ये पेज GitHub Pages पर होस्ट हैं और कोई एनालिटिक्स या विज्ञापन स्क्रिप्ट उपयोग नहीं करते।"
+    "Supabase (डेटाबेस और साइन-इन), Apple (Apple से साइन इन और App Store भुगतान) और Google (Google साइन-इन, Google Play Billing, AdMob विज्ञापन, Firebase सूचनाएँ और क्रैश रिपोर्ट) अपनी-अपनी गोपनीयता नीतियों के अनुसार डेटा प्रोसेस करते हैं; उनके सर्वर आपके देश के बाहर हो सकते हैं। ये पेज GitHub Pages पर होस्ट हैं और कोई विश्लेषण या विज्ञापन स्क्रिप्ट नहीं चलाते।"
    ],
    [
     "संग्रहण और हटाना",
-    "सर्वर डेटा तब तक रखा जाता है जब तक आपका खाता मौजूद है। ऐप में खाता हटाने या ईमेल से अनुरोध करने पर उचित समय में उसे हटा दिया या गुमनाम कर दिया जाता है। ऐप हटाने से केवल डिवाइस पर सहेजा डेटा हटता है।"
+    "सर्वर डेटा तब तक रखा जाता है जब तक आपका खाता है। जब आप ऐप में (सेटिंग > खाता) खाता हटाते हैं या डेटा हटाएँ पेज पर अनुरोध करते हैं, तो उचित समय में वह हटा दिया या अनाम कर दिया जाता है। अपवाद: न्यूनतम खरीद रिकॉर्ड (खरीद टोकन का हैश, उत्पाद ID, स्थिति और समय; नाम या ईमेल नहीं) रिफ़ंड के बाद वस्तु दोबारा दिए जाने से रोकने और लेखा व कानूनी दायित्व निभाने के लिए हटाने के बाद अधिकतम 5 वर्ष तक रखा जा सकता है। ऐप हटाने से केवल डिवाइस पर सहेजा डेटा हटता है।"
    ],
    [
     "आपके अधिकार, बच्चे और बदलाव",
@@ -1047,11 +1103,11 @@
   "terms": [
    [
     "सेवा",
-    "चेकर्स कंप्यूटर के साथ खेल, एक डिवाइस पर दो खिलाड़ी, लाइव और एसिंक ऑनलाइन खेल, फ्रेंड कोड और चुनौतियाँ, टूर्नामेंट, रैंकिंग, Wi-Fi या ब्लूटूथ से पास का खेल, 13 नियम-प्रकार, पहेलियाँ, दैनिक मिशन और खेल विश्लेषण देता है। प्रीमियम सदस्यता विज्ञापन और दैनिक सीमाएँ हटाती है और सभी स्किन तथा असीमित हिंट व अंडू शामिल करती है।"
+    "चेकर्स कंप्यूटर के साथ खेल, एक डिवाइस पर दो खिलाड़ी, लाइव और एसिंक ऑनलाइन खेल, फ्रेंड कोड और चुनौतियाँ, टूर्नामेंट, रैंकिंग, Wi-Fi या ब्लूटूथ से पास का खेल, 13 नियम-प्रकार, पहेलियाँ, दैनिक मिशन और खेल विश्लेषण देता है। प्रीमियम सदस्यता विज्ञापन और दैनिक सीमाएँ हटाती है और सभी स्किन तथा असीमित हिंट व अंडू शामिल करती है। प्रीमियम सदस्यता केवल iOS पर उपलब्ध है।"
    ],
    [
     "खरीदारी और सदस्यता",
-    "भुगतान Apple के माध्यम से होता है। सदस्यता अपने आप नवीनीकृत होती है, जब तक मौजूदा अवधि खत्म होने से कम से कम 24 घंटे पहले रद्द न की जाए; इसे Apple ID सेटिंग्स में प्रबंधित या रद्द करें। रिफ़ंड Apple की नीतियों के अनुसार होते हैं। सिक्कों और आइटम का कोई नकद मूल्य नहीं है और इन्हें बदला नहीं जा सकता। Apple का मानक EULA भी लागू होता है।"
+    "भुगतान स्टोर के ज़रिए होता है: iOS पर Apple और Android पर Google Play। iOS पर प्रीमियम सदस्यता अपने आप नवीनीकृत होती है, जब तक मौजूदा अवधि खत्म होने से कम से कम 24 घंटे पहले रद्द न की जाए; इसे Apple ID सेटिंग में प्रबंधित या रद्द करें। Android पर केवल एक बार की खरीद है, सदस्यता नहीं। रिफ़ंड Apple या Google Play की नीतियों के अनुसार होते हैं, और रिफ़ंड या रद्द की गई वस्तु वापस ली जा सकती है। सिक्कों और वस्तुओं का नकद मूल्य नहीं है और उन्हें बदला नहीं जा सकता। iOS पर Apple का मानक EULA भी लागू होता है।"
    ],
    [
     "निष्पक्ष खेल और आचरण",
@@ -1077,29 +1133,37 @@
    ],
    [
     "पास के खेल की समस्या हल करें",
-    "दोनों डिवाइसों पर खेल शुरू करें में पास का खेल चुनें; एक कमरा चलाता है और दूसरा जुड़ता है। Wi-Fi के लिए एक ही नेटवर्क चाहिए और ब्लूटूथ चालू होना चाहिए। न जुड़े तो iOS सेटिंग > चेकर्स में देखें कि ब्लूटूथ और स्थानीय नेटवर्क की अनुमति है, और डिवाइसों को पास रखें।"
+    "दोनों डिवाइसों पर खेल शुरू करें में पास का खेल चुनें; एक कमरा चलाता है और दूसरा जुड़ता है। Wi-Fi के लिए एक ही नेटवर्क चाहिए और ब्लूटूथ चालू होना चाहिए। न जुड़े तो iOS सेटिंग > चेकर्स में देखें कि ब्लूटूथ और स्थानीय नेटवर्क की अनुमति है, और डिवाइसों को पास रखें। Android पर सेटिंग > ऐप्स > चेकर्स > अनुमतियाँ में जाँचें कि \"आस-पास के डिवाइस\" की अनुमति है।"
    ],
    [
     "प्रगति, खरीदारी और सिंक",
-    "प्रगति आपके खाते में अपने आप सहेजी जाती है। दुकान में खरीदारी बहाल करें से अपनी खरीदारी वापस पाएँ और दूसरे डिवाइस पर जारी रखने के लिए सेटिंग्स में Apple से साइन इन करें।"
+    "प्रगति अपने आप आपके खाते में सहेजी जाती है। खरीदी हुई चीज़ें वापस पाने के लिए शॉप में \"खरीद बहाल करें\" का उपयोग करें, और दूसरे डिवाइस पर जारी रखने के लिए सेटिंग में साइन इन करें (iOS पर Apple, Android पर Google)।"
    ],
    [
     "हमसे संपर्क",
-    "ईमेल के विषय में \"चेकर्स\" लिखें और ऐप संस्करण, डिवाइस और iOS संस्करण तथा समस्या तक पहुँचने के चरण बताएँ। खरीदारी की समस्या में Apple रसीद से हम जल्दी जवाब दे पाते हैं।"
+    "ईमेल के विषय में \"चेकर्स\" लिखें और ऐप संस्करण, अपना डिवाइस व उसका iOS या Android संस्करण, और समस्या तक पहुँचने के चरण बताएँ। खरीद संबंधी समस्या में Apple रसीद या Google Play ऑर्डर नंबर से हम जल्दी जवाब दे पाते हैं।"
    ]
   ],
   "delete-account": [
    [
     "ऐप में हटाएँ",
-    "यदि आपने Apple से साइन इन किया है: सेटिंग > खाता > खाता हटाएँ। आपकी प्रगति, रैंकिंग, उपनाम, खरीद अधिकार, सिक्के, बचे हुए सशुल्क हिंट और अंडू, दोस्त और फ्रेंड कोड, चुनौती इतिहास, सर्वर पर सिंक हुए खेल रिकॉर्ड, टूर्नामेंट प्रविष्टियाँ और पुश टोकन स्थायी रूप से हटा दिए जाते हैं, और चल रहे ऑनलाइन खेल समाप्त हो जाते हैं। App Store भुगतान वापस नहीं किए जाते।"
+    "सेटिंग > खाता > खाता हटाएँ खोलें (Apple या Google से दोबारा पुष्टि माँगी जा सकती है)। आपकी प्रगति, रैंकिंग, उपनाम, खरीद अधिकार, सिक्के, बचे सशुल्क संकेत व पूर्ववत, मित्र और मित्र कोड, चुनौती इतिहास, सर्वर पर सिंक हुए खेल रिकॉर्ड, टूर्नामेंट प्रविष्टियाँ और पुश टोकन स्थायी रूप से हटा दिए जाते हैं, और चल रहे ऑनलाइन खेल समाप्त हो जाते हैं। App Store या Google Play पर किया भुगतान वापस नहीं होता।"
    ],
    [
-    "ईमेल से अनुरोध",
-    "Apple साइन इन के बिना, विषय \"चेकर्स डेटा हटाना\" के साथ dhalska2@gmail.com पर अपने खाते की पहचान वाली जानकारी (जैसे उपनाम) भेजें। हम उचित समय में सर्वर डेटा हटा देंगे।"
+    "वेब से अनुरोध (ऐप इंस्टॉल करना ज़रूरी नहीं)",
+    "ऐप इंस्टॉल किए बिना भी आप हटाने का अनुरोध कर सकते हैं। विषय \"चेकर्स डेटा हटाना\" के साथ dhalska2@gmail.com पर ईमेल करें और ऐप का नाम (चेकर्स, com.osj.checkers) तथा डेवलपर (Next Studio / 넥스트 스튜디오) लिखें। बताएँ कि आपने कैसे साइन इन किया (Apple, Google या अनाम) और नीचे की जानकारी दें। हम जवाब देकर पुष्टि करेंगे और सर्वर पर चेकर्स का डेटा उचित समय में, सामान्यतः 30 दिनों के भीतर, हटा देंगे।"
+   ],
+   [
+    "हम आपकी पहचान कैसे जाँचते हैं",
+    "यदि आपने साइन इन किया था, तो उसी Apple या Google खाते के ईमेल पते से अनुरोध भेजें या वह पता बताएँ। अनाम खाते के लिए ऐसी जानकारी दें जो केवल खाताधारक ऐप में देख सकता है (उपनाम, मित्र कोड, देश और रेटिंग)। हम पासवर्ड, एक-बार कोड या कार्ड नंबर कभी नहीं माँगते। अनुरोध किसी खाते से मेल न खाए तो हम जवाब में और जानकारी माँगेंगे।"
+   ],
+   [
+    "क्या हटता है और क्या रखा जाता है",
+    "हटाया जाता है: \"ऐप में हटाएँ\" में बताई सभी जानकारी। रखा जाता है: न्यूनतम खरीद रिकॉर्ड (खरीद टोकन का हैश, उत्पाद ID, स्थिति और समय; नाम या ईमेल नहीं) अधिकतम 5 वर्ष, ताकि रिफ़ंड के बाद दोहरी आपूर्ति रुके और लेखा व कानूनी दायित्व पूरे हों। आपका साइन-इन खाता Next Studio के अन्य खेलों से साझा हो सकता है; यह अनुरोध केवल चेकर्स का डेटा हटाता है। पूरा खाता हटाना चाहें तो ईमेल में लिखें।"
    ],
    [
     "डिवाइस पर डेटा",
-    "डिवाइस पर सहेजा डेटा (जैसे खेल रिकॉर्ड की स्थानीय प्रतियाँ) ऐप हटाने पर (“ऐप हटाएँ”, “ऐप ऑफ़लोड करें” नहीं) मिट जाता है। पास के खेल में दूसरे डिवाइस को भेजे गए उपनाम और चालें उस डिवाइस पर रह सकती हैं और हम उन्हें नहीं हटा सकते।"
+    "डिवाइस पर सहेजा डेटा (जैसे खेल रिकॉर्ड की स्थानीय प्रतियाँ) ऐप हटाने पर मिट जाता है (iOS पर \"ऐप हटाएँ\", \"ऐप ऑफ़लोड\" नहीं)। आस-पास खेल के दौरान दूसरे डिवाइस को भेजे गए उपनाम और चालें वहाँ रह सकती हैं और हम उन्हें नहीं हटा सकते।"
    ]
   ]
  },
@@ -1113,7 +1177,7 @@
   ],
   "tag": "Dam klasik dalam 13 varian aturan — main, pecahkan, dan naik peringkat.",
   "intro": "Dukungan & kebijakan resmi Dam · Next Studio",
-  "date": "Berlaku / diperbarui: 4 Oktober 2026",
+  "date": "Berlaku / diperbarui: 17 Oktober 2026",
   "contact": "Kontak",
   "skip": "Langsung ke konten",
   "features": [
@@ -1122,16 +1186,16 @@
    "Main di dekat lewat Wi-Fi atau Bluetooth, tanpa internet",
    "Main online langsung dan asinkron, kode teman, turnamen, dan peringkat",
    "Teka-teki · misi harian · analisis permainan · impor/ekspor PDN · editor papan",
-   "Langganan Premium"
+   "Langganan Premium (khusus iOS)"
   ],
   "privacy": [
    [
     "Pengelola dan cakupan",
-    "Kebijakan ini berlaku untuk aplikasi iOS \"Dam\" (bundle ID com.osj.checkers) yang diterbitkan oleh Next Studio, pengembang perorangan di Korea Selatan. Kontak: dhalska2@gmail.com."
+    "Kebijakan ini berlaku untuk aplikasi iOS dan Android \"Dam\" (bundle ID iOS dan paket Android com.osj.checkers) yang diterbitkan oleh Next Studio, pengembang individu yang berbasis di Korea Selatan. Kontak: dhalska2@gmail.com."
    ],
    [
     "Akun dan progres",
-    "Tidak perlu mendaftar: aplikasi otomatis membuat akun anonim. Progres Anda (statistik, pencapaian, teka-teki yang diselesaikan, misi, pengaturan, dan permainan yang belum selesai) disimpan di server kami pada akun itu agar tidak hilang. Koin, petunjuk, urungkan, skin yang dimiliki, bonus kehadiran, penggunaan gratis harian, dan hadiah pencapaian serta misi yang diklaim diberikan, dikurangi, dan dicatat oleh server; aplikasi hanya menampilkan nilai yang dikembalikan server. Iklan berhadiah dihitung sekali saja dan hanya setelah verifikasi sisi server AdMob, yang untuk itu pengenal akun Anda dan token sekali pakai dikirim ke server kami. Masuk dengan Apple bersifat opsional; Apple membagikan pengenal dan, jika Anda mengizinkan, alamat email (bisa berupa alamat relai pribadi), yang hanya dipakai untuk mengenali akun Anda di perangkat Anda. Saat Anda masuk ke akun yang sudah ada, progres akun anonim digabungkan ke akun itu."
+    "Tidak perlu mendaftar: aplikasi otomatis membuat akun anonim. Progresmu (statistik, pencapaian, teka-teki yang diselesaikan, misi, pengaturan, dan satu permainan yang belum selesai) disimpan di server kami pada akun itu agar tidak hilang. Koin, petunjuk, batal langkah, skin yang dimiliki, bonus kehadiran, jatah gratis harian, serta hadiah pencapaian dan misi yang diklaim diberikan, dikurangi, dan dicatat oleh server; aplikasi hanya menampilkan nilai yang dikembalikan server. Iklan berhadiah dihitung sekali saja dan hanya setelah verifikasi sisi server AdMob, yang membuat pengenal akunmu dan token sekali pakai dikirim ke server kami. Masuk bersifat opsional. Di iOS kamu bisa memakai Masuk dengan Apple: Apple membagikan pengenal dan, jika kamu mengizinkan, alamat email (bisa berupa alamat relay pribadi). Di Android kamu bisa memakai Masuk dengan Google: kami hanya menerima pengenal akun Google dan alamat emailmu, tanpa meminta nama atau foto profil. Data ini hanya dipakai untuk membuat atau menautkan akun dan mengenalinya di perangkatmu. Saat masuk ke akun yang sudah ada, progres akun anonim digabungkan ke akun itu."
    ],
    [
     "Main online, peringkat, dan penonton",
@@ -1147,7 +1211,7 @@
    ],
    [
     "Main di dekat (Wi-Fi dan Bluetooth)",
-    "Main di dekat memungkinkan Anda bermain langsung dengan perangkat di dekat Anda, tanpa internet, lewat Wi-Fi yang sama atau Bluetooth LE. Di Wi-Fi, ruangan diumumkan dan ditemukan di jaringan lokal dengan Bonjour (mDNS); di Bluetooth, lawan ditemukan lewat iklan dan pemindaian. Selama Anda menjadi tuan rumah, nama panggilan Anda terlihat oleh perangkat di sekitar. Setelah terhubung, nama panggilan, avatar, aturan, langkah, tawaran menyerah dan seri, serta reaksi emoji langsung dikirim ke perangkat lain dan tidak dikirim ke server kami. Aplikasi tidak memakai lokasi Anda. iOS meminta akses Bluetooth dan jaringan lokal saat pertama kali; jika ditolak, bagian aplikasi lain tetap berfungsi, dan Anda dapat mengubahnya di Pengaturan iOS. Permainan di dekat tidak dihitung dalam rating, statistik, misi, atau hadiah koin. Namun, permainan yang selesai disimpan di perangkat Anda sebagai catatan dengan mode “nearby” dan termasuk dalam sinkronisasi catatan di atas, sehingga juga diunggah ke server kami (dengan nama panggilan lawan). Main di dekat tidak memiliki fitur lapor atau blokir."
+    "Main di dekat memungkinkan Anda bermain langsung dengan perangkat di dekat Anda, tanpa internet, lewat Wi-Fi yang sama atau Bluetooth LE. Di Wi-Fi, ruangan diumumkan dan ditemukan di jaringan lokal dengan Bonjour (mDNS); di Bluetooth, lawan ditemukan lewat iklan dan pemindaian. Selama Anda menjadi tuan rumah, nama panggilan Anda terlihat oleh perangkat di sekitar. Setelah terhubung, nama panggilan, avatar, aturan, langkah, tawaran menyerah dan seri, serta reaksi emoji langsung dikirim ke perangkat lain dan tidak dikirim ke server kami. Aplikasi tidak memakai lokasi Anda. iOS meminta akses Bluetooth dan jaringan lokal saat pertama kali; jika ditolak, bagian aplikasi lain tetap berfungsi, dan Anda dapat mengubahnya di Pengaturan iOS. Permainan di dekat tidak dihitung dalam rating, statistik, misi, atau hadiah koin. Namun, permainan yang selesai disimpan di perangkat Anda sebagai catatan dengan mode “nearby” dan termasuk dalam sinkronisasi catatan di atas, sehingga juga diunggah ke server kami (dengan nama panggilan lawan). Main di dekat tidak memiliki fitur lapor atau blokir. Di Android 12 ke atas, aplikasi meminta izin \"Perangkat di sekitar\" untuk Bluetooth; di Android 11 ke bawah, sistem mewajibkan izin lokasi untuk pemindaian Bluetooth, tetapi aplikasi tidak membaca atau mengumpulkan lokasimu."
    ],
    [
     "Fitur yang diproses di perangkat Anda",
@@ -1155,27 +1219,27 @@
    ],
    [
     "Pembelian dan langganan",
-    "Pembelian (hapus iklan, paket tema, paket petunjuk dan urungkan) dan langganan Premium ditagih oleh Apple. Kami tidak pernah menerima data pembayaranmu; kami menyimpan ID transaksi, produk, dan status langganan untuk memberikan dan memulihkan pembelianmu."
+    "Pembelian ditagih oleh toko, dan kami tidak pernah menerima data kartu atau pembayaran lainnya. Di iOS, pembelian dalam aplikasi (hapus iklan, paket tema, paket petunjuk dan batal langkah) dan langganan Premium ditagih oleh Apple; kami menyimpan ID transaksi, produk, dan status langganan untuk memberikan dan memulihkan apa yang kamu beli. Di Android, pembelian melalui Google Play Billing dan hanya tersedia pembelian sekali bayar (hapus iklan, paket skin, bundel, paket petunjuk, dan paket batal langkah); tidak ada langganan di Android. Aplikasi mengirim token pembelian ke server kami, yang memeriksanya ke Google (Google Play Developer API), hanya menyimpan hash SHA-256 token beserta ID produk, status, dan waktu di buku besar pembelian, lalu memberikan item. Pembelian yang dikembalikan dananya atau dibatalkan dicocokkan kemudian melalui API pembelian dibatalkan (voided purchases) Google dan notifikasi pengembang waktu nyata Google Play, lalu item ditarik kembali."
    ],
    [
     "Notifikasi",
-    "Hanya jika kamu menyalakan notifikasi, token push (Firebase Cloud Messaging) disimpan untuk memberi tahu saat giliranmu atau permainan selesai. Kamu bisa mematikannya di aplikasi atau Pengaturan iOS."
+    "Hanya jika kamu mengaktifkan notifikasi (di Android 13 ke atas, dengan mengizinkan izin notifikasi), token push (Firebase Cloud Messaging) disimpan bersama bahasa, zona waktu, dan pengaturan notifikasi per permainan, untuk memberi tahu saat giliranmu atau permainan selesai. Kamu bisa mematikannya di aplikasi atau di pengaturan sistem iOS atau Android."
    ],
    [
     "Iklan",
-    "Google AdMob menampilkan iklan nonpersonalisasi. Di tempat yang diwajibkan (misalnya EEA dan Inggris), formulir persetujuan Google (UMP) ditampilkan sebelum iklan dan Anda dapat mengubah pilihan di Pengaturan. Aplikasi tidak menampilkan permintaan App Tracking Transparency, tidak melacak Anda di aplikasi atau situs web perusahaan lain, dan tidak meminta akses ke pengenal iklan. Namun AdMob tetap dapat memproses informasi perangkat dan perkiraan lokasi (berbasis IP) untuk menayangkan iklan, membatasi frekuensinya, dan mencegah penipuan. Iklan dapat dihapus dengan pembelian dalam aplikasi."
+    "Google AdMob menampilkan iklan non-personalisasi. Di wilayah yang mewajibkan (misalnya EEA dan Inggris), formulir persetujuan Google (UMP) ditampilkan sebelum iklan dan kamu bisa mengubah pilihanmu di Pengaturan. Aplikasi tidak menampilkan permintaan App Tracking Transparency dan tidak melacakmu di aplikasi atau situs web perusahaan lain. Di iOS, aplikasi tidak meminta akses ke pengenal iklan. Di Android, aplikasi mendeklarasikan izin ID iklan (AD_ID) untuk iklan; iklan tetap non-personalisasi, dan kamu bisa mereset atau menghapus ID iklan di pengaturan Android. AdMob tetap dapat memproses informasi perangkat, ID iklan jika tersedia, dan perkiraan lokasi (berbasis IP) untuk menayangkan iklan, membatasi frekuensinya, mengukurnya, dan mencegah penipuan. Iklan dapat dihapus dengan pembelian dalam aplikasi."
    ],
    [
     "Laporan kerusakan",
-    "Firebase Crashlytics mengumpulkan laporan kerusakan dan kesalahan (model perangkat, versi iOS dan aplikasi, log teknis, serta ID instalasi acak) agar kami bisa memperbaiki masalah. Laporan ini tidak berisi data pembayaran."
+    "Hanya pada build rilis (bukan build pengembangan), Firebase Crashlytics mengumpulkan laporan crash dan error (model perangkat, versi OS dan aplikasi, stack trace dan log teknis, serta ID instalasi acak) agar kami dapat memperbaiki masalah. Laporan ini tidak berisi data pembayaran."
    ],
    [
     "Penyedia layanan dan penyimpanan",
-    "Supabase (basis data dan masuk), Apple (Masuk dengan Apple dan pembayaran), dan Google (iklan AdMob, notifikasi dan laporan kerusakan Firebase) memproses data sesuai kebijakan masing-masing; servernya bisa berada di luar negaramu. Halaman ini di-host di GitHub Pages dan tidak memakai skrip analitik atau iklan."
+    "Supabase (basis data dan masuk), Apple (Masuk dengan Apple dan pembayaran App Store), dan Google (Masuk dengan Google, Google Play Billing, iklan AdMob, notifikasi Firebase, dan laporan crash) memproses data sesuai kebijakan privasi masing-masing; server mereka mungkin berada di luar negaramu. Halaman ini dihosting di GitHub Pages dan tidak memakai skrip analitik atau iklan."
    ],
    [
     "Penyimpanan dan penghapusan",
-    "Data server disimpan selama akunmu ada. Jika kamu menghapus akun di aplikasi atau memintanya lewat email, data dihapus atau dianonimkan dalam waktu yang wajar. Menghapus aplikasi hanya menghapus data di perangkat."
+    "Data server disimpan selama akunmu ada. Saat kamu menghapus akun di aplikasi (Pengaturan > Akun) atau meminta penghapusan di halaman Hapus Data, data dihapus atau dianonimkan dalam waktu yang wajar. Pengecualian: catatan pembelian minimal (hash token pembelian, ID produk, status, dan waktu, tanpa nama atau email) dapat disimpan hingga 5 tahun setelah penghapusan untuk mencegah pemberian item dua kali setelah pengembalian dana dan memenuhi kewajiban akuntansi dan hukum. Menghapus aplikasi hanya menghapus data yang tersimpan di perangkat."
    ],
    [
     "Hakmu, anak-anak, dan perubahan",
@@ -1185,11 +1249,11 @@
   "terms": [
    [
     "Layanan",
-    "Dam menyediakan permainan melawan komputer, berdua di satu perangkat, main online langsung dan asinkron, kode teman dan tantangan, turnamen, peringkat, main di dekat lewat Wi-Fi atau Bluetooth, 13 varian aturan, teka-teki, misi harian, dan analisis permainan. Langganan Premium menghapus iklan dan batas harian serta mencakup semua skin dan petunjuk serta urungkan tanpa batas."
+    "Dam menyediakan permainan melawan komputer, berdua di satu perangkat, main online langsung dan asinkron, kode teman dan tantangan, turnamen, peringkat, main di dekat lewat Wi-Fi atau Bluetooth, 13 varian aturan, teka-teki, misi harian, dan analisis permainan. Langganan Premium menghapus iklan dan batas harian serta mencakup semua skin dan petunjuk serta urungkan tanpa batas. Langganan Premium hanya tersedia di iOS."
    ],
    [
     "Pembelian dan langganan",
-    "Pembayaran dilakukan melalui Apple. Langganan diperpanjang otomatis kecuali dibatalkan setidaknya 24 jam sebelum akhir periode berjalan; kelola atau batalkan di pengaturan ID Apple. Pengembalian dana mengikuti kebijakan Apple. Koin dan item tidak memiliki nilai uang dan tidak dapat ditukar. EULA standar Apple juga berlaku."
+    "Pembayaran dilakukan melalui toko: Apple di iOS dan Google Play di Android. Langganan Premium di iOS diperpanjang otomatis kecuali dibatalkan paling lambat 24 jam sebelum periode berjalan berakhir; kelola atau batalkan di pengaturan ID Apple. Android hanya menawarkan pembelian sekali bayar, tanpa langganan. Pengembalian dana mengikuti kebijakan Apple atau Google Play, dan item yang dikembalikan dananya atau dibatalkan dapat ditarik kembali. Koin dan item tidak bernilai uang tunai dan tidak dapat ditukar. Di iOS, EULA Standar Apple juga berlaku."
    ],
    [
     "Fair play dan perilaku",
@@ -1215,29 +1279,37 @@
    ],
    [
     "Mengatasi masalah main di dekat",
-    "Di kedua perangkat pilih main di dekat di Mulai permainan; satu menjadi tuan rumah dan satunya bergabung. Wi-Fi memerlukan jaringan yang sama dan Bluetooth harus menyala. Jika tidak terhubung, periksa di Pengaturan iOS > Dam bahwa Bluetooth dan Jaringan Lokal diizinkan, dan dekatkan kedua perangkat."
+    "Di kedua perangkat pilih main di dekat di Mulai permainan; satu menjadi tuan rumah dan satunya bergabung. Wi-Fi memerlukan jaringan yang sama dan Bluetooth harus menyala. Jika tidak terhubung, periksa di Pengaturan iOS > Dam bahwa Bluetooth dan Jaringan Lokal diizinkan, dan dekatkan kedua perangkat. Di Android, periksa di Pengaturan > Aplikasi > Dam > Izin bahwa \"Perangkat di sekitar\" diizinkan."
    ],
    [
     "Progres, pembelian, dan sinkronisasi",
-    "Progres disimpan otomatis ke akunmu. Gunakan Pulihkan Pembelian di Toko untuk mendapatkan kembali pembelianmu, dan masuk dengan Apple di Pengaturan untuk melanjutkan di perangkat lain."
+    "Progres tersimpan otomatis ke akunmu. Gunakan Pulihkan Pembelian di Toko untuk mendapatkan kembali pembelianmu, dan masuk di Pengaturan (Apple di iOS, Google di Android) untuk melanjutkan di perangkat lain."
    ],
    [
     "Menghubungi kami",
-    "Tulis \"Dam\" di subjek email dan sebutkan versi aplikasi, perangkat dan versi iOS, serta langkah yang menyebabkan masalah. Untuk masalah pembelian, struk Apple membantu kami menjawab lebih cepat."
+    "Tulis \"Dam\" di subjek email dan beri tahu versi aplikasi, perangkatmu beserta versi iOS atau Android, dan langkah yang menyebabkan masalah. Untuk masalah pembelian, struk Apple atau nomor pesanan Google Play membantu kami menjawab lebih cepat."
    ]
   ],
   "delete-account": [
    [
     "Hapus di aplikasi",
-    "Jika Anda masuk dengan Apple: Pengaturan > Akun > Hapus akun. Progres, peringkat, nama panggilan, hak pembelian, koin, sisa petunjuk dan urungkan berbayar, teman dan kode teman, riwayat tantangan, catatan permainan yang disinkronkan ke server, keikutsertaan turnamen, dan token notifikasi dihapus permanen, dan permainan online yang sedang berlangsung diakhiri. Pembayaran App Store tidak dikembalikan."
+    "Buka Pengaturan > Akun > Hapus akun (kamu mungkin diminta konfirmasi ulang lewat Apple atau Google). Progres, peringkat, nama panggilan, hak pembelian, koin, sisa petunjuk dan batal langkah berbayar, teman dan kode teman, riwayat tantangan, rekaman permainan yang disinkronkan ke server, data keikutsertaan turnamen, dan token push dihapus permanen, dan permainan online yang sedang berjalan diakhiri. Pembayaran di App Store atau Google Play tidak dikembalikan."
    ],
    [
-    "Permintaan lewat email",
-    "Tanpa masuk dengan Apple, kirim email ke dhalska2@gmail.com dengan subjek \"Penghapusan Data Dam\" dan informasi yang mengidentifikasi akunmu (misalnya nama panggilan). Kami menghapus data server dalam waktu yang wajar."
+    "Permintaan lewat web (tanpa memasang aplikasi)",
+    "Kamu bisa meminta penghapusan tanpa memasang aplikasi. Kirim email ke dhalska2@gmail.com dengan subjek \"Penghapusan Data Dam\", sebutkan aplikasi (Dam / Checkers, com.osj.checkers) dan pengembang (Next Studio / 넥스트 스튜디오). Beri tahu cara kamu masuk (Apple, Google, atau anonim) dan keterangan di bawah. Kami konfirmasi lewat balasan dan menghapus data Dam di server dalam waktu yang wajar, biasanya dalam 30 hari."
+   ],
+   [
+    "Cara kami memverifikasi identitasmu",
+    "Jika kamu masuk dengan akun, kirim permintaan dari alamat email akun Apple atau Google itu, atau sebutkan alamatnya. Untuk akun anonim, berikan keterangan yang hanya bisa dilihat pemilik akun di aplikasi (nama panggilan, kode teman, negara, dan rating). Kami tidak pernah meminta kata sandi, kode sekali pakai, atau nomor kartu. Jika permintaan tidak bisa dicocokkan dengan akun, kami akan membalas dan meminta keterangan tambahan."
+   ],
+   [
+    "Apa yang dihapus dan apa yang disimpan",
+    "Dihapus: semua yang tercantum di \"Hapus di aplikasi\". Disimpan: catatan pembelian minimal (hash token pembelian, ID produk, status, dan waktu, tanpa nama atau email) hingga 5 tahun untuk mencegah pemberian ganda setelah pengembalian dana dan memenuhi kewajiban akuntansi dan hukum. Akun masukmu mungkin dipakai bersama game Next Studio lainnya; permintaan ini hanya menghapus data Dam, jadi tulis di email jika kamu ingin seluruh akun dihapus."
    ],
    [
     "Data di perangkat",
-    "Data yang tersimpan di perangkat (seperti salinan lokal catatan permainan) terhapus saat Anda menghapus aplikasi (“Hapus App”, bukan “Bongkar App”). Nama panggilan dan langkah yang dikirim ke perangkat lain saat main di dekat mungkin tetap ada di perangkat itu dan tidak dapat kami hapus."
+    "Data yang tersimpan di perangkat (seperti salinan lokal rekaman permainan) terhapus saat kamu menghapus aplikasi (di iOS \"Hapus App\", bukan \"Bongkar App\"). Nama panggilan dan langkah yang dikirim ke perangkat lain saat bermain di sekitar mungkin tetap ada di sana dan tidak dapat kami hapus."
    ]
   ]
  },
@@ -1251,7 +1323,7 @@
   ],
   "tag": "Damas clássicas em 13 variantes de regras — jogue, resolva e suba.",
   "intro": "Suporte e políticas oficiais de Damas · Next Studio",
-  "date": "Em vigor / atualizado: 4 de outubro de 2026",
+  "date": "Em vigor / atualizado: 17 de outubro de 2026",
   "contact": "Contato",
   "skip": "Ir para o conteúdo",
   "features": [
@@ -1260,16 +1332,16 @@
    "Partidas próximas por Wi-Fi ou Bluetooth, sem internet",
    "Partidas online ao vivo e assíncronas, códigos de amigo, torneios e rankings",
    "Problemas · missões diárias · análise de partidas · importar/exportar PDN · editor de tabuleiro",
-   "Assinatura Premium"
+   "Assinatura Premium (somente iOS)"
   ],
   "privacy": [
    [
     "Responsável e escopo",
-    "Esta política se aplica ao app para iOS \"Damas\" (ID do pacote com.osj.checkers), publicado pela Next Studio, desenvolvedor individual sediado na Coreia do Sul. Contato: dhalska2@gmail.com."
+    "Esta política se aplica ao app para iOS e Android \"Damas\" (ID do pacote iOS e pacote Android com.osj.checkers), publicado pela Next Studio, desenvolvedora individual sediada na Coreia do Sul. Contato: dhalska2@gmail.com."
    ],
    [
     "Conta e progresso",
-    "Não é preciso se cadastrar: o app cria automaticamente uma conta anônima. Seu progresso (estatísticas, conquistas, problemas resolvidos, missões, configurações e uma partida não terminada) é salvo em nosso servidor nessa conta para não se perder. Moedas, dicas, desfazer, temas que você tem, bônus de presença, usos gratuitos diários e recompensas de conquistas e missões resgatadas são concedidos, descontados e registrados pelo servidor; o app apenas mostra os valores que o servidor devolve. Um anúncio com recompensa conta uma única vez e somente após a verificação do lado do servidor do AdMob, para a qual o identificador da sua conta e um token de uso único são enviados ao nosso servidor. Entrar com a Apple é opcional; a Apple compartilha um identificador e, se você permitir, um e-mail (que pode ser um endereço de retransmissão privado), usados apenas para reconhecer sua conta nos seus aparelhos. Ao entrar em uma conta existente, o progresso da conta anônima é mesclado a ela."
+    "Não é preciso se cadastrar: o app cria automaticamente uma conta anônima. Seu progresso (estatísticas, conquistas, quebra-cabeças resolvidos, missões, configurações e uma partida inacabada) é salvo em nosso servidor, vinculado a essa conta, para não ser perdido. Moedas, dicas, desfazer, skins adquiridas, bônus de presença, usos gratuitos diários e recompensas de conquistas e missões resgatadas são concedidos, descontados e registrados pelo servidor; o app apenas mostra os valores que ele devolve. Um anúncio premiado conta uma vez e somente após a verificação do lado do servidor do AdMob, para a qual o identificador da sua conta e um token de uso único são enviados ao nosso servidor. Entrar na conta é opcional. No iOS você pode usar o Login com a Apple: a Apple compartilha um identificador e, se você permitir, um endereço de e-mail (que pode ser um endereço de retransmissão privado). No Android você pode usar o Login do Google: recebemos apenas o identificador da sua conta Google e o seu e-mail, sem solicitar nome nem foto de perfil. Eles servem somente para criar ou vincular sua conta e reconhecê-la nos seus aparelhos. Ao entrar em uma conta existente, o progresso da conta anônima é mesclado nela."
    ],
    [
     "Jogo online, rankings e espectadores",
@@ -1285,7 +1357,7 @@
    ],
    [
     "Partidas próximas (Wi-Fi e Bluetooth)",
-    "As partidas próximas permitem jogar diretamente com um aparelho perto de você, sem internet, pelo mesmo Wi-Fi ou por Bluetooth LE. No Wi-Fi, a sala é anunciada e encontrada na rede local com Bonjour (mDNS); no Bluetooth, o adversário é encontrado por anúncio e busca. Enquanto você é o anfitrião, seu apelido fica visível para aparelhos próximos. Depois de conectados, seu apelido, avatar, regras, lances, ofertas de desistência e empate e reações com emoji vão diretamente ao outro aparelho e não são enviados aos nossos servidores. O app não usa sua localização. O iOS pede acesso ao Bluetooth e à rede local na primeira vez; se você recusar, o restante do app funciona, e você pode mudar isso nos Ajustes do iOS. Partidas próximas não contam para rating, estatísticas, missões nem recompensas em moedas. No entanto, uma partida terminada é salva no seu aparelho como registro com o modo “nearby” e entra na sincronização do histórico acima, sendo também enviada ao nosso servidor (com o apelido do adversário). As partidas próximas não têm função de denúncia nem de bloqueio."
+    "As partidas próximas permitem jogar diretamente com um aparelho perto de você, sem internet, pelo mesmo Wi-Fi ou por Bluetooth LE. No Wi-Fi, a sala é anunciada e encontrada na rede local com Bonjour (mDNS); no Bluetooth, o adversário é encontrado por anúncio e busca. Enquanto você é o anfitrião, seu apelido fica visível para aparelhos próximos. Depois de conectados, seu apelido, avatar, regras, lances, ofertas de desistência e empate e reações com emoji vão diretamente ao outro aparelho e não são enviados aos nossos servidores. O app não usa sua localização. O iOS pede acesso ao Bluetooth e à rede local na primeira vez; se você recusar, o restante do app funciona, e você pode mudar isso nos Ajustes do iOS. Partidas próximas não contam para rating, estatísticas, missões nem recompensas em moedas. No entanto, uma partida terminada é salva no seu aparelho como registro com o modo “nearby” e entra na sincronização do histórico acima, sendo também enviada ao nosso servidor (com o apelido do adversário). As partidas próximas não têm função de denúncia nem de bloqueio. No Android 12 e posteriores, o app pede a permissão \"Dispositivos por perto\" para o Bluetooth; no Android 11 e anteriores, o sistema exige a permissão de localização para a busca por Bluetooth, mas o app não lê nem coleta sua localização."
    ],
    [
     "Recursos processados no seu aparelho",
@@ -1293,27 +1365,27 @@
    ],
    [
     "Compras e assinaturas",
-    "As compras (remover anúncios, pacote de temas, pacotes de dicas e desfazer) e a assinatura Premium são cobradas pela Apple. Nunca recebemos seus dados de pagamento; guardamos o ID da transação, o produto e o status da assinatura para liberar e restaurar o que você comprou."
+    "As compras são cobradas pela loja e nunca recebemos os dados do seu cartão nem outros dados de pagamento. No iOS, a Apple cobra as compras no app (remover anúncios, pacote de temas, pacotes de dicas e de desfazer) e a assinatura Premium; guardamos o ID da transação, o produto e o status da assinatura para conceder e restaurar o que você comprou. No Android, as compras passam pelo Google Play Billing e só há compras únicas (remover anúncios, pacote de skins, combo, pacotes de dicas e de desfazer); não há assinaturas no Android. O app envia o token de compra ao nosso servidor, que o verifica com o Google (Google Play Developer API), grava em um registro de compras apenas um hash SHA-256 do token com o ID do produto, o status e a hora, e concede o item. Compras reembolsadas ou canceladas são conciliadas depois pela API de compras anuladas (voided purchases) do Google e pelas notificações de desenvolvedor em tempo real do Google Play, e o item é retirado."
    ],
    [
     "Notificações",
-    "Somente se você ativar as notificações um token de push (Firebase Cloud Messaging) é salvo para avisar quando for sua vez ou uma partida terminar. Você pode desativar no app ou nos Ajustes do iOS."
+    "Somente se você ativar as notificações (no Android 13 e posteriores, permitindo a permissão de notificações), um token push (Firebase Cloud Messaging) é guardado junto com seu idioma, fuso horário e as configurações de notificação de cada jogo, para avisar quando for sua vez ou uma partida terminar. Você pode desativar no app ou nas configurações do sistema do iOS ou do Android."
    ],
    [
     "Anúncios",
-    "O Google AdMob exibe anúncios não personalizados. Onde exigido (por exemplo, o EEE e o Reino Unido), um formulário de consentimento do Google (UMP) é exibido antes dos anúncios e você pode mudar sua escolha em Ajustes. O app não exibe o pedido de transparência de rastreamento de apps, não rastreia você em apps ou sites de outras empresas e não pede acesso ao identificador de publicidade. Ainda assim, o AdMob pode processar informações do aparelho e uma localização aproximada (baseada no IP) para entregar anúncios, limitar a frequência e prevenir fraudes. Os anúncios podem ser removidos com uma compra no app."
+    "O Google AdMob mostra anúncios não personalizados. Onde exigido (por exemplo, EEE e Reino Unido), um formulário de consentimento do Google (UMP) aparece antes dos anúncios e você pode mudar sua escolha em Configurações. O app não mostra o aviso de App Tracking Transparency e não rastreia você em apps ou sites de outras empresas. No iOS, não pede acesso ao identificador de publicidade. No Android, o app declara a permissão do ID de publicidade (AD_ID) para os anúncios; eles continuam não personalizados e você pode redefinir ou excluir o ID de publicidade nas configurações do Android. O AdMob ainda pode processar informações do aparelho, o ID de publicidade quando disponível e uma localização aproximada (baseada em IP) para exibir anúncios, limitar sua frequência, medi-los e prevenir fraudes. Os anúncios podem ser removidos com uma compra no app."
    ],
    [
     "Relatórios de falhas",
-    "O Firebase Crashlytics coleta relatórios de falhas e erros (modelo do aparelho, versões do iOS e do app, registros técnicos e um ID de instalação aleatório) para corrigirmos problemas. Eles não contêm dados de pagamento."
+    "Somente em versões de lançamento (não em versões de desenvolvimento), o Firebase Crashlytics coleta relatórios de falhas e erros (modelo do aparelho, versão do sistema e do app, rastreamentos de pilha e registros técnicos, e um ID de instalação aleatório) para que possamos corrigir problemas. Esses relatórios não contêm dados de pagamento."
    ],
    [
     "Fornecedores e armazenamento",
-    "Supabase (banco de dados e login), Apple (Entrar com a Apple e pagamentos) e Google (anúncios AdMob, notificações e relatórios de falhas do Firebase) tratam os dados conforme suas próprias políticas; os servidores podem ficar fora do seu país. Estas páginas são hospedadas no GitHub Pages e não usam scripts de análise ou publicidade."
+    "Supabase (banco de dados e login), Apple (Login com a Apple e pagamentos da App Store) e Google (Login do Google, Google Play Billing, anúncios AdMob, notificações do Firebase e relatórios de falhas) tratam os dados conforme suas próprias políticas de privacidade; os servidores deles podem ficar fora do seu país. Estas páginas ficam no GitHub Pages e não usam scripts de análise nem de publicidade."
    ],
    [
     "Retenção e exclusão",
-    "Os dados do servidor são mantidos enquanto sua conta existir. Ao excluir a conta no app ou pedir por e-mail, eles são excluídos ou anonimizados em prazo razoável. Apagar o app remove apenas os dados guardados no aparelho."
+    "Os dados do servidor são mantidos enquanto sua conta existir. Quando você exclui a conta no app (Configurações > Conta) ou pede a exclusão na página Excluir dados, eles são excluídos ou anonimizados em prazo razoável. Exceção: um registro de compra mínimo (hash do token de compra, ID do produto, status e hora, sem nome nem e-mail) pode ser mantido por até 5 anos após a exclusão para evitar que um item seja concedido duas vezes após um reembolso e cumprir obrigações contábeis e legais. Excluir o app remove apenas os dados guardados no aparelho."
    ],
    [
     "Seus direitos, crianças e alterações",
@@ -1323,11 +1395,11 @@
   "terms": [
    [
     "Serviço",
-    "Damas oferece partidas contra o computador, dois jogadores no mesmo aparelho, jogo online ao vivo e assíncrono, códigos de amigo e desafios, torneios, rankings, partidas próximas por Wi-Fi ou Bluetooth, 13 variantes de regras, problemas, missões diárias e análise de partidas. A assinatura Premium remove anúncios e limites diários e inclui todos os temas e dicas e desfazer ilimitados."
+    "Damas oferece partidas contra o computador, dois jogadores no mesmo aparelho, jogo online ao vivo e assíncrono, códigos de amigo e desafios, torneios, rankings, partidas próximas por Wi-Fi ou Bluetooth, 13 variantes de regras, problemas, missões diárias e análise de partidas. A assinatura Premium remove anúncios e limites diários e inclui todos os temas e dicas e desfazer ilimitados. A assinatura Premium é oferecida somente no iOS."
    ],
    [
     "Compras e assinaturas",
-    "Os pagamentos são feitos pela Apple. As assinaturas são renovadas automaticamente, a menos que sejam canceladas pelo menos 24 horas antes do fim do período atual; gerencie ou cancele nos ajustes do seu ID Apple. Reembolsos seguem as políticas da Apple. Moedas e itens não têm valor em dinheiro e não podem ser trocados. O EULA padrão da Apple também se aplica."
+    "Os pagamentos são feitos pela loja: Apple no iOS e Google Play no Android. As assinaturas Premium do iOS renovam automaticamente, a menos que sejam canceladas pelo menos 24 horas antes do fim do período atual; gerencie ou cancele nas configurações do ID Apple. O Android oferece apenas compras únicas, sem assinaturas. Reembolsos seguem as políticas da Apple ou do Google Play, e um item reembolsado ou cancelado pode ser retirado. Moedas e itens não têm valor em dinheiro e não podem ser trocados. No iOS, o EULA padrão da Apple também se aplica."
    ],
    [
     "Jogo limpo e conduta",
@@ -1353,29 +1425,37 @@
    ],
    [
     "Solução de problemas das partidas próximas",
-    "Nos dois aparelhos, escolha partida próxima em Iniciar jogo; um é o anfitrião e o outro entra. O Wi-Fi exige a mesma rede e o Bluetooth precisa estar ligado. Se não conectar, verifique em Ajustes do iOS > Damas se Bluetooth e Rede Local estão permitidos e aproxime os aparelhos."
+    "Nos dois aparelhos, escolha partida próxima em Iniciar jogo; um é o anfitrião e o outro entra. O Wi-Fi exige a mesma rede e o Bluetooth precisa estar ligado. Se não conectar, verifique em Ajustes do iOS > Damas se Bluetooth e Rede Local estão permitidos e aproxime os aparelhos. No Android, confira em Configurações > Apps > Damas > Permissões se \"Dispositivos por perto\" está permitido."
    ],
    [
     "Progresso, compras e sincronização",
-    "O progresso é salvo automaticamente na sua conta. Use Restaurar compras na Loja para recuperar suas compras e entre com a Apple em Ajustes para continuar em outro aparelho."
+    "O progresso é salvo automaticamente na sua conta. Use Restaurar compras na Loja para recuperar o que comprou e entre na conta em Configurações (Apple no iOS, Google no Android) para continuar em outro aparelho."
    ],
    [
     "Fale conosco",
-    "Coloque \"Damas\" no assunto do e-mail e informe a versão do app, seu aparelho e versão do iOS e os passos que levaram ao problema. Para problemas de compra, o recibo da Apple nos ajuda a responder mais rápido."
+    "Coloque \"Damas\" no assunto e informe a versão do app, seu aparelho com a versão do iOS ou do Android e os passos que levaram ao problema. Em problemas de compra, o recibo da Apple ou o número do pedido do Google Play nos ajuda a responder mais rápido."
    ]
   ],
   "delete-account": [
    [
     "Excluir no app",
-    "Se você entrou com a Apple: Ajustes > Conta > Excluir conta. Seu progresso, ranking, apelido, direitos de compra, moedas, dicas e desfazer pagos restantes, amigos e código de amigo, histórico de desafios, histórico de partidas sincronizado com o servidor, participações em torneios e o token de notificações são excluídos permanentemente, e as partidas online em andamento terminam. Pagamentos da App Store não são reembolsados."
+    "Abra Configurações > Conta > Excluir conta (pode ser pedida nova confirmação pela Apple ou pelo Google). Seu progresso, ranking, apelido, direitos de compra, moedas, dicas e desfazer pagos restantes, amigos e código de amigo, histórico de desafios, partidas sincronizadas com o servidor, inscrições em torneios e token push são excluídos permanentemente, e as partidas online em andamento são encerradas. Pagamentos na App Store ou no Google Play não são reembolsados."
    ],
    [
-    "Pedido por e-mail",
-    "Sem login na Apple, escreva para dhalska2@gmail.com com o assunto \"Exclusão de dados de Damas\" e informações que identifiquem sua conta (por exemplo, o apelido). Excluímos os dados do servidor em prazo razoável."
+    "Pedido pela web (sem instalar o app)",
+    "Você pode pedir a exclusão sem instalar o app. Escreva para dhalska2@gmail.com com o assunto \"Exclusão de dados de Damas\", informando o app (Damas / Checkers, com.osj.checkers) e o desenvolvedor (Next Studio / 넥스트 스튜디오). Diga como você entrava (Apple, Google ou anônimo) e as informações abaixo. Confirmamos por resposta e excluímos os dados de Damas do servidor em prazo razoável, normalmente em até 30 dias."
+   ],
+   [
+    "Como verificamos sua identidade",
+    "Se você entrava com uma conta, envie o pedido do e-mail dessa conta Apple ou Google ou nos informe esse endereço. Para conta anônima, informe dados que só o titular vê no app (apelido, código de amigo, país e rating). Nunca pedimos senhas, códigos de uso único nem números de cartão. Se não conseguirmos associar o pedido a uma conta, responderemos pedindo mais informações."
+   ],
+   [
+    "O que é excluído e o que é mantido",
+    "Excluído: tudo o que consta em \"Excluir no app\". Mantido: um registro de compra mínimo (hash do token de compra, ID do produto, status e hora, sem nome nem e-mail) por até 5 anos, para evitar concessões duplicadas após reembolsos e cumprir obrigações contábeis e legais. Sua conta de acesso pode ser compartilhada com outros jogos da Next Studio; este pedido remove apenas os dados de Damas, então avise no e-mail se quiser remover a conta inteira."
    ],
    [
     "Dados no aparelho",
-    "Os dados armazenados no aparelho (como cópias locais do histórico de partidas) são removidos quando você exclui o app (“Excluir app”, não “Descarregar app”). O apelido e os lances enviados a outro aparelho numa partida próxima podem permanecer nele e não podemos excluí-los."
+    "Os dados guardados no aparelho (como cópias locais das partidas) são removidos ao desinstalar o app (no iOS, \"Apagar app\", não \"Descarregar app\"). O apelido e as jogadas enviados a outro aparelho durante o jogo por perto podem permanecer nele, e não podemos excluí-los."
    ]
   ]
  },
@@ -1389,7 +1469,7 @@
   ],
   "tag": "Классические шашки в 13 вариантах правил — играйте, решайте, поднимайтесь.",
   "intro": "Официальная поддержка и правила приложения «Шашки» · Next Studio",
-  "date": "Действует / обновлено: 4 октября 2026 г.",
+  "date": "Действует / обновлено: 17 октября 2026 г.",
   "contact": "Контакты",
   "skip": "Перейти к содержанию",
   "features": [
@@ -1398,16 +1478,16 @@
    "Игра рядом по Wi-Fi или Bluetooth, без интернета",
    "Онлайн-игра в реальном времени и по переписке, коды друзей, турниры и рейтинги",
    "Задачи · ежедневные миссии · анализ партий · импорт/экспорт PDN · редактор доски",
-   "Подписка Premium"
+   "Подписка Premium (только iOS)"
   ],
   "privacy": [
    [
     "Оператор и область действия",
-    "Эта политика относится к iOS-приложению «Шашки» (идентификатор com.osj.checkers), которое публикует Next Studio — индивидуальный разработчик из Южной Кореи. Контакт: dhalska2@gmail.com."
+    "Эта политика относится к приложению «Шашки» для iOS и Android (идентификатор iOS и пакет Android com.osj.checkers), которое публикует Next Studio — индивидуальный разработчик из Южной Кореи. Контакт: dhalska2@gmail.com."
    ],
    [
     "Аккаунт и прогресс",
-    "Регистрация не нужна: приложение автоматически создаёт анонимный аккаунт. Ваш прогресс (статистика, достижения, решённые задачи, миссии, настройки и незавершённая партия) сохраняется на нашем сервере за этим аккаунтом, чтобы не потеряться. Монеты, подсказки, отмены ходов, имеющиеся скины, бонусы за ежедневный вход, ежедневные бесплатные использования и полученные награды за достижения и миссии начисляются, списываются и записываются сервером; приложение лишь показывает значения, которые вернул сервер. Награда за рекламу засчитывается один раз и только после серверной проверки AdMob; для этого на наш сервер передаются идентификатор вашего аккаунта и одноразовый токен. Вход через Apple необязателен; Apple передаёт идентификатор и, если вы разрешите, адрес электронной почты (это может быть частный адрес-ретранслятор), которые используются только для распознавания аккаунта на ваших устройствах. Когда вы входите в существующий аккаунт, прогресс анонимного аккаунта объединяется с ним."
+    "Регистрация не нужна: приложение автоматически создаёт анонимный аккаунт. Ваш прогресс (статистика, достижения, решённые задачи, миссии, настройки и незаконченная партия) сохраняется на нашем сервере в привязке к этому аккаунту, чтобы не пропасть. Монеты, подсказки, отмены ходов, купленные скины, бонусы за посещаемость, ежедневные бесплатные использования и полученные награды за достижения и миссии выдаёт, списывает и записывает сервер; приложение лишь показывает значения, которые он вернул. Рекламный ролик с наградой засчитывается один раз и только после серверной проверки AdMob, для чего на наш сервер передаются идентификатор вашего аккаунта и одноразовый токен. Вход необязателен. На iOS можно использовать «Вход через Apple»: Apple передаёт идентификатор и, если вы разрешите, адрес электронной почты (это может быть закрытый релейный адрес). На Android можно использовать вход через Google: мы получаем только идентификатор вашего аккаунта Google и адрес электронной почты, имя и фото профиля не запрашиваем. Они нужны только для создания или привязки аккаунта и его узнавания на ваших устройствах. При входе в существующий аккаунт прогресс анонимного аккаунта объединяется с ним."
    ],
    [
     "Онлайн-игра, рейтинги и наблюдение",
@@ -1423,7 +1503,7 @@
    ],
    [
     "Игра рядом (Wi-Fi и Bluetooth)",
-    "Игра рядом позволяет играть напрямую с находящимся рядом устройством без интернета — по одной сети Wi-Fi или Bluetooth LE. В Wi-Fi комната объявляется и находится в локальной сети через Bonjour (mDNS); в Bluetooth соперник находится через объявление и сканирование. Пока вы создаёте комнату, ваш ник виден устройствам поблизости. После соединения ваш ник, аватар, правила, ходы, предложения сдаться и ничьей и эмодзи-реакции передаются напрямую на другое устройство и не отправляются на наши серверы. Приложение не использует ваше местоположение. iOS при первом использовании спрашивает доступ к Bluetooth и локальной сети; при отказе остальное приложение работает, и это можно изменить в настройках iOS. Игры рядом не учитываются в рейтинге, статистике, миссиях и наградах монетами. Однако завершённая партия сохраняется на вашем устройстве как запись с режимом «nearby» и входит в описанную выше синхронизацию записей, то есть тоже загружается на наш сервер (с ником соперника). В игре рядом нет функций жалобы и блокировки."
+    "Игра рядом позволяет играть напрямую с находящимся рядом устройством без интернета — по одной сети Wi-Fi или Bluetooth LE. В Wi-Fi комната объявляется и находится в локальной сети через Bonjour (mDNS); в Bluetooth соперник находится через объявление и сканирование. Пока вы создаёте комнату, ваш ник виден устройствам поблизости. После соединения ваш ник, аватар, правила, ходы, предложения сдаться и ничьей и эмодзи-реакции передаются напрямую на другое устройство и не отправляются на наши серверы. Приложение не использует ваше местоположение. iOS при первом использовании спрашивает доступ к Bluetooth и локальной сети; при отказе остальное приложение работает, и это можно изменить в настройках iOS. Игры рядом не учитываются в рейтинге, статистике, миссиях и наградах монетами. Однако завершённая партия сохраняется на вашем устройстве как запись с режимом «nearby» и входит в описанную выше синхронизацию записей, то есть тоже загружается на наш сервер (с ником соперника). В игре рядом нет функций жалобы и блокировки. На Android 12 и новее приложение запрашивает разрешение «Устройства поблизости» для Bluetooth; на Android 11 и старше система требует разрешение на геолокацию для поиска по Bluetooth, но приложение не считывает и не собирает ваше местоположение."
    ],
    [
     "Функции, обрабатываемые на вашем устройстве",
@@ -1431,27 +1511,27 @@
    ],
    [
     "Покупки и подписки",
-    "Покупки (отключение рекламы, набор тем, наборы подсказок и отмен ходов) и подписку Премиум оплачиваются через Apple. Мы никогда не получаем ваши платёжные данные; храним идентификатор транзакции, товар и статус подписки, чтобы выдать и восстановить покупки."
+    "Покупки оплачиваются через магазин приложений, данные вашей карты и другие платёжные данные мы не получаем никогда. На iOS встроенные покупки (отключение рекламы, набор тем, наборы подсказок и отмен) и подписку Premium оплачивает Apple; мы сохраняем идентификатор транзакции, товар и статус подписки, чтобы выдавать и восстанавливать купленное. На Android покупки проходят через Google Play Billing, и доступны только разовые покупки (отключение рекламы, набор скинов, комплект, наборы подсказок и отмен); подписок на Android нет. Приложение отправляет токен покупки на наш сервер, тот проверяет его у Google (Google Play Developer API), сохраняет в журнале покупок только SHA-256-хеш токена с идентификатором товара, статусом и временем и выдаёт предмет. Возвращённые или отменённые покупки позже сверяются через API аннулированных покупок (voided purchases) Google и уведомления разработчика Google Play в реальном времени, и предмет отзывается."
    ],
    [
     "Уведомления",
-    "Только если вы включите уведомления, сохраняется push-токен (Firebase Cloud Messaging), чтобы сообщать, что настал ваш ход или партия завершена. Это можно отключить в приложении или в настройках iOS."
+    "Только если вы включите уведомления (на Android 13 и новее — разрешив уведомления), сохраняется push-токен (Firebase Cloud Messaging) вместе с вашим языком, часовым поясом и настройками уведомлений по играм, чтобы сообщить, что ваш ход или партия завершена. Отключить их можно в приложении или в системных настройках iOS или Android."
    ],
    [
     "Реклама",
-    "Google AdMob показывает неперсонализированную рекламу. Там, где это требуется (например, в ЕЭЗ и Великобритании), перед рекламой показывается форма согласия Google (UMP), и вы можете изменить выбор в настройках. Приложение не показывает запрос App Tracking Transparency, не отслеживает вас в приложениях и на сайтах других компаний и не запрашивает доступ к рекламному идентификатору. Тем не менее AdMob может обрабатывать данные об устройстве и примерное местоположение (по IP) для показа рекламы, ограничения её частоты и предотвращения мошенничества. Рекламу можно отключить покупкой в приложении."
+    "Google AdMob показывает неперсонализированную рекламу. Там, где это требуется (например, в ЕЭЗ и Великобритании), перед рекламой появляется форма согласия Google (UMP), а выбор можно изменить в настройках. Приложение не показывает запрос App Tracking Transparency и не отслеживает вас в приложениях и на сайтах других компаний. На iOS оно не запрашивает доступ к рекламному идентификатору. На Android приложение объявляет разрешение на рекламный идентификатор (AD_ID) для показа рекламы; реклама остаётся неперсонализированной, а рекламный идентификатор можно сбросить или удалить в настройках Android. AdMob всё равно может обрабатывать сведения об устройстве, рекламный идентификатор (если доступен) и примерное местоположение (по IP), чтобы показывать рекламу, ограничивать частоту, измерять показы и предотвращать мошенничество. Рекламу можно отключить встроенной покупкой."
    ],
    [
     "Отчёты о сбоях",
-    "Firebase Crashlytics собирает отчёты о сбоях и ошибках (модель устройства, версии iOS и приложения, технические журналы и случайный идентификатор установки), чтобы мы могли исправлять проблемы. Платёжных данных в них нет."
+    "Только в релизных сборках (не в сборках для разработки) Firebase Crashlytics собирает отчёты о сбоях и ошибках (модель устройства, версии ОС и приложения, трассировки стека и технические журналы, случайный идентификатор установки), чтобы мы могли исправлять проблемы. В этих отчётах нет платёжных данных."
    ],
    [
     "Поставщики услуг и хранение",
-    "Supabase (база данных и вход), Apple (вход через Apple и платежи) и Google (реклама AdMob, уведомления и отчёты о сбоях Firebase) обрабатывают данные по своим правилам; их серверы могут находиться за пределами вашей страны. Эти страницы размещены на GitHub Pages и не используют скрипты аналитики и рекламы."
+    "Supabase (база данных и вход), Apple («Вход через Apple» и платежи App Store) и Google (вход через Google, Google Play Billing, реклама AdMob, уведомления Firebase и отчёты о сбоях) обрабатывают данные по своим политикам конфиденциальности; их серверы могут находиться за пределами вашей страны. Эти страницы размещены на GitHub Pages и не используют скрипты аналитики или рекламы."
    ],
    [
     "Хранение и удаление",
-    "Данные на сервере хранятся, пока существует ваш аккаунт. Если вы удалите аккаунт в приложении или попросите об этом по почте, данные будут удалены или обезличены в разумный срок. Удаление приложения стирает только данные на устройстве."
+    "Данные на сервере хранятся, пока существует ваш аккаунт. Когда вы удаляете аккаунт в приложении (Настройки > Аккаунт) или запрашиваете удаление на странице «Удаление данных», они удаляются или обезличиваются в разумный срок. Исключение: минимальная запись о покупке (хеш токена покупки, идентификатор товара, статус и время, без имени и почты) может храниться до 5 лет после удаления, чтобы предотвратить повторную выдачу предмета после возврата и выполнить бухгалтерские и законодательные обязанности. Удаление приложения стирает только данные на устройстве."
    ],
    [
     "Ваши права, дети и изменения",
@@ -1461,11 +1541,11 @@
   "terms": [
    [
     "Сервис",
-    "«Шашки» предлагают игру с компьютером, вдвоём на одном устройстве, онлайн-игру в реальном времени и по переписке, коды друзей и вызовы, турниры, рейтинги, игру рядом по Wi-Fi или Bluetooth, 13 вариантов правил, задачи, ежедневные миссии и анализ партий. Подписка Premium убирает рекламу и ежедневные ограничения и включает все скины и неограниченные подсказки и отмены ходов."
+    "«Шашки» предлагают игру с компьютером, вдвоём на одном устройстве, онлайн-игру в реальном времени и по переписке, коды друзей и вызовы, турниры, рейтинги, игру рядом по Wi-Fi или Bluetooth, 13 вариантов правил, задачи, ежедневные миссии и анализ партий. Подписка Premium убирает рекламу и ежедневные ограничения и включает все скины и неограниченные подсказки и отмены ходов. Подписка Premium предлагается только на iOS."
    ],
    [
     "Покупки и подписки",
-    "Оплата проходит через Apple. Подписка продлевается автоматически, если её не отменить минимум за 24 часа до конца текущего периода; управлять ею и отменять можно в настройках Apple ID. Возвраты — по правилам Apple. Монеты и предметы не имеют денежной стоимости и не обмениваются. Также действует стандартное лицензионное соглашение Apple (EULA)."
+    "Оплата проходит через магазин: Apple на iOS и Google Play на Android. Подписки Premium на iOS продлеваются автоматически, если не отменить их минимум за 24 часа до конца текущего периода; управлять ими и отменять можно в настройках Apple ID. На Android доступны только разовые покупки, подписок нет. Возвраты регулируются правилами Apple или Google Play, а возвращённый или отменённый предмет может быть отозван. Монеты и предметы не имеют денежной стоимости и не обмениваются. На iOS также действует стандартное лицензионное соглашение Apple (EULA)."
    ],
    [
     "Честная игра и поведение",
@@ -1491,29 +1571,37 @@
    ],
    [
     "Если игра рядом не работает",
-    "На обоих устройствах выберите игру рядом в разделе «Начать игру»; одно создаёт комнату, другое присоединяется. Для Wi-Fi нужна одна сеть, Bluetooth должен быть включён. Если не удаётся соединиться, проверьте в настройках iOS > Шашки, что Bluetooth и локальная сеть разрешены, и поднесите устройства ближе."
+    "На обоих устройствах выберите игру рядом в разделе «Начать игру»; одно создаёт комнату, другое присоединяется. Для Wi-Fi нужна одна сеть, Bluetooth должен быть включён. Если не удаётся соединиться, проверьте в настройках iOS > Шашки, что Bluetooth и локальная сеть разрешены, и поднесите устройства ближе. На Android проверьте в Настройки > Приложения > Шашки > Разрешения, что «Устройства поблизости» разрешены."
    ],
    [
     "Прогресс, покупки и синхронизация",
-    "Прогресс автоматически сохраняется в аккаунте. Кнопка «Восстановить покупки» в магазине вернёт покупки, а вход через Apple в настройках позволит продолжить на другом устройстве."
+    "Прогресс автоматически сохраняется в вашем аккаунте. Чтобы вернуть покупки, нажмите «Восстановить покупки» в магазине, а чтобы продолжить на другом устройстве, войдите в настройках (через Apple на iOS, через Google на Android)."
    ],
    [
     "Связь с нами",
-    "Укажите «Шашки» в теме письма, а также версию приложения, устройство и версию iOS и шаги, которые привели к проблеме. При проблемах с покупкой чек Apple поможет ответить быстрее."
+    "Укажите в теме письма «Шашки» и сообщите версию приложения, ваше устройство и версию iOS или Android, а также шаги, которые привели к проблеме. По вопросам покупок чек Apple или номер заказа Google Play помогут ответить быстрее."
    ]
   ],
   "delete-account": [
    [
     "Удаление в приложении",
-    "Если вы вошли через Apple: Настройки > Аккаунт > Удалить аккаунт. Ваш прогресс, рейтинг, ник, права на покупки, монеты, оставшиеся платные подсказки и отмены, друзья и код друга, история вызовов, записи партий, синхронизированные с сервером, записи об участии в турнирах и push-токен удаляются без возможности восстановления, идущие онлайн-партии завершаются. Платежи App Store не возвращаются."
+    "Откройте Настройки > Аккаунт > Удалить аккаунт (может потребоваться повторное подтверждение через Apple или Google). Ваш прогресс, рейтинг, ник, права на покупки, монеты, оставшиеся платные подсказки и отмены, друзья и код друга, история вызовов, партии, синхронизированные с сервером, участие в турнирах и push-токен удаляются безвозвратно, а текущие онлайн-партии завершаются. Платежи в App Store или Google Play не возвращаются."
    ],
    [
-    "Запрос по почте",
-    "Без входа через Apple напишите на dhalska2@gmail.com с темой «Удаление данных Шашки» и сведениями, по которым можно определить аккаунт (например, ник). Мы удалим данные с сервера в разумный срок."
+    "Запрос через веб (без установки приложения)",
+    "Запросить удаление можно, не устанавливая приложение. Напишите на dhalska2@gmail.com с темой «Удаление данных Шашки», указав приложение (Шашки / Checkers, com.osj.checkers) и разработчика (Next Studio / 넥스트 스튜디오). Сообщите, как вы входили (Apple, Google или анонимно), и сведения ниже. Мы подтвердим ответом и удалим данные «Шашек» на сервере в разумный срок, обычно в течение 30 дней."
+   ],
+   [
+    "Как мы подтверждаем вашу личность",
+    "Если вы входили в аккаунт, отправьте запрос с адреса электронной почты этого аккаунта Apple или Google либо сообщите нам этот адрес. Для анонимного аккаунта укажите сведения, которые видит в приложении только владелец (ник, код друга, страна и рейтинг). Мы никогда не просим пароли, одноразовые коды и номера карт. Если не удастся сопоставить запрос с аккаунтом, мы ответим и попросим дополнительные сведения."
+   ],
+   [
+    "Что удаляется и что сохраняется",
+    "Удаляется: всё, что перечислено в «Удаление в приложении». Сохраняется: минимальная запись о покупке (хеш токена покупки, идентификатор товара, статус и время, без имени и почты) до 5 лет, чтобы не допустить повторной выдачи после возвратов и выполнить бухгалтерские и законодательные обязанности. Ваш аккаунт для входа может быть общим с другими играми Next Studio; этот запрос удаляет только данные «Шашек». Если нужно удалить аккаунт целиком, напишите об этом в письме."
    ],
    [
     "Данные на устройстве",
-    "Данные, хранящиеся на устройстве (например, локальные копии записей партий), удаляются при удалении приложения («Удалить приложение», а не «Сгрузить приложение»). Ник и ходы, отправленные на другое устройство при игре рядом, могут остаться на нём, и мы не можем их удалить."
+    "Данные на устройстве (например, локальные копии записей партий) удаляются при удалении приложения (на iOS — «Удалить приложение», а не «Сгрузить приложение»). Ник и ходы, отправленные на другое устройство при игре поблизости, могут остаться на нём, и мы не можем их удалить."
    ]
   ]
  },
@@ -1527,7 +1615,7 @@
   ],
   "tag": "13 kural varyantıyla klasik dama — oyna, çöz, yüksel.",
   "intro": "Dama resmî destek ve politikaları · Next Studio",
-  "date": "Yürürlük / güncelleme: 4 Ekim 2026",
+  "date": "Yürürlük / güncelleme: 17 Ekim 2026",
   "contact": "İletişim",
   "skip": "İçeriğe geç",
   "features": [
@@ -1536,16 +1624,16 @@
    "İnternetsiz, Wi-Fi veya Bluetooth ile yakındaki cihazla oyun",
    "Canlı ve eşzamansız çevrimiçi oyun, arkadaş kodları, turnuvalar ve sıralamalar",
    "Bulmacalar · günlük görevler · oyun analizi · PDN içe/dışa aktarma · tahta düzenleyici",
-   "Premium abonelik"
+   "Premium abonelik (yalnızca iOS)"
   ],
   "privacy": [
    [
     "İşletmeci ve kapsam",
-    "Bu politika, Güney Kore merkezli bireysel geliştirici Next Studio tarafından yayımlanan iOS uygulaması \"Dama\" (paket kimliği com.osj.checkers) için geçerlidir. İletişim: dhalska2@gmail.com."
+    "Bu politika, Güney Kore merkezli bireysel geliştirici Next Studio tarafından yayımlanan iOS ve Android uygulaması \"Dama\" (iOS paket kimliği ve Android paketi com.osj.checkers) için geçerlidir. İletişim: dhalska2@gmail.com."
    ],
    [
     "Hesap ve ilerleme",
-    "Kayıt gerekmez: uygulama otomatik olarak anonim bir hesap oluşturur. İlerlemeniz (istatistikler, başarımlar, çözülen bulmacalar, görevler, ayarlar ve bitmemiş bir oyun) kaybolmasın diye bu hesaba bağlı olarak sunucumuzda saklanır. Jetonlar, ipuçları, geri almalar, sahip olunan görünümler, devam bonusları, günlük ücretsiz kullanımlar ve alınan başarım ile görev ödülleri sunucu tarafından verilir, düşülür ve kaydedilir; uygulama yalnızca sunucunun döndürdüğü değerleri gösterir. Ödüllü reklam yalnızca AdMob sunucu tarafı doğrulamasından sonra ve bir kez sayılır; bunun için hesap tanımlayıcınız ve tek kullanımlık bir belirteç sunucumuza iletilir. Apple ile giriş isteğe bağlıdır; Apple bir tanımlayıcı ve izin verirseniz bir e-posta adresi (özel aktarma adresi olabilir) paylaşır, bunlar yalnızca hesabınızı cihazlarınızda tanımak için kullanılır. Mevcut bir hesapta oturum açtığınızda anonim hesabın ilerlemesi ona birleştirilir."
+    "Kayıt gerekmez: uygulama otomatik olarak anonim bir hesap oluşturur. İlerlemen (istatistikler, başarımlar, çözülen bulmacalar, görevler, ayarlar ve bitmemiş bir oyun) kaybolmasın diye bu hesaba bağlı olarak sunucumuzda saklanır. Jetonlar, ipuçları, geri almalar, sahip olunan görünümler, devam bonusları, günlük ücretsiz haklar ve alınan başarım ile görev ödülleri sunucu tarafından verilir, düşülür ve kaydedilir; uygulama yalnızca sunucunun döndürdüğü değerleri gösterir. Ödüllü reklam yalnızca AdMob sunucu tarafı doğrulamasından sonra ve bir kez sayılır; bunun için hesap tanımlayıcın ve tek kullanımlık bir belirteç sunucumuza iletilir. Giriş yapmak isteğe bağlıdır. iOS'ta Apple ile Giriş'i kullanabilirsin: Apple bir tanımlayıcı ve izin verirsen bir e-posta adresi (özel aktarma adresi olabilir) paylaşır. Android'de Google ile Giriş'i kullanabilirsin: yalnızca Google hesap tanımlayıcını ve e-posta adresini alırız, adını veya profil fotoğrafını istemeyiz. Bunlar yalnızca hesabını oluşturmak veya bağlamak ve cihazlarında tanımak için kullanılır. Mevcut bir hesaba giriş yaptığında anonim hesabın ilerlemesi ona birleştirilir."
    ],
    [
     "Çevrimiçi oyun, sıralamalar ve izleme",
@@ -1561,7 +1649,7 @@
    ],
    [
     "Yakındaki oyun (Wi-Fi ve Bluetooth)",
-    "Yakındaki oyun, internet olmadan aynı Wi-Fi veya Bluetooth LE üzerinden yakınınızdaki bir cihazla doğrudan oynamanızı sağlar. Wi-Fi’de oda yerel ağda Bonjour (mDNS) ile duyurulur ve bulunur; Bluetooth’ta rakip duyuru ve tarama ile bulunur. Oda kurduğunuz sürece takma adınız yakındaki cihazlara görünür. Bağlandıktan sonra takma adınız, avatarınız, kurallar, hamleler, pes ve beraberlik teklifleri ile emoji tepkileri doğrudan diğer cihaza gider ve sunucularımıza gönderilmez. Uygulama konumunuzu kullanmaz. iOS ilk kullanımda Bluetooth ve yerel ağ erişimi ister; reddederseniz uygulamanın geri kalanı çalışır ve iOS Ayarları’ndan değiştirebilirsiniz. Yakındaki oyunlar puana, istatistiklere, görevlere veya jeton ödüllerine sayılmaz. Ancak biten bir oyun, cihazınızda “nearby” modlu bir oyun kaydı olarak saklanır ve yukarıdaki oyun kaydı eşitlemesine dahildir; bu nedenle sunucumuza da yüklenir (rakibin takma adıyla). Yakındaki oyunda şikayet veya engelleme özelliği yoktur."
+    "Yakındaki oyun, internet olmadan aynı Wi-Fi veya Bluetooth LE üzerinden yakınınızdaki bir cihazla doğrudan oynamanızı sağlar. Wi-Fi’de oda yerel ağda Bonjour (mDNS) ile duyurulur ve bulunur; Bluetooth’ta rakip duyuru ve tarama ile bulunur. Oda kurduğunuz sürece takma adınız yakındaki cihazlara görünür. Bağlandıktan sonra takma adınız, avatarınız, kurallar, hamleler, pes ve beraberlik teklifleri ile emoji tepkileri doğrudan diğer cihaza gider ve sunucularımıza gönderilmez. Uygulama konumunuzu kullanmaz. iOS ilk kullanımda Bluetooth ve yerel ağ erişimi ister; reddederseniz uygulamanın geri kalanı çalışır ve iOS Ayarları’ndan değiştirebilirsiniz. Yakındaki oyunlar puana, istatistiklere, görevlere veya jeton ödüllerine sayılmaz. Ancak biten bir oyun, cihazınızda “nearby” modlu bir oyun kaydı olarak saklanır ve yukarıdaki oyun kaydı eşitlemesine dahildir; bu nedenle sunucumuza da yüklenir (rakibin takma adıyla). Yakındaki oyunda şikayet veya engelleme özelliği yoktur. Android 12 ve üzerinde uygulama Bluetooth için \"Yakındaki cihazlar\" iznini ister; Android 11 ve altında sistem Bluetooth taraması için konum izni ister, ancak uygulama konumunu okumaz veya toplamaz."
    ],
    [
     "Cihazınızda işlenen özellikler",
@@ -1569,27 +1657,27 @@
    ],
    [
     "Satın almalar ve abonelikler",
-    "Satın almalar (reklamları kaldırma, tema paketi, ipucu ve geri alma paketleri) ve Premium abonelik Apple tarafından ücretlendirilir. Ödeme bilgilerini asla almayız; satın aldıklarını vermek ve geri yüklemek için işlem kimliğini, ürünü ve abonelik durumunu saklarız."
+    "Satın alımlar mağaza tarafından tahsil edilir; kart veya diğer ödeme bilgilerini asla almayız. iOS'ta uygulama içi satın alımlar (reklamları kaldırma, tema paketi, ipucu ve geri alma paketleri) ve Premium abonelik Apple tarafından faturalandırılır; satın aldıklarını vermek ve geri yüklemek için işlem kimliğini, ürünü ve abonelik durumunu saklarız. Android'de satın alımlar Google Play Billing üzerinden yapılır ve yalnızca tek seferlik ürünler sunulur (reklamları kaldırma, görünüm paketi, paket, ipucu paketleri ve geri alma paketleri); Android'de abonelik yoktur. Uygulama satın alma belirtecini sunucumuza gönderir; sunucu bunu Google ile (Google Play Developer API) doğrular, satın alma defterinde belirtecin yalnızca SHA-256 özetini ürün kimliği, durum ve zamanla birlikte saklar ve ürünü verir. İade edilen veya iptal edilen satın alımlar daha sonra Google'ın iptal edilen satın alımlar (voided purchases) API'si ve Google Play gerçek zamanlı geliştirici bildirimleri ile eşleştirilir ve ürün geri alınır."
    ],
    [
     "Bildirimler",
-    "Yalnızca bildirimleri açarsan, sıranın geldiğini veya maçın bittiğini haber vermek için bir push belirteci (Firebase Cloud Messaging) saklanır. Bunu uygulamada veya iOS Ayarları’nda kapatabilirsin."
+    "Yalnızca bildirimleri açarsan (Android 13 ve üzerinde bildirim iznini vererek) bir anlık bildirim belirteci (Firebase Cloud Messaging) dilin, saat diliminle ve oyun başına bildirim ayarlarınla birlikte saklanır; sıra sende olduğunda veya bir oyun bittiğinde seni bilgilendirmek için. Bunu uygulamadan veya iOS ya da Android sistem ayarlarından kapatabilirsin."
    ],
    [
     "Reklamlar",
-    "Google AdMob kişiselleştirilmemiş reklamlar gösterir. Gereken yerlerde (örneğin AEA ve Birleşik Krallık) reklamlardan önce Google onay formu (UMP) gösterilir ve tercihinizi Ayarlar’dan değiştirebilirsiniz. Uygulama Uygulama İzleme Şeffaflığı istemi göstermez, sizi diğer şirketlerin uygulama veya web sitelerinde izlemez ve reklam tanımlayıcısına erişim istemez. Yine de AdMob, reklamları sunmak, sıklığını sınırlamak ve sahteciliği önlemek için cihaz bilgilerini ve yaklaşık (IP tabanlı) konumu işleyebilir. Reklamlar uygulama içi satın alma ile kaldırılabilir."
+    "Google AdMob kişiselleştirilmemiş reklamlar gösterir. Gerekli yerlerde (örneğin AEA ve Birleşik Krallık) reklamlardan önce bir Google onay formu (UMP) gösterilir ve tercihini Ayarlar'dan değiştirebilirsin. Uygulama App Tracking Transparency istemi göstermez ve seni diğer şirketlerin uygulamaları veya web siteleri genelinde izlemez. iOS'ta reklam tanımlayıcısına erişim istemez. Android'de uygulama reklamlar için reklam kimliği (AD_ID) iznini bildirir; reklamlar kişiselleştirilmemiş kalır ve reklam kimliğini Android ayarlarından sıfırlayabilir veya silebilirsin. AdMob yine de reklamları sunmak, sıklığını sınırlamak, ölçmek ve sahteciliği önlemek için cihaz bilgilerini, varsa reklam kimliğini ve yaklaşık (IP tabanlı) konumu işleyebilir. Reklamlar uygulama içi satın alımla kaldırılabilir."
    ],
    [
     "Çökme raporları",
-    "Firebase Crashlytics, sorunları giderebilmemiz için çökme ve hata raporları (cihaz modeli, iOS ve uygulama sürümü, teknik kayıtlar ve rastgele bir kurulum kimliği) toplar. Bu raporlar ödeme bilgisi içermez."
+    "Yalnızca yayın (release) sürümlerinde (geliştirme sürümlerinde değil) Firebase Crashlytics, sorunları düzeltebilmemiz için çökme ve hata raporlarını (cihaz modeli, işletim sistemi ve uygulama sürümü, yığın izleri ve teknik kayıtlar, rastgele bir kurulum kimliği) toplar. Bu raporlarda ödeme bilgisi yoktur."
    ],
    [
     "Hizmet sağlayıcılar ve depolama",
-    "Supabase (veritabanı ve giriş), Apple (Apple ile Giriş ve ödemeler) ve Google (AdMob reklamları, Firebase bildirimleri ve çökme raporları) verileri kendi politikalarına göre işler; sunucuları ülken dışında olabilir. Bu sayfalar GitHub Pages’te barındırılır ve analiz ya da reklam betiği kullanmaz."
+    "Supabase (veritabanı ve giriş), Apple (Apple ile Giriş ve App Store ödemeleri) ve Google (Google ile Giriş, Google Play Billing, AdMob reklamları, Firebase bildirimleri ve çökme raporları) verileri kendi gizlilik politikalarına göre işler; sunucuları ülkenin dışında olabilir. Bu sayfalar GitHub Pages üzerinde barındırılır ve analiz veya reklam betikleri kullanmaz."
    ],
    [
     "Saklama ve silme",
-    "Sunucu verileri hesabın var olduğu sürece saklanır. Hesabını uygulamada silersen veya e-postayla istersen makul bir süre içinde silinir ya da anonimleştirilir. Uygulamayı silmek yalnızca cihazdaki verileri kaldırır."
+    "Sunucu verileri hesabın var olduğu sürece saklanır. Hesabını uygulamada (Ayarlar > Hesap) silersen veya Veri Silme sayfasından silme talep edersen veriler makul bir süre içinde silinir veya anonimleştirilir. İstisna: asgari bir satın alma kaydı (satın alma belirtecinin özeti, ürün kimliği, durum ve zaman; ad veya e-posta yok) iadeden sonra bir ürünün iki kez verilmesini önlemek ve muhasebe ile yasal yükümlülükleri yerine getirmek için silmeden sonra en fazla 5 yıl saklanabilir. Uygulamayı silmek yalnızca cihazda saklanan verileri kaldırır."
    ],
    [
     "Hakların, çocuklar ve değişiklikler",
@@ -1599,11 +1687,11 @@
   "terms": [
    [
     "Hizmet",
-    "Dama; bilgisayara karşı oyun, tek cihazda iki kişi, canlı ve eşzamansız çevrimiçi oyun, arkadaş kodları ve meydan okumalar, turnuvalar, sıralamalar, Wi-Fi veya Bluetooth ile yakındaki oyun, 13 kural varyantı, bulmacalar, günlük görevler ve oyun analizi sunar. Premium abonelik reklamları ve günlük sınırları kaldırır; tüm görünümleri ve sınırsız ipucu ile geri almayı içerir."
+    "Dama; bilgisayara karşı oyun, tek cihazda iki kişi, canlı ve eşzamansız çevrimiçi oyun, arkadaş kodları ve meydan okumalar, turnuvalar, sıralamalar, Wi-Fi veya Bluetooth ile yakındaki oyun, 13 kural varyantı, bulmacalar, günlük görevler ve oyun analizi sunar. Premium abonelik reklamları ve günlük sınırları kaldırır; tüm görünümleri ve sınırsız ipucu ile geri almayı içerir. Premium abonelik yalnızca iOS'ta sunulur."
    ],
    [
     "Satın almalar ve abonelikler",
-    "Ödemeler Apple üzerinden yapılır. Abonelikler, mevcut dönem bitmeden en az 24 saat önce iptal edilmezse otomatik yenilenir; Apple Kimliği ayarlarından yönetebilir veya iptal edebilirsin. İadeler Apple politikalarına tabidir. Jeton ve öğelerin nakit değeri yoktur ve değiştirilemez. Apple Standart EULA da geçerlidir."
+    "Ödemeler mağaza üzerinden yapılır: iOS'ta Apple, Android'de Google Play. iOS'taki Premium abonelikler, mevcut dönemin bitiminden en az 24 saat önce iptal edilmezse otomatik yenilenir; Apple Kimliği ayarlarından yönetebilir veya iptal edebilirsin. Android yalnızca tek seferlik satın alımlar sunar, abonelik yoktur. İadeler Apple veya Google Play politikalarına tabidir ve iade edilen ya da iptal edilen ürün geri alınabilir. Jetonların ve ürünlerin nakit değeri yoktur ve takas edilemez. iOS'ta Apple Standart EULA'sı da geçerlidir."
    ],
    [
     "Adil oyun ve davranış",
@@ -1629,29 +1717,37 @@
    ],
    [
     "Yakındaki oyun sorunları",
-    "Her iki cihazda da Oyunu başlat altında yakındaki oyunu seçin; biri oda kurar, diğeri katılır. Wi-Fi için aynı ağ gerekir, Bluetooth açık olmalıdır. Bağlanamazsanız iOS Ayarları > Dama’da Bluetooth ve Yerel Ağ’a izin verildiğini kontrol edin ve cihazları yaklaştırın."
+    "Her iki cihazda da Oyunu başlat altında yakındaki oyunu seçin; biri oda kurar, diğeri katılır. Wi-Fi için aynı ağ gerekir, Bluetooth açık olmalıdır. Bağlanamazsanız iOS Ayarları > Dama’da Bluetooth ve Yerel Ağ’a izin verildiğini kontrol edin ve cihazları yaklaştırın. Android'de Ayarlar > Uygulamalar > Dama > İzinler bölümünden \"Yakındaki cihazlar\" izninin verildiğini kontrol et."
    ],
    [
     "İlerleme, satın almalar ve eşitleme",
-    "İlerleme hesabına otomatik kaydedilir. Satın aldıklarını geri almak için Mağaza’daki Satın Alımları Geri Yükle’yi kullan; başka bir cihazda devam etmek için Ayarlar’da Apple ile giriş yap."
+    "İlerleme hesabına otomatik kaydedilir. Satın aldıklarını geri almak için Mağaza'da Satın Alımları Geri Yükle'yi kullan, başka bir cihazda devam etmek için Ayarlar'dan giriş yap (iOS'ta Apple, Android'de Google)."
    ],
    [
     "Bize ulaşma",
-    "E-posta konusuna \"Dama\" yaz ve uygulama sürümünü, cihazını ve iOS sürümünü, sorunun oluştuğu adımları belirt. Satın alma sorunlarında Apple makbuzu daha hızlı yanıt vermemize yardımcı olur."
+    "E-posta konusuna \"Dama\" yaz ve uygulama sürümünü, cihazını ve iOS ya da Android sürümünü, sorunu yaşadığın adımları bildir. Satın alma sorunlarında Apple makbuzu veya Google Play sipariş numarası daha hızlı yanıt vermemize yardımcı olur."
    ]
   ],
   "delete-account": [
    [
     "Uygulamada sil",
-    "Apple ile giriş yaptıysanız: Ayarlar > Hesap > Hesabı sil. İlerlemeniz, sıralamanız, takma adınız, satın alma haklarınız, jetonlarınız, kalan ücretli ipuçları ve geri almalar, arkadaşlar ve arkadaş kodu, meydan okuma geçmişi, sunucuyla eşitlenen oyun kayıtları, turnuva katılımları ve anlık bildirim belirteci kalıcı olarak silinir; devam eden çevrimiçi oyunlar sona erer. App Store ödemeleri iade edilmez."
+    "Ayarlar > Hesap > Hesabı sil yolunu aç (Apple veya Google ile yeniden onay istenebilir). İlerlemen, sıralaman, takma adın, satın alma haklarının, jetonların, kalan ücretli ipucu ve geri almaların, arkadaşların ve arkadaş kodun, meydan okuma geçmişin, sunucuya senkronize edilen oyun kayıtların, turnuva katılımların ve anlık bildirim belirtecin kalıcı olarak silinir; devam eden çevrim içi oyunlar sonlandırılır. App Store veya Google Play ödemeleri iade edilmez."
    ],
    [
-    "E-postayla talep",
-    "Apple ile giriş yapmadıysan, \"Dama Veri Silme\" konulu bir e-postayı hesabını tanımlayan bilgilerle (ör. takma adın) dhalska2@gmail.com adresine gönder. Sunucu verilerini makul bir süre içinde sileriz."
+    "Web üzerinden talep (uygulama gerekmez)",
+    "Uygulamayı yüklemeden de silme talep edebilirsin. \"Dama Veri Silme\" konusuyla dhalska2@gmail.com adresine e-posta gönder; uygulamanın adını (Dama / Checkers, com.osj.checkers) ve geliştiriciyi (Next Studio / 넥스트 스튜디오) belirt. Nasıl giriş yaptığını (Apple, Google veya anonim) ve aşağıdaki bilgileri bildir. Yanıtla onaylar ve sunucudaki Dama verilerini makul bir süre içinde, genellikle 30 gün içinde sileriz."
+   ],
+   [
+    "Kimliğini nasıl doğruluyoruz",
+    "Giriş yaptıysan talebi o Apple veya Google hesabının e-posta adresinden gönder ya da bu adresi bize bildir. Anonim hesapta yalnızca hesap sahibinin uygulamada görebileceği bilgileri ver (takma ad, arkadaş kodu, ülke ve puan). Parola, tek kullanımlık kod veya kart numarası asla istemeyiz. Talebi bir hesapla eşleştiremezsek yanıtlayıp ek bilgi isteriz."
+   ],
+   [
+    "Neler silinir, neler saklanır",
+    "Silinenler: \"Uygulamada sil\" altında sayılan her şey. Saklanan: asgari bir satın alma kaydı (satın alma belirtecinin özeti, ürün kimliği, durum ve zaman; ad veya e-posta yok), iadelerden sonra çift verilmeyi önlemek ve muhasebe ile yasal yükümlülükleri karşılamak için en fazla 5 yıl. Giriş hesabın Next Studio'nun diğer oyunlarıyla ortak olabilir; bu talep yalnızca Dama verilerini siler. Hesabın tamamının silinmesini istiyorsan e-postada belirt."
    ],
    [
     "Cihazdaki veriler",
-    "Cihazda saklanan veriler (oyun kayıtlarının yerel kopyaları gibi) uygulamayı sildiğinizde (“Uygulamayı Sil”, “Uygulamayı Boşalt” değil) kaldırılır. Yakındaki oyunda başka bir cihaza gönderilen takma ad ve hamleler o cihazda kalabilir ve biz bunları silemeyiz."
+    "Cihazda saklanan veriler (oyun kayıtlarının yerel kopyaları gibi) uygulamayı sildiğinde kaldırılır (iOS'ta \"Uygulamayı Sil\", \"Uygulamayı Boşalt\" değil). Yakında oyun sırasında başka bir cihaza gönderilen takma ad ve hamleler o cihazda kalabilir ve biz bunları silemeyiz."
    ]
   ]
  }
