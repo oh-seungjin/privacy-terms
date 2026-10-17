@@ -9,7 +9,7 @@
     ],
     "tag": "같은 숫자를 찾고, 합이 10인 쌍을 연결하세요.",
     "intro": "NumberLink Pulse 공식 지원 및 정책 · 넥스트 스튜디오",
-    "date": "시행 / 수정: 2026년 9월 27일",
+    "date": "시행 / 수정: 2026년 10월 17일",
     "contact": "문의",
     "skip": "본문으로",
     "privacy": [
@@ -19,7 +19,7 @@
       ],
       [
         "기기 내 게임 데이터",
-        "기기에 숫자 보드·제거/숫자 추가 이력·경과 시간·메모·힌트 사용 기록, 완료 단계·최고 기록, 일일 퍼즐·미션·달력 기록, 언어·효과음·진동·테마 설정을 계정별로 저장합니다. 서버 확인을 기다리는 저장·광고·힌트 요청도 복구를 위해 보관합니다. Firebase, 별도 분석/충돌 보고 SDK, 푸시 알림은 사용하지 않습니다."
+        "기기에 숫자 보드·제거/숫자 추가 이력·경과 시간·메모·힌트 사용 기록, 완료 단계·최고 기록, 일일 퍼즐·미션·달력 기록, 언어·효과음·진동·테마 설정을 계정별로 저장합니다. 서버 확인을 기다리는 저장·광고·힌트 요청도 복구를 위해 보관합니다. 푸시 알림과 별도 행동 분석 SDK는 사용하지 않습니다. 크래시 진단은 아래 항목을 참고하세요."
       ],
       [
         "로그인과 서버 저장(Supabase)",
@@ -31,7 +31,7 @@
       ],
       [
         "계정과 구매",
-        "Apple 또는 Google로 로그인하면 이메일, 계정 ID, 인증·접속 기록을 Supabase에 처리하여 인증과 기기 간 진행 연결에 사용합니다. 인앱 구매(광고 제거, 힌트 묶음, 테마 팩, 스타터 번들)를 이용하면 상품·거래 ID, 구매 환경, 구매 권한, 힌트 잔액을 Supabase에서 검증·지급 처리합니다. 결제 카드 정보는 수집하지 않으며 스토어가 직접 처리합니다. 인앱 구매는 현재 iOS에서만 지원됩니다. 랭크 참가권도 소모성 상품이며, 국가 선택·랭크 시도·점수·시간·마스킹된 계정 표시를 순위 제공에 처리합니다. 힌트 소비 요청과 계정 병합 증명은 중복 지급 및 부정 사용 방지에 사용합니다."
+        "Apple 또는 Google로 로그인하면 이메일, 계정 ID, 인증·접속 기록을 Supabase에 처리하여 인증과 기기 간 진행 연결에 사용합니다. 인앱 구매(광고 제거, 힌트 묶음, 테마 팩, 스타터 번들)를 이용하면 상품·거래 ID, 구매 환경, 구매 권한, 힌트 잔액을 Supabase에서 검증·지급 처리합니다. 결제 카드 정보는 수집하지 않으며 스토어가 직접 처리합니다. iOS는 App Store, Android는 Google Play 결제를 사용합니다. Android 구매는 구매 토큰을 서버에서 Google Play API로 검증한 뒤 지급하고 소비·확인 처리하며, Google Play의 실시간 알림과 환불 조회로 환불·취소된 구매의 권한을 회수합니다. 구매 토큰 원문은 저장하지 않고 해시 값과 거래 상태만 보관합니다. 랭크 참가권도 소모성 상품이며, 국가 선택·랭크 시도·점수·시간·마스킹된 계정 표시를 순위 제공에 처리합니다. 힌트 소비 요청과 계정 병합 증명은 중복 지급 및 부정 사용 방지에 사용합니다."
       ],
       [
         "서버 데이터 보유와 국외 처리",
@@ -52,6 +52,10 @@
       [
         "아동·보호 조치·변경",
         "게임에 개인정보 입력이 필요하지 않습니다. 아동의 개인정보를 고의로 요청하지 않으며, 아동이 문의 과정에서 보낸 정보는 보호자가 연락하여 확인·삭제를 요청할 수 있습니다. 문의 정보의 접근을 제한하는 등 합리적 보호 조치를 취하지만 완전한 보안을 보장하지는 않습니다. 중요한 변경 시 날짜와 내용을 갱신하고 법령상 필요한 안내·동의 절차를 제공합니다."
+      ],
+      [
+        "크래시 진단(Firebase Crashlytics)",
+        "릴리스 빌드는 앱 안정성 개선을 위해 Google Firebase Crashlytics를 사용합니다. 크래시 스택, 앱·운영체제 버전, 기기 정보와 설치 식별자 등 진단 정보를 처리하며 개발·디버그 빌드에서는 수집하지 않습니다. 로그인 이메일, 이름, 구매 토큰을 사용자 식별자·사용자 지정 로그로 추가하지 않습니다."
       ]
     ],
     "terms": [
@@ -61,7 +65,7 @@
       ],
       [
         "광고·상품·소비자 권리",
-        "무료 이용에는 전면 광고와 선택형 보상 광고가 포함될 수 있습니다. 광고 제거는 일반 전면 광고를 제거하며 선택형 보상 광고를 자동 지급으로 바꾸지 않습니다. 광고 제거·테마 팩·스타터 번들은 비소모성, 힌트 묶음·랭크 참가권은 소모성 상품입니다. 구독은 없습니다. 구매 전 스토어에 표시된 실제 현지 가격과 구성을 확인하세요. 인앱 구매는 현재 iOS에서만 지원됩니다. 구매 복원·환불은 상품 유형과 스토어 정책에 따라 처리되며 적용되는 소비자 권리를 제한하지 않습니다."
+        "무료 이용에는 전면 광고와 선택형 보상 광고가 포함될 수 있습니다. 광고 제거는 일반 전면 광고를 제거하며 선택형 보상 광고를 자동 지급으로 바꾸지 않습니다. 광고 제거·테마 팩·스타터 번들은 비소모성, 힌트 묶음·랭크 참가권은 소모성 상품입니다. 구독은 없습니다. 구매 전 스토어에 표시된 실제 현지 가격과 구성을 확인하세요. 인앱 구매는 iOS(App Store)와 Android(Google Play)에서 지원됩니다. 구매 복원·환불은 상품 유형과 스토어 정책에 따라 처리되며 적용되는 소비자 권리를 제한하지 않습니다."
       ],
       [
         "이용·변경·책임",
@@ -107,7 +111,7 @@
     ],
     "tag": "Match equal numbers. Make ten. Clear the board.",
     "intro": "NumberLink Pulse official support and policies · Next Studio",
-    "date": "Effective / revised: September 27, 2026",
+    "date": "Effective / revised: October 17, 2026",
     "contact": "Contact",
     "skip": "Skip to content",
     "privacy": [
@@ -117,7 +121,7 @@
       ],
       [
         "On-device game data",
-        "The device stores number boards, removal/add-number moves, elapsed time, notes, hint-use records, completed stages, personal bests, daily puzzle/mission/calendar records, and language, sound, haptics and theme preferences by account. Pending save, ad and hint requests are retained for recovery. We do not use Firebase, a separate analytics/crash-reporting SDK, or push notifications."
+        "The device stores number boards, removal/add-number moves, elapsed time, notes, hint-use records, completed stages, personal bests, daily puzzle/mission/calendar records, and language, sound, haptics and theme preferences by account. Pending save, ad and hint requests are retained for recovery. We do not use push notifications or a separate behavioral analytics SDK. See the crash diagnostics section below."
       ],
       [
         "Sign-in and server storage (Supabase)",
@@ -129,7 +133,7 @@
       ],
       [
         "Account and purchases",
-        "Signing in with Apple or Google causes your email, account ID, and authentication/access records to be processed in Supabase for authentication and to link progress across devices. Using an in-app purchase (remove ads, hint packs, theme pack, starter bundle) causes the product/transaction ID, purchase environment, purchase entitlements, and hint balance to be verified and credited via Supabase. We do not collect payment card details; the store handles them directly. In-app purchases are currently supported on iOS only. Ranked entry tickets are also consumables. We process selected country, ranked attempts, scores, times and masked account labels for rankings. Hint-spend requests and account-merge proofs prevent duplicate grants and abuse."
+        "Signing in with Apple or Google causes your email, account ID, and authentication/access records to be processed in Supabase for authentication and to link progress across devices. Using an in-app purchase (remove ads, hint packs, theme pack, starter bundle) causes the product/transaction ID, purchase environment, purchase entitlements, and hint balance to be verified and credited via Supabase. We do not collect payment card details; the store handles them directly. iOS uses App Store billing and Android uses Google Play billing. Android purchase tokens are verified on our server through the Google Play API before crediting, then consumed/acknowledged; Google Play real-time notifications and the voided-purchases API revoke entitlements for refunded or canceled purchases. We store only a hash of the purchase token and the transaction state, not the token itself. Ranked entry tickets are also consumables. We process selected country, ranked attempts, scores, times and masked account labels for rankings. Hint-spend requests and account-merge proofs prevent duplicate grants and abuse."
       ],
       [
         "Server data retention and cross-border processing",
@@ -150,6 +154,10 @@
       [
         "Children, safeguards, and changes",
         "The game does not require entering personal information. We do not knowingly request personal information from children; if a child sends information through an inquiry, a guardian may contact us to review or delete it. We take reasonable safeguards such as limiting access to inquiry data, but we cannot guarantee absolute security. For material changes we update the date and content here and provide any notice/consent process required by law."
+      ],
+      [
+        "Crash diagnostics (Firebase Crashlytics)",
+        "Release builds use Google Firebase Crashlytics to improve stability. It processes crash stacks, app and OS versions, device information and installation identifiers; development/debug builds do not collect. We do not add sign-in emails, names or purchase tokens as user identifiers or custom logs."
       ]
     ],
     "terms": [
@@ -159,7 +167,7 @@
       ],
       [
         "Ads, products, and consumer rights",
-        "Free play may include interstitial and optional rewarded ads. Remove Ads removes regular interstitials, not the viewing requirement for optional ad rewards. Remove Ads, theme pack and starter bundle are non-consumables; hint packs and ranked tickets are consumables. There are no subscriptions. Review the store’s actual localized price and contents before buying. Purchases are currently supported on iOS only. Restoration and refunds depend on product type and store rules; applicable consumer rights are not excluded."
+        "Free play may include interstitial and optional rewarded ads. Remove Ads removes regular interstitials, not the viewing requirement for optional ad rewards. Remove Ads, theme pack and starter bundle are non-consumables; hint packs and ranked tickets are consumables. There are no subscriptions. Review the store’s actual localized price and contents before buying. Purchases are supported on iOS (App Store) and Android (Google Play). Restoration and refunds depend on product type and store rules; applicable consumer rights are not excluded."
       ],
       [
         "Use, changes, and liability",
