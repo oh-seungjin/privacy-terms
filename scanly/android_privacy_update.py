@@ -11,6 +11,18 @@ UPDATES = {
 'zh-hans': ('扫描与 OCR 在设备内处理。云端备份、文档转换、AI 与分享链接是可选的订阅功能，会将所选文档发送至服务器。', '没有广告。Firebase Analytics 分析页面与功能使用、购买事件、应用安装标识符、设备信息及由 IP 推估的大致位置。分析事件不含文档内容、名称或搜索文字。广告标识符收集与广告个性化均已停用。'),
 }
 
+PAYMENTS = {
+'ko': '결제는 Apple App Store 또는 Google Play가 처리하며 카드 정보는 받지 않습니다. 구매 검증과 기능 제공을 위해 상품, 주문 번호, 만료일과 구매 상태를 처리합니다. Google Play 서버 알림은 로그인 여부와 무관하게 구매 토큰의 해시와 취소 상태를 서버에 기록할 수 있습니다. 로그인하면 구매를 앱 계정에 연결합니다. 앱 계정 삭제 시 사용자 연결을 제거하되, 환불된 구매의 재지급 방지를 위해 거래 해시·상품·주문 번호·취소 상태는 보존합니다. 원본 Google 구매 토큰은 거래 원장에 저장하지 않습니다.',
+'en': 'Apple App Store or Google Play handles payments; we do not receive card details. We process product, order ID, expiry and purchase status to verify purchases and provide features. Google Play server notifications may record a purchase-token hash and cancellation status even without sign-in. Signing in links purchases to your app account. Account deletion removes that user link; transaction hashes, products, order IDs and cancellation status are retained to prevent regranting refunded purchases. Raw Google purchase tokens are not stored in the transaction ledger.',
+'ja': '決済はApple App StoreまたはGoogle Playが処理し、カード情報は受け取りません。購入確認と機能提供のため商品、注文番号、有効期限、購入状態を処理します。Google Playの通知により、未ログインでも購入トークンのハッシュと取消状態を保存する場合があります。ログインすると購入をアプリのアカウントに関連付けます。アカウント削除時にユーザーとの関連付けを解除しますが、返金済み購入の再付与を防ぐため取引ハッシュ、商品、注文番号、取消状態を保持します。元のGoogle購入トークンは取引台帳に保存しません。',
+'de': 'Apple App Store oder Google Play verarbeitet Zahlungen; wir erhalten keine Kartendaten. Zur Kaufprüfung verarbeiten wir Produkt, Bestellnummer, Ablaufdatum und Kaufstatus. Google-Play-Mitteilungen können auch ohne Anmeldung einen Kauf-Token-Hash und den Widerrufsstatus speichern. Bei Anmeldung wird der Kauf dem App-Konto zugeordnet. Die Kontolöschung entfernt diese Nutzerverknüpfung; Transaktionshashes, Produkte, Bestellnummern und Widerrufsstatus bleiben erhalten, um erstattete Käufe nicht erneut freizuschalten. Originale Google-Kauftokens werden nicht im Transaktionsregister gespeichert.',
+'fr': 'Apple App Store ou Google Play traite les paiements ; nous ne recevons pas vos données de carte. Nous traitons le produit, le numéro de commande, l’expiration et le statut pour vérifier les achats. Les notifications Google Play peuvent enregistrer une empreinte du jeton d’achat et le statut d’annulation même sans connexion. La connexion associe l’achat au compte. La suppression du compte retire ce lien ; empreintes, produits, numéros de commande et annulations sont conservés pour éviter de réactiver des achats remboursés. Les jetons Google originaux ne sont pas stockés dans le registre des transactions.',
+'es': 'Apple App Store o Google Play procesa los pagos; no recibimos datos de tarjetas. Tratamos producto, número de pedido, vencimiento y estado para verificar compras. Las notificaciones de Google Play pueden guardar un hash del token y el estado de cancelación incluso sin iniciar sesión. Al iniciar sesión vinculamos la compra a la cuenta. Al eliminarla quitamos ese vínculo; conservamos hashes, productos, pedidos y cancelaciones para impedir reactivar compras reembolsadas. No guardamos tokens originales de Google en el registro de transacciones.',
+'pt-br': 'A Apple App Store ou o Google Play processa os pagamentos; não recebemos dados de cartões. Tratamos produto, pedido, validade e estado para verificar compras. Notificações do Google Play podem registrar um hash do token e o estado de cancelamento mesmo sem login. O login vincula a compra à conta. A exclusão da conta remove esse vínculo; hashes, produtos, pedidos e cancelamentos são mantidos para impedir reativar compras reembolsadas. Tokens originais do Google não são armazenados no registro de transações.',
+'zh-hant': '付款由 Apple App Store 或 Google Play 處理，我們不接收信用卡資料。我們處理商品、訂單編號、到期日及購買狀態以驗證購買和提供功能。Google Play 伺服器通知可能在未登入時記錄購買權杖雜湊及取消狀態。登入後會將購買連結至應用程式帳號。刪除帳號會移除使用者連結，但保留交易雜湊、商品、訂單編號及取消狀態，以防退款購買被再次啟用。交易記錄不保存原始 Google 購買權杖。',
+'zh-hans': '付款由 Apple App Store 或 Google Play 处理，我们不接收信用卡信息。我们处理商品、订单编号、到期日及购买状态以验证购买和提供功能。Google Play 服务器通知可能在未登录时记录购买令牌哈希及取消状态。登录后会将购买关联至应用账号。删除账号会移除用户关联，但保留交易哈希、商品、订单编号及取消状态，以防已退款购买被再次启用。交易记录不保存原始 Google 购买令牌。',
+}
+
 def apply_updates(languages):
     for lang, data in languages.items():
         summary, analytics = UPDATES[lang]
@@ -19,6 +31,7 @@ def apply_updates(languages):
         data['date'] = '2026-10-17'
         # The existing ads/tracking section follows crash reporting in each locale.
         sections = data['privacy']
+        sections[8] = (sections[8][0], PAYMENTS[lang])
         for i, (title, body) in enumerate(sections):
             if 'IDFA' in body:
                 sections[i] = (title, analytics)
