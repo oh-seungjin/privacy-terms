@@ -23,7 +23,7 @@
     "privacy": [
       [
         "운영자와 적용 범위",
-        "이 정책은 넥스트 스튜디오(개인 개발자, 한국)가 제공하는 iOS 앱 'Chess'(번들 ID com.osj.chess)에 적용됩니다. 문의: dhalska2@gmail.com. Android 버전은 아직 출시되지 않았습니다."
+        "이 정책은 넥스트 스튜디오(개인 개발자, 한국)가 제공하는 iOS 및 Android 앱 'Chess'(앱 ID com.osj.chess)에 적용됩니다. 문의: dhalska2@gmail.com."
       ],
       [
         "기기 내 저장 데이터",
@@ -97,7 +97,7 @@
     "delete-account": [
       [
         "Chess 데이터 삭제 범위",
-        "현재 설정에는 앱 내 완전 계정 삭제 버튼이 없습니다. '로그아웃'은 이 기기에서만 로그아웃하며 서버 데이터를 삭제하지 않습니다. 서버에 저장된 계정(닉네임, 아바타, 배지, 레이팅, 구매 내역, 동기화된 진행상황)을 삭제하려면 아래 이메일로 요청해 주세요."
+        "앱의 설정에서 '계정 삭제'를 선택하면 이 게임의 서버 계정 데이터(닉네임, 아바타, 배지, 레이팅, 구매 내역, 동기화된 진행상황)를 삭제할 수 있습니다. 앱을 사용할 수 없으면 아래 이메일로 삭제를 요청할 수도 있습니다. '로그아웃'은 이 기기에서만 로그아웃하며 서버 데이터를 삭제하지 않습니다."
       ],
       [
         "기기 데이터 삭제",
@@ -133,7 +133,7 @@
     "privacy": [
       [
         "Operator and scope",
-        "This policy applies to the iOS app \"Chess\" (bundle ID com.osj.chess), published by Next Studio (an individual developer based in South Korea). Contact: dhalska2@gmail.com. An Android version has not been released yet."
+        "This policy applies to the iOS and Android app \"Chess\" (app ID com.osj.chess), published by Next Studio (an individual developer based in South Korea). Contact: dhalska2@gmail.com."
       ],
       [
         "On-device data",
@@ -207,7 +207,7 @@
     "delete-account": [
       [
         "Scope of Chess data deletion",
-        "There's no full in-app account-deletion button yet. 'Sign out' only signs you out on this device and does not delete server-side data. To delete your server account (nickname, avatar, badge, rating, purchase records, synced progress), please email us at the address below."
+        "Choose 'Delete account' in the app's Settings to delete this game's server account data (nickname, avatar, badge, rating, purchase records and synced progress). If you cannot use the app, you may also request deletion by email below. 'Sign out' only signs you out on this device and does not delete server-side data."
       ],
       [
         "Deleting on-device data",
@@ -243,7 +243,7 @@
     "privacy": [
       [
         "Betreiber und Geltungsbereich",
-        "Diese Richtlinie gilt für die iOS-App „Chess“ (Bundle-ID com.osj.chess) von Next Studio (ein einzelner Entwickler in Südkorea). Kontakt: dhalska2@gmail.com. Eine Android-Version ist noch nicht veröffentlicht."
+        "Diese Richtlinie gilt für die iOS- und Android-App „Chess“ (App-ID com.osj.chess) von Next Studio (ein einzelner Entwickler in Südkorea). Kontakt: dhalska2@gmail.com."
       ],
       [
         "Daten auf dem Gerät",
@@ -317,7 +317,7 @@
     "delete-account": [
       [
         "Umfang der Chess-Datenlöschung",
-        "Es gibt noch keine vollständige Konto-Löschfunktion in der App. „Abmelden“ meldet dich nur auf diesem Gerät ab und löscht keine serverseitigen Daten. Um dein Server-Konto (Nickname, Avatar, Abzeichen, Wertung, Kaufdaten, synchronisierten Fortschritt) zu löschen, schreib uns bitte an die unten stehende Adresse."
+        "Wähle in den Einstellungen der App „Konto löschen“, um die Serverdaten dieses Spiels (Nickname, Avatar, Abzeichen, Wertung, Kaufdaten und synchronisierten Fortschritt) zu löschen. Wenn du die App nicht nutzen kannst, kannst du die Löschung auch per E-Mail anfordern. „Abmelden“ löscht keine Serverdaten."
       ],
       [
         "Gerätedaten löschen",
@@ -353,7 +353,7 @@
     "privacy": [
       [
         "Responsable y ámbito",
-        "Esta política se aplica a la app de iOS «Chess» (ID de paquete com.osj.chess), publicada por Next Studio (desarrollador individual en Corea del Sur). Contacto: dhalska2@gmail.com. Aún no existe versión para Android."
+        "Esta política se aplica a la app de iOS y Android «Chess» (ID de app com.osj.chess), publicada por Next Studio (desarrollador individual en Corea del Sur). Contacto: dhalska2@gmail.com."
       ],
       [
         "Datos en el dispositivo",
@@ -427,7 +427,7 @@
     "delete-account": [
       [
         "Alcance de la eliminación de datos de Chess",
-        "Todavía no hay un botón de eliminación completa de cuenta dentro de la app. «Cerrar sesión» solo cierra sesión en este dispositivo y no elimina datos del servidor. Para eliminar tu cuenta del servidor (apodo, avatar, insignia, clasificación, historial de compras, progreso sincronizado), escríbenos a la dirección de abajo."
+        "Elige «Eliminar cuenta» en los ajustes de la app para borrar los datos de servidor de este juego (apodo, avatar, insignia, clasificación, compras y progreso sincronizado). Si no puedes usar la app, también puedes solicitarlo por correo. «Cerrar sesión» no elimina los datos del servidor."
       ],
       [
         "Eliminar datos del dispositivo",
@@ -463,7 +463,7 @@
     "privacy": [
       [
         "Responsable et champ d'application",
-        "Cette politique s'applique à l'application iOS « Chess » (identifiant de paquet com.osj.chess), publiée par Next Studio (développeur individuel basé en Corée du Sud). Contact : dhalska2@gmail.com. Aucune version Android n'est encore publiée."
+        "Cette politique s'applique à l'application iOS et Android « Chess » (identifiant com.osj.chess), publiée par Next Studio (développeur individuel basé en Corée du Sud). Contact : dhalska2@gmail.com."
       ],
       [
         "Données sur l'appareil",
@@ -537,7 +537,7 @@
     "delete-account": [
       [
         "Portée de la suppression des données Chess",
-        "Il n'existe pas encore de bouton de suppression complète du compte dans l'application. « Se déconnecter » ne fait que vous déconnecter sur cet appareil et ne supprime pas les données côté serveur. Pour supprimer votre compte serveur (pseudo, avatar, badge, classement, historique d'achats, progression synchronisée), écrivez-nous à l'adresse ci-dessous."
+        "Choisissez « Supprimer le compte » dans les réglages de l'app pour effacer les données serveur de ce jeu (pseudo, avatar, badge, classement, achats et progression synchronisée). Si vous ne pouvez pas utiliser l'app, demandez aussi la suppression par e-mail. « Se déconnecter » ne supprime pas les données serveur."
       ],
       [
         "Supprimer les données de l'appareil",
@@ -573,7 +573,7 @@
     "privacy": [
       [
         "ऑपरेटर और दायरा",
-        "यह नीति iOS ऐप “Chess” (बंडल ID com.osj.chess) पर लागू होती है, जो Next Studio (दक्षिण कोरिया में एक व्यक्तिगत डेवलपर) द्वारा प्रकाशित है। संपर्क: dhalska2@gmail.com। Android वर्शन अभी लॉन्च नहीं हुआ है।"
+        "यह नीति Next Studio (दक्षिण कोरिया में एक व्यक्तिगत डेवलपर) द्वारा प्रकाशित iOS और Android ऐप “Chess” (ऐप ID com.osj.chess) पर लागू होती है। संपर्क: dhalska2@gmail.com।"
       ],
       [
         "डिवाइस पर मौजूद डेटा",
@@ -647,7 +647,7 @@
     "delete-account": [
       [
         "Chess डेटा डिलीशन का दायरा",
-        "अभी ऐप के अंदर पूरा अकाउंट डिलीट करने का बटन नहीं है। 'साइन आउट' सिर्फ़ इस डिवाइस पर साइन आउट करता है और सर्वर का डेटा डिलीट नहीं करता। अपना सर्वर अकाउंट (निकनेम, अवतार, बैज, रेटिंग, खरीदारी का रिकॉर्ड, सिंक किया गया प्रोग्रेस) डिलीट करने के लिए नीचे दिए ईमेल पर लिखें।"
+        "इस गेम का सर्वर अकाउंट डेटा (निकनेम, अवतार, बैज, रेटिंग, खरीदारी और सिंक प्रोग्रेस) मिटाने के लिए ऐप की सेटिंग में 'अकाउंट डिलीट करें' चुनें। ऐप न चला पाने पर नीचे ईमेल से भी अनुरोध कर सकते हैं। 'साइन आउट' सर्वर डेटा नहीं मिटाता।"
       ],
       [
         "डिवाइस का डेटा डिलीट करना",
@@ -683,7 +683,7 @@
     "privacy": [
       [
         "Operator dan lingkup",
-        "Kebijakan ini berlaku untuk aplikasi iOS “Chess” (ID paket com.osj.chess), yang diterbitkan oleh Next Studio (pengembang individu yang berbasis di Korea Selatan). Kontak: dhalska2@gmail.com. Versi Android belum dirilis."
+        "Kebijakan ini berlaku untuk aplikasi iOS dan Android “Chess” (ID aplikasi com.osj.chess), yang diterbitkan oleh Next Studio (pengembang individu di Korea Selatan). Kontak: dhalska2@gmail.com."
       ],
       [
         "Data di perangkat",
@@ -757,7 +757,7 @@
     "delete-account": [
       [
         "Lingkup penghapusan data Chess",
-        "Belum ada tombol penghapusan akun lengkap di dalam aplikasi. 'Keluar' hanya keluar dari akun di perangkat ini dan tidak menghapus data di server. Untuk menghapus akun servermu (nama panggilan, avatar, lencana, rating, riwayat pembelian, progres yang disinkronkan), silakan kirim email ke alamat di bawah."
+        "Pilih 'Hapus akun' di Pengaturan aplikasi untuk menghapus data akun server game ini (nama panggilan, avatar, lencana, rating, pembelian, dan progres tersinkron). Jika tidak dapat memakai aplikasi, mintalah penghapusan melalui email di bawah. 'Keluar' tidak menghapus data server."
       ],
       [
         "Menghapus data di perangkat",
@@ -793,7 +793,7 @@
     "privacy": [
       [
         "Responsável e escopo",
-        "Esta política se aplica ao app iOS “Chess” (ID do pacote com.osj.chess), publicado pela Next Studio (desenvolvedor individual na Coreia do Sul). Contato: dhalska2@gmail.com. Ainda não existe versão para Android."
+        "Esta política se aplica ao app iOS e Android “Chess” (ID com.osj.chess), publicado pela Next Studio (desenvolvedor individual na Coreia do Sul). Contato: dhalska2@gmail.com."
       ],
       [
         "Dados no dispositivo",
@@ -867,7 +867,7 @@
     "delete-account": [
       [
         "Escopo da exclusão de dados do Chess",
-        "Ainda não há um botão de exclusão completa de conta dentro do app. 'Sair' apenas desconecta você deste dispositivo e não exclui dados do servidor. Para excluir sua conta no servidor (apelido, avatar, emblema, classificação, histórico de compras, progresso sincronizado), envie um e-mail para o endereço abaixo."
+        "Escolha 'Excluir conta' nos Ajustes do app para apagar os dados de servidor deste jogo (apelido, avatar, emblema, classificação, compras e progresso sincronizado). Se não puder usar o app, solicite por e-mail abaixo. 'Sair' apenas desconecta e não exclui dados do servidor."
       ],
       [
         "Excluir dados do dispositivo",
@@ -903,7 +903,7 @@
     "privacy": [
       [
         "Оператор и сфера действия",
-        "Эта политика применяется к приложению iOS «Chess» (идентификатор пакета com.osj.chess), опубликованному Next Studio (индивидуальный разработчик из Южной Кореи). Контакт: dhalska2@gmail.com. Версия для Android пока не выпущена."
+        "Эта политика применяется к приложению «Chess» для iOS и Android (идентификатор com.osj.chess), опубликованному Next Studio (индивидуальный разработчик из Южной Кореи). Контакт: dhalska2@gmail.com."
       ],
       [
         "Данные на устройстве",
@@ -977,7 +977,7 @@
     "delete-account": [
       [
         "Объём удаления данных Chess",
-        "Пока в приложении нет кнопки полного удаления аккаунта. «Выход» только выходит из аккаунта на этом устройстве и не удаляет данные на сервере. Чтобы удалить свой аккаунт на сервере (никнейм, аватар, значок, рейтинг, историю покупок, синхронизированный прогресс), напишите нам на адрес ниже."
+        "Выберите «Удалить аккаунт» в настройках приложения, чтобы удалить серверные данные этой игры (никнейм, аватар, значок, рейтинг, покупки и синхронизированный прогресс). Если приложение недоступно, отправьте запрос по почте ниже. «Выход» не удаляет данные на сервере."
       ],
       [
         "Удаление данных на устройстве",
@@ -1013,7 +1013,7 @@
     "privacy": [
       [
         "İşletmeci ve kapsam",
-        "Bu politika, Next Studio (Güney Kore'de bireysel bir geliştirici) tarafından yayınlanan iOS uygulaması “Chess” (paket kimliği com.osj.chess) için geçerlidir. İletişim: dhalska2@gmail.com. Henüz bir Android sürümü yayınlanmadı."
+        "Bu politika, Next Studio (Güney Kore'de bireysel bir geliştirici) tarafından yayınlanan iOS ve Android “Chess” uygulaması (uygulama kimliği com.osj.chess) için geçerlidir. İletişim: dhalska2@gmail.com."
       ],
       [
         "Cihaz üzerindeki veriler",
@@ -1087,7 +1087,7 @@
     "delete-account": [
       [
         "Chess veri silme kapsamı",
-        "Uygulama içinde henüz tam hesap silme düğmesi yok. 'Çıkış yap' yalnızca bu cihazda oturumu kapatır, sunucu verilerini silmez. Sunucudaki hesabını (takma ad, avatar, rozet, derece, satın alım geçmişi, senkronize edilmiş ilerleme) silmek için aşağıdaki adrese e-posta gönder."
+        "Bu oyunun sunucu hesabı verilerini (takma ad, avatar, rozet, derece, satın alımlar ve eşitlenen ilerleme) silmek için uygulama Ayarları'nda 'Hesabı sil'i seç. Uygulamayı kullanamıyorsan aşağıdaki e-postayla da isteyebilirsin. 'Çıkış yap' sunucu verilerini silmez."
       ],
       [
         "Cihaz verilerini silme",
