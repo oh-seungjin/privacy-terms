@@ -12,6 +12,9 @@ KINDS = ("index", "privacy", "terms", "support", "delete-account")
 LANGUAGES = {"ko": KO, "en": EN, "ja": JA, "de": DE, "fr": FR, "es": ES, "pt-br": PT, "zh-hant": ZH_HANT, "zh-hans": ZH_HANS}
 
 
+from android_privacy_update import apply_updates
+apply_updates(LANGUAGES)
+
 def nav(data, current):
     return "".join(f'<a href="{k}.html"' + (' aria-current="page"' if k == current else "") + f'>{esc(data["nav"][i])}</a>' for i, k in enumerate(KINDS))
 
