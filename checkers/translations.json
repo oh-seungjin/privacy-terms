@@ -71,7 +71,7 @@
    ],
    [
     "보관과 삭제",
-    "서버 데이터는 계정이 있는 동안 보관됩니다. 앱(설정 > 계정)에서 계정을 삭제하거나 데이터 삭제 페이지에서 삭제를 요청하면 합리적인 기간 안에 삭제 또는 익명화됩니다. 예외로 최소한의 구매 기록(구매 토큰의 해시, 상품 ID, 상태, 시간이며 이름·이메일은 없음)은 환불 뒤 같은 상품이 중복 지급되는 것을 막고 회계·법령상 의무를 지키기 위해 삭제 후 최대 5년간 보관될 수 있습니다. 앱을 지우면 기기에 저장된 데이터만 사라집니다."
+    "서버 데이터는 계정이 있는 동안 보관됩니다. 앱(설정 > 계정)에서 계정을 삭제하거나 데이터 삭제 페이지에서 삭제를 요청하면 합리적인 기간 안에 삭제 또는 익명화됩니다. 삭제하면 계정에 연결된 구매 기록은 삭제되며, 환불된 구매가 다시 지급되지 않도록 사용자와 연결되지 않은 환불 표식(Google 구매 토큰의 SHA-256 해시와 시각)만 남습니다. 앱을 지우면 기기에 저장된 데이터만 사라집니다."
    ],
    [
     "이용자 권리, 아동, 변경",
@@ -137,7 +137,7 @@
    ],
    [
     "삭제되는 정보와 보관되는 정보",
-    "삭제: \"앱에서 삭제\"에 적힌 모든 정보. 보관: 최소한의 구매 기록(구매 토큰의 해시, 상품 ID, 상태, 시간이며 이름·이메일은 없음)을 환불 뒤 중복 지급 방지와 회계·법령상 의무를 위해 최대 5년간 보관합니다. 로그인 계정은 넥스트 스튜디오의 다른 게임과 공용일 수 있어 이 요청은 체커 데이터만 삭제합니다. 계정 전체 삭제를 원하면 메일에 적어 주세요."
+    "삭제: \"앱에서 삭제\"에 적힌 모든 정보(계정에 연결된 구매 기록 포함). 보관: 환불된 구매가 다시 지급되지 않도록 사용자와 연결되지 않은 환불 표식(Google 구매 토큰의 SHA-256 해시와 시각이며 사용자·이름·이메일과 연결되지 않음)만 남습니다. 로그인 계정은 넥스트 스튜디오의 다른 게임과 공용일 수 있어 이 요청은 체커 데이터만 삭제합니다. 계정 전체 삭제를 원하면 메일에 적어 주세요."
    ],
    [
     "기기의 데이터",
@@ -217,7 +217,7 @@
    ],
    [
     "Retention and deletion",
-    "Server data is kept while your account exists. When you delete your account in the app (Settings > Account) or request deletion on the Delete Data page, it is deleted or anonymized within a reasonable time. Exception: a minimal purchase record (the hash of the purchase token, product ID, status and time, with no name or email) may be kept for up to 5 years after deletion to prevent items from being granted twice after a refund and to meet accounting and legal duties. Deleting the app removes only the data stored on the device."
+    "Server data is kept while your account exists. When you delete your account in the app (Settings > Account) or request deletion on the Delete Data page, it is deleted or anonymized within a reasonable time. On deletion, purchase records linked to your account are deleted; only an unlinked refund marker (a SHA-256 hash of a Google purchase token and a timestamp, with no link to any user) remains to stop refunded purchases from being granted again. Deleting the app removes only the data stored on the device."
    ],
    [
     "Your rights, children and changes",
@@ -283,7 +283,7 @@
    ],
    [
     "What is deleted and what is kept",
-    "Deleted: everything listed under \"Delete in the app\". Kept: a minimal purchase record (hash of the purchase token, product ID, status and time, without name or email) for up to 5 years to prevent duplicate grants after refunds and to meet accounting and legal duties. Your sign-in account may be shared with other Next Studio games; this request removes only Checkers data, so tell us in the email if you want the whole account removed."
+    "Deleted: everything listed under \"Delete in the app\", including purchase records linked to your account. Kept: only an unlinked refund marker (a SHA-256 hash of a Google purchase token and a timestamp, with no link to any user, name or email) so that refunded purchases cannot be granted again. Your sign-in account may be shared with other Next Studio games; this request removes only Checkers data, so tell us in the email if you want the whole account removed."
    ],
    [
     "Data on the device",
@@ -363,7 +363,7 @@
    ],
    [
     "保存と削除",
-    "サーバーのデータはアカウントが存在する間保管されます。アプリ（設定 > アカウント）でアカウントを削除するか、データ削除ページで削除を依頼すると、合理的な期間内に削除または匿名化されます。例外として、最小限の購入記録（購入トークンのハッシュ、商品ID、状態、時刻。氏名・メールは含まない）は、返金後の二重付与を防ぎ会計・法令上の義務を果たすため、削除後最長5年間保管されることがあります。アプリを削除すると端末内のデータのみが消えます。"
+    "サーバーのデータはアカウントが存在する間保管されます。アプリ（設定 > アカウント）でアカウントを削除するか、データ削除ページで削除を依頼すると、合理的な期間内に削除または匿名化されます。削除すると、アカウントに紐づく購入記録は削除され、返金済みの購入が再付与されないよう、ユーザーに紐づかない返金マーカー（Google購入トークンのSHA-256ハッシュと時刻）のみが残ります。アプリを削除すると端末内のデータのみが消えます。"
    ],
    [
     "利用者の権利、子ども、変更",
@@ -429,7 +429,7 @@
    ],
    [
     "削除される情報と保管される情報",
-    "削除：「アプリで削除」に記載したすべての情報。保管：最小限の購入記録（購入トークンのハッシュ、商品ID、状態、時刻。氏名・メールは含まない）を、返金後の二重付与の防止と会計・法令上の義務のため最長5年間保管します。サインインアカウントはNext Studioの他のゲームと共通の場合があるため、この依頼で削除するのはチェッカーのデータのみです。アカウント全体の削除をご希望の場合はメールに書いてください。"
+    "削除：「アプリで削除」に記載したすべての情報（アカウントに紐づく購入記録を含む）。保管：返金済みの購入が再付与されないよう、ユーザーに紐づかない返金マーカー（Google購入トークンのSHA-256ハッシュと時刻。ユーザー・氏名・メールとは紐づかない）のみ残ります。サインインアカウントはNext Studioの他のゲームと共通の場合があるため、この依頼で削除するのはチェッカーのデータのみです。アカウント全体の削除をご希望の場合はメールに書いてください。"
    ],
    [
     "端末のデータ",
@@ -509,7 +509,7 @@
    ],
    [
     "保留与删除",
-    "服务器数据在账户存在期间保留。当你在应用中（设置 > 账户）删除账户，或通过“删除数据”页面申请删除时，数据会在合理期限内被删除或匿名化。例外：最少量的购买记录（购买令牌的哈希、商品 ID、状态和时间，不含姓名或邮箱）为防止退款后重复发放商品并履行会计和法律义务，删除后最多保留 5 年。卸载应用只会删除设备上存储的数据。"
+    "服务器数据在账户存在期间保留。当你在应用中（设置 > 账户）删除账户，或通过“删除数据”页面申请删除时，数据会在合理期限内被删除或匿名化。删除后，与你账户关联的购买记录会被删除，仅保留一条不与任何用户关联的退款标记（Google 购买令牌的 SHA-256 哈希和时间戳），用于防止已退款的购买被再次发放。卸载应用只会删除设备上存储的数据。"
    ],
    [
     "你的权利、儿童与变更",
@@ -575,7 +575,7 @@
    ],
    [
     "删除哪些、保留哪些",
-    "删除：“在应用中删除”中列出的全部内容。保留：最少量的购买记录（购买令牌的哈希、商品 ID、状态和时间，不含姓名或邮箱），最多保留 5 年，用于防止退款后重复发放，并履行会计和法律义务。你的登录账户可能与 Next Studio 的其他游戏共用；本申请只删除跳棋的数据，如需删除整个账户，请在邮件中说明。"
+    "删除：“在应用中删除”中列出的全部内容（包括与你账户关联的购买记录）。保留：仅保留不与任何用户、姓名或邮箱关联的退款标记（Google 购买令牌的 SHA-256 哈希和时间戳），以防已退款的购买被再次发放。你的登录账户可能与 Next Studio 的其他游戏共用；本申请只删除跳棋的数据，如需删除整个账户，请在邮件中说明。"
    ],
    [
     "设备上的数据",
@@ -655,7 +655,7 @@
    ],
    [
     "Speicherdauer und Löschung",
-    "Serverdaten werden gespeichert, solange dein Konto besteht. Wenn du dein Konto in der App (Einstellungen > Konto) löschst oder auf der Seite „Daten löschen“ die Löschung beantragst, werden sie in angemessener Frist gelöscht oder anonymisiert. Ausnahme: Ein minimaler Kaufdatensatz (Hash des Kauf-Tokens, Produkt-ID, Status und Zeit, ohne Name oder E-Mail) kann nach der Löschung bis zu 5 Jahre aufbewahrt werden, um eine doppelte Vergabe nach einer Erstattung zu verhindern und Buchhaltungs- und gesetzliche Pflichten zu erfüllen. Das Löschen der App entfernt nur die auf dem Gerät gespeicherten Daten."
+    "Serverdaten werden gespeichert, solange dein Konto besteht. Wenn du dein Konto in der App (Einstellungen > Konto) löschst oder auf der Seite „Daten löschen“ die Löschung beantragst, werden sie in angemessener Frist gelöscht oder anonymisiert. Bei der Löschung werden mit deinem Konto verknüpfte Kaufdatensätze gelöscht; nur eine nicht verknüpfte Erstattungsmarkierung (ein SHA-256-Hash eines Google-Kauf-Tokens und ein Zeitstempel, ohne Bezug zu einem Nutzer) bleibt bestehen, damit erstattete Käufe nicht erneut vergeben werden. Das Löschen der App entfernt nur die auf dem Gerät gespeicherten Daten."
    ],
    [
     "Deine Rechte, Kinder und Änderungen",
@@ -721,7 +721,7 @@
    ],
    [
     "Was gelöscht und was aufbewahrt wird",
-    "Gelöscht: alles unter „In der App löschen“ Genannte. Aufbewahrt: ein minimaler Kaufdatensatz (Hash des Kauf-Tokens, Produkt-ID, Status und Zeit, ohne Name oder E-Mail) bis zu 5 Jahre, um doppelte Vergabe nach Erstattungen zu verhindern und Buchhaltungs- und gesetzliche Pflichten zu erfüllen. Dein Anmeldekonto kann mit anderen Spielen von Next Studio geteilt sein; diese Anfrage entfernt nur Dame-Daten. Möchtest du das gesamte Konto entfernen, schreibe es in die E-Mail."
+    "Gelöscht: alles unter „In der App löschen“ Genannte, einschließlich der mit deinem Konto verknüpften Kaufdatensätze. Aufbewahrt: nur eine nicht verknüpfte Erstattungsmarkierung (SHA-256-Hash eines Google-Kauf-Tokens und Zeitstempel, ohne Bezug zu Nutzer, Name oder E-Mail), damit erstattete Käufe nicht erneut vergeben werden. Dein Anmeldekonto kann mit anderen Spielen von Next Studio geteilt sein; diese Anfrage entfernt nur Dame-Daten. Möchtest du das gesamte Konto entfernen, schreibe es in die E-Mail."
    ],
    [
     "Daten auf dem Gerät",
@@ -801,7 +801,7 @@
    ],
    [
     "Conservación y eliminación",
-    "Los datos del servidor se conservan mientras exista tu cuenta. Cuando eliminas tu cuenta en la app (Ajustes > Cuenta) o solicitas la eliminación en la página Eliminar datos, se eliminan o anonimizan en un plazo razonable. Excepción: un registro de compra mínimo (hash del token de compra, ID de producto, estado y hora, sin nombre ni correo) puede conservarse hasta 5 años tras la eliminación para evitar que un artículo se conceda dos veces tras un reembolso y cumplir obligaciones contables y legales. Desinstalar la app solo elimina los datos guardados en el dispositivo."
+    "Los datos del servidor se conservan mientras exista tu cuenta. Cuando eliminas tu cuenta en la app (Ajustes > Cuenta) o solicitas la eliminación en la página Eliminar datos, se eliminan o anonimizan en un plazo razonable. Al eliminar, los registros de compra vinculados a tu cuenta se borran; solo permanece una marca de reembolso sin vínculo (un hash SHA-256 de un token de compra de Google y una marca de tiempo, sin relación con ningún usuario) para evitar que se vuelvan a conceder compras reembolsadas. Desinstalar la app solo elimina los datos guardados en el dispositivo."
    ],
    [
     "Tus derechos, menores y cambios",
@@ -867,7 +867,7 @@
    ],
    [
     "Qué se elimina y qué se conserva",
-    "Se elimina: todo lo indicado en \"Eliminar en la app\". Se conserva: un registro de compra mínimo (hash del token de compra, ID de producto, estado y hora, sin nombre ni correo) hasta 5 años, para evitar concesiones duplicadas tras reembolsos y cumplir obligaciones contables y legales. Tu cuenta de acceso puede compartirse con otros juegos de Next Studio; esta solicitud elimina solo los datos de Damas, así que dínoslo en el correo si quieres eliminar toda la cuenta."
+    "Se elimina: todo lo indicado en \"Eliminar en la app\", incluidos los registros de compra vinculados a tu cuenta. Se conserva: solo una marca de reembolso sin vínculo (hash SHA-256 de un token de compra de Google y marca de tiempo, sin relación con usuario, nombre ni correo) para que las compras reembolsadas no se vuelvan a conceder. Tu cuenta de acceso puede compartirse con otros juegos de Next Studio; esta solicitud elimina solo los datos de Damas, así que dínoslo en el correo si quieres eliminar toda la cuenta."
    ],
    [
     "Datos en el dispositivo",
@@ -947,7 +947,7 @@
    ],
    [
     "Conservation et suppression",
-    "Les données du serveur sont conservées tant que votre compte existe. Lorsque vous supprimez votre compte dans l’app (Réglages > Compte) ou demandez la suppression sur la page Supprimer les données, elles sont supprimées ou anonymisées dans un délai raisonnable. Exception : un enregistrement d’achat minimal (hachage du jeton d’achat, identifiant du produit, état et heure, sans nom ni e-mail) peut être conservé jusqu’à 5 ans après la suppression pour éviter qu’un article soit accordé deux fois après un remboursement et pour respecter les obligations comptables et légales. Supprimer l’app n’efface que les données stockées sur l’appareil."
+    "Les données du serveur sont conservées tant que votre compte existe. Lorsque vous supprimez votre compte dans l’app (Réglages > Compte) ou demandez la suppression sur la page Supprimer les données, elles sont supprimées ou anonymisées dans un délai raisonnable. À la suppression, les enregistrements d’achat liés à votre compte sont supprimés ; seul subsiste un marqueur de remboursement non lié (un hachage SHA-256 d’un jeton d’achat Google et un horodatage, sans lien avec un utilisateur) pour éviter qu’un achat remboursé soit de nouveau accordé. Supprimer l’app n’efface que les données stockées sur l’appareil."
    ],
    [
     "Vos droits, enfants et modifications",
@@ -1013,7 +1013,7 @@
    ],
    [
     "Ce qui est supprimé et ce qui est conservé",
-    "Supprimé : tout ce qui figure sous « Supprimer dans l’app ». Conservé : un enregistrement d’achat minimal (hachage du jeton d’achat, identifiant du produit, état et heure, sans nom ni e-mail) jusqu’à 5 ans, pour éviter les attributions en double après remboursement et respecter les obligations comptables et légales. Votre compte de connexion peut être partagé avec d’autres jeux de Next Studio ; cette demande ne supprime que les données de Dames, précisez-le dans l’e-mail si vous voulez supprimer tout le compte."
+    "Supprimé : tout ce qui figure sous « Supprimer dans l’app », y compris les enregistrements d’achat liés à votre compte. Conservé : uniquement un marqueur de remboursement non lié (hachage SHA-256 d’un jeton d’achat Google et horodatage, sans lien avec un utilisateur, un nom ou un e-mail) afin que les achats remboursés ne soient pas accordés à nouveau. Votre compte de connexion peut être partagé avec d’autres jeux de Next Studio ; cette demande ne supprime que les données de Dames, précisez-le dans l’e-mail si vous voulez supprimer tout le compte."
    ],
    [
     "Données sur l’appareil",
@@ -1093,7 +1093,7 @@
    ],
    [
     "संग्रहण और हटाना",
-    "सर्वर डेटा तब तक रखा जाता है जब तक आपका खाता है। जब आप ऐप में (सेटिंग > खाता) खाता हटाते हैं या डेटा हटाएँ पेज पर अनुरोध करते हैं, तो उचित समय में वह हटा दिया या अनाम कर दिया जाता है। अपवाद: न्यूनतम खरीद रिकॉर्ड (खरीद टोकन का हैश, उत्पाद ID, स्थिति और समय; नाम या ईमेल नहीं) रिफ़ंड के बाद वस्तु दोबारा दिए जाने से रोकने और लेखा व कानूनी दायित्व निभाने के लिए हटाने के बाद अधिकतम 5 वर्ष तक रखा जा सकता है। ऐप हटाने से केवल डिवाइस पर सहेजा डेटा हटता है।"
+    "सर्वर डेटा तब तक रखा जाता है जब तक आपका खाता है। जब आप ऐप में (सेटिंग > खाता) खाता हटाते हैं या डेटा हटाएँ पेज पर अनुरोध करते हैं, तो उचित समय में वह हटा दिया या अनाम कर दिया जाता है। हटाने पर आपके खाते से जुड़े खरीद रिकॉर्ड हटा दिए जाते हैं; केवल एक असंबद्ध रिफ़ंड चिह्न (Google खरीद टोकन का SHA-256 हैश और समय-मुहर, किसी उपयोगकर्ता से जुड़ा नहीं) बचता है, ताकि रिफ़ंड की गई खरीद दोबारा न दी जाए। ऐप हटाने से केवल डिवाइस पर सहेजा डेटा हटता है।"
    ],
    [
     "आपके अधिकार, बच्चे और बदलाव",
@@ -1159,7 +1159,7 @@
    ],
    [
     "क्या हटता है और क्या रखा जाता है",
-    "हटाया जाता है: \"ऐप में हटाएँ\" में बताई सभी जानकारी। रखा जाता है: न्यूनतम खरीद रिकॉर्ड (खरीद टोकन का हैश, उत्पाद ID, स्थिति और समय; नाम या ईमेल नहीं) अधिकतम 5 वर्ष, ताकि रिफ़ंड के बाद दोहरी आपूर्ति रुके और लेखा व कानूनी दायित्व पूरे हों। आपका साइन-इन खाता Next Studio के अन्य खेलों से साझा हो सकता है; यह अनुरोध केवल चेकर्स का डेटा हटाता है। पूरा खाता हटाना चाहें तो ईमेल में लिखें।"
+    "हटाया जाता है: \"ऐप में हटाएँ\" में बताई सभी जानकारी, खाते से जुड़े खरीद रिकॉर्ड सहित। रखा जाता है: केवल एक असंबद्ध रिफ़ंड चिह्न (Google खरीद टोकन का SHA-256 हैश और समय-मुहर, किसी उपयोगकर्ता, नाम या ईमेल से जुड़ा नहीं), ताकि रिफ़ंड की गई खरीद दोबारा न दी जाए। आपका साइन-इन खाता Next Studio के अन्य खेलों से साझा हो सकता है; यह अनुरोध केवल चेकर्स का डेटा हटाता है। पूरा खाता हटाना चाहें तो ईमेल में लिखें।"
    ],
    [
     "डिवाइस पर डेटा",
@@ -1239,7 +1239,7 @@
    ],
    [
     "Penyimpanan dan penghapusan",
-    "Data server disimpan selama akunmu ada. Saat kamu menghapus akun di aplikasi (Pengaturan > Akun) atau meminta penghapusan di halaman Hapus Data, data dihapus atau dianonimkan dalam waktu yang wajar. Pengecualian: catatan pembelian minimal (hash token pembelian, ID produk, status, dan waktu, tanpa nama atau email) dapat disimpan hingga 5 tahun setelah penghapusan untuk mencegah pemberian item dua kali setelah pengembalian dana dan memenuhi kewajiban akuntansi dan hukum. Menghapus aplikasi hanya menghapus data yang tersimpan di perangkat."
+    "Data server disimpan selama akunmu ada. Saat kamu menghapus akun di aplikasi (Pengaturan > Akun) atau meminta penghapusan di halaman Hapus Data, data dihapus atau dianonimkan dalam waktu yang wajar. Saat penghapusan, catatan pembelian yang terhubung ke akunmu dihapus; hanya tersisa penanda pengembalian dana yang tidak terhubung (hash SHA-256 token pembelian Google dan stempel waktu, tanpa kaitan ke pengguna mana pun) agar pembelian yang dikembalikan dananya tidak diberikan lagi. Menghapus aplikasi hanya menghapus data yang tersimpan di perangkat."
    ],
    [
     "Hakmu, anak-anak, dan perubahan",
@@ -1305,7 +1305,7 @@
    ],
    [
     "Apa yang dihapus dan apa yang disimpan",
-    "Dihapus: semua yang tercantum di \"Hapus di aplikasi\". Disimpan: catatan pembelian minimal (hash token pembelian, ID produk, status, dan waktu, tanpa nama atau email) hingga 5 tahun untuk mencegah pemberian ganda setelah pengembalian dana dan memenuhi kewajiban akuntansi dan hukum. Akun masukmu mungkin dipakai bersama game Next Studio lainnya; permintaan ini hanya menghapus data Dam, jadi tulis di email jika kamu ingin seluruh akun dihapus."
+    "Dihapus: semua yang tercantum di \"Hapus di aplikasi\", termasuk catatan pembelian yang terhubung ke akunmu. Disimpan: hanya penanda pengembalian dana yang tidak terhubung (hash SHA-256 token pembelian Google dan stempel waktu, tanpa kaitan ke pengguna, nama, atau email) agar pembelian yang dikembalikan dananya tidak diberikan lagi. Akun masukmu mungkin dipakai bersama game Next Studio lainnya; permintaan ini hanya menghapus data Dam, jadi tulis di email jika kamu ingin seluruh akun dihapus."
    ],
    [
     "Data di perangkat",
@@ -1385,7 +1385,7 @@
    ],
    [
     "Retenção e exclusão",
-    "Os dados do servidor são mantidos enquanto sua conta existir. Quando você exclui a conta no app (Configurações > Conta) ou pede a exclusão na página Excluir dados, eles são excluídos ou anonimizados em prazo razoável. Exceção: um registro de compra mínimo (hash do token de compra, ID do produto, status e hora, sem nome nem e-mail) pode ser mantido por até 5 anos após a exclusão para evitar que um item seja concedido duas vezes após um reembolso e cumprir obrigações contábeis e legais. Excluir o app remove apenas os dados guardados no aparelho."
+    "Os dados do servidor são mantidos enquanto sua conta existir. Quando você exclui a conta no app (Configurações > Conta) ou pede a exclusão na página Excluir dados, eles são excluídos ou anonimizados em prazo razoável. Na exclusão, os registros de compra vinculados à sua conta são apagados; permanece apenas um marcador de reembolso sem vínculo (um hash SHA-256 de um token de compra do Google e um carimbo de data/hora, sem relação com nenhum usuário) para impedir que compras reembolsadas sejam concedidas de novo. Excluir o app remove apenas os dados guardados no aparelho."
    ],
    [
     "Seus direitos, crianças e alterações",
@@ -1451,7 +1451,7 @@
    ],
    [
     "O que é excluído e o que é mantido",
-    "Excluído: tudo o que consta em \"Excluir no app\". Mantido: um registro de compra mínimo (hash do token de compra, ID do produto, status e hora, sem nome nem e-mail) por até 5 anos, para evitar concessões duplicadas após reembolsos e cumprir obrigações contábeis e legais. Sua conta de acesso pode ser compartilhada com outros jogos da Next Studio; este pedido remove apenas os dados de Damas, então avise no e-mail se quiser remover a conta inteira."
+    "Excluído: tudo o que consta em \"Excluir no app\", incluindo os registros de compra vinculados à sua conta. Mantido: somente um marcador de reembolso sem vínculo (hash SHA-256 de um token de compra do Google e carimbo de data/hora, sem relação com usuário, nome ou e-mail) para que compras reembolsadas não sejam concedidas de novo. Sua conta de acesso pode ser compartilhada com outros jogos da Next Studio; este pedido remove apenas os dados de Damas, então avise no e-mail se quiser remover a conta inteira."
    ],
    [
     "Dados no aparelho",
@@ -1531,7 +1531,7 @@
    ],
    [
     "Хранение и удаление",
-    "Данные на сервере хранятся, пока существует ваш аккаунт. Когда вы удаляете аккаунт в приложении (Настройки > Аккаунт) или запрашиваете удаление на странице «Удаление данных», они удаляются или обезличиваются в разумный срок. Исключение: минимальная запись о покупке (хеш токена покупки, идентификатор товара, статус и время, без имени и почты) может храниться до 5 лет после удаления, чтобы предотвратить повторную выдачу предмета после возврата и выполнить бухгалтерские и законодательные обязанности. Удаление приложения стирает только данные на устройстве."
+    "Данные на сервере хранятся, пока существует ваш аккаунт. Когда вы удаляете аккаунт в приложении (Настройки > Аккаунт) или запрашиваете удаление на странице «Удаление данных», они удаляются или обезличиваются в разумный срок. При удалении записи о покупках, связанные с вашим аккаунтом, стираются; остаётся только несвязанная отметка о возврате (SHA-256-хеш токена покупки Google и отметка времени, без связи с каким-либо пользователем), чтобы возвращённые покупки не выдавались повторно. Удаление приложения стирает только данные на устройстве."
    ],
    [
     "Ваши права, дети и изменения",
@@ -1597,7 +1597,7 @@
    ],
    [
     "Что удаляется и что сохраняется",
-    "Удаляется: всё, что перечислено в «Удаление в приложении». Сохраняется: минимальная запись о покупке (хеш токена покупки, идентификатор товара, статус и время, без имени и почты) до 5 лет, чтобы не допустить повторной выдачи после возвратов и выполнить бухгалтерские и законодательные обязанности. Ваш аккаунт для входа может быть общим с другими играми Next Studio; этот запрос удаляет только данные «Шашек». Если нужно удалить аккаунт целиком, напишите об этом в письме."
+    "Удаляется: всё, что перечислено в «Удаление в приложении», включая записи о покупках, связанные с вашим аккаунтом. Сохраняется: только несвязанная отметка о возврате (SHA-256-хеш токена покупки Google и отметка времени, без связи с пользователем, именем или почтой), чтобы возвращённые покупки не выдавались повторно. Ваш аккаунт для входа может быть общим с другими играми Next Studio; этот запрос удаляет только данные «Шашек». Если нужно удалить аккаунт целиком, напишите об этом в письме."
    ],
    [
     "Данные на устройстве",
@@ -1677,7 +1677,7 @@
    ],
    [
     "Saklama ve silme",
-    "Sunucu verileri hesabın var olduğu sürece saklanır. Hesabını uygulamada (Ayarlar > Hesap) silersen veya Veri Silme sayfasından silme talep edersen veriler makul bir süre içinde silinir veya anonimleştirilir. İstisna: asgari bir satın alma kaydı (satın alma belirtecinin özeti, ürün kimliği, durum ve zaman; ad veya e-posta yok) iadeden sonra bir ürünün iki kez verilmesini önlemek ve muhasebe ile yasal yükümlülükleri yerine getirmek için silmeden sonra en fazla 5 yıl saklanabilir. Uygulamayı silmek yalnızca cihazda saklanan verileri kaldırır."
+    "Sunucu verileri hesabın var olduğu sürece saklanır. Hesabını uygulamada (Ayarlar > Hesap) silersen veya Veri Silme sayfasından silme talep edersen veriler makul bir süre içinde silinir veya anonimleştirilir. Silme sırasında hesabına bağlı satın alma kayıtları silinir; yalnızca hiçbir kullanıcıyla ilişkilendirilmeyen bir iade işareti (bir Google satın alma belirtecinin SHA-256 özeti ve zaman damgası) kalır; böylece iade edilen satın alımlar yeniden verilmez. Uygulamayı silmek yalnızca cihazda saklanan verileri kaldırır."
    ],
    [
     "Hakların, çocuklar ve değişiklikler",
@@ -1743,7 +1743,7 @@
    ],
    [
     "Neler silinir, neler saklanır",
-    "Silinenler: \"Uygulamada sil\" altında sayılan her şey. Saklanan: asgari bir satın alma kaydı (satın alma belirtecinin özeti, ürün kimliği, durum ve zaman; ad veya e-posta yok), iadelerden sonra çift verilmeyi önlemek ve muhasebe ile yasal yükümlülükleri karşılamak için en fazla 5 yıl. Giriş hesabın Next Studio'nun diğer oyunlarıyla ortak olabilir; bu talep yalnızca Dama verilerini siler. Hesabın tamamının silinmesini istiyorsan e-postada belirt."
+    "Silinenler: \"Uygulamada sil\" altında sayılan her şey, hesabına bağlı satın alma kayıtları dahil. Saklanan: yalnızca iade edilen satın alımların yeniden verilmesini önlemek için hiçbir kullanıcı, ad veya e-postayla ilişkilendirilmeyen bir iade işareti (Google satın alma belirtecinin SHA-256 özeti ve zaman damgası). Giriş hesabın Next Studio'nun diğer oyunlarıyla ortak olabilir; bu talep yalnızca Dama verilerini siler. Hesabın tamamının silinmesini istiyorsan e-postada belirt."
    ],
    [
     "Cihazdaki veriler",
