@@ -9,7 +9,7 @@
   ],
   "tag": "Play Go against an AI that plays like a person — learn, solve, review.",
   "intro": "Baduk: Human-like AI Go — official support and policies · Next Studio",
-  "date": "Effective date: October 5, 2026",
+  "date": "Effective date: October 18, 2026",
   "contact": "Contact",
   "skip": "Skip to content",
   "features": [
@@ -26,7 +26,7 @@
    ],
    [
     "Account and cloud data",
-    "So you can play without signing up, the app creates an anonymous account. Hint and undo balances, daily free uses, check-ins, mission and achievement rewards, purchase status and, when you play online, your rating are stored on the server under this account. Sign in with Apple is optional; Apple shares an identifier and, if you allow it, an email address (possibly a private relay address), used only to recognise your account across devices."
+    "A guest account stores server balances, rewards and gameplay records even without provider sign-in. Android supports optional Google sign-in and iOS supports Sign in with Apple. The provider supplies an identifier and email address; Google may also supply a name and profile picture, which can be retained in the authentication account. These identify the account and synchronize purchases and progress across devices."
    ],
    [
     "AI games",
@@ -38,7 +38,7 @@
    ],
    [
     "Purchases and subscriptions",
-    "Baduk Pro (monthly, yearly, lifetime) and hint and undo packs are paid through Apple. We never receive payment details; we store only the transaction ID, product and subscription status to deliver and restore what you bought."
+    "Purchases are processed by Google Play on Android and Apple on iOS. We do not receive card or bank details. For verification, restoration and refunds, we store the product, transaction or purchase-token hash, owner and subscription status/expiry."
    ],
    [
     "Ads",
@@ -58,7 +58,7 @@
    ],
    [
     "Retention and deletion",
-    "Server data is kept while your account exists. Use Settings > Delete Baduk data in the app, the data is deleted immediately; if you email us instead, within a reasonable time after we verify the request. Deleting the app removes only the data stored on the device. Finished online games (moves and result) stay in your opponents' game history; after deletion they are no longer linked to your nickname, country or rating, only to an anonymous account ID."
+    "Settings > Delete Baduk data deletes this game’s server balances, rewards, rating, push devices and progress, then signs you out. Games saved on this device remain. Other games on the same account are not deleted. After game-data deletion, purchase-token hashes, product identifiers and refund/consumption status are retained without their user link to prevent duplicate credit and refund fraud. Other games sharing the authentication account remain unaffected. Finished online moves and results remain in opponents’ game histories without the deleted nickname, country or rating."
    ],
    [
     "Your rights, children, changes",
@@ -76,7 +76,7 @@
    ],
    [
     "Purchases and subscriptions",
-    "Baduk Pro (monthly and yearly subscriptions, lifetime) and hint and undo packs are paid through Apple. Subscriptions renew automatically unless cancelled at least 24 hours before the end of the current period, and can be managed or cancelled in your App Store account settings. Refunds follow Apple's policy. Hints and undos are kept on your account and one is used each time."
+    "Baduk Pro subscriptions renew until canceled; lifetime, hint/undo packs and board themes are one-time purchases. Android uses Google Play and iOS uses Apple billing. Manage subscriptions and request refunds through the store used for purchase. Hints and undos are held on the game account and spent on use. Deleting app data does not cancel a subscription. Manage or cancel it in Google Play > Payments & subscriptions on Android, or App Store account settings > Subscriptions on iOS."
    ],
    [
     "Conduct",
@@ -128,11 +128,11 @@
   "delete-account": [
    [
     "Delete in the app",
-    "Settings > \"Delete Baduk data\" removes this game's server records (balances, rewards, check-ins, online rating, push token) and the records on this device. You are signed out afterwards."
+    "Settings > Delete Baduk data deletes this game’s server balances, rewards, rating, push devices and progress, then signs you out. Games saved on this device remain. Other games on the same account are not deleted."
    ],
    [
     "What is not deleted",
-    "Purchase and subscription records are managed by Apple, and payment transaction records required by law may be kept for the required period. Data of other Next Studio games on the same account is not deleted. Finished online games (moves and result) stay in your opponents' game history; after deletion they are no longer linked to your nickname, country or rating, only to an anonymous account ID."
+    "After game-data deletion, purchase-token hashes, product identifiers and refund/consumption status are retained without their user link to prevent duplicate credit and refund fraud. Other games sharing the authentication account remain unaffected. Finished online moves and results remain in opponents’ game histories without the deleted nickname, country or rating."
    ],
    [
     "Request by email",
@@ -140,7 +140,7 @@
    ],
    [
     "Cancel your subscription",
-    "Deleting data does not cancel an Apple subscription. Cancel it in App Store account settings > Subscriptions."
+    "Deleting app data does not cancel a subscription. Manage or cancel it in Google Play > Payments & subscriptions on Android, or App Store account settings > Subscriptions on iOS."
    ]
   ]
  },
@@ -154,7 +154,7 @@
   ],
   "tag": "사람처럼 두는 AI와 바둑을 두고, 배우고, 문제를 풀고, 복기하세요.",
   "intro": "바둑: 사람 같은 AI 바둑 — 공식 지원 및 정책 · 넥스트 스튜디오",
-  "date": "시행일: 2026년 10월 5일",
+  "date": "시행일: 2026년 10월 18일",
   "contact": "문의",
   "skip": "본문으로 건너뛰기",
   "features": [
@@ -171,7 +171,7 @@
    ],
    [
     "계정과 클라우드 데이터",
-    "가입 없이 플레이할 수 있도록 앱이 익명 계정을 만듭니다. 힌트·무르기 잔액, 일일 무료 사용 횟수, 출석·미션·업적 보상, 구매 상태와 온라인 대국 시 레이팅이 이 계정으로 서버에 저장됩니다. Apple로 로그인은 선택 사항이며, Apple이 식별자와 (허용 시) 이메일 주소(비공개 릴레이 주소일 수 있음)를 전달하고 기기 간 계정 확인에만 씁니다."
+    "외부 계정으로 로그인하지 않아도 게스트 계정에 서버 잔액·보상·플레이 기록이 저장됩니다. Android에서는 Google 로그인, iOS에서는 Apple 로그인을 선택할 수 있습니다. 인증 제공자가 식별자와 이메일을 전달하며 Google은 이름과 프로필 사진도 전달할 수 있고 인증 계정에 보관될 수 있습니다. 계정 확인과 기기 간 구매·진행 동기화에 사용합니다."
    ],
    [
     "AI 대국",
@@ -183,7 +183,7 @@
    ],
    [
     "구매와 구독",
-    "바둑 Pro(월간·연간·평생)와 힌트·무르기 묶음은 Apple을 통해 결제됩니다. 결제 정보는 받지 않으며, 구매 내역을 지급·복원하기 위해 거래 ID, 상품, 구독 상태만 저장합니다."
+    "Android는 Google Play, iOS는 Apple에서 결제합니다. 카드·은행 정보는 받지 않습니다. 검증·복원·환불 처리를 위해 상품, 거래 ID 또는 구매 토큰 해시, 소유 계정, 구독 상태·만료 시각을 저장합니다."
    ],
    [
     "광고",
@@ -203,7 +203,7 @@
    ],
    [
     "보관과 삭제",
-    "서버 데이터는 계정이 있는 동안 보관됩니다. 앱의 설정 > 바둑 데이터 삭제를 쓰거나 즉시 삭제됩니다. 이메일로 요청하면 요청을 확인한 뒤 합리적인 기간 안에 삭제합니다. 앱을 지우면 기기에 저장된 데이터만 삭제됩니다. 끝난 온라인 대국(착수와 결과)은 상대방의 대국 기록으로 남습니다. 삭제 후에는 닉네임·국가·레이팅과 연결되지 않고 익명 계정 ID에만 연결됩니다."
+    "설정 > 바둑 데이터 삭제는 이 게임의 서버 잔액·보상·레이팅·푸시 기기·진행 데이터를 삭제하고 로그아웃합니다. 기기에 저장된 기보와 같은 계정의 다른 게임 데이터는 남습니다. 게임 데이터 삭제 후에도 중복 지급과 환불 부정 사용을 막기 위해 구매 토큰 해시·상품 식별자·환불 및 소비 상태를 사용자 연결 없이 보관합니다. 공용 인증 계정을 쓰는 다른 게임 데이터는 보존됩니다. 끝난 온라인 대국의 착수·결과는 상대방 기록에 남지만 삭제된 닉네임·국가·레이팅과 연결되지 않습니다."
    ],
    [
     "이용자의 권리, 아동, 변경",
@@ -221,7 +221,7 @@
    ],
    [
     "구매와 구독",
-    "바둑 Pro(월간·연간 구독, 평생)와 힌트·무르기 묶음은 Apple을 통해 결제됩니다. 구독은 현재 기간 종료 24시간 전까지 해지하지 않으면 자동 갱신되며, App Store 계정 설정에서 관리·해지할 수 있습니다. 환불은 Apple 정책을 따릅니다. 힌트와 무르기는 계정에 보관되고 사용할 때마다 하나씩 차감됩니다."
+    "바둑 Pro 구독은 해지할 때까지 자동 갱신되며 평생 이용권·힌트와 무르기 묶음·테마는 일회성 구매입니다. Android는 Google Play, iOS는 Apple 결제를 사용합니다. 구독 관리·해지·환불은 구매한 스토어에서 처리합니다. 힌트·무르기는 계정에 보관되며 사용할 때 차감됩니다. 앱 데이터 삭제로 구독이 해지되지는 않습니다. Android는 Google Play > 결제 및 정기 결제, iOS는 App Store 계정 설정 > 구독에서 관리·해지하세요."
    ],
    [
     "이용 수칙",
@@ -273,11 +273,11 @@
   "delete-account": [
    [
     "앱에서 삭제",
-    "설정 > \"바둑 데이터 삭제\"는 이 게임의 서버 기록(잔액, 보상, 출석, 온라인 레이팅, 푸시 토큰)과 기기의 기록을 삭제합니다. 삭제 후 로그아웃됩니다."
+    "설정 > 바둑 데이터 삭제는 이 게임의 서버 잔액·보상·레이팅·푸시 기기·진행 데이터를 삭제하고 로그아웃합니다. 기기에 저장된 기보와 같은 계정의 다른 게임 데이터는 남습니다."
    ],
    [
     "삭제되지 않는 것",
-    "구매·구독 내역은 Apple이 관리하며, 법에서 정한 결제 거래 기록은 정해진 기간 보관될 수 있습니다. 같은 계정의 다른 넥스트 스튜디오 게임 데이터는 삭제되지 않습니다. 끝난 온라인 대국(착수와 결과)은 상대방의 대국 기록으로 남습니다. 삭제 후에는 닉네임·국가·레이팅과 연결되지 않고 익명 계정 ID에만 연결됩니다."
+    "게임 데이터 삭제 후에도 중복 지급과 환불 부정 사용을 막기 위해 구매 토큰 해시·상품 식별자·환불 및 소비 상태를 사용자 연결 없이 보관합니다. 공용 인증 계정을 쓰는 다른 게임 데이터는 보존됩니다. 끝난 온라인 대국의 착수·결과는 상대방 기록에 남지만 삭제된 닉네임·국가·레이팅과 연결되지 않습니다."
    ],
    [
     "이메일로 요청",
@@ -285,7 +285,7 @@
    ],
    [
     "구독 해지",
-    "데이터를 삭제해도 Apple 구독은 해지되지 않습니다. App Store 계정 설정 > 구독에서 해지하세요."
+    "앱 데이터 삭제로 구독이 해지되지는 않습니다. Android는 Google Play > 결제 및 정기 결제, iOS는 App Store 계정 설정 > 구독에서 관리·해지하세요."
    ]
   ]
  },
@@ -299,7 +299,7 @@
   ],
   "tag": "人のように打つAIと碁を打ち、学び、詰碁を解き、検討しましょう。",
   "intro": "囲碁: 人間らしいAI碁 — 公式サポートとポリシー · Next Studio",
-  "date": "施行日: 2026年10月5日",
+  "date": "施行日：2026年10月18日",
   "contact": "お問い合わせ",
   "skip": "本文へスキップ",
   "features": [
@@ -316,7 +316,7 @@
    ],
    [
     "アカウントとクラウドデータ",
-    "登録なしで遊べるよう、アプリは匿名アカウントを作成します。ヒント・待ったの残数、1日の無料回数、チェックイン・ミッション・実績の報酬、購入状況、オンライン対局時のレーティングがこのアカウントでサーバーに保存されます。Appleでサインインは任意で、Appleが識別子と(許可した場合)メールアドレス(非公開リレーの場合あり)を共有し、端末間でのアカウント確認にのみ使います。"
+    "外部アカウントでログインしなくても、残高・報酬・プレイ記録はゲストアカウントに保存されます。AndroidではGoogle、iOSではAppleによる任意のログインを利用できます。認証元は識別子とメールアドレスを提供し、Googleは名前やプロフィール画像も提供する場合があり、認証アカウントに保持されることがあります。アカウントの確認と端末間の購入・進行状況の同期に使用します。"
    ],
    [
     "AI対局",
@@ -328,7 +328,7 @@
    ],
    [
     "購入と購読",
-    "囲碁 Pro(月額・年額・買い切り)とヒント・待ったのパックはAppleを通じて決済されます。決済情報は受け取らず、購入内容の付与と復元のため取引ID、商品、購読状態のみ保存します。"
+    "Androidの決済はGoogle Play、iOSはAppleが処理します。カードや銀行情報は受け取りません。検証・復元・返金処理のため、商品、取引IDまたは購入トークンのハッシュ、所有者、購読状態と有効期限を保存します。"
    ],
    [
     "広告",
@@ -348,7 +348,7 @@
    ],
    [
     "保管と削除",
-    "サーバーのデータはアカウントが存在する間保管されます。アプリの設定 > 囲碁データを削除、を使うと即時に削除されます。メールで依頼した場合は、確認後、妥当な期間内に削除します。アプリを削除しても端末内のデータのみ消えます。 終了したオンライン対局(着手と結果)は相手の対局履歴として残ります。削除後はニックネーム・国・レーティングとは結び付かず、匿名のアカウントIDにのみ紐づきます。"
+    "設定の囲碁データ削除は、このゲームのサーバー上の残高・報酬・レーティング・通知端末・進行状況を削除し、ログアウトします。端末に保存した棋譜と同じアカウントの他のゲームは残ります。 ゲームデータ削除後も、二重付与や返金の不正利用を防ぐため、購入トークンのハッシュ・商品識別子・返金と消費の状態をユーザーとの関連付けなしで保持します。同じ認証アカウントを使う他のゲームには影響しません。 終了したオンライン対局の着手と結果は相手の記録に残りますが、削除したニックネーム・国・レーティングとは関連付けられません。"
    ],
    [
     "ユーザーの権利、子ども、変更",
@@ -366,7 +366,7 @@
    ],
    [
     "購入と購読",
-    "囲碁 Pro(月額・年額の購読、買い切り)とヒント・待ったのパックはAppleを通じて決済されます。購読は現在の期間が終わる24時間前までに解約しない限り自動更新され、App Storeのアカウント設定で管理・解約できます。返金はAppleの方針に従います。ヒントと待ったはアカウントに保管され、使うたびに1つ消費されます。"
+    "囲碁Proの定期購入は解約まで自動更新されます。買い切り、ヒント・待ったパック、テーマは一回の購入です。AndroidはGoogle Play、iOSはAppleの決済を使用します。購読管理・解約・返金は購入したストアで行います。ヒントと待ったはアカウントに保存され、利用時に消費します。 データを削除しても定期購入は解約されません。AndroidはGoogle Playのお支払いと定期購入、iOSはApp Storeのアカウント設定のサブスクリプションから管理・解約してください。"
    ],
    [
     "禁止事項",
@@ -418,11 +418,11 @@
   "delete-account": [
    [
     "アプリ内で削除",
-    "設定 >「囲碁データを削除」で、このゲームのサーバー記録(残数、報酬、チェックイン、オンラインのレーティング、プッシュトークン)と端末内の記録を削除します。削除後はサインアウトされます。"
+    "設定の囲碁データ削除は、このゲームのサーバー上の残高・報酬・レーティング・通知端末・進行状況を削除し、ログアウトします。端末に保存した棋譜と同じアカウントの他のゲームは残ります。"
    ],
    [
     "削除されないもの",
-    "購入・購読の記録はAppleが管理し、法令で定められた決済取引記録は所定の期間保管されることがあります。同じアカウントの他の Next Studio ゲームのデータは削除されません。 終了したオンライン対局(着手と結果)は相手の対局履歴として残ります。削除後はニックネーム・国・レーティングとは結び付かず、匿名のアカウントIDにのみ紐づきます。"
+    "ゲームデータ削除後も、二重付与や返金の不正利用を防ぐため、購入トークンのハッシュ・商品識別子・返金と消費の状態をユーザーとの関連付けなしで保持します。同じ認証アカウントを使う他のゲームには影響しません。 終了したオンライン対局の着手と結果は相手の記録に残りますが、削除したニックネーム・国・レーティングとは関連付けられません。"
    ],
    [
     "メールで依頼",
@@ -430,7 +430,7 @@
    ],
    [
     "購読の解約",
-    "データを削除してもApple購読は解約されません。App Storeのアカウント設定 > サブスクリプションで解約してください。"
+    "データを削除しても定期購入は解約されません。AndroidはGoogle Playのお支払いと定期購入、iOSはApp Storeのアカウント設定のサブスクリプションから管理・解約してください。"
    ]
   ]
  },
@@ -444,7 +444,7 @@
   ],
   "tag": "与像人一样下棋的AI对弈，学习、做题、复盘。",
   "intro": "围棋：拟人AI围棋 — 官方支持与政策 · Next Studio",
-  "date": "生效日期：2026年10月5日",
+  "date": "生效日期：2026年10月18日",
   "contact": "联系我们",
   "skip": "跳到正文",
   "features": [
@@ -461,7 +461,7 @@
    ],
    [
     "账号与云端数据",
-    "为了无需注册即可游玩，应用会创建匿名账号。提示和悔棋余额、每日免费次数、签到、任务与成就奖励、购买状态，以及在线对局时的等级分，会以该账号保存在服务器上。使用 Apple 登录是可选的；Apple 会提供一个标识符以及（若你允许）电子邮件地址（可能是私密中转地址），仅用于在多台设备间识别你的账号。"
+    "即使不使用第三方登录，服务器余额、奖励与游戏记录也会保存在访客账号中。Android可选择Google登录，iOS可选择Apple登录。认证提供方会提供标识符和邮箱；Google也可能提供姓名和头像，并可能保留在认证账号中。这些信息用于识别账号及跨设备同步购买与进度。"
    ],
    [
     "AI 对局",
@@ -473,7 +473,7 @@
    ],
    [
     "购买与订阅",
-    "围棋 Pro（月度、年度、永久）以及提示和悔棋包通过 Apple 支付。我们不会收到支付信息，仅保存交易 ID、商品和订阅状态，用于发放和恢复你购买的内容。"
+    "Android由Google Play处理付款，iOS由Apple处理。我们不接收银行卡或银行账户信息。为验证、恢复和退款，我们保存商品、交易ID或购买令牌哈希、所属账号、订阅状态与到期时间。"
    ],
    [
     "广告",
@@ -493,7 +493,7 @@
    ],
    [
     "保留与删除",
-    "服务器数据在账号存续期间保留。在应用中使用 设置 > 删除围棋数据，数据会立即删除；若通过邮件申请，我们将在核实后于合理期限内删除。删除应用只会清除设备上的数据。 已结束的在线对局（着法和结果）会作为对手的对局记录保留；删除后不再与你的昵称、国家或等级分关联，仅关联匿名账号 ID。"
+    "设置中的删除围棋数据会删除本游戏服务器上的余额、奖励、等级分、推送设备及进度，并退出登录。本机保存的棋谱及同一账号的其他游戏数据会保留。 删除游戏数据后，为防止重复发放与退款欺诈，仍保留购买令牌哈希、商品标识符、退款与消耗状态，但移除与用户的关联。使用同一认证账号的其他游戏不受影响。 已完成在线对局的落子与结果会保留在对手记录中，但不再关联已删除的昵称、国家或等级分。"
    ],
    [
     "你的权利、儿童与变更",
@@ -511,7 +511,7 @@
    ],
    [
     "购买与订阅",
-    "围棋 Pro（月度和年度订阅、永久）以及提示和悔棋包通过 Apple 支付。除非在当前周期结束前至少24小时取消，订阅会自动续期，可在 App Store 账号设置中管理或取消。退款遵循 Apple 的政策。提示和悔棋保存在你的账号中，每次使用消耗一个。"
+    "围棋Pro订阅在取消前自动续订；永久权限、提示与悔棋包及主题为一次性购买。Android使用Google Play付款，iOS使用Apple付款。请在购买所用商店管理、取消订阅或申请退款。提示与悔棋保存在游戏账号中，使用时扣除。 删除数据不会取消订阅。Android请在Google Play的付款和订阅中管理或取消；iOS请在App Store账号设置的订阅中操作。"
    ],
    [
     "行为规范",
@@ -563,11 +563,11 @@
   "delete-account": [
    [
     "在应用内删除",
-    "设置 > “删除围棋数据”会删除本游戏的服务器记录（余额、奖励、签到、在线等级分、推送令牌）以及设备上的记录。删除后会退出登录。"
+    "设置中的删除围棋数据会删除本游戏服务器上的余额、奖励、等级分、推送设备及进度，并退出登录。本机保存的棋谱及同一账号的其他游戏数据会保留。"
    ],
    [
     "不会删除的内容",
-    "购买和订阅记录由 Apple 管理，法律要求的支付交易记录可能会在规定期限内保留。同一账号下 Next Studio 其他游戏的数据不会被删除。 已结束的在线对局（着法和结果）会作为对手的对局记录保留；删除后不再与你的昵称、国家或等级分关联，仅关联匿名账号 ID。"
+    "删除游戏数据后，为防止重复发放与退款欺诈，仍保留购买令牌哈希、商品标识符、退款与消耗状态，但移除与用户的关联。使用同一认证账号的其他游戏不受影响。 已完成在线对局的落子与结果会保留在对手记录中，但不再关联已删除的昵称、国家或等级分。"
    ],
    [
     "邮件申请",
@@ -575,7 +575,7 @@
    ],
    [
     "取消订阅",
-    "删除数据不会取消 Apple 订阅。请在 App Store 账号设置 > 订阅中取消。"
+    "删除数据不会取消订阅。Android请在Google Play的付款和订阅中管理或取消；iOS请在App Store账号设置的订阅中操作。"
    ]
   ]
  }
