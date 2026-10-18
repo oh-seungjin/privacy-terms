@@ -46,7 +46,7 @@
    ],
    [
     "Notifications",
-    "Only if you allow notifications, we store a push token (Firebase Cloud Messaging) and the app language to tell you when a game is found or it is your move, and for the daily study reminder you set. You can turn this off in the app or in iOS Settings."
+    "Only if you allow notifications, we store a push token (Firebase Cloud Messaging) and the app language to tell you when a game is found or it is your move, and for the daily study reminder you set. You can turn this off in the app or in your device settings."
    ],
    [
     "Crash reports",
@@ -68,7 +68,7 @@
   "terms": [
    [
     "Scope",
-    "These terms govern your use of Next Studio's iOS and Android app \"Baduk\" (the \"App\"). Apple's Standard End User License Agreement (EULA) also applies."
+    "These terms govern your use of Next Studio's iOS and Android app \"Baduk\" (the \"App\"). Apple's Standard End User License Agreement (EULA) also applies to the iOS version."
    ],
    [
     "The service",
@@ -191,7 +191,7 @@
    ],
    [
     "알림",
-    "알림을 허용한 경우에만 대국 성사·내 차례 알림과 설정한 학습 알림을 위해 푸시 토큰(Firebase Cloud Messaging)과 앱 언어를 저장합니다. 앱 또는 iOS 설정에서 끌 수 있습니다."
+    "알림을 허용한 경우에만 대국 성사·내 차례 알림과 설정한 학습 알림을 위해 푸시 토큰(Firebase Cloud Messaging)과 앱 언어를 저장합니다. 앱 또는 기기 설정에서 끌 수 있습니다."
    ],
    [
     "오류 보고",
@@ -213,7 +213,7 @@
   "terms": [
    [
     "적용 범위",
-    "이 약관은 넥스트 스튜디오의 iOS·Android 앱 \"바둑\"(이하 \"앱\")의 이용에 적용됩니다. Apple의 표준 최종 사용자 사용권 계약(EULA)도 함께 적용됩니다."
+    "이 약관은 넥스트 스튜디오의 iOS·Android 앱 \"바둑\"(이하 \"앱\")의 이용에 적용됩니다. iOS 버전에는 Apple의 표준 최종 사용자 사용권 계약(EULA)도 함께 적용됩니다."
    ],
    [
     "서비스",
@@ -336,7 +336,7 @@
    ],
    [
     "通知",
-    "通知を許可した場合のみ、対局成立・自分の番の通知と設定した学習リマインダーのために、プッシュトークン(Firebase Cloud Messaging)とアプリの言語を保存します。アプリまたはiOSの設定でオフにできます。"
+    "通知を許可した場合のみ、対局成立・自分の番の通知と設定した学習リマインダーのために、プッシュトークン(Firebase Cloud Messaging)とアプリの言語を保存します。アプリまたは端末の設定でオフにできます。"
    ],
    [
     "クラッシュレポート",
@@ -358,7 +358,7 @@
   "terms": [
    [
     "適用範囲",
-    "本規約は Next Studio のiOS・Androidアプリ「囲碁」(以下「本アプリ」)の利用に適用されます。AppleのEULA(標準使用許諾契約)も適用されます。"
+    "本規約は Next Studio のiOS・Androidアプリ「囲碁」(以下「本アプリ」)の利用に適用されます。iOS版にはAppleのEULA(標準使用許諾契約)も適用されます。"
    ],
    [
     "サービス",
@@ -481,7 +481,7 @@
    ],
    [
     "通知",
-    "仅在你允许通知时，我们才会保存推送令牌（Firebase Cloud Messaging）和应用语言，用于在对局匹配成功或轮到你时提醒，以及你设置的每日学习提醒。你可以在应用或 iOS 设置中关闭。"
+    "仅在你允许通知时，我们才会保存推送令牌（Firebase Cloud Messaging）和应用语言，用于在对局匹配成功或轮到你时提醒，以及你设置的每日学习提醒。你可以在应用或设备设置中关闭。"
    ],
    [
     "崩溃报告",
@@ -503,7 +503,7 @@
   "terms": [
    [
     "适用范围",
-    "本条款适用于你使用 Next Studio 的 iOS 和 Android 应用“围棋”（“应用”）。Apple 标准最终用户许可协议（EULA）同样适用。"
+    "本条款适用于你使用 Next Studio 的 iOS 和 Android 应用“围棋”（“应用”）。iOS 版本还适用 Apple 标准最终用户许可协议（EULA）。"
    ],
    [
     "服务",
