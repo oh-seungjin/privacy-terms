@@ -1,0 +1,59 @@
+<!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow"><meta name="referrer" content="no-referrer">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; img-src https://iezzxmahjyjftqtlmvvu.supabase.co blob: data:; connect-src https://iezzxmahjyjftqtlmvvu.supabase.co; style-src 'unsafe-inline'; script-src 'unsafe-inline'; base-uri 'none'; form-action 'none'">
+<title>Fieldwork</title>
+<style>*{box-sizing:border-box}body{margin:0;background:#f8f6ef;color:#17332e;font:16px/1.6 system-ui,-apple-system,sans-serif}main{max-width:820px;margin:auto;padding:20px}h1{font-size:26px;color:#126c60;margin:0 0 4px}h2{font-size:18px;margin:24px 0 8px}.muted{color:#5b6f6a;font-size:14px}.card{background:#fff;border:1px solid #d9e2dd;border-radius:12px;padding:14px;margin:10px 0}img{max-width:100%;border-radius:8px;display:block}ul{padding-left:20px}button,label.btn{background:#126c60;color:#fff;border:0;border-radius:10px;padding:12px 16px;font:inherit;font-weight:600;cursor:pointer;display:inline-block}.ok{color:#126c60}.err{color:#a33}</style></head>
+<body><main id="app"><p class="muted" id="status">…</p></main>
+<script>
+const API='https://iezzxmahjyjftqtlmvvu.supabase.co/functions/v1/fieldwork-share';
+const T={
+ en:{loading:'Loading…',invalid:'This link is invalid or has expired.',customer:'Customer',address:'Address',date:'Work date',notes:'Work details',checks:'Checklist',issues:'Issues',photos:'Photos',done:'Done',open:'Open',fixed:'Resolved',pending:'Needs action',request:'Photo request',upload:'Send a photo',sending:'Sending…',sent:'Photo sent. Thank you!',fail:'Could not send. Please try again.',limit:'Upload limit reached.',expires:'Link expires',before:'Before',during:'During',after:'After',quote:'Quote',extra:'Extra work',paid:'Paid',note:'Photos are shared only through this private link.'},
+ ko:{loading:'불러오는 중…',invalid:'유효하지 않거나 만료된 링크입니다.',customer:'고객',address:'주소',date:'작업일',notes:'작업 내용',checks:'점검',issues:'하자·조치',photos:'사진',done:'완료',open:'미완료',fixed:'조치 확인',pending:'조치 필요',request:'사진 요청',upload:'사진 보내기',sending:'전송 중…',sent:'사진을 보냈습니다. 감사합니다!',fail:'전송하지 못했습니다. 다시 시도해 주세요.',limit:'업로드 한도에 도달했습니다.',expires:'링크 만료',before:'작업 전',during:'작업 중',after:'작업 후',quote:'견적',extra:'추가 작업',paid:'입금',note:'사진은 이 비공개 링크로만 공유됩니다.'},
+ ja:{loading:'読み込み中…',invalid:'このリンクは無効か、期限切れです。',customer:'顧客',address:'住所',date:'作業日',notes:'作業内容',checks:'点検',issues:'不具合・対応',photos:'写真',done:'完了',open:'未完了',fixed:'対応確認済み',pending:'要対応',request:'写真のお願い',upload:'写真を送る',sending:'送信中…',sent:'写真を送信しました。ありがとうございます。',fail:'送信できませんでした。もう一度お試しください。',limit:'アップロード上限に達しました。',expires:'リンク期限',before:'作業前',during:'作業中',after:'作業後',quote:'見積',extra:'追加作業',paid:'入金',note:'写真はこの非公開リンクでのみ共有されます。'},
+ zh:{loading:'加载中…',invalid:'此链接无效或已过期。',customer:'客户',address:'地址',date:'作业日',notes:'作业内容',checks:'检查',issues:'缺陷·处理',photos:'照片',done:'已完成',open:'未完成',fixed:'已确认处理',pending:'需处理',request:'照片请求',upload:'发送照片',sending:'发送中…',sent:'照片已发送，谢谢！',fail:'发送失败，请重试。',limit:'已达上传上限。',expires:'链接到期',before:'施工前',during:'施工中',after:'施工后',quote:'报价',extra:'追加作业',paid:'已收款',note:'照片仅通过此私有链接共享。'},
+ es:{loading:'Cargando…',invalid:'Este enlace no es válido o ha caducado.',customer:'Cliente',address:'Dirección',date:'Fecha de trabajo',notes:'Detalle del trabajo',checks:'Lista de comprobación',issues:'Defectos y acciones',photos:'Fotos',done:'Hecho',open:'Pendiente',fixed:'Resuelto',pending:'Requiere acción',request:'Solicitud de foto',upload:'Enviar una foto',sending:'Enviando…',sent:'Foto enviada. ¡Gracias!',fail:'No se pudo enviar. Inténtalo de nuevo.',limit:'Límite de subidas alcanzado.',expires:'El enlace caduca',before:'Antes',during:'Durante',after:'Después',quote:'Presupuesto',extra:'Trabajo adicional',paid:'Pagado',note:'Las fotos solo se comparten mediante este enlace privado.'},
+ fr:{loading:'Chargement…',invalid:'Ce lien est invalide ou a expiré.',customer:'Client',address:'Adresse',date:'Date des travaux',notes:'Détail des travaux',checks:'Contrôles',issues:'Défauts et actions',photos:'Photos',done:'Fait',open:'À faire',fixed:'Résolu',pending:'Action requise',request:'Demande de photo',upload:'Envoyer une photo',sending:'Envoi…',sent:'Photo envoyée. Merci !',fail:"Échec de l'envoi. Veuillez réessayer.",limit:"Limite d'envois atteinte.",expires:'Le lien expire',before:'Avant',during:'Pendant',after:'Après',quote:'Devis',extra:'Travaux supplémentaires',paid:'Payé',note:'Les photos ne sont partagées que via ce lien privé.'},
+ de:{loading:'Wird geladen…',invalid:'Dieser Link ist ungültig oder abgelaufen.',customer:'Kunde',address:'Adresse',date:'Arbeitstag',notes:'Arbeitsinhalt',checks:'Prüfpunkte',issues:'Mängel und Maßnahmen',photos:'Fotos',done:'Erledigt',open:'Offen',fixed:'Behoben',pending:'Handlungsbedarf',request:'Foto-Anfrage',upload:'Foto senden',sending:'Wird gesendet…',sent:'Foto gesendet. Danke!',fail:'Senden fehlgeschlagen. Bitte erneut versuchen.',limit:'Upload-Limit erreicht.',expires:'Link läuft ab',before:'Vorher',during:'Während',after:'Nachher',quote:'Angebot',extra:'Zusatzarbeit',paid:'Eingezahlt',note:'Fotos werden nur über diesen privaten Link geteilt.'},
+ pt:{loading:'Carregando…',invalid:'Este link é inválido ou expirou.',customer:'Cliente',address:'Endereço',date:'Data do trabalho',notes:'Detalhes do trabalho',checks:'Verificações',issues:'Defeitos e ações',photos:'Fotos',done:'Concluído',open:'Pendente',fixed:'Resolvido',pending:'Requer ação',request:'Pedido de foto',upload:'Enviar uma foto',sending:'Enviando…',sent:'Foto enviada. Obrigado!',fail:'Não foi possível enviar. Tente novamente.',limit:'Limite de envios atingido.',expires:'O link expira',before:'Antes',during:'Durante',after:'Depois',quote:'Orçamento',extra:'Trabalho adicional',paid:'Pago',note:'As fotos são compartilhadas apenas por este link privado.'}
+};
+const lang=(navigator.language||'en').toLowerCase();
+const L=T[Object.keys(T).find(k=>lang.startsWith(k))||'en'];
+const app=document.getElementById('app'),token=new URLSearchParams(location.search).get('t')||'';
+function el(tag,text,cls){const e=document.createElement(tag);if(text!==undefined)e.textContent=text;if(cls)e.className=cls;return e}
+function section(title){app.append(el('h2',title))}
+async function load(){
+ if(!/^[a-f0-9]{32}$/.test(token)){app.replaceChildren(el('p',L.invalid,'err'));return}
+ let r;try{r=await fetch(API+'?t='+token)}catch{app.replaceChildren(el('p',L.fail,'err'));return}
+ if(!r.ok){app.replaceChildren(el('p',L.invalid,'err'));return}
+ render(await r.json())}
+function render(d){
+ const j=d.job;app.replaceChildren(el('h1',j.name||'Fieldwork'));
+ app.append(el('p',[j.kind,j.workDate].filter(Boolean).join(' · '),'muted'));
+ app.append(el('p',L.expires+': '+new Date(d.expires_at).toLocaleDateString(),'muted'));
+ const info=el('div',undefined,'card');
+ if(j.customer)info.append(el('div',L.customer+': '+j.customer));
+ if(j.address)info.append(el('div',L.address+': '+j.address));
+ if(j.quoteAmount)info.append(el('div',L.quote+': '+j.quoteAmount));
+ if(j.extraAmount)info.append(el('div',L.extra+': '+j.extraAmount));
+ if(j.paidAmount)info.append(el('div',L.paid+': '+j.paidAmount));
+ if(info.childNodes.length)app.append(info);
+ if(j.notes){section(L.notes);app.append(el('p',j.notes))}
+ if((j.checks||[]).length){section(L.checks);const ul=el('ul');j.checks.forEach((c,i)=>ul.append(el('li',(j.done[i]?'✓ ':'○ ')+c)));app.append(ul)}
+ if((j.issues||[]).length){section(L.issues);const ul=el('ul');j.issues.forEach((c,i)=>ul.append(el('li',(j.resolved[i]?L.fixed:L.pending)+' · '+c)));app.append(ul)}
+ if((j.photos||[]).length){section(L.photos);j.photos.forEach(p=>{const u=d.photoUrls[p.blob];if(!u)return;const c=el('div',undefined,'card');c.append(el('div',(p.target||'')+' · '+(L[p.stage]||p.stage)+(p.caption?' · '+p.caption:''),'muted'));const i=document.createElement('img');i.src=u;i.loading='lazy';i.alt=p.caption||'';c.append(i);app.append(c)})}
+ if(d.allow_upload){section(L.request);const c=el('div',undefined,'card');
+  if(d.request_target)c.append(el('div',d.request_target));if(d.request_note)c.append(el('div',d.request_note));
+  const input=document.createElement('input');input.type='file';input.accept='image/*';input.id='f';input.hidden=true;
+  const lab=el('label',L.upload,'btn');lab.htmlFor='f';const msg=el('p',undefined,'muted');
+  input.onchange=async()=>{const f=input.files[0];if(!f)return;msg.className='muted';msg.textContent=L.sending;
+   try{const blob=await toJpeg(f);const r=await fetch(API+'?t='+token,{method:'POST',headers:{'Content-Type':'image/jpeg'},body:blob});
+    if(r.status===429){msg.className='err';msg.textContent=L.limit}else if(!r.ok)throw 0;else{msg.className='ok';msg.textContent=L.sent}}
+   catch{msg.className='err';msg.textContent=L.fail}input.value=''};
+  c.append(lab,input,msg);app.append(c)}
+ app.append(el('p',L.note,'muted'))}
+function toJpeg(file){return new Promise((res,rej)=>{const img=new Image(),url=URL.createObjectURL(file);
+ img.onload=()=>{const s=Math.min(1,1600/Math.max(img.width,img.height)),c=document.createElement('canvas');c.width=Math.round(img.width*s);c.height=Math.round(img.height*s);
+  c.getContext('2d').drawImage(img,0,0,c.width,c.height);URL.revokeObjectURL(url);c.toBlob(b=>b&&b.size<=5*1024*1024?res(b):rej(),'image/jpeg',.85)};
+ img.onerror=()=>rej();img.src=url})}
+document.getElementById('status').textContent=L.loading;load();
+</script></body></html>
