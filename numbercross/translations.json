@@ -1,0 +1,722 @@
+{
+ "en": {
+  "nav": [
+   "Home",
+   "Privacy Policy",
+   "Terms of Service",
+   "Help & Support",
+   "Data Deletion"
+  ],
+  "tag": "Fill the blanks. Solve every equation.",
+  "intro": "Official Number Cross support and policies · Next Studio",
+  "date": "Effective / updated October 31, 2026",
+  "contact": "Contact",
+  "skip": "Skip to content",
+  "privacy": [
+   [
+    "Operator and scope",
+    "Next Studio (South Korea) operates Number Cross (com.osj.numbercross), a math crossword puzzle for iOS and Android. This policy covers the app and this support website. Privacy contact: dhalska2@gmail.com."
+   ],
+   [
+    "Game data on your device",
+    "Puzzle progress, cleared stages, hint-use counters, the current board and your settings (theme, haptics, input options) are saved on your device. Deleting the app removes them. They are not uploaded as a save file."
+   ],
+   [
+    "Hints, rewards and purchases (our server)",
+    "The app signs in to our server anonymously: no name, e-mail or password is asked. We store an anonymous user ID, your hint balance and a ledger of hint grants and spends (request IDs and times), rewarded-ad voucher records, and purchase records (product ID, store, environment and a one-way hash of the transaction or purchase token). Hints are granted and spent only by the server, so hints need an internet connection; normal play works offline. Payment is handled by Apple or Google Play; we never receive card details. When you buy or restore ad removal, the app sends the store purchase proof to our server, which verifies it with Apple or Google before unlocking it."
+   ],
+   [
+    "Advertising and privacy choices",
+    "The app shows Google AdMob interstitial ads and optional rewarded ads. We request non-personalized ads only, and where required a Google consent message (UMP) is shown; you can change the choice in Settings. The advertising SDK may process IP address, approximate location inferred from it, device and advertising identifiers (on Android, the advertising ID), ad views and clicks, diagnostics and your consent choice to serve and measure ads and prevent fraud. We do not use App Tracking Transparency and do not track you across other companies’ apps. For a rewarded ad our server stores a pseudonymous voucher token, the ad transaction ID and the time to prevent duplicate rewards. Advertising disclosures may count as sharing under local law; we do not claim that no data is collected."
+   ],
+   [
+    "Crash reports",
+    "Release builds send crash and error reports to Google Firebase Crashlytics (stack traces, device model, operating system, app version, a per-installation identifier). They are used only to fix defects. Debug builds do not send reports. We do not use Firebase Analytics."
+   ],
+   [
+    "Server location, retention and providers",
+    "Our database (Supabase) is located in Seoul, South Korea; Supabase and its subprocessors may provide operational support from other countries, including the United States. We use Apple and Google for payment and ads, Google Firebase for crash reports, and GitHub Pages for this website. Anonymous server records are kept while the app is in use. Purchase records (transaction hash, product, time; no personal data) are kept for refund handling and accounting. Device data is removed by deleting the app."
+   ],
+   [
+    "Your rights and deletion",
+    "You may ask to access, correct or delete the data we hold about your anonymous ID, or object to processing, by e-mail to dhalska2@gmail.com. Because the ID is anonymous we may need the app version and a description of when you used the app to find it; do not send passwords or card details. Processing relies on contract performance (running the game and verifying purchases), legitimate interests in security, fraud prevention and fixing defects, legal obligations, and consent where required (ad choices). See the Data Deletion page for the steps."
+   ],
+   [
+    "Children and changes",
+    "Number Cross is not directed to children under 13 and we do not knowingly collect personal information from them. If this policy changes, we update the date above and, for material changes, notify you in the app or on this site."
+   ]
+  ],
+  "terms": [
+   [
+    "Service and saves",
+    "Number Cross is a puzzle game provided as is. Progress is stored on your device; deleting the app or its storage deletes your progress and we cannot restore it. Hints are managed by our server and need an internet connection."
+   ],
+   [
+    "Ads, products and consumer rights",
+    "The game shows ads. A one-time purchase (non-consumable) removes ads; it does not change hints or puzzles. Purchases are made with Apple or Google Play, whose terms and refund rules apply, and can be restored with the same store account. Refunded or revoked purchases stop unlocking ad removal. Mandatory consumer rights in your country are not limited by these terms."
+   ],
+   [
+    "Use, changes and responsibility",
+    "Do not tamper with the app, its server or its purchases, or attempt to obtain hints or rewards by other means. We may change or end features with reasonable notice where possible. To the extent permitted by law we are not liable for indirect losses. Korean law applies unless mandatory local law says otherwise."
+   ]
+  ],
+  "support": [
+   [
+    "How to play",
+    "Fill the blanks so that every horizontal and vertical equation is correct. Tap a number tile and then a blank cell (or tap a blank first, then a tile), or drag the tile. Each tile can be used once. Wrong equations are marked; undo and reset are below the board. Open the grid icon to choose among 1,000 stages. A short tutorial runs on the first launch and can be replayed in Settings."
+   ],
+   [
+    "Hints, ads and purchases",
+    "You start with 3 hints and receive 2 free hints every day (the day changes at midnight Korea time; unused free hints do not accumulate). Hints and ad rewards are granted by our server, so connect to the internet. A rewarded ad gives a hint only after the server has verified it; if it does not arrive, reopen the app. Ad removal and Restore purchase are in Settings (gear icon); restore works with the store account used for the purchase."
+   ],
+   [
+    "Report an issue",
+    "E-mail dhalska2@gmail.com with the subject Number Cross, the app version, your device and OS, and the steps to reproduce (a screenshot without personal data helps). Do not send passwords or card details. Billing and refunds are handled through the Apple or Google Play support process."
+   ]
+  ],
+  "delete-account": [
+   [
+    "Scope of Number Cross deletion",
+    "Number Cross has no account and no sign-up. This page explains how to remove the data on your device and how to ask us to delete the anonymous server records (hint balance and ledger, ad reward records, game profile)."
+   ],
+   [
+    "Delete device data",
+    "On iOS delete the app (not only offload it). On Android clear the app’s storage or uninstall. This removes your progress and settings; we cannot recover them afterwards. Deleting only the app does not delete server records."
+   ],
+   [
+    "Request deletion of server data",
+    "E-mail dhalska2@gmail.com with the subject “Number Cross Data Deletion”, the app version and the approximate date you last used the app. We respond within the legally required period. Deleting the server records removes your hint balance. Purchase records (transaction hash, product, time) may be kept for refund handling and accounting, but contain no personal data; ad removal on a store account can be restored from the store afterwards."
+   ]
+  ]
+ },
+ "ko": {
+  "nav": [
+   "홈",
+   "개인정보처리방침",
+   "이용약관",
+   "도움말·지원",
+   "데이터 삭제"
+  ],
+  "tag": "빈칸을 채워 모든 수식을 맞추세요.",
+  "intro": "Number Cross 공식 지원 및 정책 · Next Studio",
+  "date": "시행·갱신일 2026년 10월 31일",
+  "contact": "문의",
+  "skip": "본문으로 건너뛰기",
+  "privacy": [
+   [
+    "운영자와 적용 범위",
+    "넥스트 스튜디오(Next Studio, 대한민국)는 iOS·Android 수학 크로스워드 퍼즐 Number Cross(com.osj.numbercross)를 운영합니다. 이 방침은 앱과 이 지원 웹사이트에 적용됩니다. 개인정보 문의: dhalska2@gmail.com."
+   ],
+   [
+    "기기에 저장되는 게임 데이터",
+    "퍼즐 진행, 클리어한 스테이지, 힌트 사용 횟수, 진행 중인 판, 설정(테마·햅틱·입력 옵션)은 기기에 저장됩니다. 앱을 삭제하면 함께 지워지며 저장 파일로 서버에 올리지 않습니다."
+   ],
+   [
+    "힌트·보상·구매(서버)",
+    "앱은 이름·이메일·비밀번호를 묻지 않고 익명으로 서버에 로그인합니다. 서버에는 익명 사용자 ID, 힌트 잔액과 지급·사용 내역(요청 ID·시각), 보상형 광고 확인 기록, 구매 기록(상품 ID, 스토어, 환경, 거래/구매 토큰의 단방향 해시)을 저장합니다. 힌트는 서버만 지급·차감하므로 힌트에는 인터넷 연결이 필요하며, 일반 플레이는 오프라인에서도 가능합니다. 결제는 Apple 또는 Google Play가 처리하고 카드 정보는 받지 않습니다. 광고 제거를 구매·복원하면 앱이 스토어 구매 증빙을 서버로 보내며, 서버가 Apple/Google로 확인한 뒤 적용합니다."
+   ],
+   [
+    "광고와 개인정보 선택",
+    "Google AdMob 전면 광고와 선택형 보상형 광고를 표시합니다. 비개인 맞춤 광고만 요청하며 지역에 따라 Google 동의 메시지(UMP)가 표시되고 설정에서 선택을 바꿀 수 있습니다. 광고 SDK는 광고 제공·측정·부정 방지를 위해 IP 주소와 그로부터 추정한 대략적 위치, 기기·광고 식별자(Android 광고 ID), 광고 노출·클릭, 진단 정보, 동의 선택을 처리할 수 있습니다. 앱 추적 투명성(ATT)은 사용하지 않으며 다른 회사의 앱을 가로질러 추적하지 않습니다. 보상형 광고에는 서버가 가명 토큰, 광고 거래 ID, 시각을 저장해 중복 지급을 막습니다. 광고 관련 정보 제공은 현지 법에서 판매·공유에 해당할 수 있으며 수집이 전혀 없다고 주장하지 않습니다."
+   ],
+   [
+    "오류 보고",
+    "릴리스 빌드는 오류·충돌 보고를 Google Firebase Crashlytics로 보냅니다(스택 정보, 기기 모델, 운영체제, 앱 버전, 설치별 식별자). 결함 수정에만 사용하며 디버그 빌드는 보내지 않습니다. Firebase Analytics는 사용하지 않습니다."
+   ],
+   [
+    "서버 위치·보관·제공업체",
+    "데이터베이스(Supabase)는 대한민국 서울에 있으며 Supabase와 하위 처리자는 미국을 포함한 다른 국가에서 운영 지원을 제공할 수 있습니다. 결제·광고는 Apple·Google, 오류 보고는 Google Firebase, 이 웹사이트는 GitHub Pages를 사용합니다. 익명 서버 기록은 앱 사용 기간 동안 보관합니다. 구매 기록(거래 해시·상품·시각, 개인정보 없음)은 환불 처리와 회계를 위해 보관할 수 있습니다. 기기 데이터는 앱 삭제로 지워집니다."
+   ],
+   [
+    "이용자 권리와 삭제",
+    "익명 ID와 관련해 보유한 데이터의 열람·정정·삭제를 요청하거나 처리에 반대하려면 dhalska2@gmail.com로 이메일을 보내세요. ID가 익명이므로 찾기 위해 앱 버전과 사용 시기를 문의할 수 있으며 비밀번호·카드 정보는 보내지 마세요. 처리 근거는 계약 이행(게임 운영·구매 확인), 보안·부정 방지·결함 수정의 정당한 이익, 법적 의무, 필요한 경우 동의(광고 선택)입니다. 절차는 데이터 삭제 페이지를 보세요."
+   ],
+   [
+    "아동과 변경",
+    "Number Cross는 만 13세 미만 아동을 대상으로 하지 않으며 아동의 개인정보를 알면서 수집하지 않습니다. 방침이 바뀌면 위 날짜를 갱신하고 중요한 변경은 앱이나 이 사이트로 알립니다."
+   ]
+  ],
+  "terms": [
+   [
+    "서비스와 저장",
+    "Number Cross는 있는 그대로 제공되는 퍼즐 게임입니다. 진행은 기기에 저장되며 앱이나 저장 공간을 삭제하면 진행이 지워지고 복구할 수 없습니다. 힌트는 서버가 관리하며 인터넷 연결이 필요합니다."
+   ],
+   [
+    "광고·상품·소비자 권리",
+    "게임에는 광고가 있습니다. 일회성 구매(비소모품)인 광고 제거는 광고만 없애며 힌트나 퍼즐은 바뀌지 않습니다. 구매는 Apple 또는 Google Play로 하며 해당 스토어의 약관·환불 규정이 적용되고 같은 스토어 계정으로 복원할 수 있습니다. 환불·취소된 구매는 광고 제거를 더 이상 적용하지 않습니다. 이 약관은 이용자 국가의 강행 소비자 권리를 제한하지 않습니다."
+   ],
+   [
+    "사용·변경·책임",
+    "앱, 서버, 구매를 조작하거나 다른 방법으로 힌트·보상을 얻으려 해서는 안 됩니다. 가능한 경우 합리적인 사전 고지로 기능을 바꾸거나 종료할 수 있습니다. 법이 허용하는 범위에서 간접 손해에 책임지지 않으며, 강행 현지법이 다르게 정하지 않는 한 대한민국 법을 적용합니다."
+   ]
+  ],
+  "support": [
+   [
+    "게임 방법",
+    "가로·세로 모든 수식이 맞도록 빈칸을 채우세요. 숫자 타일을 누른 뒤 빈칸을 누르거나(또는 빈칸을 먼저 누르고 타일을 선택) 타일을 끌어다 놓습니다. 타일은 한 번씩만 쓸 수 있습니다. 틀린 수식은 표시되고 되돌리기·초기화는 판 아래에 있습니다. 격자 아이콘에서 1,000개 스테이지 중 선택합니다. 첫 실행에서 짧은 튜토리얼이 열리며 설정에서 다시 볼 수 있습니다."
+   ],
+   [
+    "힌트·광고·구매",
+    "처음에 힌트 3개를 받고 매일 무료 힌트 2개를 받습니다(한국 시간 0시 기준, 안 쓴 무료 힌트는 쌓이지 않음). 힌트와 광고 보상은 서버가 지급하므로 인터넷에 연결하세요. 보상형 광고는 서버 확인 뒤에 힌트를 주며, 들어오지 않으면 앱을 다시 여세요. 광고 제거와 구매 복원은 설정(톱니바퀴)에 있고, 복원은 구매에 쓴 스토어 계정으로 동작합니다."
+   ],
+   [
+    "문제 문의",
+    "제목에 Number Cross를 적고 앱 버전, 기기·OS, 재현 순서(개인정보 없는 스크린샷)를 dhalska2@gmail.com로 보내세요. 비밀번호·카드 정보는 보내지 마세요. 결제·환불은 Apple 또는 Google Play 지원 절차를 이용하세요."
+   ]
+  ],
+  "delete-account": [
+   [
+    "Number Cross 삭제 범위",
+    "Number Cross에는 계정과 회원가입이 없습니다. 이 페이지는 기기의 데이터를 지우는 방법과, 익명 서버 기록(힌트 잔액·내역, 광고 보상 기록, 게임 프로필) 삭제를 요청하는 방법을 안내합니다."
+   ],
+   [
+    "기기 데이터 삭제",
+    "iOS에서는 앱 오프로드가 아니라 앱을 삭제하세요. Android에서는 앱 저장 공간을 지우거나 앱을 삭제하세요. 진행과 설정이 지워지며 이후 복구할 수 없습니다. 앱만 삭제해서는 서버 기록이 지워지지 않습니다."
+   ],
+   [
+    "서버 데이터 삭제 요청",
+    "dhalska2@gmail.com로 제목 “Number Cross Data Deletion”, 앱 버전, 마지막으로 사용한 대략적 날짜를 보내세요. 법정 기간 안에 회신합니다. 서버 기록을 삭제하면 힌트 잔액이 사라집니다. 구매 기록(거래 해시·상품·시각)은 환불 처리와 회계를 위해 보관될 수 있으나 개인정보는 없으며, 스토어 계정의 광고 제거는 이후 스토어에서 복원할 수 있습니다."
+   ]
+  ]
+ },
+ "ja": {
+  "nav": [
+   "ホーム",
+   "プライバシーポリシー",
+   "利用規約",
+   "ヘルプ・サポート",
+   "データ削除"
+  ],
+  "tag": "空欄を埋めて、すべての式を成立させよう。",
+  "intro": "Number Cross 公式サポートとポリシー · Next Studio",
+  "date": "施行・更新日 2026年10月31日",
+  "contact": "お問い合わせ",
+  "skip": "本文へスキップ",
+  "privacy": [
+   [
+    "運営者と適用範囲",
+    "Next Studio(韓国)は、iOS・Android向けの数式クロスワードパズル Number Cross(com.osj.numbercross)を運営します。本ポリシーはアプリとこのサポートサイトに適用されます。プライバシーに関するお問い合わせ:dhalska2@gmail.com。"
+   ],
+   [
+    "端末内のゲームデータ",
+    "パズルの進行、クリア済みステージ、ヒント使用回数、進行中の盤面、設定(テーマ・触覚・入力オプション)は端末に保存されます。アプリを削除すると消去され、セーブファイルとしてサーバーに送信されることはありません。"
+   ],
+   [
+    "ヒント・報酬・購入(当社サーバー)",
+    "アプリは氏名・メール・パスワードを求めず、匿名でサーバーにサインインします。サーバーには匿名ユーザーID、ヒント残高と付与・消費の履歴(リクエストIDと時刻)、リワード広告の確認記録、購入記録(商品ID、ストア、環境、取引または購入トークンの一方向ハッシュ)を保存します。ヒントはサーバーのみが付与・消費するため、ヒントの利用にはインターネット接続が必要です(通常のプレイはオフラインでも可能)。決済はAppleまたはGoogle Playが処理し、カード情報は受け取りません。広告削除の購入・復元時、アプリはストアの購入証明をサーバーに送り、AppleまたはGoogleで検証してから適用します。"
+   ],
+   [
+    "広告とプライバシーの選択",
+    "Google AdMobのインタースティシャル広告と任意のリワード広告を表示します。パーソナライズしない広告のみを要求し、地域に応じてGoogleの同意メッセージ(UMP)が表示され、設定で選択を変更できます。広告SDKは、広告の配信・計測と不正防止のため、IPアドレスとそこから推定される大まかな位置、端末・広告識別子(Androidでは広告ID)、広告の表示・クリック、診断情報、同意の選択を処理する場合があります。App Tracking Transparencyは使用せず、他社アプリをまたぐ追跡は行いません。リワード広告では、重複付与を防ぐため、仮名のトークン、広告取引ID、時刻をサーバーに保存します。広告に関する情報提供は現地法上「販売・共有」に該当する場合があり、データが一切収集されないとは主張しません。"
+   ],
+   [
+    "クラッシュレポート",
+    "リリース版は、クラッシュ・エラー報告をGoogle Firebase Crashlyticsに送信します(スタックトレース、端末モデル、OS、アプリバージョン、インストールごとの識別子)。不具合の修正にのみ使用し、デバッグ版は送信しません。Firebase Analyticsは使用しません。"
+   ],
+   [
+    "サーバーの所在地・保存期間・提供事業者",
+    "データベース(Supabase)は韓国・ソウルにあり、Supabaseとその再委託先は米国を含む他の国から運用支援を行う場合があります。決済・広告にはApple・Google、クラッシュレポートにはGoogle Firebase、このサイトにはGitHub Pagesを使用します。匿名のサーバー記録はアプリの利用期間中保持します。購入記録(取引ハッシュ・商品・時刻。個人情報なし)は返金対応と会計のため保持することがあります。端末のデータはアプリの削除で消去されます。"
+   ],
+   [
+    "利用者の権利と削除",
+    "匿名IDに関して当社が保有するデータの開示・訂正・削除、または処理への異議は、dhalska2@gmail.com までメールでご連絡ください。IDは匿名のため、特定のためにアプリのバージョンと利用時期をお尋ねすることがあります。パスワードやカード情報は送らないでください。処理の根拠は、契約の履行(ゲームの運営と購入の検証)、セキュリティ・不正防止・不具合修正に関する正当な利益、法的義務、必要な場合の同意(広告の選択)です。手順は「データ削除」ページをご覧ください。"
+   ],
+   [
+    "お子様と変更",
+    "Number Crossは13歳未満のお子様を対象とせず、知りながら個人情報を収集することはありません。本ポリシーを変更する場合は上記の日付を更新し、重要な変更はアプリまたは本サイトでお知らせします。"
+   ]
+  ],
+  "terms": [
+   [
+    "サービスとセーブ",
+    "Number Crossは現状のまま提供されるパズルゲームです。進行は端末に保存され、アプリまたはそのストレージを削除すると進行は消え、当社は復元できません。ヒントはサーバーが管理し、インターネット接続が必要です。"
+   ],
+   [
+    "広告・商品・消費者の権利",
+    "ゲームには広告が表示されます。買い切り(非消耗型)の「広告削除」は広告のみを非表示にし、ヒントやパズルは変わりません。購入はAppleまたはGoogle Playで行い、各ストアの規約・返金ルールが適用され、同じストアアカウントで復元できます。返金・取り消しされた購入では広告削除は適用されなくなります。本規約は、お住まいの国の強行的な消費者の権利を制限しません。"
+   ],
+   [
+    "利用・変更・責任",
+    "アプリ、サーバー、購入に不正な操作を加えたり、他の方法でヒントや報酬を得ようとしたりしないでください。可能な場合は合理的な予告のうえ機能を変更・終了することがあります。法令が許す範囲で間接的損害について責任を負わず、強行的な現地法に別段の定めがない限り韓国法を適用します。"
+   ]
+  ],
+  "support": [
+   [
+    "遊び方",
+    "縦横すべての式が成り立つように空欄を埋めます。数字タイルをタップしてから空欄をタップするか(空欄を先にタップしてからタイルを選ぶことも可能)、タイルをドラッグします。各タイルは1回だけ使えます。間違った式は表示され、元に戻す・リセットは盤面の下にあります。グリッドアイコンから1,000のステージを選べます。初回起動時に短いチュートリアルが始まり、設定でやり直せます。"
+   ],
+   [
+    "ヒント・広告・購入",
+    "最初にヒント3個、毎日無料ヒント2個を受け取れます(韓国時間の0時に切り替わり、使わなかった無料ヒントは繰り越されません)。ヒントと広告報酬はサーバーが付与するため、インターネットに接続してください。リワード広告はサーバーの確認後にヒントを付与します。届かない場合はアプリを開き直してください。広告削除と購入の復元は設定(歯車)にあり、復元は購入に使ったストアアカウントで動作します。"
+   ],
+   [
+    "問題の報告",
+    "件名に Number Cross と書き、アプリのバージョン、端末とOS、再現手順(個人情報を含まないスクリーンショット)を dhalska2@gmail.com に送ってください。パスワードやカード情報は送らないでください。請求・返金はAppleまたはGoogle Playのサポートをご利用ください。"
+   ]
+  ],
+  "delete-account": [
+   [
+    "Number Crossの削除範囲",
+    "Number Crossにはアカウントも会員登録もありません。このページでは、端末のデータの消し方と、匿名のサーバー記録(ヒント残高・履歴、広告報酬記録、ゲームプロフィール)の削除依頼の方法を説明します。"
+   ],
+   [
+    "端末データの削除",
+    "iOSではアプリを「オフロード」ではなく削除してください。Androidではアプリのストレージを消去するか、アンインストールしてください。進行と設定が消え、後から復元できません。アプリを削除しただけではサーバー記録は消えません。"
+   ],
+   [
+    "サーバーデータの削除依頼",
+    "dhalska2@gmail.com に、件名「Number Cross Data Deletion」、アプリのバージョン、最後に使ったおおよその日付を添えてメールしてください。法定の期間内に回答します。サーバー記録を削除するとヒント残高は失われます。購入記録(取引ハッシュ・商品・時刻)は返金対応と会計のため保持されることがありますが、個人情報は含みません。ストアアカウントの広告削除は、その後もストアから復元できます。"
+   ]
+  ]
+ },
+ "zh-hans": {
+  "nav": [
+   "首页",
+   "隐私政策",
+   "服务条款",
+   "帮助与支持",
+   "数据删除"
+  ],
+  "tag": "填满空格,让每个算式都成立。",
+  "intro": "Number Cross 官方支持与政策 · Next Studio",
+  "date": "生效/更新日期 2026年10月31日",
+  "contact": "联系",
+  "skip": "跳到正文",
+  "privacy": [
+   [
+    "运营方与适用范围",
+    "Next Studio(韩国)运营面向 iOS 和 Android 的数学填字谜题 Number Cross(com.osj.numbercross)。本政策适用于应用和本支持网站。隐私联系邮箱:dhalska2@gmail.com。"
+   ],
+   [
+    "保存在设备上的游戏数据",
+    "谜题进度、已通关关卡、提示使用次数、当前棋盘和设置(主题、触感、输入选项)保存在您的设备上。删除应用即可清除,这些数据不会作为存档上传。"
+   ],
+   [
+    "提示、奖励与购买(我们的服务器)",
+    "应用以匿名方式登录我们的服务器,不要求姓名、邮箱或密码。我们保存匿名用户 ID、提示余额及发放与消耗记录(请求 ID 和时间)、激励广告确认记录,以及购买记录(商品 ID、商店、环境,以及交易或购买令牌的单向哈希)。提示仅由服务器发放和扣除,因此使用提示需要联网;普通游玩可离线进行。支付由 Apple 或 Google Play 处理,我们不会收到银行卡信息。购买或恢复“移除广告”时,应用会把商店购买凭证发送到服务器,服务器向 Apple 或 Google 验证后才会生效。"
+   ],
+   [
+    "广告与隐私选择",
+    "应用展示 Google AdMob 插屏广告和可选的激励广告。我们只请求非个性化广告,并在需要的地区显示 Google 同意提示(UMP),您可在设置中更改选择。广告 SDK 可能处理 IP 地址及据此推断的大致位置、设备和广告标识符(Android 上为广告 ID)、广告展示与点击、诊断信息和您的同意选择,用于投放、衡量广告和防止欺诈。我们不使用 App Tracking Transparency,也不跨其他公司的应用追踪您。对于激励广告,服务器会保存匿名化的凭证令牌、广告交易 ID 和时间,以防重复发放奖励。广告相关信息披露在当地法律下可能构成“出售或共享”;我们不声称不收集任何数据。"
+   ],
+   [
+    "崩溃报告",
+    "发布版会把崩溃和错误报告发送到 Google Firebase Crashlytics(堆栈信息、设备型号、操作系统、应用版本、每次安装的标识符),仅用于修复缺陷。调试版不发送报告。我们不使用 Firebase Analytics。"
+   ],
+   [
+    "服务器位置、保存期限与服务提供方",
+    "我们的数据库(Supabase)位于韩国首尔;Supabase 及其分包处理方可能从包括美国在内的其他国家提供运维支持。支付和广告使用 Apple 和 Google,崩溃报告使用 Google Firebase,本网站使用 GitHub Pages。匿名服务器记录在应用使用期间保存。购买记录(交易哈希、商品、时间,不含个人信息)可能为退款处理和会计而保留。设备数据随删除应用而清除。"
+   ],
+   [
+    "您的权利与删除",
+    "您可以通过邮件 dhalska2@gmail.com 请求访问、更正或删除我们持有的与您的匿名 ID 相关的数据,或反对处理。由于 ID 是匿名的,我们可能需要应用版本和您使用的时间来查找;请勿发送密码或银行卡信息。处理依据为合同履行(运营游戏和验证购买)、安全、防欺诈和修复缺陷方面的正当利益、法律义务,以及必要时的同意(广告选择)。具体步骤请见“数据删除”页面。"
+   ],
+   [
+    "儿童与变更",
+    "Number Cross 不面向 13 岁以下儿童,我们不会明知而收集其个人信息。如本政策变更,我们会更新上述日期,重大变更会在应用或本网站中通知。"
+   ]
+  ],
+  "terms": [
+   [
+    "服务与存档",
+    "Number Cross 是按现状提供的益智游戏。进度保存在您的设备上;删除应用或其存储会清除进度,我们无法恢复。提示由我们的服务器管理,需要联网。"
+   ],
+   [
+    "广告、商品与消费者权利",
+    "游戏会展示广告。一次性购买(非消耗型)“移除广告”只移除广告,不改变提示或谜题。购买通过 Apple 或 Google Play 进行,适用相应商店的条款和退款规则,可用同一商店账户恢复。已退款或被撤销的购买将不再生效。本条款不限制您所在国家的强制性消费者权利。"
+   ],
+   [
+    "使用、变更与责任",
+    "请勿篡改应用、服务器或购买,也不要试图通过其他方式获取提示或奖励。我们可能在可行时合理通知后更改或终止功能。在法律允许的范围内,我们不对间接损失负责;除非当地强制性法律另有规定,适用韩国法律。"
+   ]
+  ],
+  "support": [
+   [
+    "玩法",
+    "填满空格,使每个横向和纵向算式都成立。点按数字方块再点按空格(也可先点空格再选方块),或拖动方块。每个方块只能使用一次。错误的算式会被标出,撤销和重置在棋盘下方。点击网格图标可在 1,000 个关卡中选择。首次启动会进行简短教程,可在设置中重看。"
+   ],
+   [
+    "提示、广告与购买",
+    "初始有 3 个提示,每天获得 2 个免费提示(按韩国时间零点换日,未用完的免费提示不累积)。提示和广告奖励由服务器发放,请保持联网。激励广告在服务器验证后才发放提示;如未到账,请重新打开应用。“移除广告”和“恢复购买”在设置(齿轮图标)中,恢复需使用购买时的商店账户。"
+   ],
+   [
+    "反馈问题",
+    "请发送邮件至 dhalska2@gmail.com,主题写 Number Cross,并附上应用版本、设备和系统、复现步骤(不含个人信息的截图更有帮助)。请勿发送密码或银行卡信息。账单和退款请通过 Apple 或 Google Play 的支持流程办理。"
+   ]
+  ],
+  "delete-account": [
+   [
+    "Number Cross 的删除范围",
+    "Number Cross 没有账户和注册。本页说明如何清除设备上的数据,以及如何请求我们删除匿名服务器记录(提示余额与记录、广告奖励记录、游戏档案)。"
+   ],
+   [
+    "删除设备数据",
+    "在 iOS 上请删除应用(而不仅是卸载但保留数据)。在 Android 上请清除应用存储或卸载应用。进度和设置将被清除且之后无法恢复。仅删除应用不会删除服务器记录。"
+   ],
+   [
+    "请求删除服务器数据",
+    "请发送邮件至 dhalska2@gmail.com,主题为“Number Cross Data Deletion”,并附上应用版本和您最近一次使用的大致日期。我们将在法定期限内答复。删除服务器记录会使提示余额消失。购买记录(交易哈希、商品、时间)可能为退款处理和会计而保留,但不含个人信息;商店账户中的“移除广告”之后仍可从商店恢复。"
+   ]
+  ]
+ },
+ "es": {
+  "nav": [
+   "Inicio",
+   "Política de privacidad",
+   "Condiciones del servicio",
+   "Ayuda y soporte",
+   "Eliminación de datos"
+  ],
+  "tag": "Rellena los huecos. Resuelve todas las ecuaciones.",
+  "intro": "Soporte y políticas oficiales de Number Cross · Next Studio",
+  "date": "En vigor / actualizado el 31 de octubre de 2026",
+  "contact": "Contacto",
+  "skip": "Saltar al contenido",
+  "privacy": [
+   [
+    "Responsable y alcance",
+    "Next Studio (Corea del Sur) gestiona Number Cross (com.osj.numbercross), un crucigrama matemático para iOS y Android. Esta política cubre la aplicación y este sitio de soporte. Contacto de privacidad: dhalska2@gmail.com."
+   ],
+   [
+    "Datos del juego en tu dispositivo",
+    "El progreso, los niveles superados, los contadores de pistas usadas, el tablero actual y tus ajustes (tema, vibración, opciones de entrada) se guardan en tu dispositivo. Al borrar la app se eliminan. No se suben como archivo de guardado."
+   ],
+   [
+    "Pistas, recompensas y compras (nuestro servidor)",
+    "La app inicia sesión de forma anónima en nuestro servidor: no se pide nombre, correo ni contraseña. Guardamos un ID de usuario anónimo, tu saldo de pistas y un registro de pistas concedidas y gastadas (ID de solicitud y hora), registros de comprobantes de anuncios con recompensa y registros de compra (ID de producto, tienda, entorno y un hash unidireccional de la transacción o del token de compra). Solo el servidor concede y descuenta pistas, por lo que las pistas requieren conexión a internet; el juego normal funciona sin conexión. El pago lo gestiona Apple o Google Play; nunca recibimos datos de tarjetas. Al comprar o restaurar la eliminación de anuncios, la app envía a nuestro servidor el comprobante de la tienda, que lo verifica con Apple o Google antes de activarla."
+   ],
+   [
+    "Publicidad y opciones de privacidad",
+    "La app muestra anuncios intersticiales de Google AdMob y anuncios con recompensa opcionales. Solo solicitamos anuncios no personalizados y, donde se exige, se muestra un mensaje de consentimiento de Google (UMP); puedes cambiar la elección en Ajustes. El SDK publicitario puede tratar la dirección IP, la ubicación aproximada inferida de ella, identificadores del dispositivo y publicitarios (en Android, el ID de publicidad), visualizaciones y clics, diagnósticos y tu elección de consentimiento para servir y medir anuncios y prevenir el fraude. No usamos App Tracking Transparency ni te rastreamos entre aplicaciones de otras empresas. En un anuncio con recompensa, el servidor guarda un token seudónimo, el ID de transacción del anuncio y la hora para evitar recompensas duplicadas. La comunicación de datos publicitarios puede considerarse venta o compartición según la ley local; no afirmamos que no se recojan datos."
+   ],
+   [
+    "Informes de fallos",
+    "Las versiones de lanzamiento envían informes de fallos y errores a Google Firebase Crashlytics (trazas, modelo de dispositivo, sistema operativo, versión de la app, un identificador por instalación). Solo se usan para corregir defectos. Las versiones de depuración no envían informes. No usamos Firebase Analytics."
+   ],
+   [
+    "Ubicación del servidor, conservación y proveedores",
+    "Nuestra base de datos (Supabase) está en Seúl, Corea del Sur; Supabase y sus subencargados pueden prestar soporte operativo desde otros países, incluido Estados Unidos. Usamos Apple y Google para pagos y anuncios, Google Firebase para informes de fallos y GitHub Pages para este sitio. Los registros anónimos del servidor se conservan mientras se use la app. Los registros de compra (hash de transacción, producto, hora; sin datos personales) pueden conservarse para gestionar reembolsos y para contabilidad. Los datos del dispositivo se eliminan al borrar la app."
+   ],
+   [
+    "Tus derechos y la eliminación",
+    "Puedes solicitar acceso, rectificación o supresión de los datos que conservamos sobre tu ID anónimo, o poner objeciones al tratamiento, escribiendo a dhalska2@gmail.com. Como el ID es anónimo, podemos pedirte la versión de la app y cuándo la usaste para localizarlo; no envíes contraseñas ni datos de tarjetas. El tratamiento se basa en la ejecución del contrato (operar el juego y verificar compras), el interés legítimo en seguridad, prevención del fraude y corrección de defectos, obligaciones legales y, cuando se exige, el consentimiento (opciones de anuncios). Consulta la página de eliminación de datos."
+   ],
+   [
+    "Menores y cambios",
+    "Number Cross no está dirigido a menores de 13 años y no recogemos conscientemente información personal de ellos. Si esta política cambia, actualizaremos la fecha y, en cambios importantes, lo avisaremos en la app o en este sitio."
+   ]
+  ],
+  "terms": [
+   [
+    "Servicio y partidas guardadas",
+    "Number Cross es un juego de puzles que se ofrece tal cual. El progreso se guarda en tu dispositivo; si borras la app o su almacenamiento, se pierde y no podemos restaurarlo. Las pistas las gestiona nuestro servidor y requieren conexión a internet."
+   ],
+   [
+    "Anuncios, productos y derechos del consumidor",
+    "El juego muestra anuncios. Una compra única (no consumible) elimina los anuncios; no cambia las pistas ni los puzles. Las compras se hacen con Apple o Google Play, cuyas condiciones y reglas de reembolso se aplican, y se pueden restaurar con la misma cuenta de la tienda. Las compras reembolsadas o revocadas dejan de eliminar los anuncios. Estas condiciones no limitan los derechos imperativos del consumidor de tu país."
+   ],
+   [
+    "Uso, cambios y responsabilidad",
+    "No manipules la app, el servidor ni las compras, ni intentes obtener pistas o recompensas por otros medios. Podemos cambiar o finalizar funciones con un aviso razonable cuando sea posible. En la medida que permita la ley, no respondemos de daños indirectos; se aplica la ley coreana salvo que la ley local imperativa disponga otra cosa."
+   ]
+  ],
+  "support": [
+   [
+    "Cómo jugar",
+    "Rellena los huecos para que todas las ecuaciones horizontales y verticales sean correctas. Toca una ficha numérica y luego un hueco (o toca primero un hueco y después una ficha), o arrastra la ficha. Cada ficha se usa una sola vez. Las ecuaciones incorrectas se marcan; deshacer y reiniciar están bajo el tablero. El icono de cuadrícula permite elegir entre 1000 niveles. Un breve tutorial se muestra en el primer inicio y puede repetirse en Ajustes."
+   ],
+   [
+    "Pistas, anuncios y compras",
+    "Empiezas con 3 pistas y recibes 2 pistas gratuitas al día (el día cambia a medianoche, hora de Corea; las gratuitas sin usar no se acumulan). Las pistas y las recompensas de anuncios las concede nuestro servidor, así que conéctate a internet. Un anuncio con recompensa da una pista solo tras la verificación del servidor; si no llega, vuelve a abrir la app. Eliminar anuncios y Restaurar compra están en Ajustes (icono de engranaje); la restauración funciona con la cuenta de la tienda usada para comprar."
+   ],
+   [
+    "Informar de un problema",
+    "Escribe a dhalska2@gmail.com con el asunto Number Cross, la versión de la app, tu dispositivo y sistema, y los pasos para reproducirlo (ayuda una captura sin datos personales). No envíes contraseñas ni datos de tarjetas. Los cobros y reembolsos se gestionan con el soporte de Apple o Google Play."
+   ]
+  ],
+  "delete-account": [
+   [
+    "Alcance de la eliminación en Number Cross",
+    "Number Cross no tiene cuenta ni registro. Esta página explica cómo borrar los datos de tu dispositivo y cómo pedirnos que eliminemos los registros anónimos del servidor (saldo e historial de pistas, registros de recompensas de anuncios, perfil de juego)."
+   ],
+   [
+    "Eliminar los datos del dispositivo",
+    "En iOS borra la app (no solo la descargues del dispositivo). En Android borra el almacenamiento de la app o desinstálala. Se eliminan tu progreso y tus ajustes y no podremos recuperarlos. Borrar solo la app no elimina los registros del servidor."
+   ],
+   [
+    "Solicitar la eliminación de datos del servidor",
+    "Escribe a dhalska2@gmail.com con el asunto «Number Cross Data Deletion», la versión de la app y la fecha aproximada de tu último uso. Responderemos en el plazo legal. Eliminar los registros del servidor borra tu saldo de pistas. Los registros de compra (hash de transacción, producto, hora) pueden conservarse para reembolsos y contabilidad, pero no contienen datos personales; la eliminación de anuncios de tu cuenta de la tienda podrá restaurarse después desde la tienda."
+   ]
+  ]
+ },
+ "fr": {
+  "nav": [
+   "Accueil",
+   "Politique de confidentialité",
+   "Conditions d’utilisation",
+   "Aide et assistance",
+   "Suppression des données"
+  ],
+  "tag": "Remplissez les cases. Résolvez chaque équation.",
+  "intro": "Assistance et politiques officielles de Number Cross · Next Studio",
+  "date": "En vigueur / mis à jour le 31 octobre 2026",
+  "contact": "Contact",
+  "skip": "Aller au contenu",
+  "privacy": [
+   [
+    "Exploitant et champ d’application",
+    "Next Studio (Corée du Sud) exploite Number Cross (com.osj.numbercross), un jeu de mots croisés mathématiques pour iOS et Android. Cette politique couvre l’application et ce site d’assistance. Contact confidentialité : dhalska2@gmail.com."
+   ],
+   [
+    "Données de jeu sur votre appareil",
+    "La progression, les niveaux réussis, les compteurs d’indices utilisés, la grille en cours et vos réglages (thème, retour haptique, options de saisie) sont enregistrés sur votre appareil. Supprimer l’app les efface. Ils ne sont pas envoyés comme fichier de sauvegarde."
+   ],
+   [
+    "Indices, récompenses et achats (notre serveur)",
+    "L’app se connecte anonymement à notre serveur : ni nom, ni e-mail, ni mot de passe ne sont demandés. Nous enregistrons un identifiant utilisateur anonyme, votre solde d’indices et un journal des indices accordés et dépensés (identifiants de requête et heures), des justificatifs de publicités récompensées et des enregistrements d’achat (identifiant produit, boutique, environnement et empreinte irréversible de la transaction ou du jeton d’achat). Seul le serveur accorde et décompte les indices : ils nécessitent donc une connexion Internet ; le jeu normal fonctionne hors ligne. Le paiement est géré par Apple ou Google Play ; nous ne recevons jamais de données de carte. Lors d’un achat ou d’une restauration de la suppression des publicités, l’app envoie la preuve d’achat de la boutique à notre serveur, qui la vérifie auprès d’Apple ou de Google avant de l’activer."
+   ],
+   [
+    "Publicité et choix de confidentialité",
+    "L’app affiche des publicités interstitielles Google AdMob et des publicités récompensées facultatives. Nous demandons uniquement des publicités non personnalisées et, lorsque c’est requis, un message de consentement Google (UMP) s’affiche ; vous pouvez modifier ce choix dans les Réglages. Le SDK publicitaire peut traiter l’adresse IP, la localisation approximative qui en est déduite, des identifiants d’appareil et publicitaires (sur Android, l’identifiant publicitaire), les affichages et clics, des diagnostics et votre choix de consentement afin de diffuser et mesurer les publicités et de prévenir la fraude. Nous n’utilisons pas App Tracking Transparency et ne vous suivons pas d’une application d’autres sociétés à l’autre. Pour une publicité récompensée, le serveur enregistre un jeton pseudonyme, l’identifiant de transaction publicitaire et l’heure afin d’éviter les doublons. Les communications de données publicitaires peuvent constituer une vente ou un partage selon le droit local ; nous ne prétendons pas qu’aucune donnée n’est collectée."
+   ],
+   [
+    "Rapports d’incident",
+    "Les versions de production envoient les rapports de plantage et d’erreur à Google Firebase Crashlytics (traces, modèle d’appareil, système, version de l’app, identifiant par installation), uniquement pour corriger les défauts. Les versions de débogage n’en envoient pas. Nous n’utilisons pas Firebase Analytics."
+   ],
+   [
+    "Localisation du serveur, conservation et prestataires",
+    "Notre base de données (Supabase) est située à Séoul, en Corée du Sud ; Supabase et ses sous-traitants peuvent fournir un support opérationnel depuis d’autres pays, dont les États-Unis. Nous utilisons Apple et Google pour les paiements et la publicité, Google Firebase pour les rapports d’incident et GitHub Pages pour ce site. Les enregistrements anonymes du serveur sont conservés tant que l’app est utilisée. Les enregistrements d’achat (empreinte de transaction, produit, heure ; aucune donnée personnelle) peuvent être conservés pour les remboursements et la comptabilité. Les données de l’appareil sont supprimées avec l’app."
+   ],
+   [
+    "Vos droits et la suppression",
+    "Vous pouvez demander l’accès, la rectification ou l’effacement des données que nous détenons sur votre identifiant anonyme, ou vous opposer au traitement, par e-mail à dhalska2@gmail.com. L’identifiant étant anonyme, nous pouvons demander la version de l’app et la période d’utilisation pour le retrouver ; n’envoyez ni mot de passe ni données de carte. Le traitement repose sur l’exécution du contrat (exploiter le jeu et vérifier les achats), l’intérêt légitime (sécurité, prévention de la fraude, correction des défauts), les obligations légales et, lorsque c’est requis, le consentement (choix publicitaires). Voir la page Suppression des données."
+   ],
+   [
+    "Enfants et modifications",
+    "Number Cross ne s’adresse pas aux enfants de moins de 13 ans et nous ne collectons pas sciemment leurs données personnelles. En cas de changement de cette politique, nous mettrons à jour la date ci-dessus et, pour les changements importants, vous en informerons dans l’app ou sur ce site."
+   ]
+  ],
+  "terms": [
+   [
+    "Service et sauvegardes",
+    "Number Cross est un jeu de réflexion fourni en l’état. La progression est enregistrée sur votre appareil ; supprimer l’app ou son stockage l’efface et nous ne pouvons pas la restaurer. Les indices sont gérés par notre serveur et nécessitent une connexion Internet."
+   ],
+   [
+    "Publicités, produits et droits des consommateurs",
+    "Le jeu affiche des publicités. Un achat unique (non consommable) supprime les publicités ; il ne modifie ni les indices ni les grilles. Les achats passent par Apple ou Google Play, dont les conditions et règles de remboursement s’appliquent, et peuvent être restaurés avec le même compte de boutique. Les achats remboursés ou révoqués ne suppriment plus les publicités. Ces conditions ne limitent pas les droits impératifs des consommateurs de votre pays."
+   ],
+   [
+    "Utilisation, modifications et responsabilité",
+    "Ne manipulez pas l’app, le serveur ou les achats et ne cherchez pas à obtenir des indices ou récompenses par d’autres moyens. Nous pouvons modifier ou arrêter des fonctions avec un préavis raisonnable lorsque c’est possible. Dans la mesure permise par la loi, nous ne sommes pas responsables des dommages indirects ; le droit coréen s’applique, sauf disposition impérative locale contraire."
+   ]
+  ],
+  "support": [
+   [
+    "Comment jouer",
+    "Remplissez les cases pour que toutes les équations horizontales et verticales soient justes. Touchez une tuile numérique puis une case vide (ou d’abord une case, puis une tuile), ou faites glisser la tuile. Chaque tuile ne sert qu’une fois. Les équations fausses sont signalées ; annuler et réinitialiser se trouvent sous la grille. L’icône en grille permet de choisir parmi 1 000 niveaux. Un court tutoriel s’affiche au premier lancement et peut être revu dans les Réglages."
+   ],
+   [
+    "Indices, publicités et achats",
+    "Vous commencez avec 3 indices et recevez 2 indices gratuits par jour (le jour change à minuit, heure de Corée ; les indices gratuits non utilisés ne se cumulent pas). Les indices et récompenses sont accordés par notre serveur : connectez-vous à Internet. Une publicité récompensée ne donne un indice qu’après vérification par le serveur ; s’il n’arrive pas, rouvrez l’app. La suppression des publicités et la restauration des achats sont dans les Réglages (icône d’engrenage) ; la restauration fonctionne avec le compte de boutique utilisé pour l’achat."
+   ],
+   [
+    "Signaler un problème",
+    "Écrivez à dhalska2@gmail.com avec l’objet Number Cross, la version de l’app, votre appareil et système, et les étapes pour reproduire (une capture sans données personnelles aide). N’envoyez ni mot de passe ni données de carte. La facturation et les remboursements passent par l’assistance d’Apple ou de Google Play."
+   ]
+  ],
+  "delete-account": [
+   [
+    "Portée de la suppression pour Number Cross",
+    "Number Cross n’a ni compte ni inscription. Cette page explique comment effacer les données de votre appareil et comment nous demander de supprimer les enregistrements anonymes du serveur (solde et historique d’indices, récompenses publicitaires, profil de jeu)."
+   ],
+   [
+    "Supprimer les données de l’appareil",
+    "Sur iOS, supprimez l’app (et pas seulement la décharger). Sur Android, effacez le stockage de l’app ou désinstallez-la. Votre progression et vos réglages sont effacés et nous ne pourrons pas les récupérer. Supprimer seulement l’app n’efface pas les enregistrements du serveur."
+   ],
+   [
+    "Demander la suppression des données du serveur",
+    "Écrivez à dhalska2@gmail.com avec l’objet « Number Cross Data Deletion », la version de l’app et la date approximative de votre dernière utilisation. Nous répondrons dans le délai légal. Supprimer les enregistrements du serveur supprime votre solde d’indices. Les enregistrements d’achat (empreinte de transaction, produit, heure) peuvent être conservés pour les remboursements et la comptabilité, sans données personnelles ; la suppression des publicités liée à votre compte de boutique pourra ensuite être restaurée depuis la boutique."
+   ]
+  ]
+ },
+ "de": {
+  "nav": [
+   "Startseite",
+   "Datenschutzerklärung",
+   "Nutzungsbedingungen",
+   "Hilfe & Support",
+   "Datenlöschung"
+  ],
+  "tag": "Lücken füllen. Jede Gleichung lösen.",
+  "intro": "Offizieller Support und Richtlinien für Number Cross · Next Studio",
+  "date": "Gültig / aktualisiert am 31. Oktober 2026",
+  "contact": "Kontakt",
+  "skip": "Zum Inhalt springen",
+  "privacy": [
+   [
+    "Betreiber und Geltungsbereich",
+    "Next Studio (Südkorea) betreibt Number Cross (com.osj.numbercross), ein Mathe-Kreuzworträtsel für iOS und Android. Diese Erklärung gilt für die App und diese Support-Website. Datenschutzkontakt: dhalska2@gmail.com."
+   ],
+   [
+    "Spieldaten auf Ihrem Gerät",
+    "Spielfortschritt, gelöste Level, Zähler für genutzte Tipps, das aktuelle Spielfeld und Ihre Einstellungen (Design, Haptik, Eingabeoptionen) werden auf Ihrem Gerät gespeichert. Das Löschen der App entfernt sie. Sie werden nicht als Spielstand hochgeladen."
+   ],
+   [
+    "Tipps, Belohnungen und Käufe (unser Server)",
+    "Die App meldet sich anonym an unserem Server an: Name, E-Mail und Passwort werden nicht abgefragt. Wir speichern eine anonyme Nutzer-ID, Ihr Tipp-Guthaben und ein Protokoll vergebener und verbrauchter Tipps (Anfrage-IDs und Zeiten), Nachweise für Belohnungsanzeigen und Kaufdatensätze (Produkt-ID, Store, Umgebung und ein Einweg-Hash der Transaktion bzw. des Kauf-Tokens). Tipps werden nur vom Server vergeben und abgezogen; sie erfordern daher eine Internetverbindung, normales Spielen funktioniert offline. Die Zahlung wickelt Apple oder Google Play ab; Kartendaten erhalten wir nie. Beim Kauf oder der Wiederherstellung der Werbefreiheit sendet die App den Store-Kaufnachweis an unseren Server, der ihn bei Apple oder Google prüft, bevor er freigeschaltet wird."
+   ],
+   [
+    "Werbung und Datenschutzoptionen",
+    "Die App zeigt Google-AdMob-Interstitial-Werbung und optionale Belohnungsvideos. Wir fordern ausschließlich nicht personalisierte Werbung an; wo erforderlich, erscheint eine Google-Einwilligungsabfrage (UMP), die Sie in den Einstellungen ändern können. Das Werbe-SDK kann IP-Adresse, daraus abgeleiteten ungefähren Standort, Geräte- und Werbekennungen (unter Android die Werbe-ID), Anzeigen und Klicks, Diagnosedaten und Ihre Einwilligungswahl verarbeiten, um Werbung auszuliefern, zu messen und Betrug zu verhindern. Wir verwenden kein App Tracking Transparency und verfolgen Sie nicht über Apps anderer Unternehmen hinweg. Bei einer Belohnungsanzeige speichert der Server ein pseudonymes Token, die Anzeigen-Transaktions-ID und die Zeit, um doppelte Belohnungen zu verhindern. Die Weitergabe von Werbedaten kann nach lokalem Recht ein Verkauf oder eine Weitergabe sein; wir behaupten nicht, dass keine Daten erhoben werden."
+   ],
+   [
+    "Absturzberichte",
+    "Release-Versionen senden Absturz- und Fehlerberichte an Google Firebase Crashlytics (Stacktraces, Gerätemodell, Betriebssystem, App-Version, eine Kennung je Installation) ausschließlich zur Fehlerbehebung. Debug-Versionen senden keine Berichte. Firebase Analytics verwenden wir nicht."
+   ],
+   [
+    "Serverstandort, Speicherdauer und Dienstleister",
+    "Unsere Datenbank (Supabase) befindet sich in Seoul, Südkorea; Supabase und seine Unterauftragsverarbeiter können den Betrieb aus anderen Ländern, auch den USA, unterstützen. Für Zahlung und Werbung nutzen wir Apple und Google, für Absturzberichte Google Firebase und für diese Website GitHub Pages. Anonyme Serverdatensätze werden gespeichert, solange die App genutzt wird. Kaufdatensätze (Transaktions-Hash, Produkt, Zeit; keine personenbezogenen Daten) können für Rückerstattungen und die Buchhaltung aufbewahrt werden. Gerätedaten werden durch Löschen der App entfernt."
+   ],
+   [
+    "Ihre Rechte und Löschung",
+    "Sie können Auskunft, Berichtigung oder Löschung der zu Ihrer anonymen ID gespeicherten Daten verlangen oder der Verarbeitung widersprechen, per E-Mail an dhalska2@gmail.com. Da die ID anonym ist, fragen wir ggf. nach App-Version und Nutzungszeitraum, um sie zu finden; senden Sie keine Passwörter oder Kartendaten. Die Verarbeitung beruht auf Vertragserfüllung (Spielbetrieb und Kaufprüfung), berechtigten Interessen (Sicherheit, Betrugsprävention, Fehlerbehebung), rechtlichen Pflichten und, wo erforderlich, Einwilligung (Werbeoptionen). Die Schritte finden Sie auf der Seite Datenlöschung."
+   ],
+   [
+    "Kinder und Änderungen",
+    "Number Cross richtet sich nicht an Kinder unter 13 Jahren; wir erheben wissentlich keine personenbezogenen Daten von ihnen. Ändert sich diese Erklärung, aktualisieren wir das Datum und informieren bei wesentlichen Änderungen in der App oder auf dieser Website."
+   ]
+  ],
+  "terms": [
+   [
+    "Dienst und Spielstände",
+    "Number Cross ist ein Rätselspiel, das wie besehen bereitgestellt wird. Der Fortschritt wird auf Ihrem Gerät gespeichert; wird die App oder ihr Speicher gelöscht, geht er verloren und wir können ihn nicht wiederherstellen. Tipps verwaltet unser Server; sie erfordern eine Internetverbindung."
+   ],
+   [
+    "Werbung, Produkte und Verbraucherrechte",
+    "Das Spiel zeigt Werbung. Ein einmaliger Kauf (nicht verbrauchbar) entfernt die Werbung; Tipps und Rätsel bleiben unverändert. Käufe laufen über Apple oder Google Play, deren Bedingungen und Erstattungsregeln gelten, und lassen sich mit demselben Store-Konto wiederherstellen. Erstattete oder widerrufene Käufe schalten die Werbefreiheit nicht mehr frei. Zwingende Verbraucherrechte Ihres Landes bleiben unberührt."
+   ],
+   [
+    "Nutzung, Änderungen und Haftung",
+    "Manipulieren Sie weder App, Server noch Käufe und versuchen Sie nicht, Tipps oder Belohnungen auf anderem Weg zu erlangen. Wir können Funktionen mit angemessener Vorankündigung ändern oder beenden, soweit möglich. Soweit gesetzlich zulässig haften wir nicht für indirekte Schäden; es gilt koreanisches Recht, sofern zwingendes lokales Recht nichts anderes bestimmt."
+   ]
+  ],
+  "support": [
+   [
+    "So wird gespielt",
+    "Füllen Sie die Lücken so, dass alle waagerechten und senkrechten Gleichungen stimmen. Tippen Sie auf eine Zahlenkachel und dann auf ein leeres Feld (oder zuerst auf ein Feld, dann auf eine Kachel) oder ziehen Sie die Kachel. Jede Kachel wird nur einmal verwendet. Falsche Gleichungen werden markiert; Rückgängig und Zurücksetzen befinden sich unter dem Spielfeld. Über das Raster-Symbol wählen Sie aus 1.000 Leveln. Beim ersten Start läuft ein kurzes Tutorial, das Sie in den Einstellungen wiederholen können."
+   ],
+   [
+    "Tipps, Werbung und Käufe",
+    "Sie starten mit 3 Tipps und erhalten täglich 2 kostenlose Tipps (der Tag wechselt um Mitternacht koreanischer Zeit; ungenutzte kostenlose Tipps werden nicht angesammelt). Tipps und Werbebelohnungen vergibt unser Server; bitte verbinden Sie sich mit dem Internet. Eine Belohnungsanzeige gibt erst nach Prüfung durch den Server einen Tipp; kommt er nicht an, öffnen Sie die App erneut. Werbung entfernen und Käufe wiederherstellen finden Sie in den Einstellungen (Zahnrad); die Wiederherstellung funktioniert mit dem beim Kauf genutzten Store-Konto."
+   ],
+   [
+    "Problem melden",
+    "Schreiben Sie an dhalska2@gmail.com mit dem Betreff Number Cross, App-Version, Gerät und Betriebssystem sowie den Schritten zur Reproduktion (ein Screenshot ohne personenbezogene Daten hilft). Senden Sie keine Passwörter oder Kartendaten. Abrechnung und Erstattungen laufen über den Support von Apple bzw. Google Play."
+   ]
+  ],
+  "delete-account": [
+   [
+    "Umfang der Löschung bei Number Cross",
+    "Number Cross hat kein Konto und keine Registrierung. Diese Seite erklärt, wie Sie Daten auf Ihrem Gerät entfernen und wie Sie die Löschung der anonymen Serverdatensätze (Tipp-Guthaben und -Verlauf, Werbebelohnungen, Spielprofil) beantragen."
+   ],
+   [
+    "Gerätedaten löschen",
+    "Löschen Sie unter iOS die App (nicht nur auslagern). Löschen Sie unter Android den App-Speicher oder deinstallieren Sie die App. Fortschritt und Einstellungen werden entfernt und lassen sich nicht wiederherstellen. Das Löschen der App allein entfernt keine Serverdatensätze."
+   ],
+   [
+    "Löschung von Serverdaten beantragen",
+    "Schreiben Sie an dhalska2@gmail.com mit dem Betreff „Number Cross Data Deletion“, der App-Version und dem ungefähren Datum der letzten Nutzung. Wir antworten innerhalb der gesetzlichen Frist. Mit der Löschung der Serverdatensätze entfällt Ihr Tipp-Guthaben. Kaufdatensätze (Transaktions-Hash, Produkt, Zeit) können für Erstattungen und die Buchhaltung aufbewahrt werden, enthalten aber keine personenbezogenen Daten; die Werbefreiheit Ihres Store-Kontos lässt sich danach über den Store wiederherstellen."
+   ]
+  ]
+ },
+ "pt-br": {
+  "nav": [
+   "Início",
+   "Política de Privacidade",
+   "Termos de Serviço",
+   "Ajuda e suporte",
+   "Exclusão de dados"
+  ],
+  "tag": "Preencha as lacunas. Resolva todas as equações.",
+  "intro": "Suporte e políticas oficiais do Number Cross · Next Studio",
+  "date": "Em vigor / atualizado em 31 de outubro de 2026",
+  "contact": "Contato",
+  "skip": "Ir para o conteúdo",
+  "privacy": [
+   [
+    "Operador e escopo",
+    "A Next Studio (Coreia do Sul) opera o Number Cross (com.osj.numbercross), um jogo de palavras cruzadas matemáticas para iOS e Android. Esta política cobre o aplicativo e este site de suporte. Contato de privacidade: dhalska2@gmail.com."
+   ],
+   [
+    "Dados do jogo no seu dispositivo",
+    "O progresso, as fases concluídas, os contadores de dicas usadas, o tabuleiro atual e suas configurações (tema, vibração, opções de entrada) ficam salvos no seu dispositivo. Excluir o app os remove. Eles não são enviados como arquivo de salvamento."
+   ],
+   [
+    "Dicas, recompensas e compras (nosso servidor)",
+    "O app entra de forma anônima em nosso servidor: não pedimos nome, e-mail nem senha. Guardamos um ID de usuário anônimo, seu saldo de dicas e um registro de dicas concedidas e gastas (IDs de solicitação e horários), comprovantes de anúncios premiados e registros de compra (ID do produto, loja, ambiente e um hash unidirecional da transação ou do token de compra). Somente o servidor concede e desconta dicas, então as dicas exigem conexão com a internet; o jogo normal funciona offline. O pagamento é feito pela Apple ou pelo Google Play; nunca recebemos dados de cartão. Ao comprar ou restaurar a remoção de anúncios, o app envia o comprovante da loja ao nosso servidor, que o verifica com a Apple ou o Google antes de ativá-la."
+   ],
+   [
+    "Publicidade e escolhas de privacidade",
+    "O app exibe anúncios intersticiais do Google AdMob e anúncios premiados opcionais. Solicitamos apenas anúncios não personalizados e, onde exigido, é exibida uma mensagem de consentimento do Google (UMP), que você pode alterar em Configurações. O SDK de publicidade pode processar endereço IP, localização aproximada inferida dele, identificadores do dispositivo e de publicidade (no Android, o ID de publicidade), visualizações e cliques, diagnósticos e sua escolha de consentimento para veicular e medir anúncios e prevenir fraudes. Não usamos o App Tracking Transparency nem rastreamos você entre aplicativos de outras empresas. Em um anúncio premiado, o servidor guarda um token pseudônimo, o ID da transação do anúncio e o horário para evitar recompensas duplicadas. A divulgação de dados publicitários pode ser considerada venda ou compartilhamento pela lei local; não afirmamos que nenhum dado é coletado."
+   ],
+   [
+    "Relatórios de falhas",
+    "As versões de lançamento enviam relatórios de falhas e erros ao Google Firebase Crashlytics (rastros de pilha, modelo do dispositivo, sistema operacional, versão do app, um identificador por instalação), apenas para corrigir defeitos. As versões de depuração não enviam relatórios. Não usamos o Firebase Analytics."
+   ],
+   [
+    "Local do servidor, retenção e provedores",
+    "Nosso banco de dados (Supabase) fica em Seul, Coreia do Sul; o Supabase e seus subprocessadores podem prestar suporte operacional de outros países, inclusive os Estados Unidos. Usamos Apple e Google para pagamentos e anúncios, Google Firebase para relatórios de falhas e GitHub Pages para este site. Os registros anônimos do servidor são mantidos enquanto o app é usado. Os registros de compra (hash da transação, produto, horário; sem dados pessoais) podem ser mantidos para reembolsos e contabilidade. Os dados do dispositivo são removidos ao excluir o app."
+   ],
+   [
+    "Seus direitos e a exclusão",
+    "Você pode solicitar acesso, correção ou exclusão dos dados que mantemos sobre seu ID anônimo, ou se opor ao tratamento, por e-mail para dhalska2@gmail.com. Como o ID é anônimo, podemos pedir a versão do app e o período de uso para localizá-lo; não envie senhas nem dados de cartão. O tratamento se baseia na execução do contrato (operar o jogo e verificar compras), no legítimo interesse em segurança, prevenção de fraudes e correção de defeitos, em obrigações legais e, quando exigido, no consentimento (escolhas de anúncios). Veja a página Exclusão de dados."
+   ],
+   [
+    "Crianças e alterações",
+    "O Number Cross não é direcionado a menores de 13 anos e não coletamos conscientemente informações pessoais deles. Se esta política mudar, atualizaremos a data acima e, em mudanças relevantes, avisaremos no app ou neste site."
+   ]
+  ],
+  "terms": [
+   [
+    "Serviço e salvamentos",
+    "O Number Cross é um jogo de quebra-cabeça fornecido no estado em que se encontra. O progresso fica salvo no seu dispositivo; excluir o app ou seu armazenamento apaga o progresso e não podemos restaurá-lo. As dicas são gerenciadas pelo nosso servidor e exigem conexão com a internet."
+   ],
+   [
+    "Anúncios, produtos e direitos do consumidor",
+    "O jogo exibe anúncios. Uma compra única (não consumível) remove os anúncios; não altera dicas nem quebra-cabeças. As compras são feitas pela Apple ou pelo Google Play, cujos termos e regras de reembolso se aplicam, e podem ser restauradas com a mesma conta da loja. Compras reembolsadas ou revogadas deixam de remover os anúncios. Estes termos não limitam os direitos obrigatórios do consumidor em seu país."
+   ],
+   [
+    "Uso, alterações e responsabilidade",
+    "Não adultere o app, o servidor nem as compras e não tente obter dicas ou recompensas por outros meios. Podemos alterar ou encerrar recursos com aviso razoável quando possível. Na medida permitida por lei, não respondemos por danos indiretos; aplica-se a lei coreana, salvo disposição obrigatória local em contrário."
+   ]
+  ],
+  "support": [
+   [
+    "Como jogar",
+    "Preencha as lacunas para que todas as equações horizontais e verticais fiquem corretas. Toque em uma peça numérica e depois em uma casa vazia (ou toque primeiro na casa e depois na peça), ou arraste a peça. Cada peça só pode ser usada uma vez. Equações erradas são marcadas; desfazer e reiniciar ficam abaixo do tabuleiro. O ícone de grade permite escolher entre 1.000 fases. Um breve tutorial aparece na primeira abertura e pode ser repetido em Configurações."
+   ],
+   [
+    "Dicas, anúncios e compras",
+    "Você começa com 3 dicas e recebe 2 dicas grátis por dia (o dia muda à meia-noite, horário da Coreia; dicas grátis não usadas não se acumulam). Dicas e recompensas de anúncios são concedidas pelo nosso servidor, então conecte-se à internet. Um anúncio premiado só dá a dica após a verificação do servidor; se ela não chegar, reabra o app. Remover anúncios e Restaurar compra ficam em Configurações (ícone de engrenagem); a restauração funciona com a conta da loja usada na compra."
+   ],
+   [
+    "Relatar um problema",
+    "Escreva para dhalska2@gmail.com com o assunto Number Cross, a versão do app, seu dispositivo e sistema e os passos para reproduzir (uma captura sem dados pessoais ajuda). Não envie senhas nem dados de cartão. Cobranças e reembolsos são tratados pelo suporte da Apple ou do Google Play."
+   ]
+  ],
+  "delete-account": [
+   [
+    "Escopo da exclusão no Number Cross",
+    "O Number Cross não tem conta nem cadastro. Esta página explica como apagar os dados do seu dispositivo e como nos pedir a exclusão dos registros anônimos do servidor (saldo e histórico de dicas, registros de recompensas de anúncios, perfil do jogo)."
+   ],
+   [
+    "Excluir os dados do dispositivo",
+    "No iOS, exclua o app (e não apenas o descarregue). No Android, limpe o armazenamento do app ou desinstale-o. Seu progresso e suas configurações são apagados e não poderemos recuperá-los. Excluir apenas o app não apaga os registros do servidor."
+   ],
+   [
+    "Solicitar a exclusão dos dados do servidor",
+    "Escreva para dhalska2@gmail.com com o assunto “Number Cross Data Deletion”, a versão do app e a data aproximada do último uso. Responderemos dentro do prazo legal. Excluir os registros do servidor remove seu saldo de dicas. Os registros de compra (hash da transação, produto, horário) podem ser mantidos para reembolsos e contabilidade, mas não contêm dados pessoais; a remoção de anúncios da sua conta da loja poderá ser restaurada depois pela loja."
+   ]
+  ]
+ }
+}
