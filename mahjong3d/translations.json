@@ -1,0 +1,667 @@
+{
+ "ko": {
+  "nav": [
+   "소개",
+   "개인정보처리방침",
+   "이용약관",
+   "지원",
+   "데이터 삭제"
+  ],
+  "tag": "친구와 AI와 함께 즐기는 리치 마작 3D",
+  "intro": "냥마작: 리치 마작 3D 공식 지원·정책 페이지 · Next Studio",
+  "date": "시행일: 2026년 11월 1일",
+  "contact": "문의",
+  "skip": "본문으로 건너뛰기",
+  "features": [
+   "리치 마작(4인)을 3D 패로 즐겨요",
+   "AI 상대 8단계 + 처음 배우는 튜토리얼",
+   "온라인 대국: 빠른 대전, 친구 방, 레이팅, 주간 아레나·월간 시즌",
+   "복기, 관전(3분 지연), 친구·재대국, 신고·차단",
+   "광고 없음 · 추적 없음"
+  ],
+  "privacy": [
+   [
+    "운영자",
+    "냥마작: 리치 마작 3D(이하 \"앱\")는 Next Studio(넥스트 스튜디오)가 운영합니다. 문의: dhalska2@gmail.com"
+   ],
+   [
+    "수집하는 정보",
+    "앱은 이메일·전화번호·실명을 받지 않습니다. 앱을 처음 켜면 임의의 익명 계정 ID가 자동으로 만들어집니다. 그 밖에 아래 정보가 서버에 저장됩니다. (1) 직접 정한 닉네임과 아바타 (2) 게임 기록: 대국 결과·순위·레이팅·통계, 미션·출석 진행, 코인·해금 상태, 주간 아레나·월간 시즌 결과 (3) 친구 코드·친구 목록·초대, 신고·차단 기록 (4) 온라인 대국 기보(복기용) (5) 구매 정보: 구매한 상품 번호와 스토어가 발급한 구매 토큰(카드 정보는 받지 않습니다) (6) 알림을 받기 위한 푸시 토큰과 앱 언어 (7) 오류 보고: 앱이 비정상 종료될 때 기기 모델·OS 버전·앱 버전·오류 내용"
+   ],
+   [
+    "수집하지 않는 정보",
+    "정확한 위치, 연락처, 사진, 카메라·마이크 자료를 수집하지 않습니다. 광고 ID를 사용하지 않고, 광고를 보여 주지 않으며, 사용자를 추적하지 않습니다."
+   ],
+   [
+    "이용 목적",
+    "게임 기능 제공(대국·매칭·레이팅·랭킹·친구·복기·관전), 구매 확인과 지급, 알림 발송, 신고 처리와 공정한 대국 유지(종료된 랭크 대국의 자동 점검 신호), 오류 파악과 안정화."
+   ],
+   [
+    "다른 사람에게 보이는 정보",
+    "온라인 대국에서 다른 플레이어에게 닉네임, 아바타, 레이팅, 전적, 입상 칭호가 보입니다. 닉네임에는 개인정보를 쓰지 마세요. 진행 중인 빠른 대전은 설정에서 끌 수 있는 관전(3분 지연)으로 공개될 수 있습니다."
+   ],
+   [
+    "제3자 처리",
+    "데이터는 Supabase(서버·데이터베이스), Google(Firebase 오류 보고·푸시 알림, Google Play 결제), Apple(App Store 결제·푸시 알림)을 통해 처리됩니다. 정보를 판매하거나 광고 목적으로 제공하지 않습니다. 법령상 요구가 있을 때만 제공합니다."
+   ],
+   [
+    "보관 기간",
+    "계정 데이터는 삭제를 요청하기 전까지 보관합니다. 온라인 대국 기보는 종료 후 90일 뒤 자동으로 지워집니다. 전송되지 않은 알림 작업은 하루가 지나면 폐기됩니다. 오류 보고는 Firebase의 보관 기간(최대 90일)을 따릅니다."
+   ],
+   [
+    "삭제",
+    "앱의 설정 > \"내 데이터 삭제\"에서 직접 삭제하거나 \"데이터 삭제\" 페이지의 방법으로 요청할 수 있습니다. 서버에 저장된 닉네임·레이팅·친구·구매 기록·알림 등록 정보가 즉시 삭제됩니다. 다른 사람의 복기에 들어 있는 대국 기보는 90일 안에 자동 삭제됩니다."
+   ],
+   [
+    "보안",
+    "모든 통신은 HTTPS로 암호화됩니다. 서버 데이터는 접근 권한이 제한되어 본인 계정으로만 읽고 쓸 수 있습니다."
+   ],
+   [
+    "아동",
+    "이 앱은 만 13세 미만 아동을 대상으로 하지 않습니다. 아동의 정보가 수집된 사실을 알게 되면 삭제합니다."
+   ],
+   [
+    "변경과 문의",
+    "정책이 바뀌면 이 페이지에 시행일과 함께 알립니다. 문의: dhalska2@gmail.com"
+   ]
+  ],
+  "terms": [
+   [
+    "서비스",
+    "앱은 리치 마작을 AI 또는 다른 플레이어와 즐기는 게임입니다. 서비스는 개선을 위해 바뀌거나 중단될 수 있습니다."
+   ],
+   [
+    "공정한 이용",
+    "외부 프로그램·자동화·계정 여러 개를 이용한 레이팅 조작 등 부정행위를 금지합니다. 닉네임에는 욕설·광고·개인정보를 쓸 수 없으며 이모지는 쓸 수 없습니다. 위반하면 닉네임 초기화, 이용 제한이 있을 수 있습니다."
+   ],
+   [
+    "가상 재화와 구매",
+    "코인과 해금은 앱 안에서만 쓰이는 가상 재화이며 현금 가치가 없습니다. 구매와 환불은 Google Play·App Store의 정책을 따릅니다. 데이터를 삭제하면 코인과 구매로 얻은 혜택도 함께 삭제됩니다."
+   ],
+   [
+    "책임 제한",
+    "서비스는 있는 그대로 제공되며, 법령이 허용하는 범위에서 간접 손해에 대한 책임을 지지 않습니다."
+   ],
+   [
+    "문의",
+    "dhalska2@gmail.com"
+   ]
+  ],
+  "support": [
+   [
+    "시작하기",
+    "처음이라면 설정 > \"튜토리얼\"에서 규칙을 배울 수 있습니다. AI 상대 단계는 설정에서 고릅니다."
+   ],
+   [
+    "온라인 대국",
+    "\"한 판하기\"에서 온라인 대전을 열면 빠른 대전과 친구 방을 고를 수 있습니다. 온라인 대국에는 닉네임이 필요합니다. 4명이 모이지 않으면 AI가 빈 자리를 채워 레이팅 없는 대국으로 진행됩니다."
+   ],
+   [
+    "구매 복원",
+    "구매한 상품이 보이지 않으면 상점에서 \"구매 복원\"을 눌러 주세요. 같은 Google 계정으로 로그인한 기기에서 복원됩니다."
+   ],
+   [
+    "신고와 차단",
+    "대국 화면에서 상대를 눌러 신고·차단·친구 추가를 할 수 있습니다. 차단은 설정 > 차단 목록에서 해제합니다."
+   ],
+   [
+    "알림",
+    "알림은 친구 신청·방 초대·아레나·시즌 결과에 보냅니다. 설정에서 끌 수 있습니다."
+   ],
+   [
+    "문의 방법",
+    "dhalska2@gmail.com 으로 앱 버전, 기기 모델, 문제 내용을 보내 주세요."
+   ]
+  ],
+  "delete-account": [
+   [
+    "앱에서 삭제",
+    "설정 > \"내 데이터 삭제\"를 누르고 확인하면 바로 삭제됩니다."
+   ],
+   [
+    "이메일로 요청",
+    "앱을 쓸 수 없다면 dhalska2@gmail.com 으로 닉네임과 친구 코드(또는 구매 영수증 번호)를 보내 주세요. 본인 확인 후 처리합니다."
+   ],
+   [
+    "삭제되는 정보",
+    "닉네임, 아바타, 레이팅·전적·통계, 미션·출석, 코인·해금, 친구와 초대, 아레나·시즌 결과, 구매 기록, 푸시 알림 등록 정보가 삭제됩니다. 되돌릴 수 없습니다."
+   ],
+   [
+    "남는 정보",
+    "다른 사람이 볼 수 있는 대국 기보에 들어 있던 내 익명 ID는 90일 안에 기보와 함께 삭제됩니다. Google·Apple 스토어가 보관하는 결제 내역은 각 스토어 정책을 따릅니다."
+   ]
+  ]
+ },
+ "en": {
+  "nav": [
+   "About",
+   "Privacy Policy",
+   "Terms",
+   "Support",
+   "Delete Data"
+  ],
+  "tag": "Riichi Mahjong 3D with friends and AI",
+  "intro": "Nyan Mahjong: Riichi 3D — official support and policies · Next Studio",
+  "date": "Effective date: November 1, 2026",
+  "contact": "Contact",
+  "skip": "Skip to content",
+  "features": [
+   "Four-player riichi mahjong with 3D tiles",
+   "8 AI levels and a step-by-step tutorial",
+   "Online play: quick match, friend rooms, rating, weekly arena and monthly season",
+   "Replays, spectating (3-minute delay), friends and rematch, report and block",
+   "No ads · no tracking"
+  ],
+  "privacy": [
+   [
+    "Operator",
+    "Nyan Mahjong: Riichi 3D (the \"app\") is operated by Next Studio. Contact: dhalska2@gmail.com"
+   ],
+   [
+    "Information we collect",
+    "The app does not ask for an email address, phone number or real name. When you first open it, a random anonymous account ID is created automatically. We also store: (1) the nickname and avatar you choose; (2) game data: results, placements, rating and statistics, mission and attendance progress, coins and unlocks, weekly arena and monthly season results; (3) friend code, friend list, invitations, and report/block records; (4) records of online games (for replays); (5) purchase data: the product ID and the purchase token issued by the store (we never receive card details); (6) a push token and the app language, to send notifications; (7) crash reports: device model, OS version, app version and error details when the app crashes."
+   ],
+   [
+    "Information we do not collect",
+    "We do not collect precise location, contacts, photos, camera or microphone data. We do not use the advertising ID, show ads, or track you."
+   ],
+   [
+    "How we use it",
+    "To provide the game (play, matching, rating, rankings, friends, replays, spectating), to confirm and deliver purchases, to send notifications, to handle reports and keep play fair (automated signals from finished ranked games), and to find and fix crashes."
+   ],
+   [
+    "What other players see",
+    "In online games other players see your nickname, avatar, rating, record and ranking titles. Do not put personal information in your nickname. Running quick-match games can be watched with a 3-minute delay; you can turn this off in the spectate window."
+   ],
+   [
+    "Service providers",
+    "Data is processed by Supabase (servers and database), Google (Firebase crash reports and push notifications, Google Play billing) and Apple (App Store billing and push notifications). We do not sell your information or share it for advertising. We disclose it only when the law requires."
+   ],
+   [
+    "Retention",
+    "Account data is kept until you delete it. Online game records are deleted automatically 90 days after the game. Unsent notification jobs are discarded after one day. Crash reports follow Firebase retention (up to 90 days)."
+   ],
+   [
+    "Deletion",
+    "You can delete your data in the app under Settings > \"Delete my data\", or request it as described on the \"Delete Data\" page. Your nickname, rating, friends, purchase records and notification registration are deleted immediately. Game records that other players may replay are deleted automatically within 90 days."
+   ],
+   [
+    "Security",
+    "All communication uses HTTPS. Server data is access-controlled so that each account can only read and write its own data."
+   ],
+   [
+    "Children",
+    "The app is not directed at children under 13. If we learn that we collected a child's information, we delete it."
+   ],
+   [
+    "Changes and contact",
+    "If this policy changes, we post the new effective date here. Contact: dhalska2@gmail.com"
+   ]
+  ],
+  "terms": [
+   [
+    "Service",
+    "The app is a game for playing riichi mahjong against AI or other players. The service may change or be discontinued as we improve it."
+   ],
+   [
+    "Fair use",
+    "Cheating is prohibited: external programs, automation, or multiple accounts to manipulate ratings. Nicknames must not contain insults, advertising, personal information or emoji. Violations may lead to a nickname reset or restrictions."
+   ],
+   [
+    "Virtual items and purchases",
+    "Coins and unlocks are virtual items used only in the app and have no cash value. Purchases and refunds follow the policies of Google Play and the App Store. Deleting your data also deletes your coins and purchase benefits."
+   ],
+   [
+    "Limitation of liability",
+    "The service is provided as is. To the extent allowed by law we are not liable for indirect damages."
+   ],
+   [
+    "Contact",
+    "dhalska2@gmail.com"
+   ]
+  ],
+  "support": [
+   [
+    "Getting started",
+    "If you are new, learn the rules in Settings > \"Tutorial\". Choose the AI level in Settings."
+   ],
+   [
+    "Online play",
+    "Open online play from \"Play\" to choose quick match or a friend room. A nickname is required for online play. If four players do not gather, AI fills the empty seats and the game is unrated."
+   ],
+   [
+    "Restoring purchases",
+    "If a purchase is missing, tap \"Restore purchases\" in the shop. It restores on devices signed in with the same Google account."
+   ],
+   [
+    "Report and block",
+    "Tap an opponent during a game to report, block or add as a friend. Unblock in Settings > Block list."
+   ],
+   [
+    "Notifications",
+    "Notifications are sent for friend requests, room invitations, and arena and season results. You can turn them off in Settings."
+   ],
+   [
+    "Contact",
+    "Email dhalska2@gmail.com with your app version, device model and a description of the problem."
+   ]
+  ],
+  "delete-account": [
+   [
+    "Delete in the app",
+    "Open Settings, tap \"Delete my data\", and confirm. Deletion happens immediately."
+   ],
+   [
+    "Request by email",
+    "If you cannot use the app, email dhalska2@gmail.com with your nickname and friend code (or purchase receipt number). We process the request after verifying it is you."
+   ],
+   [
+    "What is deleted",
+    "Nickname, avatar, rating, record and statistics, missions and attendance, coins and unlocks, friends and invitations, arena and season results, purchase records and push registration. This cannot be undone."
+   ],
+   [
+    "What remains",
+    "Your anonymous ID inside game records that other players may replay is deleted together with those records within 90 days. Payment records kept by Google and Apple follow their own policies."
+   ]
+  ]
+ },
+ "ja": {
+  "nav": [
+   "紹介",
+   "プライバシーポリシー",
+   "利用規約",
+   "サポート",
+   "データ削除"
+  ],
+  "tag": "友だちやAIと楽しむ3Dリーチ麻雀",
+  "intro": "にゃん麻雀: リーチ麻雀3D 公式サポート・ポリシーページ · Next Studio",
+  "date": "施行日:2026年11月1日",
+  "contact": "お問い合わせ",
+  "skip": "本文へスキップ",
+  "features": [
+   "3D牌で遊ぶ4人リーチ麻雀",
+   "AI 8段階とチュートリアル",
+   "オンライン対局:クイック対戦・フレンドルーム・レーティング・週間アリーナ・月間シーズン",
+   "牌譜の復習、観戦(3分遅れ)、フレンド・再対局、通報・ブロック",
+   "広告なし・トラッキングなし"
+  ],
+  "privacy": [
+   [
+    "運営者",
+    "にゃん麻雀: リーチ麻雀3D(以下「アプリ」)は Next Studio が運営します。お問い合わせ:dhalska2@gmail.com"
+   ],
+   [
+    "収集する情報",
+    "アプリはメールアドレス・電話番号・本名を求めません。初回起動時にランダムな匿名アカウントIDが自動作成されます。そのほか次の情報をサーバーに保存します。(1) 設定したニックネームとアバター (2) ゲーム記録:対局結果・順位・レーティング・統計、ミッション・出席の進行、コインと解放状態、週間アリーナ・月間シーズンの結果 (3) フレンドコード・フレンド一覧・招待、通報・ブロックの記録 (4) オンライン対局の牌譜(復習用) (5) 購入情報:商品番号とストアが発行する購入トークン(カード情報は受け取りません) (6) 通知のためのプッシュトークンとアプリの言語 (7) クラッシュレポート:アプリが異常終了したときの端末モデル・OSバージョン・アプリバージョン・エラー内容"
+   ],
+   [
+    "収集しない情報",
+    "正確な位置情報、連絡先、写真、カメラ・マイクのデータは収集しません。広告IDは使用せず、広告も表示せず、ユーザーを追跡しません。"
+   ],
+   [
+    "利用目的",
+    "ゲーム機能の提供(対局・マッチング・レーティング・ランキング・フレンド・復習・観戦)、購入の確認と付与、通知の送信、通報の処理と公正な対局の維持(終了したランク戦の自動チェック)、不具合の把握と安定化。"
+   ],
+   [
+    "他のプレイヤーに見える情報",
+    "オンライン対局では、ニックネーム・アバター・レーティング・戦績・入賞称号が他のプレイヤーに見えます。ニックネームに個人情報を入れないでください。進行中のクイック対戦は3分遅れで観戦される場合があり、観戦ウィンドウで無効にできます。"
+   ],
+   [
+    "外部委託先",
+    "データは Supabase(サーバー・データベース)、Google(Firebase のクラッシュレポートとプッシュ通知、Google Play 決済)、Apple(App Store 決済とプッシュ通知)を通じて処理されます。情報を販売したり広告目的で提供したりしません。法令上必要な場合のみ提供します。"
+   ],
+   [
+    "保存期間",
+    "アカウントデータは削除を依頼するまで保存します。オンライン対局の牌譜は終了から90日後に自動削除されます。未送信の通知は1日で破棄されます。クラッシュレポートは Firebase の保存期間(最大90日)に従います。"
+   ],
+   [
+    "削除",
+    "アプリの設定>「データを削除」から削除するか、「データ削除」ページの方法で依頼できます。サーバー上のニックネーム・レーティング・フレンド・購入記録・通知登録は直ちに削除されます。他のプレイヤーが復習できる牌譜は90日以内に自動削除されます。"
+   ],
+   [
+    "セキュリティ",
+    "すべての通信はHTTPSで暗号化されます。サーバーのデータはアクセスが制限され、各アカウントは自分のデータだけを読み書きできます。"
+   ],
+   [
+    "お子様",
+    "このアプリは13歳未満のお子様を対象としていません。お子様の情報を収集したと分かった場合は削除します。"
+   ],
+   [
+    "変更とお問い合わせ",
+    "ポリシーを変更する場合は、施行日とともにこのページでお知らせします。お問い合わせ:dhalska2@gmail.com"
+   ]
+  ],
+  "terms": [
+   [
+    "サービス",
+    "アプリはAIや他のプレイヤーとリーチ麻雀を楽しむゲームです。サービスは改善のため変更または終了することがあります。"
+   ],
+   [
+    "公正な利用",
+    "外部プログラム・自動化・複数アカウントによるレーティング操作などの不正を禁止します。ニックネームに暴言・広告・個人情報・絵文字は使えません。違反するとニックネームの初期化や利用制限を行う場合があります。"
+   ],
+   [
+    "仮想アイテムと購入",
+    "コインと解放はアプリ内でのみ使う仮想アイテムで、現金価値はありません。購入と返金は Google Play・App Store のポリシーに従います。データを削除するとコインや購入特典も削除されます。"
+   ],
+   [
+    "責任の制限",
+    "サービスは現状のまま提供され、法令が許す範囲で間接的な損害について責任を負いません。"
+   ],
+   [
+    "お問い合わせ",
+    "dhalska2@gmail.com"
+   ]
+  ],
+  "support": [
+   [
+    "はじめに",
+    "初めての方は、設定>「チュートリアル」でルールを学べます。AIのレベルは設定で選べます。"
+   ],
+   [
+    "オンライン対局",
+    "「対局する」からオンライン対局を開き、クイック対戦かフレンドルームを選びます。オンライン対局にはニックネームが必要です。4人集まらない場合はAIが空席を埋め、レーティングなしで進行します。"
+   ],
+   [
+    "購入の復元",
+    "購入した商品が表示されない場合は、ショップの「購入を復元」を押してください。同じ Google アカウントでログインした端末で復元されます。"
+   ],
+   [
+    "通報とブロック",
+    "対局中に相手をタップすると、通報・ブロック・フレンド追加ができます。ブロックは設定>ブロックリストで解除します。"
+   ],
+   [
+    "通知",
+    "通知はフレンド申請・ルーム招待・アリーナとシーズンの結果に送られます。設定でオフにできます。"
+   ],
+   [
+    "お問い合わせ方法",
+    "dhalska2@gmail.com にアプリのバージョン、端末モデル、問題の内容を送ってください。"
+   ]
+  ],
+  "delete-account": [
+   [
+    "アプリで削除",
+    "設定を開き、「データを削除」を押して確認すると、すぐに削除されます。"
+   ],
+   [
+    "メールで依頼",
+    "アプリを使えない場合は、dhalska2@gmail.com にニックネームとフレンドコード(または購入レシート番号)を送ってください。本人確認のうえ処理します。"
+   ],
+   [
+    "削除される情報",
+    "ニックネーム、アバター、レーティング・戦績・統計、ミッション・出席、コイン・解放、フレンドと招待、アリーナ・シーズンの結果、購入記録、プッシュ通知の登録情報が削除されます。元に戻せません。"
+   ],
+   [
+    "残る情報",
+    "他のプレイヤーが復習できる牌譜に含まれる匿名IDは、その牌譜とともに90日以内に削除されます。Google・Apple が保管する決済履歴は各ストアのポリシーに従います。"
+   ]
+  ]
+ },
+ "zh": {
+  "nav": [
+   "简介",
+   "隐私政策",
+   "服务条款",
+   "支持",
+   "删除数据"
+  ],
+  "tag": "与好友和AI一起玩的3D立直麻将",
+  "intro": "喵喵麻将: 立直麻将3D 官方支持与政策页面 · Next Studio",
+  "date": "生效日期:2026年11月1日",
+  "contact": "联系我们",
+  "skip": "跳到正文",
+  "features": [
+   "用3D麻将牌玩四人立直麻将",
+   "8级AI与新手教学",
+   "在线对局:快速匹配、好友房、等级分、每周竞技场与每月赛季",
+   "牌谱复盘、观战(延迟3分钟)、好友与再战、举报与屏蔽",
+   "无广告 · 不追踪"
+  ],
+  "privacy": [
+   [
+    "运营者",
+    "喵喵麻将: 立直麻将3D(以下称\"应用\")由 Next Studio 运营。联系方式:dhalska2@gmail.com"
+   ],
+   [
+    "我们收集的信息",
+    "应用不要求电子邮件、电话号码或真实姓名。首次打开时会自动创建随机的匿名账号ID。我们还会在服务器保存:(1) 您设置的昵称和头像;(2) 游戏数据:对局结果、名次、等级分与统计、任务与签到进度、金币与解锁状态、每周竞技场和每月赛季成绩;(3) 好友码、好友列表、邀请,以及举报和屏蔽记录;(4) 在线对局的牌谱(用于复盘);(5) 购买信息:商品编号和商店签发的购买凭证(我们不会收到银行卡信息);(6) 用于发送通知的推送令牌和应用语言;(7) 崩溃报告:应用崩溃时的设备型号、系统版本、应用版本和错误内容。"
+   ],
+   [
+    "我们不收集的信息",
+    "我们不收集精确位置、通讯录、照片、相机或麦克风数据。我们不使用广告ID,不展示广告,也不追踪用户。"
+   ],
+   [
+    "使用目的",
+    "提供游戏功能(对局、匹配、等级分、排行榜、好友、复盘、观战),确认并发放购买内容,发送通知,处理举报并维护公平对局(对已结束排位赛的自动检查信号),以及发现并修复崩溃。"
+   ],
+   [
+    "其他玩家可见的信息",
+    "在线对局中,其他玩家可以看到您的昵称、头像、等级分、战绩和名次称号。请不要在昵称中使用个人信息。进行中的快速匹配可能被延迟3分钟观战,您可以在观战窗口中关闭。"
+   ],
+   [
+    "服务提供商",
+    "数据由 Supabase(服务器与数据库)、Google(Firebase 崩溃报告与推送通知、Google Play 支付)和 Apple(App Store 支付与推送通知)处理。我们不会出售您的信息,也不会为广告目的提供。仅在法律要求时才会提供。"
+   ],
+   [
+    "保存期限",
+    "账号数据会保存到您要求删除为止。在线对局牌谱在对局结束90天后自动删除。未发送的通知任务一天后废弃。崩溃报告遵循 Firebase 的保存期限(最长90天)。"
+   ],
+   [
+    "删除",
+    "您可以在应用的\"设置 > 删除我的数据\"中直接删除,也可以按\"删除数据\"页面的方法申请。服务器上的昵称、等级分、好友、购买记录和通知注册信息会立即删除。其他玩家可复盘的牌谱会在90天内自动删除。"
+   ],
+   [
+    "安全",
+    "所有通信都通过 HTTPS 加密。服务器数据受访问控制,每个账号只能读写自己的数据。"
+   ],
+   [
+    "儿童",
+    "本应用不面向13岁以下儿童。如发现收集了儿童信息,我们会将其删除。"
+   ],
+   [
+    "变更与联系",
+    "政策变更时,我们会在本页面公布新的生效日期。联系方式:dhalska2@gmail.com"
+   ]
+  ],
+  "terms": [
+   [
+    "服务",
+    "本应用是可与AI或其他玩家一起玩立直麻将的游戏。为了改进,服务可能变更或终止。"
+   ],
+   [
+    "公平使用",
+    "禁止作弊,包括使用外部程序、自动化或多个账号操纵等级分。昵称不得包含辱骂、广告、个人信息或表情符号。违规可能导致昵称重置或限制使用。"
+   ],
+   [
+    "虚拟物品与购买",
+    "金币和解锁内容是仅在应用内使用的虚拟物品,没有现金价值。购买和退款遵循 Google Play 和 App Store 的政策。删除数据时,金币和购买权益也会一并删除。"
+   ],
+   [
+    "责任限制",
+    "服务按现状提供。在法律允许的范围内,我们对间接损失不承担责任。"
+   ],
+   [
+    "联系",
+    "dhalska2@gmail.com"
+   ]
+  ],
+  "support": [
+   [
+    "开始游戏",
+    "新手可以在\"设置 > 教学\"中学习规则。AI等级可在设置中选择。"
+   ],
+   [
+    "在线对局",
+    "在\"开始游戏\"中打开在线对局,可选择快速匹配或好友房。在线对局需要昵称。凑不齐4人时由AI补位,对局不计等级分。"
+   ],
+   [
+    "恢复购买",
+    "如果购买的商品没有显示,请在商店点击\"恢复购买\"。使用同一个 Google 账号登录的设备上可以恢复。"
+   ],
+   [
+    "举报与屏蔽",
+    "对局中点击对手可以举报、屏蔽或添加好友。屏蔽可在\"设置 > 屏蔽列表\"中解除。"
+   ],
+   [
+    "通知",
+    "通知用于好友申请、房间邀请、竞技场和赛季结果。可在设置中关闭。"
+   ],
+   [
+    "联系方式",
+    "请将应用版本、设备型号和问题描述发送到 dhalska2@gmail.com。"
+   ]
+  ],
+  "delete-account": [
+   [
+    "在应用中删除",
+    "打开设置,点击\"删除我的数据\"并确认,会立即删除。"
+   ],
+   [
+    "通过邮件申请",
+    "如果无法使用应用,请将昵称和好友码(或购买凭证编号)发送到 dhalska2@gmail.com。确认是本人后处理。"
+   ],
+   [
+    "会删除的信息",
+    "昵称、头像、等级分、战绩与统计、任务与签到、金币与解锁、好友与邀请、竞技场与赛季成绩、购买记录和推送通知注册信息。无法恢复。"
+   ],
+   [
+    "保留的信息",
+    "其他玩家可复盘的牌谱中包含的您的匿名ID,会在90天内随牌谱一起删除。Google 和 Apple 保管的支付记录遵循各自商店的政策。"
+   ]
+  ]
+ },
+ "zh_Hant": {
+  "nav": [
+   "簡介",
+   "隱私權政策",
+   "服務條款",
+   "支援",
+   "刪除資料"
+  ],
+  "tag": "與好友和AI一起玩的3D立直麻將",
+  "intro": "喵喵麻將: 立直麻將3D 官方支援與政策頁面 · Next Studio",
+  "date": "生效日期:2026年11月1日",
+  "contact": "聯絡我們",
+  "skip": "跳到正文",
+  "features": [
+   "用3D麻將牌玩四人立直麻將",
+   "8級AI與新手教學",
+   "線上對局:快速配對、好友房、等級分、每週競技場與每月賽季",
+   "牌譜復盤、觀戰(延遲3分鐘)、好友與再戰、檢舉與封鎖",
+   "無廣告 · 不追蹤"
+  ],
+  "privacy": [
+   [
+    "營運者",
+    "喵喵麻將: 立直麻將3D(以下稱「應用程式」)由 Next Studio 營運。聯絡方式:dhalska2@gmail.com"
+   ],
+   [
+    "我們蒐集的資訊",
+    "應用程式不要求電子郵件、電話號碼或真實姓名。首次開啟時會自動建立隨機的匿名帳號ID。我們還會在伺服器儲存:(1) 您設定的暱稱和頭像;(2) 遊戲資料:對局結果、名次、等級分與統計、任務與簽到進度、金幣與解鎖狀態、每週競技場和每月賽季成績;(3) 好友碼、好友清單、邀請,以及檢舉和封鎖紀錄;(4) 線上對局的牌譜(用於復盤);(5) 購買資訊:商品編號和商店核發的購買憑證(我們不會收到信用卡資訊);(6) 用於傳送通知的推播權杖和應用程式語言;(7) 當機報告:應用程式當機時的裝置型號、系統版本、應用程式版本和錯誤內容。"
+   ],
+   [
+    "我們不蒐集的資訊",
+    "我們不蒐集精確位置、通訊錄、照片、相機或麥克風資料。我們不使用廣告ID,不顯示廣告,也不追蹤使用者。"
+   ],
+   [
+    "使用目的",
+    "提供遊戲功能(對局、配對、等級分、排行榜、好友、復盤、觀戰),確認並發放購買內容,傳送通知,處理檢舉並維護公平對局(對已結束排位賽的自動檢查訊號),以及找出並修正當機問題。"
+   ],
+   [
+    "其他玩家可見的資訊",
+    "在線上對局中,其他玩家可以看到您的暱稱、頭像、等級分、戰績和名次稱號。請不要在暱稱中使用個人資訊。進行中的快速配對可能被延遲3分鐘觀戰,您可以在觀戰視窗中關閉。"
+   ],
+   [
+    "服務提供者",
+    "資料由 Supabase(伺服器與資料庫)、Google(Firebase 當機報告與推播通知、Google Play 付款)和 Apple(App Store 付款與推播通知)處理。我們不會出售您的資訊,也不會為廣告目的提供。僅在法律要求時才會提供。"
+   ],
+   [
+    "保存期限",
+    "帳號資料會保存到您要求刪除為止。線上對局牌譜在對局結束90天後自動刪除。未傳送的通知工作一天後廢棄。當機報告遵循 Firebase 的保存期限(最長90天)。"
+   ],
+   [
+    "刪除",
+    "您可以在應用程式的「設定 > 刪除我的資料」中直接刪除,也可以依「刪除資料」頁面的方法申請。伺服器上的暱稱、等級分、好友、購買紀錄和通知註冊資訊會立即刪除。其他玩家可復盤的牌譜會在90天內自動刪除。"
+   ],
+   [
+    "安全",
+    "所有通訊都透過 HTTPS 加密。伺服器資料受存取控制,每個帳號只能讀寫自己的資料。"
+   ],
+   [
+    "兒童",
+    "本應用程式不以13歲以下兒童為對象。若發現蒐集了兒童資訊,我們會將其刪除。"
+   ],
+   [
+    "變更與聯絡",
+    "政策變更時,我們會在本頁面公布新的生效日期。聯絡方式:dhalska2@gmail.com"
+   ]
+  ],
+  "terms": [
+   [
+    "服務",
+    "本應用程式是可與AI或其他玩家一起玩立直麻將的遊戲。為了改進,服務可能變更或終止。"
+   ],
+   [
+    "公平使用",
+    "禁止作弊,包括使用外部程式、自動化或多個帳號操縱等級分。暱稱不得包含辱罵、廣告、個人資訊或表情符號。違規可能導致暱稱重設或限制使用。"
+   ],
+   [
+    "虛擬物品與購買",
+    "金幣和解鎖內容是僅在應用程式內使用的虛擬物品,沒有現金價值。購買和退款遵循 Google Play 和 App Store 的政策。刪除資料時,金幣和購買權益也會一併刪除。"
+   ],
+   [
+    "責任限制",
+    "服務依現況提供。在法律允許的範圍內,我們對間接損失不負責任。"
+   ],
+   [
+    "聯絡",
+    "dhalska2@gmail.com"
+   ]
+  ],
+  "support": [
+   [
+    "開始遊戲",
+    "新手可以在「設定 > 教學」中學習規則。AI等級可在設定中選擇。"
+   ],
+   [
+    "線上對局",
+    "在「開始遊戲」中開啟線上對局,可選擇快速配對或好友房。線上對局需要暱稱。湊不齊4人時由AI補位,對局不計等級分。"
+   ],
+   [
+    "恢復購買",
+    "如果購買的商品沒有顯示,請在商店點選「恢復購買」。使用同一個 Google 帳號登入的裝置上可以恢復。"
+   ],
+   [
+    "檢舉與封鎖",
+    "對局中點選對手可以檢舉、封鎖或加入好友。封鎖可在「設定 > 封鎖清單」中解除。"
+   ],
+   [
+    "通知",
+    "通知用於好友申請、房間邀請、競技場和賽季結果。可在設定中關閉。"
+   ],
+   [
+    "聯絡方式",
+    "請將應用程式版本、裝置型號和問題描述寄到 dhalska2@gmail.com。"
+   ]
+  ],
+  "delete-account": [
+   [
+    "在應用程式中刪除",
+    "開啟設定,點選「刪除我的資料」並確認,會立即刪除。"
+   ],
+   [
+    "透過電子郵件申請",
+    "如果無法使用應用程式,請將暱稱和好友碼(或購買憑證編號)寄到 dhalska2@gmail.com。確認是本人後處理。"
+   ],
+   [
+    "會刪除的資訊",
+    "暱稱、頭像、等級分、戰績與統計、任務與簽到、金幣與解鎖、好友與邀請、競技場與賽季成績、購買紀錄和推播通知註冊資訊。無法復原。"
+   ],
+   [
+    "保留的資訊",
+    "其他玩家可復盤的牌譜中包含的您的匿名ID,會在90天內隨牌譜一起刪除。Google 和 Apple 保管的付款紀錄遵循各自商店的政策。"
+   ]
+  ]
+ }
+}
