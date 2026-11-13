@@ -9,50 +9,66 @@ EMAIL = "dhalska2@gmail.com"
 
 LANGUAGES = {
     "ko": {
-        "label": "한국어", "html": "ko", "nav": ["소개", "개인정보처리방침", "지원"],
+        "label": "한국어", "html": "ko", "nav": ["소개", "개인정보처리방침", "지원", "계정 삭제"],
         "tag": "블록을 끌어 놓고 줄을 지워 콤보를 이어가세요",
         "intro": "Prism Block Puzzle은 8×8 보드에 블록 3개를 끌어 놓아 가로·세로 줄을 지우는 퍼즐 게임입니다.",
         "features": ["여러 줄 동시 제거와 콤보 보너스", "자동 저장, 오프라인 플레이", "효과음·BGM·진동을 각각 설정"],
         "offline": "계정 없이 플레이할 수 있고, 게임 진행 상황은 기기에만 저장됩니다. 광고 제거는 1회성 결제입니다.",
         "privacy_title": "Prism Block Puzzle 개인정보처리방침", "date": "시행일: 2026년 11월 14일",
-        "privacy_intro": "Prism Block Puzzle은 Next Studio가 제공하는 블록 퍼즐 게임입니다. 계정 없이 사용할 수 있으며 게임 진행 정보는 기기에만 저장합니다.",
+        "privacy_intro": "Prism Block Puzzle은 Next Studio가 제공하는 블록 퍼즐 게임입니다. 계정 없이 사용할 수 있으며, Google 로그인은 선택 사항입니다. 게임 진행 정보는 기기에만 저장합니다.",
         "privacy": [
-            ("기기에 저장하는 정보", "점수, 최고 점수, 진행 중인 판, 효과음·BGM·진동 설정, 튜토리얼 확인 여부, 광고 제거 구매 상태를 기기에만 저장합니다. Next Studio는 이 정보를 서버로 전송하지 않습니다."),
+            ("기기에 저장하는 정보", "점수, 최고 점수, 진행 중인 판, 효과음·BGM·진동 설정, 튜토리얼 확인 여부, 광고 제거 구매 상태를 기기에 저장합니다. 점수와 진행 중인 판은 서버로 전송하지 않습니다."),
             ("광고", "앱은 Google AdMob 광고를 표시합니다. AdMob은 광고 제공·측정·부정 사용 방지를 위해 광고 ID, IP 주소, 기기 정보, 앱 사용 및 진단 정보를 수집할 수 있습니다. 광고 ID는 Android 설정에서 재설정하거나 맞춤 광고를 끌 수 있으며, 자세한 내용은 https://policies.google.com/technologies/ads 에서 확인할 수 있습니다. 광고 제거를 구매하면 광고가 표시되지 않습니다."),
-            ("결제", "광고 제거는 Google Play 결제로 처리됩니다. Next Studio는 카드 정보 등 결제 수단 정보를 받지 않으며, 앱은 구매 여부만 확인합니다."),
-            ("삭제", "앱을 삭제하거나 기기의 앱 데이터를 지우면 기기에 저장된 정보가 삭제됩니다. 운영체제의 백업·복원 정책의 영향을 받을 수 있습니다. 계정이 없으므로 별도의 계정 삭제 절차는 없습니다."),
+            ("결제", "광고 제거는 Google Play 결제로 처리됩니다. Next Studio는 카드 정보 등 결제 수단 정보를 받지 않습니다. 구매가 유효한지 확인하고 환불을 반영하기 위해 서버가 Google Play에 구매를 조회하며, 구매 토큰의 해시값과 구매 상태(유효/환불)를 보관합니다."),
+            ("Google 로그인(선택)", "설정에서 Google로 로그인하면 광고 제거 구매를 다른 기기에서도 유지할 수 있습니다. 로그인 시 Google 계정의 이메일 주소와 계정 식별자를 인증 서비스(Supabase)에 저장하고, 구매 기록을 이 계정에 연결합니다. 로그인하지 않아도 게임과 구매는 그대로 사용할 수 있습니다. 광고 제거 구매 상태 외에 게임 진행 정보는 계정에 저장하지 않습니다."),
+            ("삭제", "앱 설정의 '계정 삭제' 또는 계정 삭제 안내 페이지의 방법으로 계정에 연결된 구매 기록을 삭제할 수 있습니다. 삭제해도 Google Play의 구매 내역은 유지되며 '구매 복원'으로 광고 제거를 되살릴 수 있습니다. 앱을 삭제하거나 기기의 앱 데이터를 지우면 기기에 저장된 정보가 삭제됩니다. 법령상 보존 의무가 있는 경우를 제외하고 요청 후 지체 없이 삭제합니다."),
             ("아동 및 변경", "이 게임은 만 13세 미만 아동을 대상으로 하지 않으며 아동의 개인정보를 고의로 수집하지 않습니다. 방침이 변경되면 이 페이지의 시행일을 갱신합니다."),
         ],
         "support_title": "Prism Block Puzzle 도움말 및 지원", "support_intro": "게임 중 문제가 있다면 아래 내용을 확인하거나 이메일로 문의해 주세요.",
         "support": [
             ("게임 방법", "하단의 블록을 보드로 끌어 놓으세요. 가로 또는 세로 한 줄이 모두 채워지면 줄이 사라집니다. 연속으로 줄을 지우면 콤보 보너스를 받고, 놓을 곳이 없으면 게임이 끝납니다. 설정에서 게임 방법을 다시 볼 수 있습니다."),
-            ("광고 제거 구매·복원", "설정에서 광고 제거를 구매할 수 있습니다. 기기를 바꾸거나 앱을 다시 설치했다면 구매한 Google 계정으로 로그인한 뒤 설정의 구매 복원을 누르세요."),
+            ("광고 제거 구매·복원", "설정에서 광고 제거를 구매할 수 있습니다. 새 기기에서는 '구매 복원'을 누르거나 Google 로그인(선택)을 하면 자동으로 되살아납니다. 환불된 구매는 광고 제거가 해제됩니다."),
             ("진행 상황", "진행 상황은 기기에 자동 저장되며 다른 기기로 옮겨지지 않습니다."),
             ("문의할 때", "기기 모델, Android 버전, 앱 버전과 문제를 재현하는 순서를 적어 보내 주세요."),
+        ],
+        "delete_account_title": "Prism Block Puzzle 계정 삭제 안내", "delete_account_intro": "Google 로그인(선택)을 사용한 경우, 아래 방법으로 이 게임의 계정 정보를 삭제할 수 있습니다.",
+        "delete_account": [
+            ("앱에서 삭제", "앱 설정 > 계정 삭제를 선택하고 확인하면 이 게임에서 계정에 연결된 구매 기록 연결이 즉시 삭제되고 로그아웃됩니다."),
+            ("삭제되는 정보", "계정과 연결된 광고 제거 구매 기록의 연결 정보가 삭제됩니다. 게임 점수와 진행 상황은 계정에 저장되지 않으며 기기에만 있습니다."),
+            ("유지되는 정보", "Google Play의 구매 내역은 Google이 보관합니다. 삭제 후에도 \'구매 복원\'으로 광고 제거를 되살릴 수 있습니다. 구매 토큰의 해시와 환불 여부는 부정 사용 방지를 위해 계정과 분리된 상태로 남습니다."),
+            ("앱을 사용할 수 없는 경우", "앱에 접근할 수 없다면 가입한 Google 계정 이메일로 아래 주소에 \'계정 삭제 요청\'을 보내 주세요. 본인 확인 후 지체 없이 처리합니다."),
         ],
         "contact": "문의", "skip": "본문으로 이동", "choose": "언어 선택", "copyright": "© 2026 Next Studio · 넥스트 스튜디오",
     },
     "en": {
-        "label": "English", "html": "en", "nav": ["Overview", "Privacy", "Support"],
+        "label": "English", "html": "en", "nav": ["Overview", "Privacy", "Support", "Delete account"],
         "tag": "Drag blocks, clear lines, chain combos",
         "intro": "Prism Block Puzzle is an 8x8 puzzle: drag three blocks onto the board and fill rows or columns to clear them.",
         "features": ["Multi-line clears and combo bonuses", "Auto-save and offline play", "Separate sound, music and vibration settings"],
         "offline": "No account needed. Your progress stays on your device. Removing ads is a one-time purchase.",
         "privacy_title": "Prism Block Puzzle Privacy Policy", "date": "Effective November 14, 2026",
-        "privacy_intro": "Prism Block Puzzle is a block puzzle game provided by Next Studio. It works without an account and keeps game progress on your device.",
+        "privacy_intro": "Prism Block Puzzle is a block puzzle game provided by Next Studio. It works without an account, and Google sign-in is optional. Game progress stays on your device.",
         "privacy": [
-            ("Information stored on your device", "Your score, best score, game in progress, sound, music and vibration settings, whether you have seen the tutorial, and your ad-removal purchase state are stored only on your device. Next Studio does not send this information to a server."),
+            ("Information stored on your device", "Your score, best score, game in progress, sound, music and vibration settings, whether you have seen the tutorial, and your ad-removal purchase state are stored on your device. Your score and game in progress are not sent to a server."),
             ("Advertising", "The app shows ads from Google AdMob. AdMob may collect the advertising ID, IP address, device information, and app usage and diagnostics data to deliver and measure ads and prevent fraud. You can reset your advertising ID or opt out of personalized ads in Android settings; see https://policies.google.com/technologies/ads. If you purchase ad removal, ads are no longer shown."),
-            ("Purchases", "Ad removal is processed by Google Play. Next Studio does not receive your payment details; the app only checks whether the purchase was made."),
-            ("Deletion", "Uninstalling the app or clearing its data in device settings removes the information stored on your device, subject to system backup and restore behavior. There is no account, so there is no separate account-deletion process."),
+            ("Purchases", "Ad removal is processed by Google Play. Next Studio does not receive your payment details. To confirm the purchase is valid and to apply refunds, our server checks it with Google Play and keeps a hash of the purchase token and its state (valid or refunded)."),
+            ("Google sign-in (optional)", "If you sign in with Google in Settings, your Remove Ads purchase can follow you to other devices. Signing in stores your Google account email address and account identifier with our authentication service (Supabase) and links your purchase record to that account. You can play and buy without signing in. Apart from the ad-removal purchase state, game progress is not stored with the account."),
+            ("Deletion", "You can delete the purchase records linked to your account with Delete account in the app's Settings, or with the steps on the account deletion page. Your Google Play purchase history is kept by Google, and Restore purchase brings Remove Ads back. Uninstalling the app or clearing its data removes the information stored on your device. We delete data without undue delay after a request unless the law requires us to keep it."),
             ("Children and changes", "This game is not directed to children under 13 and does not knowingly collect children's personal information. If this policy changes, the effective date on this page will be updated."),
         ],
         "support_title": "Prism Block Puzzle Help & Support", "support_intro": "Review these tips or email us if you need help.",
         "support": [
             ("How to play", "Drag the blocks at the bottom onto the board. A completely filled row or column disappears. Clear lines back to back for combo bonuses; when no block fits, the game ends. You can replay the tutorial from Settings."),
-            ("Remove ads: purchase and restore", "You can buy Remove Ads in Settings. If you changed devices or reinstalled, sign in with the Google account that made the purchase and tap Restore purchase in Settings."),
+            ("Remove ads: purchase and restore", "You can buy Remove Ads in Settings. On a new device, tap Restore purchase, or sign in with Google (optional) to get it back automatically. Refunded purchases stop removing ads."),
             ("Progress", "Progress is saved automatically on your device and does not transfer to other devices."),
             ("When contacting us", "Include your device model, Android version, app version and steps to reproduce the issue."),
+        ],
+        "delete_account_title": "Prism Block Puzzle Account Deletion", "delete_account_intro": "If you used the optional Google sign-in, you can delete this game's account data as described below.",
+        "delete_account": [
+            ("Delete in the app", "Open Settings > Delete account and confirm. The link between your account and your purchase record is removed immediately and you are signed out."),
+            ("What is deleted", "The link between your account and your Remove Ads purchase record. Scores and progress are not stored with the account; they exist only on your device."),
+            ("What is kept", "Google keeps your Google Play purchase history. After deleting, Restore purchase brings Remove Ads back. A hash of the purchase token and its refund state remain, separate from your account, to prevent abuse."),
+            ("If you cannot open the app", "Email us at the address below with the subject \'Delete account\' from the Google account you signed in with. We process it without undue delay after verifying it is you."),
         ],
         "contact": "Contact", "skip": "Skip to content", "choose": "Choose language", "copyright": "© 2026 Next Studio",
     },
@@ -60,7 +76,7 @@ LANGUAGES = {
 
 STYLE = """:root{--bg:#eef2ff;--card:#fff;--ink:#101a40;--muted:#5b6490;--green:#2a49c9;--soft:#dfe6ff;--line:#cfd7f5}*{box-sizing:border-box}body{margin:0;background:radial-gradient(circle at 90% 0,#d5defb 0,transparent 32rem),var(--bg);color:var(--ink);font:16px/1.65 system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif}a{color:var(--green)}main{max-width:980px;margin:auto;padding:22px 18px 64px}.skip{position:absolute;left:-9999px}.skip:focus{left:12px;top:12px;background:#fff;padding:10px;z-index:5}.top{display:flex;align-items:center;justify-content:space-between;gap:16px}.brand{display:flex;align-items:center;gap:10px;color:var(--ink);font-weight:900;letter-spacing:.04em;text-decoration:none}.brand img{border-radius:11px}.language{font:inherit;color:var(--ink);background:var(--card);border:1px solid var(--line);border-radius:12px;padding:9px 30px 9px 11px}nav{display:flex;gap:18px;flex-wrap:wrap;margin:24px 0}nav a{font-weight:700;text-decoration:none}nav a[aria-current=page]{text-decoration:underline;text-underline-offset:6px}article{background:var(--card);border:1px solid var(--line);border-radius:28px;padding:clamp(24px,6vw,58px);box-shadow:0 24px 60px #233d2c12}h1{font-size:clamp(2.25rem,6vw,4.2rem);line-height:1.05;letter-spacing:-.045em;margin:.15em 0 .35em}h2{font-size:1.25rem;margin:2em 0 .35em}.lead{font-size:1.15rem;max-width:42rem}.date,.muted{color:var(--muted)}.features{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;padding:0;margin:34px 0;list-style:none}.features li{background:var(--soft);border-radius:18px;padding:20px;font-weight:700}.cards{display:grid;grid-template-columns:repeat(2,1fr);gap:14px;margin-top:32px}.card{border:1px solid var(--line);border-radius:16px;padding:18px;text-decoration:none;font-weight:800}.contact{margin-top:40px;background:var(--soft);border-radius:18px;padding:20px}footer{text-align:center;color:var(--muted);margin-top:30px}.languages{display:flex;flex-wrap:wrap;gap:12px}@media(max-width:680px){main{padding:16px 12px 42px}.features,.cards{grid-template-columns:1fr}article{border-radius:20px;padding:26px 19px}}"""
 
-KINDS = ("index", "privacy", "support")
+KINDS = ("index", "privacy", "support", "delete-account")
 
 
 def nav(data, current):
@@ -81,10 +97,11 @@ def page(code, kind, data):
         title = "Prism Block Puzzle"
         content = f'<p class="muted">BLOCK · PUZZLE · COMBO</p><h1>{esc(data["tag"])}</h1><p class="lead">{esc(data["intro"])}</p><ul class="features">' + "".join(f'<li>{esc(item)}</li>' for item in data["features"]) + f'</ul><p class="lead">{esc(data["offline"])}</p><div class="cards"><a class="card" href="privacy.html">{esc(data["nav"][1])} →</a><a class="card" href="support.html">{esc(data["nav"][2])} →</a></div>'
     else:
-        title = data[f"{kind}_title"]
-        content = f'<h1>{esc(title)}</h1><p class="date">{esc(data["date"])}</p><p class="lead">{esc(data[f"{kind}_intro"])}</p>'
-        content += "".join(f'<section><h2>{i}. {esc(heading)}</h2><p>{esc(text)}</p></section>' for i, (heading, text) in enumerate(data[kind], 1))
-        subject = "PrismBlockPuzzle%20Privacy" if kind == "privacy" else "PrismBlockPuzzle%20Support"
+        key = kind.replace("-", "_")
+        title = data[f"{key}_title"]
+        content = f'<h1>{esc(title)}</h1><p class="date">{esc(data["date"])}</p><p class="lead">{esc(data[f"{key}_intro"])}</p>'
+        content += "".join(f'<section><h2>{i}. {esc(heading)}</h2><p>{esc(text)}</p></section>' for i, (heading, text) in enumerate(data[key], 1))
+        subject = {"privacy": "PrismBlockPuzzle%20Privacy", "support": "PrismBlockPuzzle%20Support"}.get(kind, "PrismBlockPuzzle%20Delete%20account")
         content += f'<aside class="contact"><h2>{esc(data["contact"])}</h2><p>Next Studio · 넥스트 스튜디오<br><a href="mailto:{EMAIL}?subject={subject}">{EMAIL}</a></p></aside>'
     return f'''<!doctype html>
 <html lang="{data['html']}"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
