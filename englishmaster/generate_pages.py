@@ -120,6 +120,9 @@ LANGUAGES = {
     },
 }
 
+from extra_languages import build as _build_extra
+LANGUAGES.update(_build_extra(EMAIL))
+
 
 def nav(data, current):
     return "".join(
